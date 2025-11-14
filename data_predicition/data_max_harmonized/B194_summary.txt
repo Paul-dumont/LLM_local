@@ -1,0 +1,46 @@
+patient_id: B194
+maximum_opening_without_pain: 15mm
+patient_age: 27
+maximum_opening: 47mm
+pain_relieving_factors: unknown
+diet_score: 0
+pain_duration: unknown
+disability_rating: 2
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | bruxism | anterior open bite
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: other
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: mild | moderate | severe
+migraine_history: unknown
+headache_location: throughout head
+current_appliance: unknown
+average_daily_pain_intensity: 6
+headache_intensity: 6
+autoimmune_condition: unknown
+pain_onset_date: 20 years of age
+jaw_crepitus: unknown
+tmj_pain_rating: 6
+sleep_disorder_type: unknown
+current_medications: yasmin | flonase | multivitamins | calcium | magnesium | zinc | flax oil supplement
+disc_displacement: right disc dislocation | left disc dislocation
+muscle_pain_location: masseter | shoulders | neck | styloid | temporalis | scm
+joint_arthritis_location: left TMJ | right TMJ
+appliance_history: splint | orthodontics
+joint_pain_areas: left and right TMJ

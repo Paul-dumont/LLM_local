@@ -1,0 +1,46 @@
+patient_id: B199
+maximum_opening_without_pain: 28mm
+patient_age: 25
+maximum_opening: 46mm
+pain_relieving_factors: unknown
+diet_score: 5
+pain_duration: unknown
+disability_rating: 8
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite
+physical_therapy_status: physical therapy | chiropratic
+earache_present: true
+onset_triggers: other
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: constant
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: right TMJ
+previous_medications: vicodin
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: throughout head
+current_appliance: splint
+average_daily_pain_intensity: 8
+headache_intensity: 8
+autoimmune_condition: unknown
+pain_onset_date: 10 years of age
+jaw_crepitus: unknown
+tmj_pain_rating: 7
+sleep_disorder_type: unknown
+current_medications: motrin
+disc_displacement: left disc dislocation | right disc dislocation | without reduction
+muscle_pain_location: neck
+joint_arthritis_location: left TMJ | right TMJ
+appliance_history: splint
+joint_pain_areas: left and right TMJ | knees | hips | ankles | neck
