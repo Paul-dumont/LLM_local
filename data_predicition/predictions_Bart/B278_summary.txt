@@ -1,0 +1,24 @@
+patient_id: B278
+patient_age: 19
+mold_adverse_reactions: True
+current_medications: Yasmin | Glucophage 
+appliance_history: orthodontic appliances on for the third time this year
+pain_aggravating_factors: anterior open bite
+sleep_disorder_type: sleep apnea
+----------------------------------------------------------------------------------------------------
+patient_id: B278
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+maximum_opening: 55mm
+muscle_pain_score: moderate to high moderate 
+joint_arthritis_location: left TMJ | right T&A done when she was in the fourth grade
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B278
+pain_aggravating_factors: anterior open bite
+disc_displacement: left disc medial displacement | right disc dislocation 
+joint_pain_areas: TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B278
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocated particularly at the lateral aspect of the joint but with reduction | right disc anteriorly displaced with reduction

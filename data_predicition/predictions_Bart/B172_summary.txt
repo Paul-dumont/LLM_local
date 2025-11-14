@@ -1,0 +1,21 @@
+patient_id: B172
+patient_age: 42
+pain_onset_date: 22 years old
+joint_pain_areas: right TMJ | left TMJ
+jaw_locking: True
+current_medications: Norco 
+previous_appliance: bite splint for 4 to 5 years
+headache_intensity: 0
+tmj_painrating: 5, average daily pain at 1, jaw function at 7, diet at 0, disability at 1
+earache_present: False
+tinnitus_present
+----------------------------------------------------------------------------------------------------
+patient_id: B172
+joint_arthritis_location: right TMJ
+disc_displacement: right disc anterior displacement | left disc dislocation 
+airway_obstruction_present: True
+pain_aggravating_factors: left posterior crossbite tendency | snoring
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ
+disc_displacement: left disc anteromedial displacement with early reduction | right disc anteriorly displaced with early dislocation 
+patient_id: B5

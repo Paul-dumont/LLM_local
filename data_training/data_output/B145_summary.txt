@@ -1,0 +1,16 @@
+patient_id: B145
+patient_age: 20
+current_medications: none
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence
+headache_intensity: 0
+appliance_history: expander at 7 years of age | orthodontics from 13 to 16
+----------------------------------------------------------------------------------------------------
+patient_id: B145
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B145
+disc_displacement: left disc medial displacement
+----------------------------------------------------------------------------------------------------
+disc_displacement: right disc medial displacement with reduction | left disc anterior and medial displacement with reduction
+joint_arthritis_location: left TMJ | right TMJ

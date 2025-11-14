@@ -1,0 +1,18 @@
+patient_id: B454
+patient_age: 21
+pain_onset_date: 12 to 13 years of age
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics from about the age of 8 through 17 with about 7 to 8 years total of orthodonics
+current_medications: Doxycycline | Zoloft | Benadryl | Aviane 
+earache
+----------------------------------------------------------------------------------------------------
+patient_id: B454
+current_appliance: 2 x 2 retainer in the maxillary arch | 3 x 3 retainer for lower arch
+pain_aggravating_factors: anterior open bite
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B454
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and lateral displacement without reduction | right disc anterior dislocation without reduction 
+patient_age: 45

@@ -1,0 +1,31 @@
+patient_id: B227
+patient_age: 42
+current_medications: none
+adverse_reactions: pollens | grasses | things like that
+pain_onset_date: 9 years of age
+appliance_history: orthodontics at the age of 9 | appliance at 22 | ortho at 33 for a year
+jaw_clicking: right TMJ
+earache_present: True
+tinnitus_present
+----------------------------------------------------------------------------------------------------
+patient_id: B227
+muscle_tenderness_present: True
+joint_pain_areas: right styloid 
+jaw_crepitus: right TMJ
+maximum_opening: 35mm
+maximum _opening_without_pain: 45mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc dislocation | right disc displacement 
+jaw_crepitus: left posterior cross fracture | right posterior cross rotational displacement
+tmj_pain_rating: severe
+headache_intensity: present
+earache_present: True
+tinnitus_present%: True
+vertigo_present : True
+hearing_loss_score: present
+----------------------------------------------------------------------------------------------------
+patient_id: B227
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc dislocation | right disc anteriorly displaced and with perforations
+patient_age: 22

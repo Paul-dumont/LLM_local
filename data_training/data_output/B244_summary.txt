@@ -1,0 +1,38 @@
+patient_id: B244
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction
+patient_age: 45
+current_medications: amerge | Yasmin
+pain_onset_date: 4 years ago
+onset_triggers: unknown
+joint_pain_areas: Jaw joints | shoulders | elbows | right wrist | right hip | ankles
+headache_intensity: severe
+pain_aggravating_factors: clenching | bruxism
+appliance_history: 7 to 8 splints since 4 years ago
+physical_therapy_status: physical therapy at least twice
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: False
+jaw_locking: True
+adverse_reactions: penicillin
+tmj_pain_rating: severe
+----------------------------------------------------------------------------------------------------
+patient_id: B244
+airway_obstruction_present: False
+muscle_pain_location: shoulders
+muscle_pain_score: high moderate
+maximum_opening: 44mm
+maximum_opening_without_pain: 30mm
+jaw_crepitus: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ | shoulders
+pain_aggravating_factors: clenching | bruxism
+tmj_pain_rating: severe
+headache_intensity: severe
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+jaw_locking: True
+----------------------------------------------------------------------------------------------------
+NoInfo

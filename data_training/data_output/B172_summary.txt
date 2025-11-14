@@ -1,0 +1,35 @@
+patient_id: B172
+patient_age: 42
+pain_onset_date: 22 years of age
+onset_triggers: chiropractic manipulation of jaw
+joint_pain_areas: right TMJ | left TMJ | right shoulder | right foot
+current_medications: Norco
+appliance_history: bite splint 4 to 5 years ago
+headache_intensity: 0
+tmj_pain_rating: 5
+average_daily_pain_intensity: 1
+jaw_function_score: 7
+diet_score: 0
+disability_rating: 1
+pain_relieving_factors: limiting use of jaws
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+pain_aggravating_factors: clenching | bruxism
+airway_obstruction_present: False
+muscle_tenderness_present: True
+muscle_pain_location: head | neck
+neck_pain_present: True
+jaw_crepitus: left TMJ | right TMJ
+maximum_opening: 44mm
+----------------------------------------------------------------------------------------------------
+patient_id: B172
+joint_arthritis_location: right TMJ 
+airway_obstruction_present: True
+disc_displacement: right disc dislocation | left disc medial and anterior dislocation
+pain_aggravating_factors: left posterior crossbite tendency
+joint_pain_areas: left TMJ | right TMJ
+sleep_disorder_type: snoring
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ 
+disc_displacement: right disc medial and anterior displacement | left disc medial and anterior dislocation with early reduction

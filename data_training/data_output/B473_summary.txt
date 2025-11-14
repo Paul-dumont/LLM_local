@@ -1,0 +1,46 @@
+patient_id: B473
+patient_age: 32
+pain_onset_date: 15 
+onset_triggers: unknown 
+jaw_clicking: left TMJ | right TMJ | neck | shoulder
+jaw_locking: True
+joint_pain_areas: left TMJ | right TMJ
+tmj_pain_rating: 9
+headache_intensity: 5
+headache_location: behind the left eye | back of the head
+neck_pain_present: neck 
+pain_aggravating_factors: bruxism
+tinnitus_present: True
+vertigo_present: True
+average_daily_pain_intensity: 7
+jaw_function_score: 1
+diet_score: 2
+disability_rating: 5 to 6
+current_medications: Advil | Vicodin 
+appliance_history: Splint in 28 years ago | Splint 14-16 years ago | Splint in 17 years ago | Splint therapy 2-3 years ago
+physical_therapy_status: Biofeedback 2 years ago | Physical therapy 2 years ago | Chiropractic treatment from 8 years ago | injection therapy including Botox and lidocaine in around 4 to 3 years ago
+current_appliance: Splint from last year until present
+pain_frequency: worse usually in the afternoons | wakes up with pain
+pain_aggravating_factors: anterior open bite
+muscle_pain_score: moderate 
+muscle_pain_location: masseters | styloid areas | shoulders | temporalis | SCMs | posterior neck area
+jaw_crepitus: left TMJ | right TMJ
+sleep_disorder_type: daytime somnolence
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+joint_pain_areas: TMJ
+headache_intensity: Severe 
+tmj_pain_rating: Severe 
+autoimmune_condition: Possible connective tissue autoimmune disease
+patient_id: B473
+disc_displacement: left disc anteriorly displaced | right disc anteriorly displaced
+----------------------------------------------------------------------------------------------------
+patient_id: B473
+patient_age: 32
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc  anteriorly displaced with severe deformation and nonreducing | right disc anteromedially displaced with reduction
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly dislocation without reduction | right disc anteriorly dislocated with reduction

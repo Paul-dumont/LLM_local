@@ -1,0 +1,26 @@
+patient_id: B090
+patient_age: 40
+pain_onset_date: 20 years ago
+tmj_pain_rating: 6
+average_daily_pain_intensity: 6
+jaw_function_score: 4
+diet_score: 2
+disability_rating: 3
+headache_intensity: none
+joint_pain_areas: right TMJ | left TMJ | fingers | knees | elbows
+muscle_pain_location: right masseter | left SCM | posterior neck
+current_medications: Advil | Tylenol
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+pain_aggravating_factors: grinding in the past, not anymore currently
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: right disc medial and anterior displacement | left disc medial and anterior displacement
+joint_pain_areas: right TMJ | left TMJ
+headache_intensity: present
+headache_frequency: occasional
+muscle_pain_location: right masseter | left SCM | left posterior neck
+patient_id: B090
+patient_age: 40

@@ -1,0 +1,27 @@
+patient_id: B081
+patient_age: 16
+adverse_reactions: Ceclor
+current_medications: none
+appliance_history: maxillary expander 2 years ago
+headache_intensity: 0
+tmj_pain_rating: 0
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False 
+pain_aggravating_factors: anterior open bite | left posterior crossbite | right posterior crossbite
+airway_obstruction_present: True
+maximum_opening: 56mm
+current_appliance: 2x2 retainer in the upper arch
+----------------------------------------------------------------------------------------------------
+patient_id: B081
+----------------------------------------------------------------------------------------------------
+current_appliance: 2x2 retainer in the upper arch
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite
+patient_id: B081
+patient_age: 17
+disc_displacement: Right TMJ disc medial and anterior displacement | left TMJ disc anterior displacement with early reduction
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: Right disc anteromedial displacement with reduction | left disc anteromedial displacement with reduction

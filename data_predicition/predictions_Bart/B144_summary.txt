@@ -1,0 +1,26 @@
+patient_id: B144
+patient_age: 48
+jaw_clicking: left TMJ | right TMJ
+onset_triggers: fell off bike and landed on chin at 5 years of age
+headache_intensity: 0
+tmj_pain_rating: 6 to 7
+pain_aggravating_factors: daytime and nighttime splint
+appliance_history: orthodontics after total hysterectomy
+----------------------------------------------------------------------------------------------------
+patient_id: B144
+current_appliance: retainer in place
+pain_aggravating_factors: posterior open bite
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea
+jaw_clicking: left TMJ
+maximum_opening: 52mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B144
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc displacement with early reduction | right disc displacement without early reduction 
+pain_aggravating_factors: posterior open bite
+sleep_disorder_type: sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B144
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement with very early reduction | right disc anterior displacement with early reduction

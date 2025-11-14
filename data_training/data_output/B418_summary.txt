@@ -1,0 +1,45 @@
+patient_id: B418
+patient_age: 19
+pain_onset_date: 15 years old
+onset_triggers: unknown 
+appliance_history: what sounds like a night guard 2 years ago
+current_appliance: TMJ splint this year
+pain_relieving_factors: TMJ splint
+physical_therapy_status: chiropractic treatment including adjustment | ultrasound treatment
+headache_intensity: 5
+headache_location: temporal | posterior head
+tmj_pain_rating: 6
+average_daily_pain_intensity: 5
+jaw_function_score: 6
+diet_score: 7
+disability_rating: 6
+current_medications: Advil 
+earache_present: False
+tinnitus_present: False
+vertigo_present: True
+hearing_loss_present: False
+joint_pain_areas: back
+back_pain_present: True
+adverse_reactions: AMOXICILLIN | SULFA
+pain_aggravating_factors: clenching
+sleep_disorder_type: daytime somnolence
+airway_obstruction_present: True
+muscle_tenderness_present: True
+muscle_pain_score: moderate
+muscle_pain_location: left masseter
+joint_pain_areas: left TMJ
+maximum_opening: 35mm
+maximum_opening_without_pain: 27mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite tendency 
+patient_id: B418
+airway_obstruction_present: True
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B418
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly and perhaps laterally displaced | right disc anteriorly displaced 
+
+

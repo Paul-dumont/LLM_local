@@ -1,0 +1,40 @@
+patient_id: B342
+patient_age: 48 
+current_medications: Synthroid | Prefest | Aciphex
+headache_intensity: present
+joint_pain_areas: TMJ
+earache_present: False 
+tinnitus_present: False 
+vertigo_present: False 
+hearing_loss_present: False 
+joint_pain_areas: left shoulder | right hip | neck
+neck_pain_present: True
+pain_onset_date: 20 years ago
+onset_triggers: MVA 
+pain_aggravating_factors: clenching
+appliance_history: orthodontics for past two years
+current_appliance: splint  for past 7 months
+physical_therapy_status: chiropractic treatment for 23 years but for the last 2 years primary focus was on the TMJs
+average_daily_pain_intensity: 5
+jaw_function_score: 5
+diet_score: 6
+disability_rating: 3
+----------------------------------------------------------------------------------------------------
+patient_id: B342
+maximum_opening: 45mm
+maximum_opening_without_pain: 30mm
+muscle_tenderness_present: False
+muscle_pain_score: moderate
+muscle_pain_location: right styloid | shoulders | left styloid
+pain_aggravating_factors: anterior open bite
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction 
+patient_id: B342
+joint_pain_areas: TMJ
+headache_intensity: present
+sleep_disorder_type: snoring | sleep disorder
+patient_age: 48 
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction 

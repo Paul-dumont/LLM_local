@@ -1,0 +1,25 @@
+patient_id: B237
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior and medial dislocation 
+patient_age: 28
+current_medications: Lortab 10 | Elavil | Depakote | cleocin 
+adverse_reactions: CLEOCIN
+----------------------------------------------------------------------------------------------------
+patient_id: B237
+headache_intensity: 6 to 10 
+earache_present: False 
+tinnitus_present : True 
+vertigo_diagnosed: False
+hearing_loss_score: 0
+joint_pain_areas: left wrist | knees 
+pain_onset_date: five years ago
+onsets_triggers: motorcycle accident where he had a concussion and was knocked out
+physical_therapy_status: acupuncture x six treatments | biofeedback x 30 treatments | chiropractic treatment | massage therapy | exercise | bite splint for one year
+current_medications: Wellbutrin | Toradol | Paxil | beta blockers | Elavil | Depakote
+----------------------------------------------------------------------------------------------------
+muscle_pain_score: moderate to mild
+muscle-pain_location: temporalis | styloid areas | SCMs | posterior neck | shoulders | masseter 
+jaw_clicking: right TMJ
+disc_displacement: left disc displacement with reduction | right disc dislocation with reduction 
+headache_intensity: severe
+joint_arthritis_present: left TMJ | Right TMJ

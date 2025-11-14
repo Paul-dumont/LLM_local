@@ -1,0 +1,41 @@
+patient_id: B276  
+patient_age: 49
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc  anterior displacement without reduction | right disc anterior displacement without reduction
+pain_onset_date: about 16 or even maybe slightly later in her teens years
+onset_triggers: unknown 
+jaw_clicking: joints 
+sleep_apnea_diagnosed: True
+sleep_disorder_type: sleep apnea
+cpap_used: True 
+muscle_tenderness_present: True
+----------------------------------------------------------------------------------------------------
+headache_intensity: 4
+headache_location: left frontal | left temporal | right frontal | right temporal
+tmj_pain_rating: 5
+average_daily_pain_intensity: 7
+jaw_function_score: 8
+diet_score: 7
+disability_rating: 8
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: True
+joint_pain_areas: toes
+pain_aggravating_factors: nerve pain
+airway_obstruction_present: False
+sleep_disorder_type: daytime somnolence
+muscle_pain_score: moderate 
+muscle_pain_location: temporalis | masseter | retromandibular areas | shoulders
+jaw_crepitus: left TMJ 
+maximum_opening: 44mm
+maximum_opening_without_pain: 30mm
+----------------------------------------------------------------------------------------------------
+patient_id: B276 
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+headache_intensity: present
+joint_pain_areas: TMJ
+
+
+

@@ -1,0 +1,39 @@
+patient_id: B433
+patient_age: 36
+adverse_reactions: TETRACYCLINE 
+pain_onset_date: 18 years old
+depression_history: True
+onsets_triggers: stress
+physical_therapy_status: splint therapy | TENS treatment | physical therapy | yoga | massage therapy | stress reduction classes | Rolfing treatments
+current_medications: Advil | Restoril 
+earache_present: False
+tinnitus
+----------------------------------------------------------------------------------------------------
+patient_id: B433
+pain_aggravating_factors: anterior open bite
+sleep_disorder_type: snoring | tired during the day
+muscle_pain_location: temporalis | styloid areas | posterior neck | masseter | SCMs | shoulders 
+muscular_tenderness_present: True
+maximum_opening: 38mm
+jaw_crepitus: 21mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+patient_id: B433
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+headache_intensity: Severe 
+tmj_pain_rating: severe 
+sleep_disorder_type: sleep disorder symptoms | snoring | daytime somnolence | sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B433
+joint_pain_areas: right shoulder
+headache_intensity: 0
+onset_triggers: two-year period around the age of 18 to 20 where she had many infections and perhaps as many as 10
+current_appliance: orthodontics
+pain_aggravating_factors: husband was cheating on her
+physical_therapy_status: thyroid checked
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocations 
+jaw_locking: True
+patient_id: B5

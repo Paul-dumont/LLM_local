@@ -1,0 +1,40 @@
+patient_id: B208
+patient_age: 43
+pain_onset_date: since 20 years old
+appliance_history: orthodontics as a child | splint | orthodontics from 23 for 1 year
+jaw_locking: True
+current_appliance: splint 24/7 for the past 16 years
+current_medications: Zovia | Darvocet | Meprobamate 
+headache_intensity: 7
+headache_location: right frontal | temple
+tmj_pain_rating: 7
+average_daily_pain_intensity: 5
+jaw_function_score: 6
+diet_score: 3
+disability_rating: 6
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+joint_pain_areas: left knee | right ankle | right shoulder | wrists
+sleep_disorder_type: mild daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B208
+muscle_pain_location: right masseter | right retromandibular area | right shoulder
+joint_pain_areas: right TMJ
+muscle_pain_score: moderate to mild
+jaw_crepitus: right TMJ
+jaw_clicking: left TMJ
+maximum_opening: 43mm
+maximum_opening_without_pain: 32mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ 
+airway_obstruction_present: True
+patient_id: B208
+disc_displacement: left disc anterior and lateral displacement
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B208
+patient_age: 43
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and lateral displacement with reduction | right disc anterior displacement without reduction

@@ -1,0 +1,19 @@
+patient_id: B185
+patient_age: 39
+sleep_apnea_diagnosed: True
+appliance_history: orthodontics at age of 18 | orthodontics at age of 30 | Thornton appliance
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea
+current_medications: Clonazepam
+headache_intensity: 0
+tmj_pain_rating: 0
+earache_present: False
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: True
+airway_obstruction_present: False
+muscle_tenderness_present: False
+maximum_opening: 42mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+sleep_apnea_diagnosed: True
+sleep_disorder_type: sleep apnea

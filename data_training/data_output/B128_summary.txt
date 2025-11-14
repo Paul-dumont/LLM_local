@@ -1,0 +1,19 @@
+patient_id: B128
+patient_age: 22
+----------------------------------------------------------------------------------------------------
+patient_id: B128
+pain_aggravating_factors: anterior open bite
+jaw_clicking: right TMJ | left TMJ
+tmj_pain_rating: 0
+jaw_function_score: 1
+diet_score: 0
+disability_rating: 4
+appliance_history: orthodontics with expansion for 1 year and 9 months 
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B128
+pain_aggravating_factors: posterior buccal crossbite | anterior open bite
+disc_displacement: left disc dislocation with reduction
+----------------------------------------------------------------------------------------------------
+
+----------------------------------

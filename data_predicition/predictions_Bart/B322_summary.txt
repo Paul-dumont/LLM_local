@@ -1,0 +1,25 @@
+patient_id: B322
+patient_age: 30
+jaw_clicking: right TMJ
+headache_intensity: present
+joint_pain_areas: TMJ | neck | right wrist
+pain_onset_date: 12 years of age
+appliance_history: orthodontics done at the time, and ortho on for about 18 months
+current_medications: none
+earache_present: True
+tinnitus_present 
+vertigo_present
+hearing_loss_present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with very early reduction | right disc dislocated with significant deformation and degeneration 
+pain_aggravating_factors: anterior open bite | clenching | bruxism
+headache_intensity: present
+tmj_pain_rating: 0
+earache_present: True
+vertigo_present : True
+patient_id: B322
+----------------------------------------------------------------------------------------------------
+patient_id: B322
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with immediate reduction | right disc anterior and medial dislocation without reduction

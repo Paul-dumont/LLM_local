@@ -1,0 +1,43 @@
+patient_id: B099
+patient_age: 49
+sleep_apnea_diagnosed: True
+sleep_disorder_type: sleep apnea
+cpap_used: False
+appliance_history: CPAP stopped as it was intolerable
+jaw_clicking: left TMJ
+headache_intensity: Present
+current_medications: Levoxyl, Prozac, Vytorin
+onset_triggers: unknown
+tmj_pain_rating: 2
+average_daily_pain_intensity: 4
+jaw_function_score: 2
+diet_score: 0
+disability_rating: 0
+headache_intensity: 6
+headache_frequency: daily, in the morning and afternoon
+headache_location: left frontal | left temporal
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: False
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+patient_id: B099
+airway_obstruction_present: True
+cpap_used: False
+joint_pain_areas: left TMJ | right TMJ
+disc_displacement: left disc dislocation
+airway_obstruction_present: True
+sleep_apnea_diagnosed: True
+sleep_disorder_type: severe sleep apnea
+headache_intensity: present
+headache_location: left side
+pain_aggravating_factors: left posterior crossbite
+----------------------------------------------------------------------------------------------------
+patient_id: B099
+patient_age: 49
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteromedial displacement with reduction | right disc medial displacement with early reduction
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True

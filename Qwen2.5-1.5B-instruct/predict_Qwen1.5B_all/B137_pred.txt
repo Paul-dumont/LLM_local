@@ -1,0 +1,46 @@
+patient_id: B137
+maximum_opening_without_pain: 26mm
+patient_age: 37
+maximum_opening: 36mm
+pain_relieving_factors: unknown
+diet_score: 3
+pain_duration: unknown
+disability_rating: 6
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: false
+pain_aggravating_factors: unknown
+physical_therapy_status: physical therapy at ages 14, 29, and 30
+earache_present: true
+onset_triggers: orthodontic treatment
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: constant | worse after yawning fits
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: temporal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: 7
+headache_intensity: 5 | can escalate to 8.5 | present
+autoimmune_condition: psoriasis | ulcerative colitis | b12 deficiency
+pain_onset_date: 14 years old
+jaw_crepitus: unknown
+tmj_pain_rating: 1
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+current_medications: olux-e | tazorac
+disc_displacement: left disc medial displacement | right disc medial displacement | left disc dislocation | right disc dislocation
+muscle_pain_location: right retromandibular area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from ages 13 to 14 | orthodontics from ages 30 to 32 | splint therapy at age 14 | splint therapy from 29 to 30
+joint_pain_areas: elbows | neck | left tmj | right tmj

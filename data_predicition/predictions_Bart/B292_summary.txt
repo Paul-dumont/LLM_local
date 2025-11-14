@@ -1,0 +1,31 @@
+patient_id: B292
+patient_age: 44
+pain_onset_date: 5-9 years ago
+joint_pain_areas: left TMJ | right TMJ
+jaw_locking: True
+current_medications: Synthroid | vitamins | minerals
+sleep_disorder_type: daytime somnolence | clenching | bruxism | sleep apnea symptoms
+airway_obstruction_present: True 
+headache_intensity: 0
+tmj_
+----------------------------------------------------------------------------------------------------
+patient_id: B292
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+maximum_opening: 35mm 
+muscle_tenderness_score: 0
+neck_pain_location: none
+jaw_crepitus: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B292
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: rheumatoid arthritis
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea
+----------------------------------------------------------------------------------------------------
+patient_id: B292
+patient_age: 44
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc anterior and posterior displacement 
+autoimmune_condition: rheumatoid arthritis

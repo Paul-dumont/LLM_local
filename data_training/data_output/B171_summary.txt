@@ -1,0 +1,29 @@
+patient_id: B171
+patient_age: 18
+pain_onset_date: 17 years of age
+onset_triggers: after third molars extraction
+current_medications: sulfa methoxazole TMT
+headache_intensity: 5
+joint_pain_areas: left TMJ | right TMJ
+appliance_history: splint | orthodontics form 12 to 15
+headache_location: frontal | temporal | posterior head
+tmj_pain_rating: 10
+average_daily_pain_intensity: 9
+jaw_function_score: 9
+diet_score: 6
+disability_rating: 9
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+joint_pain_areas: knees | spine | feet
+muscle_pain_location: retromolar area | below ears | temporalis | masseter
+muscle_pain_score: severe to moderate
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 66mm
+----------------------------------------------------------------------------------------------------
+disc_displacement: right disc medial displacement | right disc medial displacement
+joint_pain_areas: left TMJ | right TMJ
+tmj_pain_rating: severe
+headache_intensity: severe
+patient_id: B171
+patient_age: 18

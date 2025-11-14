@@ -1,0 +1,46 @@
+patient_id: B264
+maximum_opening_without_pain: 42mm
+patient_age: 59
+maximum_opening: 45mm
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: yawning | trying to chew an apple or anything hard like that | resting her jaw on her hand on the left side
+physical_therapy_status: physical therapy p.r.n. since 20 years ago until recently
+earache_present: false
+onset_triggers: falling down about 14 basement stairs and hitting her head
+adverse_reactions: environmental allergies | ceclor | vancomycin | horse serum | fluorescein dye 10%
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: continuous splints since april of this year
+average_daily_pain_intensity: unknown
+headache_intensity: present
+autoimmune_condition: unknown
+pain_onset_date: age of 21
+jaw_crepitus: right tmj
+tmj_pain_rating: unknown
+sleep_disorder_type: sleep disorder
+current_medications: synthroid | protonix | zetia | corgard | soma | robaxin | vitamin e | darvocet | tylenol | ambien | amoxicillin | lidocaine cream | lidocaine gargle
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: right temporalis | left tmj | right styloid
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 15 to 10 years ago | splints for about 20 years
+joint_pain_areas: tmj |

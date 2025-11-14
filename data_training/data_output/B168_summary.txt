@@ -1,0 +1,77 @@
+patient_id: B168
+patient_age: 16
+headache_intensity: Present
+jaw_clicking: True
+sleep_disorder_type: snoring | daytime somnolence
+pain_aggravating_factors: anterior open bite 
+airway_obstruction_present: True
+jaw_crepitus: True
+disc_displacement: right disc anterior or medial displacement | left disc anterior or medial displacement
+muscle_pain_location: masseter | posterior neck | retromandibular area
+neck_pain_present: True
+muscle_pain_score: moderate to mild
+muscle_tenderness_present: True
+maximum_opening: 48mm
+appliance_history: BioBlock from 9 to 11 | NIT splint in 2009
+physical_therapy_status: physical therapy for lip closure at age 11
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+tmj_pain_rating: 0
+average_daily_pain_intensity: 7
+headache_frequency: daily
+headache_intensity: 7
+headache_location: temporal
+jaw_function_score: 2
+diet_score: 2
+disability_rating: 4
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B168
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial dislocation with reduction | right disc anterior and medial dislocation with reduction
+pain_aggravating_factors: anterior open bite
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B168
+patient_age: 16
+disc_displacement: left disc anterior and medial displacement with early reduction | right disc anterior and medial displacement with early reduction
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B168
+pain_aggravating_factors: anterior open bite 
+airway_obstruction_present: True
+jaw_crepitus: True
+disc_displacement: right disc anterior or medial displacement | left disc anterior or medial displacement
+muscle_pain_location: masseter | posterior neck | retromandibular area
+neck_pain_present: True
+muscle_pain_score: moderate to mild
+muscle_tenderness_present: True
+maximum_opening: 48mm
+appliance_history: BioBlock from 9 to 11 | NIT splint in 2009
+physical_therapy_status: physical therapy for lip closure at age 11
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+tmj_pain_rating: 0
+average_daily_pain_intensity: 7
+headache_frequency: daily
+headache_intensity: 7
+headache_location: temporal
+jaw_function_score: 2
+diet_score: 2
+disability_rating: 4
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B168
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial dislocation with reduction | right disc anterior and medial dislocation with reduction
+pain_aggravating_factors: anterior open bite
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B168
+patient_age: 16
+disc_displacement: left disc anterior and medial displacement with early reduction | right disc anterior and medial displacement with early reduction
+joint_arthritis_location: left TMJ | right TMJ

@@ -1,0 +1,46 @@
+patient_id: B324
+maximum_opening_without_pain: 20mm
+patient_age: 32
+maximum_opening: 34mm
+pain_relieving_factors: unknown
+diet_score: 5
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching | splint therapy
+physical_therapy_status: physical therapy | massage therapy | tens | ionophoresis
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: codeine | onions
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: daily
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: right tmj | left tmj
+previous_medications: unknown
+muscle_pain_score: high moderate
+migraine_history: true
+headache_location: frontal | temporal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: 7
+headache_intensity: 7 but can escalate to 10 | severe
+autoimmune_condition: unknown
+pain_onset_date: elementary school
+jaw_crepitus: unknown
+tmj_pain_rating: 6
+sleep_disorder_type: unknown
+current_medications: concerta | lexapro | antivert | advil | tylenol
+disc_displacement: left disc anterior displacement with reduction | right disc anterior displacement without reduction | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: temporalis | masseters | styloid areas | scms
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontic treatment from 7 to 10 years of age including palatal expansion and head gear | orthodontic treatment from 16 to 18 years of age | braces since 2 years ago
+joint_pain_areas: tmj | left tmj | right tmj | left ankle | right ankle | right elbow | knees | ankles

@@ -1,0 +1,21 @@
+patient_id: B483
+patient_age: 38
+jaw_clicking: left TMJ | right TMJ
+onset_triggers: unknown 
+appliance_history: splint for the past five months
+pain_relieving_factors: splints
+migraine_frequency: as long as she can remember
+headache_intensity: 7, tends to go down into her jaw area on that side
+tmj_pain_rating: 4
+average_
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with late reduction | right disc dislocations with loud audible pops 
+headache_intensity: present
+earache_present: True
+patient_id: B483
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anteriorly displaced without reduction 
+jaw_locking: True
+patient_id: B5

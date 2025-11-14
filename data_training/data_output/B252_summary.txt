@@ -1,0 +1,39 @@
+patient_id: B252 
+airway_obstruction_present: False
+----------------------------------------------------------------------------------------------------
+current_medications: Fexofenadine | Flonase | Slow Fe | Folic acid.
+patient_id: B252 
+maximum_opening: 32mm
+patient_age: 15
+pain_onset_date: 12 years of age
+onset_triggers: unknown
+appliance_history: orthodontics 4 years ago
+current_appliance: retainers
+tinnitus_present: True
+vertigo_present: True
+headache_frequency: every other day
+headache_location: frontal | temporal
+tmj_pain_rating: 0
+average_daily_pain_intensity: 1
+jaw_function_score: 2
+disability_rating: 0
+joint_pain_areas: knees | ankles
+----------------------------------------------------------------------------------------------------
+patient_id: B252 
+pain_aggravating_factors: open bite
+airway_obstruction_present: True
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: moderate
+muscle_tenderness_present: True
+maximum_opening: 60mm
+maximum_opening_without_pain: 45mm
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite
+patient_id: B252
+headache_intensity: present
+maximum opening: 38mm
+----------------------------------------------------------------------------------------------------
+patient_id: B252 
+patient_age: 15
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction

@@ -1,0 +1,18 @@
+patient_id: B105
+patient_age: 32
+joint_pain_areas: left TMJ | right TMJ
+jaw_locking: True
+headache_intensity: 0
+earache_present: False
+tinnitus_present : True
+vertigo_present at times: True 
+hearing_loss_score: False 
+current_medications: Yasmin | Synthroid | Claritin | Motrin
+muscle_tenderness_present on left masseters | right masseters
+maximum_opening: 40mm
+----------------------------------------------------------------------------------------------------
+patient_id: B105
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc partial displacement | right disc anterior displacement 
+tmj_pain_rating: present
+patient_age: 32

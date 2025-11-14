@@ -1,0 +1,41 @@
+patient_id: B383
+patient_age: 39
+joint_pain_areas: neck | hands | left TMJ | right TMJ | shoulder   
+pain_onset_date: two or three years ago
+onset_triggers: unknown 
+jaw_clicking: left TMJ | right TMJ
+headache_intensity: 4
+headache_frequency: in the morning | one or two times per week 
+pain_aggravating_factors: clenching 
+sleep_disorder_type: snoring | sleep apnea symptoms
+headache_location: frontal | temporal
+tmj_pain_rating: 5
+average_daily_pain_intensity: 3
+jaw_function_score: 4
+current_medications: Allegra | Rhinocort | Aqua
+adverse_reactions: SULFA
+----------------------------------------------------------------------------------------------------
+patient_id: B383
+airway_obstruction_present: True
+muscle_tenderness_present: True
+muscle_pain_score: mild 
+muscle_pain_location: posterior neck area | styloid area
+neck_pain_present: True
+joint_pain_areas: right TMJ
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 42mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction 
+joint_pain_areas: TMJ
+headache_intensity: present
+muscle_pain_location: styloid area
+airway_obstruction_present: True
+sleep_disorder_type: snoring
+----------------------------------------------------------------------------------------------------
+patient_id: B383
+joint_pain_areas: neck
+disc_displacement: left disc anterior displacement with reduction
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocation with early reduction 

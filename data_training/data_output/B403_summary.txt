@@ -1,0 +1,48 @@
+patient_id: B403 
+patient_age: 48
+current_medications: Ambien | Elavil | Flexeril 
+pain_onset_date: mid-80s
+jaw_clicking: left TMJ | right TMJ
+vertigo_present: True
+appliance_history: orthodontic treatment as a child from 31 to 35 years ago | orthodontics with removable appliances | splint therapy from approximately 17 to 22 years ago
+current_appliance: sagittal device to help open up some spacing | splint therapy since 11 years ago
+physical_therapy_status: myofunctional therapy for 6 month
+pain_relieving_factors: myofunctional therapy
+headache_intensity: 5
+headache_location: frontal | temporal 
+headache_frequency: 10 per week
+tmj_pain_rating: 5
+average_daily_pain_intensity: 5
+jaw_function_score: 3
+diet_score: 3
+disability_rating: 2
+earache_present: True
+tinnitus_present: True
+neck_pain_present: True
+back_pain_present: True
+muscle_pain_location: back | neck | elbow | thigh | TMJ
+pain_aggravating_factors: clenching | bruxism
+sleep_disorder_type: Chronic fatigue
+----------------------------------------------------------------------------------------------------
+patient_id: B403 
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+muscle_tenderness_present: True
+muscle_pain_score: moderate
+muscle_pain_location: masseter | styloid 
+joint_pain_areas: left TMJ | right TMJ
+maximum_opening: 45mm
+maximum_opening_without_pain: 30mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc dislocation 
+sleep_apnea_diagnosed: True
+sleep_disorder_type: Sleep apnea
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_id: B403 
+patient_age: 48
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medial displacement
+

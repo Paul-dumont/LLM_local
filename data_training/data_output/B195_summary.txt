@@ -1,0 +1,38 @@
+patient_id: B195
+patient_age: 42
+pain_onset_date: 3 years ago
+onset_triggers: ran into back of the car with face hitting the side of the steering wheel
+neck_pain_present: True
+physical_therapy_status: rehab therapy | chiropractor
+appliance_history: splint
+pain_relieving_factors: splint
+earache_present: False
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: C4-C5 | C5-C6 | TMJ
+headache_intensity: 5
+headache_frequency: frequent
+headache_location: frontal | temporal | posterior head
+migraine_history: True
+migraine_frequency: two times a month
+current_medications: Imitrex | testosterone | loomocaine topical anesthetic | Phenergan
+tmj_pain_rating: 3 to 8
+average_daily_pain_intensity: 3
+jaw_function_score: 7
+diet_score: 8
+disability_rating: 6
+adverse_reactions: pain medicines
+----------------------------------------------------------------------------------------------------
+joint_pain_areas: left TMJ | right TMJ | C4-C5 | C5-C6
+muscle_pain_location: temporalis | masseters | medial pteryoidgoids | styloids | SCMs
+muscle_pain_score: moderate to mild
+muscle_tenderness_present: True
+maximum_opening: 35mm
+maximum_opening_without_pain: 25mm
+airway_obstruction_present: False
+patient_id: B195
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+headache_intensity: present
+tinnitus_present: True

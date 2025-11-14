@@ -1,0 +1,23 @@
+patient_id: B155
+patient_age: 34
+pain_onset_date: age of 13 to 14 years
+earache_present: True
+tinnitus_present : True
+vertigo_present 
+joint_pain_areas: left TMJ | knees | back | fingers | left wrist | right wrist
+jaw_clicking: clenching
+current_medications: Naproxen | Hydrocodone | Tramadol | Methylprednisolone | Ibuprofen | Valium 
+headache_intensity: 7
+head
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B155
+disc_displacement: left disc anteriorly displaced | right disc anterior and lateral displacement 
+tmj_pain_rating: severe
+headache_intensity: present
+sleep_disorder_type: sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation without reduction | right disc anteriorly dislocated without reduction 
+jaw_locking: True

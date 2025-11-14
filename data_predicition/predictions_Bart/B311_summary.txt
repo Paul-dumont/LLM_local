@@ -1,0 +1,33 @@
+patient_id: B311
+patient_age: 33
+jaw_clicking: left TMJ | right TMJ
+pain_onset_date: 13 years old
+appliance_history: orthodontics from about the age of 12 or 13 | splint 4 years ago
+physical_therapy_status: electrical stimulation | injection | cream application | massage therapy
+current_medications: anti-inflammatory | muscle relaxant 
+headache_intensity: 9
+tmj_pain_rating:
+----------------------------------------------------------------------------------------------------
+patient_id: B311
+airway_obstruction_present: True
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea 
+muscle_pain_location: left TMJ | right styloid area
+joint_tenderness_areas: right TMJ
+musical_therapy_status: mild to mild
+jaw_clicking: left side about 30mm | right side about 10mm
+maximum_opening: 50mm
+maximal_opening_without_pain: 40mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with late reduction | right disc anterior and medial displacement
+airway_obstruction_present: True
+patient_id: B311
+sleep_disorder_type: snoring | sleep apnea symptoms
+tmj_pain_rating: TMJ 
+headache_intensity: present
+earache_present : True
+tinn
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior and medial dislocation with reduction 
+patient_id: B5

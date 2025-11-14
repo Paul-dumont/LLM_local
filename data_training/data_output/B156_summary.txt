@@ -1,0 +1,35 @@
+patient_id: B156
+patient_age: 31
+pain_onset_date: 7 months ago
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics 20 years ago and finished when she was 16 | orthodontics at age 22 | orthodontics clear aligner therapy at ages 28 and 29
+physical_therapy_status: physical therapy and massage therapy
+previous_medications: Flexeril
+current_medications: Advil | BCP
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+joint_pain_areas: Jaw
+headache_intensity: at a level
+headache_location: right frontal | right temporal
+tmj_pain_rating: 6
+average_daily_pain_intensity: 4
+jaw_function_score: 5
+diet_score: 4
+disability_rating: 5
+----------------------------------------------------------------------------------------------------
+patient_id: B156
+airway_obstruction_present: False
+muscle_tenderness_present: True
+muscle_pain_location: right retromandibular area
+joint_pain_areas: right TMJ
+tmj_pain_rating: severe
+maximum_opening: 44mm
+maximum_opening_without_pain: 25mm
+joint_arthritis_location: right TMJ
+disc_displacement: right disc anterior and lateral dislocation without reduction
+headache_intensity: present
+patient_age: 31
+----------------------------------------------------------------------------------------------------
+disc_displacement: left anterior displacement with early reduction | right disc anterior displacement without reduction
+joint_arthritis_location: left TMJ | right TMJ

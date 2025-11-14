@@ -1,0 +1,27 @@
+patient_id: B005
+patient_age: 48
+sleep_apnea_diagnosed: True
+depression_present: True 
+airway_obstruction_presenter: BiPAP 
+current_medications: Amitriptyline | Amitripticline CDP | Ativan
+jaw_clicking: left TMJ | right TMJ
+pain_onset_date: 40 years of age
+onsets_triggers: unknown 
+headache_intensity: 2 but can escalate up to 9
+tmj_pain_rating: 2
+----------------------------------------------------------------------------------------------------
+patient_id: B005
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea 
+current_appliance: BiPAP
+pain_aggravating_factors: anterior open bite
+----------------------------------------------------------------------------------------------------
+patient_id: B005
+airway_obstruction_present: True
+sleep_apnea_diagnosed: True 
+muscle_pain_location: anterior band of the masseter muscle from an external direction
+disc_displacement: left disc displacement | right disc displacement
+----------------------------------------------------------------------------------------------------
+patient_id: B4
+joint_arthritis_location: left TMJ | right TMJ
+appliance_history: orthodontics
+pain_aggravating_factors: anterior open bite | right posterior crossbite

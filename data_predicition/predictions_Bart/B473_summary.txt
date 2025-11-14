@@ -1,0 +1,29 @@
+patient_id: B473 
+patient_age: 32
+pain_onset_date: 15 years of age
+jaw_clicking: left TMJ | right TMJ
+joint_pain_areas: neck | shoulder | back of the head | jaw joints
+headache_intensity: 5
+headaches_location: behind the left eye | in the back of head | behind the ears | at night
+backache_frequency: during the night
+neck_tenderness_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+adverse_reactions: none
+physical_therapy_status: splint 28 years ago, splint 14-16 years ago.
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: right posterior open bite
+headache_intensity: Severe 
+tmj_pain_rating: severe 
+patient_id: B473
+disc_displacement: left disc anterior displacement | right disc anterior and medial displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation without reduction | right disc anteromedially displaced with early reduction
+patient_id: B473
+age: 32
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation without reduction | right disc anteriorly dislocated with reduction 
+patient_id: B5

@@ -1,0 +1,34 @@
+patient_id: B200
+patient_age: 26
+sleep_disorder_type: sleep apnea | snoring | daytime somnolence
+sleep_apnea_diagnosed: True
+current_medications: vitamins | herbal supplements
+appliance_history: orthodontics from 15 to 20 | splint for 6 months
+headache_intensity: 5
+headache_frequency: once a week
+headache_location: frontal | temporal | posterior head | top of the head
+tmj_pain_rating: 4
+average_daily_pain_intensity: 6
+jaw_function_score: 6
+diet_score: 6
+disability_rating: 4
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: True
+joint_pain_areas: right TMJ
+pain_onset_date: 14 years old
+onset_triggers: unknown
+airway_obstruction_present: True
+muscle_pain_location: left retromandibular area | left shoulder | right retromandibular area | right shoulder
+muscle_pain_score: moderate
+maximum_opening: 42mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+patient_id: B200
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B200
+disc_displacement: left disc medial and anterior displacement without reduction | right disc medial and anterior displacement without reduction
+joint_arthritis_location: left TMJ | right TMJ

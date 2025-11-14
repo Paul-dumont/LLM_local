@@ -1,0 +1,42 @@
+patient_id: B428
+patient_age: 22
+pain_onset_date: 3 years ago
+onset_triggers: injury hitting the chin with a knee while wake boarding
+jaw_clicking: left TMJ | right TMJ
+current_appliance: splint
+physical_therapy_status: physical therapy for several months
+appliance_history: orthodontics from about of 6 to about the age of 14
+current_medications: Zoloft | Birth control pills | Percodan | Tylenol | Naproxen | Ibuprofen
+headache_intensity: 8
+headache_location: throughout the head and neck area
+tmj_pain_rating: 9
+average_daily_pain_intensity: 9
+jaw_function_score: 9
+diet_score: 9
+disability_rating: 8
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+muscle_pain_score: severe to moderate to mild
+muscle_pain_location: styloid areas | masseters | temporalis | SCMs | posterior neck | shoulder 
+joint_pain_areas: left TMJ | right TMJ
+neck_pain_present: True
+maximum_opening: 25mm
+maximum_opening_without_pain: 10mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B428
+disc_displacement: left disc dislocation | right disc dislocation 
+joint_pain_areas: TMJ
+headache_intensity: Severe 
+tmj_pain_rating: Severe 
+----------------------------------------------------------------------------------------------------
+patient_id: B428
+patient_age: 22
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anteriorly displaced with reduction | right disc anteriorly displaced with reduction 
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc anteriorly displaced with reduction 
+

@@ -1,0 +1,38 @@
+patient_id: B454
+patient_age: 21
+pain_onset_date: 12 to 13 years of ago | 2 years ago
+appliance_history: orthodontics from about the age of 8 through 17
+current_appliance: splint for the past two year
+pain_aggravating_factors: clenching | bruxism | anterior open bite | left posterior cross bite tendency | right posterior cross bite tendency
+headache_intensity: 6
+headache_location: frontal | temporal | bilateral
+tmj_pain_rating: 6
+average_daily_pain_intensity: 6
+jaw_function_score: 5
+diet_score: 2
+disability_rating: 3
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+adverse_reactions: PENICILLIN | seasonal 
+current_medications: Doxycycline | Zoloft | Benadryl | Aviane
+airway_obstruction_present: False
+muscle_pain_score: moderate
+muscle_pain_location: temporalis | masseters | retromandibular area | shoulders | left TMJ | right TMJ
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 51mm
+maximum_opening_without_pain: 22mm
+----------------------------------------------------------------------------------------------------
+current_appliance: 3 x 3 retainer in the lower arch | 2 x 2 retainer in the maxillary arch
+pain_aggravating_factors: clenching | bruxism | anterior open bite
+patient_id: B454
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B454
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced without reduction
+
+
+

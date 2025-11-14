@@ -1,0 +1,39 @@
+patient_id: B354
+patient_age: 54
+current_medications: OxyContin | Oxycodone | Alprazolam | Paxil | Trazodone | Flonase | Advair | Proventil | Allegra | Imitrex
+pain_onset_date: in her early 20s
+joint_pain_areas: left TMJ | back | shoulder | elbows | left greater than right | fingers | toes | left foot | left great toe
+earache_present: True
+tinnitus
+----------------------------------------------------------------------------------------------------
+patient_id: B354
+adverse_reactions: codeine | latex
+pain_aggravating_factors: clenching | bruxism
+current_medications: Imitrex
+migraine_history: once a month
+headache_frequency: 2 to 3 times per week
+tmj_pain_rating: 6
+average_daily_pain-intensity: 5
+jaw_function_score: 7
+diet_score
+----------------------------------------------------------------------------------------------------
+patient_id: B354
+pain_aggravating_factors: anterior open bite
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+muscle_pain_location: throughout the head and neck area for the most part
+maximum_opening: 35mm
+average_opening_without_pain: 22mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True 
+patient_id: B354
+pain_aggravating_factors: left posterior carious lesion on the posterior aspect of the left mandibular second bicuspid
+sleep_disorder_type: sleep apnea symptoms
+headache_intensity: present
+tmj_pain_rating: severe
+earache_present
+----------------------------------------------------------------------------------------------------
+patient_id: B354
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement | right disc anterior displacement 
+appliance_history: orthodontics to refine and retain occlusion

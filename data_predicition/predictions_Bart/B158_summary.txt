@@ -1,0 +1,25 @@
+patient_id: B158
+patient_age: 12
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: juvenile rheumatoid arthritis versus unspecified connective tissue disease
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea
+current_medications: Methotrexate | Folic acid | Naproxen | Pepcid
+----------------------------------------------------------------------------------------------------
+patient_id: B158
+pain_aggravating_factors: anterior open bite tendency
+muscle_tenderness_present: False
+maximum_opening: 32mm
+jaw_clicking: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B158
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: juvenile rheumatoid arthritis
+sleep_disorder_type: sleep apnea
+airway_obstruction_present: True
+patient_age: 12
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: juvenile rheumatoid arthritis
+disc_displacement: left disc anterior displacement | right disc posterior displacement with significant reduction

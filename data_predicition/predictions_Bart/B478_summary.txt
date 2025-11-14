@@ -1,0 +1,26 @@
+patient_id: B478
+patient_age: 20
+pain_onset_date: 17 years old
+jaw_clicking: left TMJ | right TMJ 
+joint_pain_areas: jaw areas
+jaws_locking: True
+headache_intensity: 2
+headaches_location: temporal | top of the head
+tmj_physical_therapy_status: 5
+average_daily_pain _intensity: 4, jaw function | 2
+diet_score: 3
+disability_rating: 1
+hearing_loss_present: False
+current_medications: Dulara | Singulair | Albuterol | iron | vitamin C | vitamin D
+----------------------------------------------------------------------------------------------------
+patient_id: B478
+disc_displacement: left disc medial and anterior displacement with reduction | right disc lateral displacement without reduction 
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_age: 38
+current_appliance: orthodontics
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ
+disc_displacement: left disc dislocation without reduction | right disc anteriorly displaced without reduction
+patient_id: B5 
+jaw_locking: True

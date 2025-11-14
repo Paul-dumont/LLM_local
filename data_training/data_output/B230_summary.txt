@@ -1,0 +1,35 @@
+patient_id: B230
+disc_displacement: left disc medial and anterior displacement without reduction 
+joint_arthritis_location: left TMJ | Right TMJ
+patient_age: 13
+current_medications: Zyrtec
+pain_onset_date: summer two years ago
+onset_triggers: unknown
+appliance_history: orthodontics for 7 to 9 months | permanent retainer
+----------------------------------------------------------------------------------------------------
+patient_id: B230
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+back_pain_present: True
+adverse_reactions: seasonal allergies
+headache_intensity: 0
+tmj_pain_rating: 7
+average_daily_pain_intensity: 4
+jaw_function_score: 4
+diet_score: 2
+disability_rating: 0
+pain_aggravating_factors: right posterior crossbite tendency
+muscle_pain_location: styloid areas
+muscle_pain_score: mild to moderate
+muscle_tenderness_present: True
+maximum_opening: 48mm
+maximum_opening_without_pain: 28mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ
+disc_displacement: left disc dislocation without reduction
+joint_pain_areas: TMJpain_aggravating_factors: right posterior crossbite tendency
+----------------------------------------------------------------------------------------------------
+NoInfo

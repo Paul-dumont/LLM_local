@@ -1,0 +1,26 @@
+patient_id: B289
+patient_age: 13
+current_medications: Adderall
+appliance_history: maxillary expander | retainers
+current_appliance: orthodontics for past 2 years
+maximum_opening: 45mm
+pain_aggravating_factors: left posterior cross bite
+----------------------------------------------------------------------------------------------------
+patient_id: B289
+muscle_tenderness_present: False
+tmj_pain_rating: 3
+average_daily_pain_intensity: 1
+jaw_function_score: 3
+diet_score: 1
+disability_rating: 1
+headache_intensity: 5
+headache_location: frontal
+headache_frequency: 2 times a month
+----------------------------------------------------------------------------------------------------
+patient_id: B289
+----------------------------------------------------------------------------------------------------
+patient_id: B289
+patient_age: 13
+joint_arthritis_location: right TMJ
+disc_displacement: right disc may be displaced
+

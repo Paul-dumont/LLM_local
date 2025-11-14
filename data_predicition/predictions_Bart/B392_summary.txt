@@ -1,0 +1,30 @@
+patient_id: B392
+patient_age: 41
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medial and rotational displacement
+pain_onset_date: one year ago
+appliance_history: orthodontic treatment from 3 years ago and had her braces removed in 2 years ago
+headache_intensity: 5
+earache_present: True
+tmj_pain_rating: 5, average daily
+----------------------------------------------------------------------------------------------------
+patient_id: B392
+pain_aggravating_factors: buccal crossbite
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+neck_pain_areas: neck | chest | temporalis | masseters | styloid areas | shoulders | left TMJ | right TMJ
+muscle_tenderness_present : True
+maximum_opening: 50mm
+jaw_crepitus: Left TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B392
+joint_pain_areas: TMJ
+headache_intensity: present
+pain_aggravating_factors: left posterior buccal crossbite
+autoimmune_condition: Hashimoto's thyroiditis | ankylosing spondylitis
+fibromyalgia_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B392
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medial dislocation 
+jaw_locking: True

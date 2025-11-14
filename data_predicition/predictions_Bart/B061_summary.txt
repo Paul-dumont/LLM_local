@@ -1,0 +1,26 @@
+patient_id: B061
+patient_age: 57
+autoimmune_condition: rheumatoid arthritis
+pain_onset_date: more recently
+appliance_history: orthodontics as a teenager | orthod on lower arch in 30s | rhinoplasty | chin implant
+headache_intensity: 0
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B061
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+muscle_pain_score: pain to palpation
+maximum_opening: 34mm
+max_opening_without_pain: 23mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: rheumatoid arthritis 
+pain_aggravating_factors: anterior open bite
+patient_id: B5
+----------------------------------------------------------------------------------------------------
+patient_id: B061
+patient_age: 52
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: severe resorptive arthritis
+disc_displacement: right disc medial and anterior displacement

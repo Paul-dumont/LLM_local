@@ -1,0 +1,36 @@
+patient_id: B435
+patient_age: 15
+current_medications: none
+previous_medications: Concerta 
+jaw_clicking: left TMJ | right TMJ
+pain_onset_date: age of 13
+onset_triggers: unknown
+headache_location: forehead | temporal
+headache_frequency: ten per month
+earache_present: False
+tinnitus_present: True
+vertigo_present: True
+headache_intensity: 4
+tmj_pain_rating: 1
+average_daily_pain_intensity: 4
+jaw_function_score: 1
+diet_score: 0
+disability_rating: 0
+sleep_apnea_diagnosed: False
+muscle_tenderness_present: True
+muscle_pain_score: mild
+muscle_pain_location: retromandibular area
+maximum_opening: 55mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation 
+airway_obstruction_present: True
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B435
+patient_age: 15
+disc_displacement: left disc anteromedially displaced without reduction | right disc anteromedially displaced without reduction
+
+
+
+

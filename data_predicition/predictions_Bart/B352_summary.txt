@@ -1,0 +1,29 @@
+patient_id: B352 
+patient_age: 29
+pain_onset_date: 4 years ago
+onsets_triggers: motor vehicle accident
+back_pain_present: True
+joint_arthritis_location: TMJ | neck | shoulders | upper back
+physical_therapy_status: physical therapy for almost five years since accident
+appliance_history: splint since college to help her with clenching and bruxism
+earache_frequency: nighttime
+tinn
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False 
+muscle_pain_score: severe 
+joint_arthritis_location: left TMJ | right TMJ
+maximum_opening: 41mm
+max_opening_without_pain: 26mm
+----------------------------------------------------------------------------------------------------
+patient_id: B352
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc anterior and posterior displacement
+earache_present: True
+tinnitus_present : True
+vertigo_present 
+tmj_pain_rating: Severe 
+patient_age: 35
+----------------------------------------------------------------------------------------------------
+patient_id: B352
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc lateral and anteriorly in the fossa | right disc medial and anterior displacement

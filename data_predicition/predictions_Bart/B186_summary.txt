@@ -1,0 +1,21 @@
+patient_id: B186
+patient_age: 16
+jaw_clicking: left TMJ | right TMJ
+pain_onset_date: 12 years of age
+onsets_triggers: unknown 
+current_medications: none
+headache_intensity: 5
+tmj_pain_rating: 5, average daily pain at 4, jaw function at 7, diet at 7 | disability at 3
+earache_present: True
+tinnitus
+----------------------------------------------------------------------------------------------------
+patient_id: B186
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc displacement with reduction 
+tmj_pain_rating: 0
+headache_intensity: present
+patient_age: 16
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc anterior and medial dislocation with reduction 
+patient_id: B5

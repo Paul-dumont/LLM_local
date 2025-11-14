@@ -1,0 +1,27 @@
+patient_id: B110
+patient_age: 16
+pain_onset_date: around the age of 10 or 11
+appliance_history: orthodontics from 12 to 14 years of age | 3 x 3 retainer in the lower anterior arch
+headache_intensity: 6
+headaches_frequency: every 1 to 2 weeks at a level of 6
+tmj_pain_rating: 7
+mjaw_function_score: 4
+diet_score
+----------------------------------------------------------------------------------------------------
+patient_id: B110
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: juvenile rheumatoid arthritis
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+headache_intensity: present
+tmj_pain_rating: 0
+jaw_crepitus: TMJ 
+current_appliance: orthodontics
+
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite
+patient_id: B110 
+disc_displacement: left disc with articular disc in position surrounded with a pannus | right disc without articular disk 
+jaw_locking: True

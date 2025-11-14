@@ -1,0 +1,34 @@
+patient_id: B345 
+patient_age: 62
+muscle_spasm_present: True
+back_pain_present: True
+pain_aggravating_factors: clenching | right posterior cross bite
+joint_pain_areas: TMJ | neck | back | shoulders | elbows | wrists | hands | fingers | hips | knees | left ankle | her toes
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+physical_therapy_status: physical therapy
+autoimmune_condition: psoriatric arthritis
+current_appliance: bite splint
+pain_relieving_factors: bite splint
+neck_pain_present: True
+headache_intensity: 7
+headache_location: left frontal | left temporal | left posterior head
+headache_frequency: constant 
+tmj_pain_rating: 5
+average_daily_pain_intensity: 7
+jaw_function_score: 6
+diet_score: 6
+disability_rating: 8
+maximum_opening: 43mm
+muscle_pain_score: mild to moderate
+muscle_pain_location: right temporalis | left masseter | right SCM | posterior neck | left styloid area
+joint_pain_areas: left TMJ 
+----------------------------------------------------------------------------------------------------
+patient_id: B345 
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: Psoriatic polyarthritis
+joint_pain_areas: TMJ
+earache_present: True
+tinnitus_present: True
+vertigo_present: True

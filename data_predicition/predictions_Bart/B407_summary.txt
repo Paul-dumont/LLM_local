@@ -1,0 +1,24 @@
+patient_id: B407
+patient_age: 14
+current_medications: amoxicillin | prolex
+pain_onset_date: 10 years of age
+jaw_clicking: left TMJ | right TMJ
+disc_displacement: left disc started to click and pop
+headache_frequency: 5 times a month at about a level of 3 but she is not sure at this time where they specifically occur 
+tmjoint_pain_areas: temple areas
+average_daily_pain _
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B407
+sleep_disorder_type: daytime somnolence
+pain_aggravating_factors: anterior open bite | left posterior crossbite | right posterior cross bite
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+sleep_disorder_type: daytime somnolence | snoring 
+airway_obstruction_present: True
+patient_id: B407
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and lateral displacement with reduction
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior displacement with significant deformation and non-reducing | right disc dislocation with anterior displacement without reduction 
+patient_id: B4
+joint_pain_areas: left TMJ | right TMJ

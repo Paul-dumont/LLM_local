@@ -1,0 +1,30 @@
+patient_id: B256
+patient_age: 34
+joint_pain_areas: TMJ
+current_medications: Advair | Zyrtec | Atrovent nasal spray | Nasacort AQ | Singulair | other medications as needed but not currently and are included in her chart
+earache_present: False
+tinnitus_present : False
+vertigo_present 
+hearing_loss_score: False 
+adverse_reactions: cats | benzoyl peroxide | erythromycin | Prolene
+pain_aggravating_factors: clenching | bruxism
+headache_intensity
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+sleep_disorder_type: daytime somnolence | sleep apnea symptoms
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_location: shoulders | right torsion 
+maximum_opening: 4mm
+jaw_clicking: right posterior cross
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anterior and medial displacement without reduction 
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+patient_id: B256
+maximum_opening: 6mm
+joint _pain_areas: TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and medial dislocation without reduction 
+jaw_locking: True

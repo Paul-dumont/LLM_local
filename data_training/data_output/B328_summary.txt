@@ -1,0 +1,33 @@
+patient_id: B328 
+patient_age: 34
+current_medications: Celebrex | darvocet
+joint_pain_areas: left TMJ | right TMJ
+earache_present: True 
+tinnitus_present: True
+physical_therapy_status: physical therapy
+vertigo_present: False 
+hearing_loss_present: False 
+pain_aggravating_factors: clenching
+headache_intensity: 5 can escalate to 8
+headache_location: right frontal | right temporal | right posterior head
+tmj_pain_rating: 6
+average_daily_pain_intensity: 6
+jaw_function_score: 8
+diet_score: 9
+disability_rating: 7
+muscle_pain_score: high moderate
+muscle_pain_location: temporalis | styloid | left temporalis | left SCM | masseters | right medial pterygoid area
+jaw_clicking: left TMJ 
+jaw_locking: True 
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc left displacement without reduction | right disc dislocation without reduction
+joint_pain_areas: left TMJ | right TMJ
+earache_present: True 
+patient_id: B328 
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc left displacement with reduction | right disc anterior displacement with reduction
+
+
+

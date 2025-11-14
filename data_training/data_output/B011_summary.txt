@@ -1,0 +1,39 @@
+patient_id: B011
+patient_age: 26
+adverse_reactions: CODEINE | DEMEROL | unknown food | cheap earrings
+joint_pain_areas: right knee
+headache_frequency: one time a week
+migraine_history: True
+pain_frequency: worse in the evening generally than it is in the morning or afternoon
+pain_aggravating_factors: clenching | bruxism
+current_medications: none
+pain_onset_date: age of 12
+onset_triggers: unknown
+jaw_clicking: left TMJ | right TMJ
+appliance_history: night guard made about six years ago
+jaw_locking: True
+headache_intensity: 6 but can escalate to 8
+headache_location: frontal | temporal | posterior | top of the head
+tmj_pain_rating: 0
+average_daily_pain_intensity: 6
+jaw_function_score: 3
+diet_score: 4
+disability_rating: 6
+----------------------------------------------------------------------------------------------------
+patient_id: B011
+airway_obstruction_present: False
+muscle_pain_score: moderate 
+muscle_pain_location: styloid area | masseters | temporalis | posterior neck 
+neck_pain_present: True
+maximum_opening: 52mm
+maximum_opening_without_pain: 38mm
+jaw_clicking: none
+----------------------------------------------------------------------------------------------------
+headache_intensity: present
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation 
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+patient_id: B011
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation 

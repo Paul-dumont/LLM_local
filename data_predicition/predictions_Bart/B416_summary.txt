@@ -1,0 +1,31 @@
+patient_id: B416
+patient_age: 21
+joint_pain_areas: right TMJ | left TMJ
+current_medications: Wellbutrin | Effexor | Depo-Vera | Albuterol 
+pain_onset_date: 2-1/2 years ago
+appliance_history: orthodontic treatment since 1 month ago
+earache_present: True
+vertigo_Occurrence: True
+----------------------------------------------------------------------------------------------------
+patient_id: B416
+pain_aggravating_factors: right buccal crossbite tendency
+muscle_tenderness_present: True
+joint_pain_areas: SCMs | right TMJ | right masseter | bilateral shoulders 
+maximum_opening: 28mm
+max_opening_without_pain: 25mm
+----------------------------------------------------------------------------------------------------
+patient_id: B416
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+joint_arthritis_location: right TMJ
+disc_displacement: right disc dislocation without reduction
+----------------------------------------------------------------------------------------------------
+patient_id: B416
+joint_arthritis_location: left TMJ | right TMJ
+patient_age: 21
+disc_displacement: right disc anterior displacement with Mitek anchor | left disc dislocation without anchor
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc possible medial displacement | right disc anterior displacement without reduction 
+patient_id: B4
+jaw_locking: True

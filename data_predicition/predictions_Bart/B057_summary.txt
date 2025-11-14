@@ -1,0 +1,20 @@
+patient_id: B057
+patient_age: 28
+pain_onset_date: 23 years old
+current_medications: Asmanex | Albuterol | Ortho-Tricyclen | Motrin 
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: 8 behind the eyes and in the temporal area about one time per week
+headaches_frequency: one to two times a week
+tmj_painrating: 6
+average_daily_pain
+----------------------------------------------------------------------------------------------------
+patient_id: B057
+disc_displacement: left disc anterior and/or anteromedial displacement | right disc dislocation
+pain_aggravating_factors: anterior open bite tendency
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_age: 28
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterolaterally displaced with reduction | right disc anterior dislocation with reduction 
+patient_id: B5

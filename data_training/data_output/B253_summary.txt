@@ -1,0 +1,55 @@
+patient_id: B253
+patient_age: 42
+headache_location: back of head
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: right disc dislocation
+headache_intensity: present
+neck_pain_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc medial displacement without reduction | right disc anterior displacement without reduction
+pain_onset_date: high school
+onset_triggers: unknown
+jaw_clicking: jaw
+patient_id: B253
+----------------------------------------------------------------------------------------------------
+headache_location: back of head
+neck_pain_present: True
+earache_present: False
+tinnitus_present: False
+vertigo_present: True
+joint_pain_areas: neck | right knee
+autoimmune_condition: elevated rheumatoid factor
+patient_id: B253
+headache_intensity: 4
+headache_frequency: 2 times a week
+tmj_pain_rating: 0
+average_daily_pain_intensity: 4
+jaw_function_score: 4
+diet_score: 2
+disability_rating: 0
+jaw_crepitus: right TMJ
+maximum_opening: 30mm
+----------------------------------------------------------------------------------------------------
+patient_id: B253
+----------------------------------------------------------------------------------------------------
+patient_id: B253
+earache_present: False
+adverse_reactions: duck eggs | peanuts | strawberries | almonds
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: right disc dislocation
+headache_intensity: present
+neck_pain_present: True
+current_medications: Methotrexate | Prednisone | Remicade IV | Vitamins |  supplements
+----------------------------------------------------------------------------------------------------
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+headache_intensity: 0
+tmj_pain_rating: 0 
+jaw_function_score: 4
+diet_score: 2
+disability_rating: 0
+maximum_opening: 30mm
+muscle_tenderness_present: False

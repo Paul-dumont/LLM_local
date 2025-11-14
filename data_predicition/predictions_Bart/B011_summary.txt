@@ -1,0 +1,26 @@
+patient_id: B011
+patient_age: 26
+current_medications: none
+adverse_reactions: codeine | Demerol | unknown food | cheap earrings
+pain_onset_date: 12 years of age
+jaw_clicking: left TMJ | right TMJ
+appliance_history: night guard made about six years ago that she wore for a while but then discontinued it, and it doesn't fit very well
+----------------------------------------------------------------------------------------------------
+patient_id: B011
+airway_obstruction_present: False
+muscle_pain_score: moderate to mild 
+joint_arthritis_location: styloid | masseters | temporalis | posterior neck | left TMJ | right TMJ
+maximum_opening: 52mm
+maximum _opening_without_pain: 38mm
+jaw_clicking: none
+disc_displacement: none
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc lateral dislocation 
+headache_intensity: present
+pain_aggravating_factors: clenching | bruxism
+patient_id: B195
+----------------------------------------------------------------------------------------------------
+patient_id: B011
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation at the lateral aspect with early reduction | right disc anteriorly displaced with early reductio

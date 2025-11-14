@@ -1,0 +1,33 @@
+patient_id: B342
+patient_age: 48
+current_medications: Synthroid | Prefest | Aciphex
+headache_intensity: present
+joint_pain_areas: TMJ
+earache_present: False
+tinnitus_present : False
+vertigo_present 
+hearing_loss_score: False 
+jaw_clicking: left TMJ | neck | left shoulder | right hip | neck
+pain_onset_date: 20 years ago
+appliance_history: ortho for past two years | splint for past 7 months
+physical_therapy_status: chiropractic treatment for 23 years
+
+----------------------------------------------------------------------------------------------------
+patient_id: B342
+muscle_tenderness_present: False
+neck_pain_score: moderate to mild
+joint_arthritis_location: right styloid area | shoulders | left styloid 
+pain_aggravating_factors: anterior open bite
+maximum_opening: 45mm
+max_opening_without_pain: 30mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B342
+disc_displacement: left disc dislocation without reduction | right disc dislocated without reduction 
+headache_intensity: present
+sleep_disorder_type: snoring | sleep disorder
+----------------------------------------------------------------------------------------------------
+patient_id: B342
+patient_age: 48
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc dislocation without reduction

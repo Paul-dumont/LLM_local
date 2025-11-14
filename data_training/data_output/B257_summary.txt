@@ -1,0 +1,70 @@
+patient_id: B257 
+pain_onset_date: 18 years of age
+jaw_clicking: left TMJ | right TMJ
+joint_pain_areas: left TMJ | right TMJ | knees
+headache_intensity: moderate to severe
+headache_frequency: 5 times per week
+pain_duration: afternoon
+headache_location: forehead area
+neck_pain_present: True
+pain_aggravating_factors: clenching
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+tmj_pain_rating: 7
+average_daily_pain_intensity: 8
+jaw_function_score: 5
+diet_score: 7
+disability_rating: 8
+sleep_disorder_type: daytime tiredness
+jaw_crepitus: left TMJ | right TMJ
+disc_displacement: left disc dislocation
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left TMJ | right TMJ
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_id: B257 
+----------------------------------------------------------------------------------------------------
+patient_id: B257 
+headache_intensity: 7
+tmj_pain_rating: 6
+jaw_function_score: 7
+diet_score: 5
+disability_rating: 8
+maximum_opening: 28mm
+muscle_pain_location: temporalis | masseters | mandibular pterygoids | right styloid area
+muscle_pain_score: mild
+muscle_tenderness_present: True
+airway_obstruction_present: True
+pain_aggravating_factors: clenching | bruxing
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction 
+joint_pain_areas: TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B257 
+headache_intensity: 0
+tmj_pain_rating: 0
+muscle_tenderness_present: right masseter
+jaw_function_score: 3
+diet_score: 1
+disability_rating: 0
+maximum_opening: 39mm
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: knees
+pain_aggravating_factors: clenching
+current_medications: Nyastatin
+airway_obstruction_present: False
+----------------------------------------------------------------------------------------------------
+patient_id: B257 
+current_medications: Percocet
+patient_age: 20
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: right disc anterior displacement without reduction | left disc anterior displacement without reduction
+patient_id: B257 

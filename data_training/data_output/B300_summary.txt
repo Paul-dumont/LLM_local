@@ -1,0 +1,42 @@
+patient_id: B300
+patient_age: 34
+joint_pain_areas: TMJ 
+jaw_clicking: TMJ
+earache_present: True 
+tinnitus_present: True 
+vertigo_present: True 
+airway_obstruction_present: True 
+sleep_disorder_type: snoring
+hearing_loss_present: True
+pain_onset_date: age of 15 to 16 years
+onset_triggers: unknown
+appliance_history: orthodontics from the ages of 14 to 19
+physical_therapy_status: physical therapy in the past
+pain_relieving_factors: physical therapy
+pain_aggravating_factors: splint therapy 2 years ago
+joint_pain_areas: knees
+adverse_reactions: dust mites | trees | grasses | apples | wheat | potatoes |  cats | nuts | etc.
+----------------------------------------------------------------------------------------------------
+patient_id: B300
+airway_obstruction_present: True 
+muscle_pain_score: severe
+muscle_pain_location: masseters | shoulder areas | styloids | SCMs | posterior neck area | temporalis area
+neck_pain_present: True
+joint_pain_areas: left TMJ | right TMJ
+maximum_opening: 38mm
+maximum_opening_without_pain: 20mm
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior displacement | right disc anterior displacement
+airway_obstruction_present: True 
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+headache_intensity: present
+earache_present: True 
+tinnitus_present: True 
+vertigo_present: True 
+airway_obstruction_present: True 
+sleep_disorder_type: snoring
+patient_id: B300
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: joint_arthritis_location: 
+disc_displacement: left disc dislocation in vertical direction | right disc disloation with reduction

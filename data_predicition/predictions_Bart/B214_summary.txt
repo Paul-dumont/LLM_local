@@ -1,0 +1,25 @@
+patient_id: B214
+patient_age: 23
+joint_arthritis_location: right TMJ
+disc_displacement: right disc anteriorly displaced without reduction
+pain_onset_date: about 17 years of age
+appliance_history: orthodontics from the age of 9 to 13
+current_medications: none
+earache_present: False
+tinnit
+----------------------------------------------------------------------------------------------------
+patient_id: B214
+current_appliance: 3 x 3 retainer on the lower anterior arch
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+muscle_pain_score: 0
+jaw_clicking: right TMJ
+maximum_opening: 50mm
+----------------------------------------------------------------------------------------------------
+current_appliance: 3 x 3 retainer in the lower anterior arch
+pain_aggravating_factors: right-sided cross bite
+airway_obstruction_present: True
+patient_id: B214
+joint_arthritis_location: right TMJ
+disc_displacement: right disc dislocation without reduction
+jaw_crepitus: left TMJ | Right TMJ

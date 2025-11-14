@@ -1,0 +1,43 @@
+patient_id: B219
+patient_age: 27
+current_medications: none
+pain_onset_date: 19 months ago
+onset_triggers: dental appointment with bite block placed for 2-1/2 hours
+current_appliance: splint for past 6 months
+physical_therapy_status: 3 or 4 physical therapy with iontophoresis
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: True
+pain_aggravating_factors: clenching | bruxism | yawning
+headache_intensity: 5
+headache_frequency: 2 or 3 times per week
+headache_location: posterior head area
+tmj_pain_rating: 10
+pain_frequency: afternoons and evenings
+average_daily_pain_intensity: 8
+jaw_function_score: 7
+diet_score: 6
+disability_rating: 7
+----------------------------------------------------------------------------------------------------
+patient_id: B219
+appliance_history: orthodontics twice
+joint_pain_areas: right TMJ
+muscle_pain_location: right masseter
+muscle_pain_score: moderate
+muscle_tenderness_present: True
+airway_obstruction_present: False
+maximum_opening: 30mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+disc_displacement: left disc anterior displacement with early reduction
+----------------------------------------------------------------------------------------------------
+earache_present: True
+hearing_loss_present: True
+adverse_reactions: gold | silver | other alloys | chocolate | caffeine | coke | peas
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc dislocation without reduction
+pain_aggravating_factors: clenching | bruxism
+patient_id: B219
+----------------------------------------------------------------------------------------------------
+disc_displacement: right disc anterior displacement with reduction without reduction | left disc anterior displacement with early reduction

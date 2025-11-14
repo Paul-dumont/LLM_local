@@ -1,0 +1,21 @@
+patient_id: B176
+patient_age: 44
+current_medications: Wellbutrin | Yasmin | Ambien 
+pain_onset_date: unknown
+jaw_clicking: left TMJ | right TMJ
+headache_intensity: present
+appliance_history: orthodontics x2 from the age of 12 to 14 and then from 15 to 17 years of age
+tmj_pain_rating: 3
+average_daily_pain
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B176
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc medial and anterior displacement without reduction 
+pain_aggravating_factors: bilateral posterior crossbite
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement with reduction | right disc medially displaced with reduction 
+patient_id: B4
+jaw_locking: True

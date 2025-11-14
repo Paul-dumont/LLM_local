@@ -1,0 +1,22 @@
+patient_id: B398 
+patient_age: 29
+current_medications: none
+pain_onset_date: four years ago
+joint_pain_areas: left TMJ | right TMJ
+earache_present: False
+tinnitus_present : False
+vertigo_diagnosed: False 
+hearing_loss_score: 0
+adverse_reactions: none to date
+headache_intensity: 0.
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+disc_displacement: left disc dislocations | right disc dislocation 
+patient_id: B398 
+pain_aggravating_factors: AP mandibular deficiency | malocclusion
+tmj_pain_rating: 1 to 2mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anterolaterally and anteriorly displaced without reduction 
+patient_id: B5

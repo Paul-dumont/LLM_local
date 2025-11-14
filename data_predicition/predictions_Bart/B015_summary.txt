@@ -1,0 +1,28 @@
+patient_id: B015
+patient_age: 15
+pain_onset_date: around the age of 13 or even before
+joint_pain_areas: left TMJ | right TMJ
+appliance_history: occlusal splint since 1 year and 4 months ago
+headache_intensity: 4 but can escalate to 8 every 2 weeks | 8 every two weeks
+headaches_location: frontal | temporal | posterior head
+tmj
+----------------------------------------------------------------------------------------------------
+patient_id: B015
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: False
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+muscle_pain_location: left TMJ 
+joint_tenderness_areas: Left TMJ
+maximum_opening: 36mm
+maximum _opening_without_pain: 26mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+patient_id: B015
+disc_displacement: left disc dislocation without reduction | right disc dislocated without reduction
+----------------------------------------------------------------------------------------------------
+patient_id: B015
+patient_age: 15
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior and medial dislocation with reduction

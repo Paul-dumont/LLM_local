@@ -1,0 +1,49 @@
+patient_id: B153
+patient_age: 18
+joint_pain_areas: TMJ
+headache_frequency: frequent
+appliance_history: orthodontics from 9 to 12 | splint from age 16 to 17
+pain_onset_date: age of 16
+onset_triggers: unknown
+current_medications: Prevacid | Allegra
+headache_intensity: 6, occasionally 9
+headache_frequency: frequent
+headache_location: frontal | temporal | posterior head
+tmj_pain_rating: 8
+average_daily_pain_intensity: 3
+jaw_function_score: 8
+diet_score: 6
+disability_rating: 2
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+joint_pain_areas: fingers | toes
+pain_aggravating_factors: clenching
+sleep_disorder_type: snoring
+sleep_apnea_diagnosed: False
+----------------------------------------------------------------------------------------------------
+patient_id: B153
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+joint_pain_areas: right TMJ | left TMJ
+muscle_pain_location: left masseter | right masseter | medial pterygoids | retromandibular area
+muscle_pain_score: moderate to mild
+muscle_tenderness_present: True
+jaw_clicking: left TMJ
+maximum_opening: 36mm
+maximum_opening_without_pain: 19mm
+joint_arthritis_location: left TMJ | right TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B153
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite
+patient_id: B153
+arthritis_location: left TMJ | right TMJ
+patient_age: 19
+disc_displacement: left disc anterior medial displacement | right disc medial displacement
+----------------------------------------------------------------------------------------------------
+arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc displacement | right disc displacement

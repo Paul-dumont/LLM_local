@@ -1,0 +1,32 @@
+patient_id: B262
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation in vertical direction with early reduction | right disc anteriorly and medially displaced with early removal
+patient_age: 29
+physical_therapy_status: chiropractic treatment 2 years ago for back | 12 Botox shots from the neck upward
+current_appliance: splint
+----------------------------------------------------------------------------------------------------
+patient_id: B262
+joint_pain_areas: temples | shoulders | neck | jaws | left TMJ | right TMJ
+headache_intensity: severe 
+muscle_tenderness_present: True
+jaw_clicking: jaw joints
+maximum_opening: 19mm
+jawed_locking: True 
+sleep_disorder_type: restless leg syndrome
+fibromyalgia_diagnosed: probable True
+autoimmune_condition: Hashimoto's thyroiditis | elevated ANA titer | high cholesterol | elevated ionized calcium
+migraine_frequency: twice a week
+pain_aggravating_factors: spl
+----------------------------------------------------------------------------------------------------
+patient_id: B262
+airway_obstruction_present: True
+muscle_spasm_location: left side of the septum 
+jaw_clicking: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with closed lock | right disc dislocations with a closed lock
+pain_aggravating_factors: left posterior open bite | right posterior openbite
+autoimmune_condition: Hashimoto's thyroiditis
+headache_intensity: severe 
+tmj_pain_rating: Severe 
+patient_id: B5

@@ -1,0 +1,37 @@
+patient_id: B293
+patient_age: 57
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anterior displacement without reduction
+----------------------------------------------------------------------------------------------------
+patient_id: B293
+patient_age: 57
+earache_present: False
+tinnitus_present : True
+vertigo_present 
+hearing_loss_score: 0
+joint_pain_areas: right hip
+adverse_reactions: IODINE
+pain_onset_date: 2 to 3 years ago
+appliance_history: orthodontics on lower teeth last year and in earlier this year the upper appliances were placed
+physical_therapy_status: biofeedback treatments
+headache_intensity:
+----------------------------------------------------------------------------------------------------
+patient_id: B293
+maximum_opening: 37mm
+jaw_crepitus: left TMJ | right TMJ
+muscle_pain_location: temporalis | masseters | posterior neck | shoulder | styloid areas | SCMs 
+muscular_tenderness_present: True
+joint_arthritis_score: Left TMJ at 20mm | Right TMJ with crepitus at 15mm
+musits_disorder_type: anterior open bite
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B293
+disc_displacement: left disc dislocation with perforations | right disc dislocations 
+headache_intensity: present
+tmj_pain_rating: 0
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite
+patient_id: B5
+joint_arthritis_location: left TMJ | right TMJ
+appliance_history: orthodontics

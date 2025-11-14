@@ -1,0 +1,38 @@
+patient_id: B279  
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly dislocated with early reduction | right disc anteriorly dislocated with early reduction
+patient_age: 48
+jaw_locking: True
+current_medications: Allegra | Zestoretic | Lipitor | Nasonex | Aranelle
+pain_onset_date: unknown
+current_appliance: mouthguard since a few months ago
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: 3
+headache_location: frontal | temple
+headache_frequency: one time a week
+tmj_pain_rating: 3
+average_daily_pain_intensity: 3
+jaw_function_score: 5
+diet_score: 1
+disability_rating: 1
+earache_present: True 
+tinnitus_present: True 
+vertigo_present: True 
+joint_pain_areas: knees | toes | left wrist
+sleep_disorder_type: daytime somnolence | snoring 
+----------------------------------------------------------------------------------------------------
+patient_id: B279  
+airway_obstruction_present: False 
+muscle_tenderness_present: True 
+muscle_pain_score: mild
+muscle_pain_location: styloid | right masseter | posterior neck area
+joint_pain_areas: left TMJ | right TMJ
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 60mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with early reduction | right disc anterior dislocation with early reduction
+headache_intensity: present
+pain_aggravating_factors: clenching | bruxism | splint
+patient_id: B279  
+patient_age: 48

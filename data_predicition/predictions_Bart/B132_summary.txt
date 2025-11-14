@@ -1,0 +1,16 @@
+patient_id: B132
+patient_age: 66
+current_medications: Dyazide | Estradiol | Synthroid | Trazodone
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+pain_aggravating_factors: clenching | bruxism
+appliance_history: orthodontics as a teenager
+----------------------------------------------------------------------------------------------------
+patient_id: B132
+sleep_disorder_type: sleep apnea | daytime somnolence | snoring 
+airway_obstruction_present: True
+patient_age: 66
+disc_displacement: right disc medial and anterior displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement | right disc anterior displacement 
+jaw_crepitus: left dislocation | right dislocation

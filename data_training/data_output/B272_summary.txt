@@ -1,0 +1,35 @@
+patient_id: B272
+patient_age: 29
+joint_arthritis_location: left TMJ | Right TMJ
+disc_displacement: left disc lateral and anterior displacement without reduction | right disc lateral and anterior displacement without reduction
+pain_onset_date: 12 years of age
+onset_triggers: kicked in the jaw by brother who was 2 years old at the time
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics from 15 to 17 | orthodontic retainers
+current_appliance: orthodontic retainer
+----------------------------------------------------------------------------------------------------
+patient_id: B272
+headache_intensity: 0
+tmj_pain_rating: 3
+average_daily_pain_intensity: 3
+jaw_function_score: 4
+diet_score: 5
+disability_rating: 5
+current_medications: none
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+pain_aggravating_factors: clenching | bruxing | anterior open bite
+current_appliance: splints
+airway_obstruction_present: True
+maximum_opening: 40mm
+jaw_clicking: right TMJ
+muscle_pain_location: left temporalis | right retromandibular
+muscle_pain_score: mild
+muscle_tenderness_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | Right TMJ
+patient_id: B272
+disc_displacement: left disc displacement without reduction | right disc displacement without reduction
+joint_pain_areas: TMJ

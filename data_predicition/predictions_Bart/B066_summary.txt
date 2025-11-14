@@ -1,0 +1,25 @@
+patient_id: B066
+patient_age: 37
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics from the age of 10 to 13 | acupuncture treatment for the past 2 years
+pain_onset_date: 9 years old 
+onsets_triggers: unknown 
+headache_intensity: 9 in the frontal, temporal, and posterior head area
+headaches_frequency: 2 to 3 times a month
+tmj_pain_rating:
+----------------------------------------------------------------------------------------------------
+patient_id: B066
+muscle_tenderness_present: True
+joint_pain_areas: left temporalis | left TMJ
+jaw_clicking: right TMJ 
+maximum_opening: 52mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B066
+disc_displacement: left disc medial displacement | right disc medial and posterior displacement 
+airway_obstruction_present: False
+----------------------------------------------------------------------------------------------------
+patient_id: B066
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medial and lateral displacement 
+patient_age: 35

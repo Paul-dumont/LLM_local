@@ -1,0 +1,46 @@
+patient_id: B522
+patient_age: 56
+current_medications: Levoxyl | Lexapro | Posture-D | Boniva
+adverse_reactions: Septra | tetracycline | penicillin
+joint_pain_areas: neck | shoulders | left TMJ | back 
+neck_pain_present: True
+depression_present: True
+appliance_history: orthodontics around 50 years ago | orthodontics again 24 years ago
+current_appliance: splints at night for 1 year until now
+physical_therapy_status: physical therapy on the neck and shoulders 1 to 2 years ago
+pain_onset_date: 2 years ago
+headache_intensity: 1
+headache_frequency: occasional 
+back_pain_present: True
+pain_aggravating_factors: clenching | bruxism
+earache_present: True
+tinnitus_present: True
+tmj_pain_rating: 5 but 8 when chewing
+average_daily_pain_intensity: 6
+jaw_function_score: 8
+diet_score: 8
+disability_rating: 6
+sleep_disorder_type: snoring
+muscle_spasm_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B522
+joint_pain_areas: left TMJ 
+muscle_pain_score: high moderate to moderate and mild
+muscle_pain_location: left masseter area | right masseter | temporalis | styloids | SCMs | shoulders
+airway_obstruction_present: False
+muscle_tenderness_present: True
+jaw_crepitus: left TMJ 
+maximum_opening: 28mm
+maximum_opening_without_pain: 15mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ 
+joint_pain_areas: left TMJ 
+pain_aggravating_factors: clenching | bruxism
+patient_id: B522
+patient_age: 56
+disc_displacement: right disc anterior and laterally displaced
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc posteriorly displaced but reduces on opening
+patient_id: B522
+

@@ -1,0 +1,50 @@
+patient_id: B268
+patient_age: 20
+current_medications: Prozac | birth control medication | naproxen
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+joint_pain_areas: left shoulder | left TMJ
+pain_aggravating_factors: clenching 
+tmj_pain_rating: 3
+headache_intensity: 4
+headache_location: temple | top of the head area
+maximum_opening: 56mm
+jaw_clicking: left TMJ
+muscle_pain_location: left masseter | left medial pterygoid | left styloid
+muscle_pain_score: mild
+muscle_tenderness_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B268
+joint_arthritis_location: left TMJ
+disc_displacement: right disc displacement | left disc dislocation
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ
+disc_displacement: right disc posterior displacement | left disc anterior displacement with with reduction
+patient_id: B268
+----------------------------------------------------------------------------------------------------
+patient_id: B268
+current_medications: hydrocodone | antibiotics
+----------------------------------------------------------------------------------------------------
+patient_id: B268
+current_appliance: splint
+jaw_crepitus: left TMJ | right TMJ
+current_medications: klonopin | ambien | birth control pills | Prozac | tramadol
+----------------------------------------------------------------------------------------------------
+patient_id: B268
+tmj_pain_rating: 2
+average_daily_pain_intensity: 5
+joint_pain_areas: left shoulder | neck | hips | knees
+neck_pain_present: True
+jaw_function_score: 2
+diet_score: 0
+disability_rating: 0
+pain_aggravating_factors: clenching 
+maximum_opening: 45mm
+muscle_pain_location: left masseter
+muscle_pain_score: moderate
+muscle_tenderness_present: True
+earache_present: True
+tinnitus_present: False
+vertigo_present: True
+hearing_loss_present: True 

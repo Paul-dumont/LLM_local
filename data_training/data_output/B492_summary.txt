@@ -1,0 +1,27 @@
+patient_id: B492
+patient_age: 32
+joint_pain_areas: Left TMJ
+appliance_history: orthodontic treatment 3 years ago in preparation for orthognathic surgery
+jaw_clicking: Left TMJ
+headache_intensity: 4
+headache_location: left posterior head area
+tmj_pain_rating: 3
+average_daily_pain_intensity: 3
+jaw_function_score: 5
+diet_score: 5
+disability_rating: 0
+current_medications: none
+earache_present: True
+tinnitus_present: True
+vertigo_present: False
+muscle_tenderness_present: False
+neck_pain_present: False
+jaw_crepitus: Left TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc may be slightly anterior and medially displaced | right disc slight anterior and medial displacement 
+patient_id: B492
+joint_pain_areas: Left TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+

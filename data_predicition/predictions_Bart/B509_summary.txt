@@ -1,0 +1,29 @@
+patient_id: B509
+patient_age: 21
+pain_onset_date: 14 years old
+joint_pain_areas: left TMJ | right TMJ 
+onsets_triggers: unknown 
+appliance_history: splint therapy beginning 7 years ago that lasted for 15 months, and 5 years ago for an additional 3 years
+physical_therapy_status: physical therapy from ages 14 to 15 and then it was repeated 5. years ago and again 3 years ago
+earache_present: True
+headache_intensity: 7
+----------------------------------------------------------------------------------------------------
+patient_id: B509
+airway_obstruction_present: True
+jaw_clicking: right TMJ
+maximum_opening: 46mm
+maximal_opening_without_pain: 20mm
+current_appliance: medium bristled toothbrush, but has now switched to soft one and Sensodyne toothpaste
+pain_aggravating_factors: gingival recession
+muscle_spasm
+----------------------------------------------------------------------------------------------------
+patient_id: B509
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation without reduction | right disc anteriorly dislocated with early reduction
+pain_aggravating_factors: anterior open bite tendency
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+patient_id: B509
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and medial displacement with reduction on opening

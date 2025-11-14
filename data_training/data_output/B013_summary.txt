@@ -1,0 +1,48 @@
+patient_id: B013
+patient_age: 41
+earache_present: True
+joint_pain_areas: left TMJ | right TMJ | shoulders | wrists | hands | fingers | spine | knees | hips
+pain_onset_date: about one year ago
+jaw_clicking: left TMJ | right TMJ
+onset_triggers: unknown
+appliance_history: orthodontic treatment beginning 3 years ago and removed 1 year and 10 months ago
+headache_intensity: 5
+headache_location: frontal | temporal | behind eyes
+tmj_pain_rating: 5
+average_daily_pain_intensity: 6
+jaw_function_score: 5
+diet_score: 1
+disability_rating: 1
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: False
+fibromyalgia_present: True
+autoimmune_condition: Hashimoto thyroiditis
+current_medications: Topamax  | Relpax | Oracea | Fish oil | Vitamin D with calcium
+----------------------------------------------------------------------------------------------------
+patient_id: B013
+pain_aggravating_factors: right posterior cross bite
+airway_obstruction_present: False
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea symptoms  
+neck_pain_present: True
+muscle_pain_score: moderate to high moderate 
+muscle_pain_location: temporalis | masseters | TMJs | styloid areas | shoulders | left SCM
+joint_pain_areas: right TMJ | left TMJ
+neck_pain_present: True
+jaw_crepitus: left TMJ | right TMJ
+maximum_opening: 50mm
+maximum_opening_without_pain: 30mm
+----------------------------------------------------------------------------------------------------
+patient_id: B013
+joint_pain_areas: TMJ
+headache_intensity: present
+fibromyalgia_present: True
+autoimmune_condition: Hashimoto thyroiditis
+pain_aggravating_factors: right posterior cross bite
+----------------------------------------------------------------------------------------------------
+patient_id: B013
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial dislocation | right disc medial dislocation 
+
+

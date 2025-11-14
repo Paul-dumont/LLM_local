@@ -1,0 +1,41 @@
+patient_id: B016
+patient_age: 38
+current_medications: Lipitor | ASA 
+adverse_reactions: penicillin
+pain_onset_date: 17 years old
+onset_triggers: unknown
+appliance_history: orthodontics ages 34 to 38
+headache_frequency: every two weeks
+headache_intensity: 4
+headache_location: frontal | temporal | top of the head
+tmj_pain_rating: 2
+average_daily_pain_intensity: 1
+jaw_function_score: 1
+diet_score: 0
+disability_rating: 3
+muscle_tenderness_present: True
+muscle_pain_score: minimal 
+muscle_pain_location: masseter | styloid areas
+earache_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: back | neck
+neck_pain_present: True
+back_pain_present: True
+jaw_clicking: left TMJ 
+maximum_opening: 53mm
+pain_aggravating_factors: left posterior crossbite
+airway_obstruction_present: True
+sleep_apnea_diagnosed: True
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea 
+----------------------------------------------------------------------------------------------------
+patient_id: B016
+joint_arthritis_present: left TMJ
+disc_displacement: left disc dislocation with early reduction
+joint_pain_areas: TMJ
+headache_intensity: present
+sleep_disorder_type: sleep apnea symptoms
+patient_age: 38
+----------------------------------------------------------------------------------------------------
+joint_arthritis_present: left TMJ
+disc_displacement: left disc anterior dislocation with early reduction

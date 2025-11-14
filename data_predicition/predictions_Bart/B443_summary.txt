@@ -1,0 +1,31 @@
+patient_id: B443
+patient_age: 64
+current_medications: Diovan | multivitamins
+joint_pain_areas: left TMJ | right TMJ
+onset_triggers: unknown
+earache_present: False
+tinnitus_present for 7 to 10 years: True
+vertigo_diagnosed: False 
+hearing_loss_score: 0
+pain_aggravating_factors: clenching | bruxism
+headache_intensity
+----------------------------------------------------------------------------------------------------
+patient_id: B443
+muscle_tenderness_present: False
+joint_pain_areas: right styloid 
+neck_triggers: left TMJ | right TMJ
+maximum_opening: 49mm
+----------------------------------------------------------------------------------------------------
+patient_id: B443
+joint_arthritis_location: right TMJ
+disc_displacement: right disc dislocation 
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+sleep_disorder_type: snoring | sleep apnea
+maximum_opening: 1mm
+----------------------------------------------------------------------------------------------------
+patient_id: B443
+joint_arthritis_location: right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc dislocation with reduction 
+patient_age: 19
+disc _displacements: right disc anteriorly displaced with reduction

@@ -1,0 +1,20 @@
+patient_id: B447
+patient_age: 14
+joint_pain_areas: left knee | right knee
+adverse_reactions: grasses | molds
+pain_onset_date: within the last 2 to 2-1/2 years 
+appliance_history: didn't pursue the braces but went back to see Dr. XXXX about two months ago
+current_medications: rhinocort nasal spray | Motrin 
+earache_present: False
+tinn
+----------------------------------------------------------------------------------------------------
+patient_id: B447
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite
+disc_displacement: left disc dislocation with reduction | right disc dislocations with reduction 
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B447
+patient_age: 14
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior and medial displacement with late reduction

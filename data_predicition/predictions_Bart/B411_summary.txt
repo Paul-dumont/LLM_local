@@ -1,0 +1,24 @@
+patient_id: B411
+patient_age: 14
+appliance_history: foot surgery for ingrown toenails x 2
+earache_present: True
+pain_aggravating_factors: clenching | grinding
+earaches_with_clicking: True 
+vertigo_disorder_type: False
+hearing_loss_score: False 
+joint_pain_areas: neck | elbows
+adverse_reactions: POLLENS | DUST | jewelry
+headache_intensity: 6
+----------------------------------------------------------------------------------------------------
+patient_id: B411
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+disc_displacement: left disc medial displacement
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_age: 35
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior and medial dislocation | right disc anterior displacement
+joint_pain_areas: left TMJ | right TMJ 
+patient_id: B4
+maximum_opening: 5mm

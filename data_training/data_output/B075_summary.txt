@@ -1,0 +1,25 @@
+patient_id: B075
+patient_age: 15
+current_medications: allergy medicines
+headache_intensity: 0
+tmj_pain_rating: 0
+tinnitus_present: False
+vertigo_present: False
+jaw_function_score: 9
+diet_score: 1
+disability_rating: 0
+pain_aggravating_factors: anterior open bite
+sleep_disorder_type: snoring | daytime somnolence
+chronic_fatigue_present: True
+airway_obstruction_present: True
+muscle_tenderness_present: True
+neck_pain_present: False
+maximum_opening: 43mm
+----------------------------------------------------------------------------------------------------
+patient_id: B075
+disc_displacement: left TMJ disc anterior displacement | right TMJ disc anterior displacement
+pain_aggravating_factors: anterior open bite
+patient_age: 17
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left TMJ disc anterior displacement with reduction | right TMJ disc anterior displacement with reduction

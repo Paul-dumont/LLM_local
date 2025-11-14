@@ -1,0 +1,31 @@
+patient_id: B232
+patient_age: 52
+current_medications: Climara patch | Prometrium
+adverse_reactions: sulfa drugs | penicillin
+sleep_apnea_diagnosed: True
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea syndrome | snoring | daytime somnolence
+pain_aggravating_factors: clenching
+cpap_used: True
+headache_intensity: present
+muscle_pain_location: shoulders | styloid areas
+muscle_pain_score: mild
+muscle_tenderness_present: True
+maximum_opening: 47mm
+----------------------------------------------------------------------------------------------------
+patient_id: B232
+airway_obstruction_present: True
+sleep_apnea_diagnosed: True
+sleep_disorder_type: sleep apnea syndrome
+headache_intensity: present
+joint_arthritis_location: left TMJ | right TMJ
+patient_age: 52
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement with reduction
+patient_id: B232
+patient_age: 52
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True

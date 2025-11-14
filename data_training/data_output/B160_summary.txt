@@ -1,0 +1,35 @@
+patient_id: B160
+patient_age: 29
+current_medications: Propecia | Allegra | Nasacort
+pain_onset_date: 15 years of age
+onset_triggers: unknown
+appliance_history: orthodontics for 2 to 4 years, finishing at 17 | palatal expander
+headache_intensity: 2
+headache_location: frontal | temporal | posterior head
+tmj_pain_rating: 2
+average_daily_pain_intensity: 0
+jaw_function_score: 7
+diet_score: 4
+disability_rating: 3
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+joint_pain_areas: left TMJ | right TMJ
+neck_pain_present: False
+back_pain_present: False
+pain_aggravating_factors: anterior open bite | bilateral posterior crossbite
+airway_obstruction_present: True
+muscle_pain_location: shoulder
+muscle_tenderness_present: True
+jaw_clicking: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B160
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+pain_aggravating_factors: anterior open bite 
+----------------------------------------------------------------------------------------------------
+patient_id: B160
+patient_age: 29
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with minimal reduction | right disc anterior dislocation with reduction

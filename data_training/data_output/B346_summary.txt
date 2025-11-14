@@ -1,0 +1,36 @@
+patient_id: B346
+patient_age: 57
+jaw_clicking: right TMJ
+pain_onset_date: earlier this year
+onset_triggers: eating a steak
+joint_pain_areas: right TMJ
+current_appliance: splints 
+pain_relieving_factors: splints 
+physical_therapy_status: acupuncture | cranio-sacral treatment
+appliance_history: splint for 2 years 
+earache_present: True 
+current_medications: Lexapro | Wellbutrin | Tylenol PM | Tylenol
+headache_intensity: 6
+headache_location: right frontal | right temporal
+headache_frequency: once a week
+tmj_pain_rating: 5
+average_daily_pain_intensity: 1
+jaw_function_score: 8
+diet_score: 6
+disability_rating: 4
+tinnitus_present: True
+vertigo_present: False
+pain_aggravating_factors: clenching | bruxism | left posterior cross bite tendency
+joint_pain_areas: right shoulder into the right arm area
+autoimmune_condition: psoriasis
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+patient_id: B346
+autoimmune_condition: psoriasis
+joint_pain_areas: right TMJ
+earache_present: True 
+patient_age: 57
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anterior displacement without reduction 
+

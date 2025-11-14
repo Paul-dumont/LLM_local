@@ -1,0 +1,23 @@
+patient_id: B360
+patient_age: 64
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: anemia | thyroid problems | low thyroid hormone
+adverse_reactions: PENICILLIN | SULFA | #5 YELLOW DYE
+pain_onset_date: age of 10 or 11
+fibromyalgia_present: True
+migraine_history: True 
+headache_intensity: 8 on the left | 7 on the right
+tmj_pain_rating:
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea | snoring | daytime somnolence
+headache_intensity: present
+tmj_pain_rating: severe
+earache_present 
+tinnitus_present
+hearing_loss_present
+----------------------------------------------------------------------------------------------------
+patient_id: B360
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with severe deformation and nonsalvagable disc | right disc dislocated medially and degenerated

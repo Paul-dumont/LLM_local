@@ -1,0 +1,29 @@
+patient_id: B511
+patient_age: 20
+appliance_history: orthodontics 5 years ago for 2 years
+pain_aggravating_factors: right subcondylar fracture | clenching | bruxism
+headache_intensity: 8, frontal | temporal 
+tmj_pain_rating: 8
+average_daily_pain-intensity: 7
+jaw_function_score: 0
+diet_score
+----------------------------------------------------------------------------------------------------
+patient_id: B511
+current_appliance: 3 x 3 retainer
+muscle_pain_location: right masseter | right temporalis | right styloid area | right posterior neck
+joint_tenderness_present: left TMJ | right TMJ
+maximum_opening: 50mm
+maximum _opening_without_pain: 34mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+joint_pain_areas: right TMJ
+headache_intensity: present
+patient_id: B511
+disc_displacement: left disc medially displaced | right disc medial displacement 
+jaw_locking: True
+headaches_frequency: right-sided
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior displacement with very early reduction | right disc anterior and medial displacement with early reduction
+joint_arthritis_location: left TMJ 
+disc_pain_rating: 0
+patient_id: B2

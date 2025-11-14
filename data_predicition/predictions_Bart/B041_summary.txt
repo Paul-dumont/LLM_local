@@ -1,0 +1,24 @@
+patient_id: B041
+patient_age: 55
+pain_onset_date: at least from a symptom standpoint at the age of 50 
+joint_pain_areas: left TMJ | right hip | left knee | left shoulder | right TMJ
+onsets_triggers: unknown except clenching and bruxism
+appliance_history: splint therapy 3 years ago | orthodontic treatment since that time | multiple orthodentic adjustments and splint adjustments without resolution
+----------------------------------------------------------------------------------------------------
+patient_id: B041
+pain_aggravating_factors: posterior cross bite on the left side
+maximum_opening: 24mm
+jaw_clicking: left TMJ | right TMJ
+current_appliance: orthodontics with back to first molars
+----------------------------------------------------------------------------------------------------
+patient_id: B041
+patient_age: 55
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: left posterior cross bite | right posterior crossbite
+maximum_opening: 24mm
+airway_obstruction_present: True
+disc_displacement: left disc displacement | right disc displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anterior displacement with possible fibrous ankylosis 
+patient_id: B5

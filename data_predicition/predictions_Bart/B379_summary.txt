@@ -1,0 +1,25 @@
+patient_id: B379
+patient_age: 20
+jaw_clicking: right TMJ
+joint_pain_areas: left TMJ | Right TMJ 
+headache_frequency: daily
+headaches_intensity: worse towards the end of the day
+tmj_locking: True
+earache_present: True, tinnitus_present and occasional vertigo
+hearing_observation: False
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+patient_id: B379
+pain_aggravating_factors: right posterior crossbite tendency
+jaw_clicking: left TMJ | right TMJ
+muscle_tenderness_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+disc_displacement: left disc medial displacement | right disc anteromedial dislocation 
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+patient_id: B379
+patient_age: 20
+joint_arthritis_location: right TMJ
+disc_displacement: right disc anterior dislocation without reduction | left disc anterior displacement with early reduction

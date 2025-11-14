@@ -1,0 +1,35 @@
+patient_id: B205
+patient_age: 42
+joint_pain_areas: right TMJ | RIGHT SHOULDER
+sleep_disorder_type: snoring
+headache_intensity: 0
+tmj_pain_rating: 10
+average_daily_pain_intensity: 9
+pain_frequency: not every single day and worse in evenings
+jaw_function_score: 3
+diet_score: 3
+disability_rating: 7
+pain_onset_date: 2 years ago
+onset_triggers: unknown
+tinnitus_present: True
+current_medications: aleve
+earache_present: False
+vertigo_present: True
+pain_aggravating_factors: clenching | bruxism | anterior open bite
+adverse_reactions: etodolac
+airway_obstruction_present: True
+muscle_pain_location: right masseter | right styloid | right SCM
+muscle_pain_score: mild
+maximum_opening: 49mm
+----------------------------------------------------------------------------------------------------
+patient_id: B205
+airway_obstruction_present: False
+pain_aggravating_factors: anterior open bite | clenching | bruxism
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B205
+patient_age: 42
+disc_displacement: left disc anterior and medial displacement with early reduction | right disc anterior and medial displacement 
+joint_arthritis_location: left TMJ | right TMJ

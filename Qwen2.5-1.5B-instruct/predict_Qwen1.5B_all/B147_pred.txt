@@ -1,0 +1,16 @@
+patient_id: B147
+maximum_opening_without_pain: unknown
+patient_age: 16 | 16
+maximum_opening: unknown
+pain_relieving_factors: unknown
+diet_score: 4
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior

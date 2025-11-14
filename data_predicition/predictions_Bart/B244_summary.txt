@@ -1,0 +1,31 @@
+patient_id: B244
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc dislocation without reduction 
+patient_age: 45
+current_medications: Amerge | Yasmin
+pain_onset_date: about 4 years ago
+onsets_triggers: unknown 
+physical_therapy_status: physical therapy at least x 2
+
+----------------------------------------------------------------------------------------------------
+patient_id: B244
+airway_obstruction_present: False
+jaw_crepitus: left TMJ | right TMJ
+muscle_pain_score: high moderate to moderate
+neck_tenderness_present : True
+maximum_opening: 44mm
+max_opening_without_pain: 30mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+appliance_history: splint therapy for the last 15 years
+tmj_pain_rating: severe 
+headache_intensity: Severe 
+earache_present: True
+tinnitus_present : True
+vertigo_presenter: True
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite
+joint_arthritis_location: left TMJ | right TMJ
+appliance_history: orthodontics 
+patient_id: B5

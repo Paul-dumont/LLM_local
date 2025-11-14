@@ -1,0 +1,27 @@
+patient_id: B152
+patient_age: 24
+pain_onset_date: age of 11 to 13
+appliance_history: orthodontics beginning around 10 or 11 and continued through the age of 17
+jaw_clicking: left TMJ | right TMJ
+headache_intensity: 0
+tmj_pain_rating: 5
+average_daily_pain _intensity: 5, jaw function | 4 | diet | 5
+ disability
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B5
+joint_pain_areas: left TMJ | right TMJ
+disc_displacement: left side almost 5mm lower than the right side in the bicuspid and first molar area
+----------------------------------------------------------------------------------------------------
+patient_id: B152
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with early reduction | right disc nonreduction 
+airway_obstruction_present: True
+pain_aggravating_factors: anterior deep bite
+patient_age: 51
+tmj_pain_rating: 0
+appliance_history: orthodontics
+----------------------------------------------------------------------------------------------------
+patient_id: B152
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc anterior and medial displacement with late reduction on opening

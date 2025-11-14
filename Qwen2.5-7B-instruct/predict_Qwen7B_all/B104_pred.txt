@@ -1,0 +1,46 @@
+patient_id: B104
+maximum_opening_without_pain: unknown
+patient_age: 20
+maximum_opening: 45mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 5
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: anterior open bite | anterior open bite
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: 3 times per week
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: very mild
+migraine_history: unknown
+headache_location: unknown
+current_appliance: splint for the past 8 months
+average_daily_pain_intensity: 7
+headache_intensity: 10 | present
+autoimmune_condition: unknown
+pain_onset_date: 14 years of age
+jaw_crepitus: unknown
+tmj_pain_rating: 10
+sleep_disorder_type: snoring | daytime somnolence
+current_medications: vivanesse | nuvaring | axert | bone maker | hydrocodone
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc medial displacement | right disc medial displacement
+muscle_pain_location: masseters | retromandibular area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics beginning at age of 8 | fixed appliances at age of 12 | orthodontics at age of 14
+joint_pain_areas: tmj

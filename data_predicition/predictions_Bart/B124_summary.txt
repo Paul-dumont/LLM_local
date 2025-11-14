@@ -1,0 +1,31 @@
+patient_id: B124
+patient_age: 62
+headache_frequency: daily in the afternoon between 2:00 and 5:00 p.m. 
+earache_present: True
+joint_pain_areas: left TMJ | back | neck | right shoulder | left toes
+pain_onset_date: almost 1 year ago
+current_medications: medications | bite splints
+physical_therapy_status:
+----------------------------------------------------------------------------------------------------
+patient_id: B124
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True 
+jaw_clicking: Left TMJ 
+maximum_opening: 10mm
+maximum _opening_without_pain: 5mm
+musical_therapy_status: 2 previous surgeries, one to repair a septal perforation with a temporal muscle flap and the second procedure occurred when he was in college and sustained a left zygomatic orbital fracture
+----------------------------------------------------------------------------------------------------
+patient_id: B124
+disc_displacement: left disc medial displacement with reduction | right disc dislocation with reduction 
+joint_pain_areas: TMJ
+headache_intensity: present
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: False
+----------------------------------------------------------------------------------------------------
+patient_id: B124
+patient_age: 63
+disc_displacement: left disc possible medially displaced | right disc may be anteriorly displaced 
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc in reasonably good position | right disc anteriorly displaced at the lateral aspect of the joint and perhaps slightly medially displaced

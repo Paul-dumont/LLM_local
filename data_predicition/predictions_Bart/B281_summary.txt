@@ -1,0 +1,23 @@
+patient_id: B281
+patient_age: 20
+current_medications: Nystatin | thyroid | codeine
+adverse_reactions: codeine 
+headache_intensity: 8
+joint_pain_areas: TMJ | neck | back
+earache_present: True
+tinnitus_present but not tinnitus
+vertigo_present But no hearing loss
+sleep_disorder_type: daytime somnolence
+pain_aggravating_factors: clenching
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior dislocation without reduction 
+patient_id: B281
+headache_intensity: present
+pain_aggravating_factors: clenching
+sleep_disorder_type: daytime clenching
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc dislocation 
+jaw_locking: True
+patient_id: B5

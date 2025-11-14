@@ -1,0 +1,26 @@
+patient_id: B169
+patient_age: 42
+appliance_history: orthodontics done at about the age of 12 to 14
+pain_onset_date: unknown
+current_medications: Aleve
+headache_intensity: occasional
+tmj_pain_rating: 0
+earache_present: False
+tinnitus_present : False
+vertigo_present 
+hearing_loss_score: False 
+joint_arthritis_location: right elbow | right wrist
+muscle_tenderness_present
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+patient_id: B169
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc medial and lateral displacement
+maximum_opening: 14mm
+headache_intensity: present
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+patient_id: B169
+patient_age: 42
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc anterior and medial displacement

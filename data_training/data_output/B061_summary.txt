@@ -1,0 +1,30 @@
+patient_id: B061
+patient_age: 57
+autoimmune_condition: rheumatoid arthritis
+pain_onset_date: unknown
+joint_arthritis_location: all joints | left TMJ | right TMJ
+pain_onset_date: recent
+pain_aggravating_factors: anterior open bite
+appliance_history: orthodontics as a teenager | orthodontics again in her 30s
+tmj_pain_rating: 0
+headache_intensity: 0
+jaw_function_score: 0
+diet_score: 0
+disability_rating: 0
+----------------------------------------------------------------------------------------------------
+patient_id: B061
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+maximum_opening: 34mm
+maximum_opening_without_pain: 23mm
+muscle_pain_location: around the head and neck area
+neck_pain_present: True
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True 
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: rheumatoid arthritis
+pain_aggravating_factors: anterior open bite
+----------------------------------------------------------------------------------------------------
+patient_id: B061
+patient_age: 5patient_age: 57
+joint_arthritis_location: left TMJ | right TMJ

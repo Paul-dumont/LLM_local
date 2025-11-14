@@ -1,0 +1,19 @@
+patient_id: B270
+patient_age: 15
+appliance_history: orthodontics from the age of 10 to 12
+pain_onset_date: unknown
+onset _triggers: unknown 
+airway_obstruction_present: False
+maximum_opening: 50mm
+----------------------------------------------------------------------------------------------------
+patient_id: B270
+pain_aggravating_factors: anterior crossbite
+airway_obstruction_present: False
+patient_age: 15
+disc_displacement: right disc difficult to identify
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B270
+disc_displacement: left disc posterior displacement | right disc posterior and medial displacement
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: False

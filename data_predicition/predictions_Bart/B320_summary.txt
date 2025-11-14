@@ -1,0 +1,28 @@
+patient_id: B320
+patient_age: 46
+current_medications: Advil
+adverse_reactions: amoxicillin | erythromycin | clindamycin
+pain_onset_date: unknown 
+joint_pain_areas: left TMJ | right TMJ 
+onsets_triggers: unknown
+sleep_disorder_type: snoring | daytime somnolence
+headache_frequency: in the mornings
+headaches_intensity: 4
+head
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+muscle_pain_location: styloid areas | shoulders | posterior neck | temporalis | masseters | SCMs | medial pterygoid area | left TMJ | right TMJ
+jaw_clicking: none
+maximum_opening: 55mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction 
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms 
+tmj_pain_rating: 0
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B320
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anterior and medial displacement without reduction 
+maximum_opening: 5mm

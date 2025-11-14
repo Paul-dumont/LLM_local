@@ -1,0 +1,26 @@
+patient_id: B396
+patient_age: 23
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and lateral displacement | right disc anteriorly and laterally displaced
+----------------------------------------------------------------------------------------------------
+patient_id: B396
+patient_age: 23
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: 5
+current_medications: birth control pills | Aleve | Nasonex | Claritin 
+earache_present: True
+tinnitus_present : True
+vertigo_present%: True
+hearing_loss_rating: 0
+pain_onset_date: age of 10
+onset
+----------------------------------------------------------------------------------------------------
+patient_id: B396
+sleep_disorder_type: daytime somnolence
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True 
+muscular_therapy_status: high moderate to mild over shoulders | masseters | SCMs | medial pterygoids
+jaw_crepitus: left posterior cross crepitus with alternating from side-to-side and at other times it will be on the right side but it seems to be more prevalent on the left
+maximum_opening: 50mm
+current_appliance: orthodontics
+headache_intensity: present

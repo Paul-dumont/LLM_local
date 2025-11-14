@@ -1,0 +1,23 @@
+patient_id: B193
+patient_age: 40
+pain_onset_date: 30 years of age
+appliance_history: orthodontic treatment from 13 to 16 
+earache_present: True
+joint_pain_areas: right TMJ | left TMJ
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea | sleep disorder
+headache_intensity: 6
+head
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B193
+jaw_clicking: jaw joints
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea
+headache_intensity: present
+tmj_pain_rating: severe
+earache_frequency: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction 
+patient_id: B4
+maximum_opening: 8mm

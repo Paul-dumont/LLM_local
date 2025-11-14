@@ -1,0 +1,21 @@
+patient_id: B487
+patient_age: 9
+jaw_clicking: left TMJ | right TMJ
+pain_onset_date: age of 9 years of unknown 
+current_medications: none
+headache_intensity: 0
+tmj_pain_rating: 2
+average_daily_pain-intensity: 1
+joint_pain _areas: TMJs
+muscle_tenderness_present: True
+maximum_opening: 45mm
+----------------------------------------------------------------------------------------------------
+patient_id: B487
+disc_displacement: left disc medial displacement | right disc anterior displacement
+joint_pain_areas: left TMJ | right TMJ
+pain_aggravating_factors: dystonic mandibular movement
+patient_age: 26
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc possible slight anterior displacement at the lateral aspect of the joint on the left side
+joint_pain_areas: left TMJ | right TMJ
+patient_id: B5

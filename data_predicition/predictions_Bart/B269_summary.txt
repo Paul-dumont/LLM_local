@@ -1,0 +1,31 @@
+patient_id: B269
+patient_age: 46
+pain_onset_date: 4-1/2 weeks ago
+jaw_locking: True
+current_medications: Norflex | lisinopril
+muscle_pain_location: right masseter
+earache_present: False
+tinnitus_present:' False
+vertigo_present '
+----------------------------------------------------------------------------------------------------
+patient_id: B269
+joint_arthritis_location: left TMJ | right TMJ
+muscle_pain_score: more muscle related
+pain_aggravating_factors: left posterior crosscurrents
+----------------------------------------------------------------------------------------------------
+patient_id: B269
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc disloction 
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: False
+current_medications: Klonopin
+patient_age: 46
+----------------------------------------------------------------------------------------------------
+patient_id: B269
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocated anteriorly and perhaps laterally with minimal translation | right disc anteriorly displaced in a vertical orientation
+----------------------------------------------------------------------------------------------------
+patient_id: B269
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc anteriorly displaced articular disc creating a closed lock | right disc anterior displacement
+jaw_locking: True

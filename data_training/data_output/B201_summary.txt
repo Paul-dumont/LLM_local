@@ -1,0 +1,34 @@
+patient_id: B201
+patient_age: 52
+pain_onset_date: 2 weeks ago
+onset_triggers: brushing teeth
+current_medications: Ibuprofen | Skelaxin | Aciphex | Cozaar
+headache_intensity: 7
+headache_frequency: daily
+headache_location: frontal | temporal | back of the head
+tmj_pain_rating: 8
+average_daily_pain_intensity: 6
+jaw_function_score: 8
+diet_score: 8
+disability_rating: 6
+earache_present: False
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: True 
+joint_pain_areas: left TMJ | right TMJ
+pain_aggravating_factors: clenching
+muscle_pain_location: masseters | right retromolar area | right SCM
+muscle_pain_score: moderate to mild
+muscle_tenderness_present: True
+maximum_opening: 28mm
+maximum_opening_without_pain: 21mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior dislocation on with reduction | right disc medial dislocation
+jaw_locking: True
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_id: B201
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior displacement with reduction | right disc lateral dislocation without reduction
+joint_arthritis_location: left TMJ | right TMJ

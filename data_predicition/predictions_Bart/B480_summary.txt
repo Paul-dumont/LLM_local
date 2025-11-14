@@ -1,0 +1,21 @@
+patient_id: B480
+patient_age: 27
+migraine_history: True
+jaw_clicking: left TMJ | right TMJ
+pain_onset_date: as early as 10 years of age but more severe by the age of 26
+appliance_ history: orthodontics from 15 to 9 years ago with extraction of four first bicuspids | splint since 2 years ago
+physical_therapy_status: lots of physical therapy including Feldenkrais techniques | Alexander techniques
+current_
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B480
+autoimmune_condition: reactive arthritis versus connective tissue autoimmune disease
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+patient_id: B480
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteromedially displaced
+autoimmune_condition: connective tissue autoimmune disease such as rheumatoid arthritis 
+patient_age: 48

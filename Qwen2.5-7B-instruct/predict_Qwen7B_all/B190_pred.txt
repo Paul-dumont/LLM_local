@@ -1,0 +1,46 @@
+patient_id: B190
+maximum_opening_without_pain: 29mm
+patient_age: 20
+maximum_opening: 51mm
+pain_relieving_factors: unknown
+diet_score: 4
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: moderate to high
+migraine_history: unknown
+headache_location: temporal
+current_appliance: orthodontics since 18 months ago
+average_daily_pain_intensity: 4
+headache_intensity: 1
+autoimmune_condition: unknown
+pain_onset_date: 12 years of age
+jaw_crepitus: unknown
+tmj_pain_rating: 6
+sleep_disorder_type: unknown
+current_medications: nexium | synthroid | singulair | allegra | celebrex | nasonex nasal spray | vicodin | skelaxin
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior displacement without reduction | left disc anterior displacement | right disc dislocation without reduction
+muscle_pain_location: masseters | retromandibular area | temporalis | shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: phase 1 orthodontics from 9 to 12 years | splints x2 from 13 to 15 | head gear for almost 2 years
+joint_pain_areas: tmj | right shoulder

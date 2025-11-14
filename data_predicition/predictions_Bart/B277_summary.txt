@@ -1,0 +1,31 @@
+patient_id: B277
+disc_displacement: left disc medial displacement with reduction | right disc anterior and medial dislocation with reduction
+airway_obstruction_present: False
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B277
+patient_age: 16
+disc_displacement: left disc dislocation | right disc dislocations
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: 4 but can escalate to 6 and can go up to 9 to 10 
+headaches_frequency: once or twice a week at about a level of 4 on the average in the frontal and temple areas and behind her eyes
+tmj.pain_aggravating_factors: clenching
+current_appliance: orthodontics
+----------------------------------------------------------------------------------------------------
+patient_id: B277
+current_medications: Ibuprofen | Yasmin
+jaw_pain_areas: left TMJ | right TMJ
+headache_intensity: present
+appliance_history: 3 x 3 retainer in the lower anterior arch
+pain_aggravating_factors: anterior crossbite
+airway_obstruction_present: False
+muscle_tenderness_location: temporalis | masseters | left styloid | right SCM area
+neck
+----------------------------------------------------------------------------------------------------
+patient_id: B277
+current_appliance: 3 x 3 retainer with broken lower arch | 2 x 2 retainer in upper arch
+pain_aggravating_factors: anterior crossbite
+joint_pain_areas: TMJ
+headache_intensity: present
+airway_obstruction_present: True
+disc_displacement: left disc dislocation with early reduction | right disc dislocated with early reductio

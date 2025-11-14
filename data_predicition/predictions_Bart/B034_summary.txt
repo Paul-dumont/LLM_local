@@ -1,0 +1,25 @@
+patient_id: B034
+patient_age: 32
+pain_onset_date: 8 years ago at the age of 25
+jaw_clicking: right TMJ
+appliance_history: orthodontics from year of 25 to two months ago | orthodonics and splints 2 months ago to one month ago | 3 splints since 1 month ago
+joint_pain_areas: right side of head | right neck | right shoulder | right temporalis | right medial pterygoid | right retromandibular area | right shoulders
+muscle_tenderness_present: True
+headache_intensity: 10 on the right side in the frontal, temporal, and posterior head area
+tmj_locking: True 
+maximum_opening: 31mm
+current_medications: Vyvanse | Synthroid | Reglan | Mobic | Fioricet | Triximet | Xanax | Xanax
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+patient_id: B034
+jaw_clicking: Left TMJ 
+autoimmune_condition: hypothyroidism
+current_medications: thyroid medicine since that time
+headache_intensity: Severe
+tmj_pain_rating: severe
+pain_aggravating_factors: dental caries in the mandibular left and maxillary left second molars
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced with early reduction | right disc anterior and lateral displacement without reduction 
+patient_id: B5

@@ -1,0 +1,46 @@
+patient_id: B264
+maximum_opening_without_pain: 42mm
+patient_age: 59
+maximum_opening: 45mm
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism | posterior open bite | right posterior open bite | left posterior open bite
+physical_therapy_status: physical therapy one day a week
+earache_present: false
+onset_triggers: root canal done
+adverse_reactions: environmental | ceclor | vancomycin | horse serum | any medication made from horse serum | fluorescein dye 10% | sulfa | oral pain medication
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: cipro | vancomycin | synercid
+muscle_pain_score: mild
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: present
+autoimmune_condition: unknown
+pain_onset_date: age of 21
+jaw_crepitus: right tmj
+tmj_pain_rating: 0
+sleep_disorder_type: sleep disorder
+current_medications: synthroid | protonix | zetia | corgard | soma | robaxin | vitamin e | darvocet | tylenol | estrogen injection | ambien
+disc_displacement: left disc anteriorly and laterally displaced without reduction | right disc dislocation | left disc dislocation
+muscle_pain_location: right temporalis | right styloid area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splints for 20 years | orthodontics for 5 years
+joint_pain_areas: tmj | neck | back | fingers | feet | right tmj | left tmj

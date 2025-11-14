@@ -1,0 +1,18 @@
+patient_id: B025
+patient_age: 13
+pain_onset_date: unknown
+appliance_history: orthodontics from about the second grade through the fifth grade | expanders | head gear for 1-1/2 years | braces for 5 years
+headache_intensity: 3
+tmj_pain_rating: 0
+average_opening: 51mm
+muscle_tenderness_present: False
+neck_
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B025
+airway_obstruction_present: True
+disc_displacement: left disc anterior displacement | right disc anterior and medial displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc anterior and medial displacement with early reduction 
+patient_id: B5

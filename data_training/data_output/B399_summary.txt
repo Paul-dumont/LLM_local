@@ -1,0 +1,32 @@
+patient_id: B399 
+patient_age: 60
+joint_pain_areas: left TMJ | right TMJ
+jaw_locking: True
+sleep_disorder_type: daytime somnolence | snoring 
+pain_onset_date: 2-3 months ago
+onset_triggers: endodontic treatment
+current_medications: Lipitor | Motrin | Lisinopril | Hyzaar 
+tmj_pain_rating: 6
+average_daily_pain_intensity: 7
+jaw_function_score: 6
+disability_rating: 0
+headache_intensity: 3
+headache_location: left side
+muscle_tenderness_present: False
+maximum_opening: 37mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B399 
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc dislocation without reduction 
+sleep_apnea_diagnosed: True
+sleep_disorder_type: sleep apnea 
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B399 
+disc_displacement: left disc anterior displacement without reduction | right disc medial displacement without reduction
+
+
+

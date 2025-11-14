@@ -1,0 +1,46 @@
+patient_id: B471
+patient_age: 39
+current_medications: Tylenol | Advil
+joint_pain_areas: TMJ
+headache_intensity: present
+muscle_pain_score: present
+sleep_disorder_type: snoring
+pain_onset_date: teenage years
+onset_triggers: unknown 
+appliance_history: bite splints in high school | orthodontics as a teenager
+earache_present: False
+tinnitus_present: False
+vertigo_present: True
+joint_pain_areas: left TMJ | right TMJ
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: 5
+headache_location: left temporal | right temporal 
+tmj_pain_rating: 5
+average_daily_pain_intensity: 5
+jaw_function_score: 6
+diet_score: 6
+disability_rating: 7
+----------------------------------------------------------------------------------------------------
+patient_id: B471
+pain_aggravating_factors: right posterior cross bite | left posterior cross bite tendency | anterior open bite
+jaw_clicking: right TMJ
+muscle_pain_score: mild to moderate
+muscle_pain_location: temporalis | masseters | styloid areas | right medial pterygoid area
+joint_pain_areas: TMJ
+maximum_opening: 30mm
+maximum_opening_without_pain: 25mm
+----------------------------------------------------------------------------------------------------
+patient_id: B471
+pain_aggravating_factors: right posterior cross bite | anterior open bite
+sleep_disorder_type: snoring | sleep apnea symptoms
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B471
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly and medially displaced without reduction | right disc dislocation without reduction
+
+
+
+
+

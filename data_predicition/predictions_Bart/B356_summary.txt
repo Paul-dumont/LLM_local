@@ -1,0 +1,23 @@
+patient_id: B356
+patient_age: 16
+pain_onset_date: 1-1/2 years ago
+jaw_clicking: left TMJ | right TMJ
+joint_pain_areas: jaw joints
+appliance_history: splint therapy
+current_medications: ibuprofen 
+headache_intensity: 8, 6 and 8 on the left side throughout the head area | 6 on the right side
+headaches_frequency: continuous
+tmj
+----------------------------------------------------------------------------------------------------
+patient_id: B356
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anteriorly displaced without reduction
+tmj_pain_rating: Severe 
+headache_intensity: severe 
+pain_aggravating_factors: left posterior crossbite tendency | right posterior cross bite tendency
+patient_age: 30
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anteriorly displaced without reduction 
+patient_id: B270
+jaw_locking: True

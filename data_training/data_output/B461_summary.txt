@@ -1,0 +1,44 @@
+patient_id: B461
+patient_age: 58
+pain_onset_date: about 3 years ago 
+onset_triggers: unknown
+appliance_history: orthodontics since 3 years ago | nightguards from this year to 3 years ago
+current_appliance: removable splint
+headache_intensity: 5
+headache_location: right frontal | temple | posterior head
+headache_frequency: constant
+tmj_pain_rating: 9
+average_daily_pain_intensity: 4
+jaw_function_score: 6
+diet_score: 6
+disability_rating: 7
+current_medications: tricor | alphagan
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+adverse_reactions: sulfa | food | environmental | plants
+pain_aggravating_factors: clenching
+sleep_disorder_type: snoring | daytime somnolence
+jaw_clicking: left TMJ | right TMJ
+joint_pain_areas: jaws
+----------------------------------------------------------------------------------------------------
+patient_id: B461
+jaw_clicking: left TMJ | right TMJ
+muscle_tenderness_present: False
+maximum_opening: 55mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B461
+disc_displacement: left disc lateral dislocation | right disc lateral dislocation 
+joint_pain_areas: TMJ
+headache_intensity: present
+earache_present: True
+sleep_disorder_type: snoring
+----------------------------------------------------------------------------------------------------
+patient_id: B461
+patient_age: 58
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc somewhat lateral dislocation 
+
+
+

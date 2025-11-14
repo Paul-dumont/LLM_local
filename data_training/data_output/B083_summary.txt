@@ -1,0 +1,36 @@
+patient_id: B083
+patient_age: 20
+migraine_history: True
+current_medications: Imitrex | Yaz
+pain_onset_date: 8th grade
+jaw_clicking: left TMJ
+appliance_history: orthodontics from age of 11 to 13
+current_appliance: mouth guard to wear at nigh
+pain_aggravating_factors: bruxism | clenching
+headache_intensity: 9
+headache_frequency: 2 to 3 times per week
+headache_location: frontal | temporal | behind eyes
+average_daily_pain_intensity: 5
+diet_score: 6
+tmj_pain_rating: 6
+disability_rating: 5
+jaw_function_score: 7
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: ankles | back
+back_pain_present: True
+muscle_pain_score: moderate
+muscle_pain_location: left masseter
+neck_pain_present: False
+maximum_opening: 48mm
+----------------------------------------------------------------------------------------------------
+patient_id: B083
+joint_pain_areas: right TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B083
+patient_age: 20
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anteriorly displaced with partial reduction

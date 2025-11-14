@@ -1,0 +1,34 @@
+patient_id: B258 
+patient_age: 54
+current_medications: soma | Lipitor | fiorinal
+headache_intensity: severe, 10
+headache_frequency: constant
+headache_location: left side of the face from temple and downward | left temple
+pain_onset_date: 44 years of age
+onset_triggers: unknown
+tmj_pain_rating: 5
+average_daily_pain_intensity: 10
+jaw_function_score: 5
+diet_score: 3
+disability_rating: 10
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+joint_pain_areas: knees
+pain_aggravating_factors: clenching | bruxing
+airway_obstruction_present: False
+muscle_tenderness_present: False
+maximum_opening: 45mm
+maximum_opening_without_pain: 33mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc dislocations without reduction | right disc dislocations without reduction
+sleep_disorder_type: snoring
+headache_intensity: severe
+headache_frequency: constant
+headache_location: left side
+joint_pain_areas: left TMJ | Right TMJ
+patient_age: 54
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc anterior displacement | right disc anterior and medial dislocation

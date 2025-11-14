@@ -1,0 +1,24 @@
+patient_id: B429
+patient_age: 8
+earache_present: True
+tinnitus_present : True
+vertigo_diagnosed: False
+pain_aggravating_factors: clenching | bruxism 
+current_medications: Motrin 
+headache_intensity: 5, but usually at night at an hour before she goes to bed
+tmj_pain_rating: 0
+average_daily_pain level: 5
+diet_score: 0.
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_pain_areas: TMJ
+headache_intensity: Severe 
+tmj_disorder_type: disc dislocation without reduction | occasional reduction
+sleep_apnea_diagnosed: probable sleep apnea syndrome
+earache_presenter: Tinnitus 
+patient_id: B419
+----------------------------------------------------------------------------------------------------
+patient_id: B429
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior dislocation without reduction 
+airway_obstruction_present: True

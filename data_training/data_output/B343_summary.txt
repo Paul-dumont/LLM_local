@@ -1,0 +1,40 @@
+patient_id: B343
+patient_age: 17
+current_medications: singulair | albuterol inhaler | Zyrtec | advil | Tylenol | alleve
+headache_intensity: present
+joint_pain_areas: TMJ
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+adverse_reactions: pollen | hayfever | animal dander
+headache_intensity: 2 but can escalate to 10
+headache_location: entire head
+headache_frequency: daily
+tmj_pain_rating: 5
+average_daily_pain_intensity: 5
+jaw_function_score: 5
+diet_score: 7
+disability_rating: 4
+pain_aggravating_factors: right posterior cross bite
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False 
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: very severe to mild
+muscle_pain_location: right styloid | right masseter | right temporalis | left masseter | left styloid area | posterior neck | left temporalis
+muscle_tenderness_present: True
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 57mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True 
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction 
+pain_aggravating_factors: right posterior cross bite
+headache_intensity: present
+joint_pain_areas: TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B343
+patient_age: 17
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc anterior dislocation with late reduction 
+----------------------------------------------------------------------------------------------------

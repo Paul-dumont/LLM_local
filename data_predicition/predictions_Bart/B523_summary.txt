@@ -1,0 +1,20 @@
+patient_id: B523
+patient_age: 31
+pain_onset_date: 10 years old
+onsets_triggers: unknown 
+appliance_history: orthodontics 16 years ago to present | splint 18 years ago through the present
+physical_therapy_status: physical therapy after each of her surgical procedures | Botox injections and PRP injections last month
+headache_intensity: 7 in the right side in the frontotemporal area
+headaches_frequency: 6 to 10 times a day
+tmj_pain_rating: 9
+average_daily_
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ | right TMJ
+headache_intensity: present
+patient_id: B523
+disc_displacement: left disc moderate translation
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with repair with Mitek anchors | right disc  dislocation without repair with mitek anchor
+pain_aggravating_factors: inflammation within the right joint particularly involving the condylar head

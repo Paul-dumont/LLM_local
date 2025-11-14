@@ -1,0 +1,31 @@
+patient_id: B291
+patient_age: 17
+current_medications: Excedrin 
+migraine_history: True
+pain_aggravating_factors: clenching | grinding
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea symptoms
+headache_intensity: 6 to 7
+tmj_pain_rating: 0
+headaches_location: forehead | temporal | head | shoulders
+back_ pain_present: True
+----------------------------------------------------------------------------------------------------
+muscle_tenderness_present: False
+maximum_opening: 54mm
+headache_intensity: 7
+tmj_pain_rating: 0
+average_daily_medications_frequency: 2
+jaw_function_score: 1
+diet_disability_rating : 0
+physical_therapy_status: none
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B291
+airway_obstruction_present: True
+pain_aggravating_factors: left posterior cross bite | right posterior crossbite
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B291
+patient_age: 17
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc dislocation with reduction

@@ -1,0 +1,29 @@
+patient_id: B398 
+patient_age: 29
+current_medications: none
+pain_onset_date: four years ago
+onset_triggers: unknown 
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: back 
+back_pain_present: True
+headache_intensity: 0
+tmj_pain_rating: 6
+average_daily_pain_intensity: 3
+jaw_function_score: 2
+diet_score: 0
+disability_rating: 1
+maximum_opening: 44mm
+maximum_opening_without_pain: 26mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation 
+airway_obstruction_present: True
+joint_pain_areas: TMJ
+patient_id: B398 
+patient_age: 29
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation | right disc anterior dislocation without reduction

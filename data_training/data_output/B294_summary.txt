@@ -1,0 +1,32 @@
+patient_id: B294
+joint_arthritis_location: left TMJ
+patient_age: 18
+pain_onset_date: last year
+onset_triggers: motor vehicle accident sustaining trauma to head, face, skull, and left TMJ
+current_medications: Genotropin | ddavp | Aricept | birth control pill | ibuprofen | norco
+earache_present: False
+tinnitus_present: False
+vertigo_present: True
+patient_id: B294
+headache_intensity: 9
+headache_location: left frontal | left temporal
+headache_frequency: daily
+tmj_pain_rating: 8
+average_daily_pain_intensity: 9
+jaw_function_score: 4
+diet_score: 3
+disability_rating: 3
+maximum_opening: 40mm
+maximum_opening_without_pain: 30mm
+joint_pain_areas: left TMJ
+muscle_pain_score: left temporalis | left retromandibular area | right temporalis
+muscle_pain_location: high moderate
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ
+airway_obstruction_present: True
+disc_displacement: left disc dislocation without deformation
+tmj_pain_rating: severe
+joint_pain_areas: TMJ
+headache_intensity: severe
+pain_aggravating_factors: clenching | bruxism
+

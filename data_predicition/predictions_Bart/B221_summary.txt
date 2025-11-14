@@ -1,0 +1,30 @@
+patient_id: B221
+patient_age: 28
+current_medications: Effexor XR | MiraLax | Advil 
+headache_intensity: 7
+pain_onset_date: 8 years ago
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics at the age of 20 | 5 splints
+physical_therapy_status: physical therapy x2 rounds
+
+----------------------------------------------------------------------------------------------------
+patient_id: B221
+sleep_disorder_type: snoring | daytime somnolence
+muscle_tenderness_present: False
+jaw_crepitus: left TMJ | right TMJ 
+maximum_opening: 45mm
+max_opening_without_pain: 38mm
+neck_pain_score: 0
+joint_arthritis_location: neck | right hip | left hip
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B221
+disc_displacement: left disc anteriorly displaced and sitting down towards the inferior aspect of the articular eminence
+tmj_pain_rating: 8
+headache_intensity: present
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc anterior displacement 
+jaw_crepitus: left articular disc dislocations | right articular disk dislocation

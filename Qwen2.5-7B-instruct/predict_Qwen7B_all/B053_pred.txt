@@ -1,0 +1,46 @@
+patient_id: B053
+maximum_opening_without_pain: 25mm
+patient_age: 67
+maximum_opening: 46mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 2
+sleep_apnea_diagnosed: true
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: cranial osteopathy
+earache_present: false
+onset_triggers: childbirth and an extended difficult labor
+adverse_reactions: gluten | soy | dairy | eggs | sugar | penicillin | sulfa
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: true
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: frontal | top of head | temple
+current_appliance: jpap
+average_daily_pain_intensity: 2
+headache_intensity: 4
+autoimmune_condition: unknown
+pain_onset_date: age of 27
+jaw_crepitus: left tmj
+tmj_pain_rating: 4
+sleep_disorder_type: sleep apnea | sleep-related pac | possible sleep-related epilepsy | alpha intrusion | abnormal edss scores | hypnotic dependent sleep disorder | depression/anxiety | menopausal on hrt | hypothyroidism on hrt | tmj disease | colon polyps | gerd
+current_medications: armour thyroid | estradiol | medroxyprogesterone | vitamin d3
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement with early reduction
+muscle_pain_location: temporalis | masseter | scms
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: knees | shoulders | hands | left tmj | right tmj

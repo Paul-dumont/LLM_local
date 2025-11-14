@@ -1,0 +1,28 @@
+patient_id: B451
+patient_age: 44
+jaw_locking: True
+sleep_disorder_type: sleep apnea
+pain_aggravating_factors: open lock
+appliance_history: orthodontic treatment from 20 to 23 years of age | cheek implants
+headache_intensity: 10
+tmj_pain_rating: 0 but masseter_pain  at a level of 10
+----------------------------------------------------------------------------------------------------
+muscle_pain_score: high moderate to moderate 
+joint_arthritis_location: left TMJ | right TMJ
+maximum_opening: 44mm
+maximum _opening_without_pain: 35mm
+muscle pain_aggravating_factors: posterior crossbite tendency
+neck_tenderness_present: True
+jaw_clicking: left temporalis | left SCMs
+musits_pain distribution: masseter | posterior neck | temporalis and SCMs
+----------------------------------------------------------------------------------------------------
+patient_id: B451
+disc_displacement: left disc anterior dislocation | right disc lateral displacement
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_age: 44
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc lateral dislocation | right disc medial dislocation 
+patient_id: B2187
+jaw_locking: True

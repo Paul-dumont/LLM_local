@@ -1,0 +1,21 @@
+patient_id: B139
+patient_age: 14
+appliance_history: orthodontics began one year and seven months ago and have been off for 18 months
+jaw_clicking: left TMJ | right TMJ
+current_medications: none
+joint_pain_areas: hip | knees
+headache_intensity: 3, but on an average day she does not really have any pain problems
+tmj_average_daily_pain _
+----------------------------------------------------------------------------------------------------
+patient_id: B139
+disc_displacement: right disc dislocation with inconsistent reduction
+airway_obstruction_present: True
+joint_pain_areas: TMJ
+headache_intensity: present
+pain_aggravating_factors: anterior crossbite
+----------------------------------------------------------------------------------------------------
+patient_id: B139
+patient_age: 14
+disc_displacement: right disc anterior displacement without reduction
+appliance_history: orthodontics
+pain_aggravating_factors: right posterior crossbite tendency

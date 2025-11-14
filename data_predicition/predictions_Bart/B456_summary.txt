@@ -1,0 +1,24 @@
+patient_id: B456
+patient_age: 43
+appliance_history: splint for a year
+pain_onset_date: little over three years ago
+physical_therapy_status: physical therapy | acupuncture | manipulations | water therapy | hands on treatment
+current_medications: numerous medications
+headache_intensity: 8 but can easily escalate to 10
+tmj_pain_rating: 5
+jaw_function_score: 4
+diet_score
+----------------------------------------------------------------------------------------------------
+patient_id: B456
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: right disc displacement | left disc dislocation with reduction 
+headache_intensity: Severe 
+tmj_pain_rating: severe 
+earache_present: True
+tinnitus_present : True
+sleep_disorder_type: daytime somnolence
+appliance_history: orthodontics
+----------------------------------------------------------------------------------------------------
+patient_id: B456
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior and medial dislocation without reduction

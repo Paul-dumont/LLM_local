@@ -1,0 +1,31 @@
+patient_id: B461
+patient_age: 58
+pain_onset_date: 3 years ago
+joint_pain_areas: right TMJ | left TMJ
+appliance_history: orthodontics since 3.5 years ago | nightguards from this year to last year | removable splint earlier this year
+headache_intensity: 5
+headaches_location: right frontal | temple | posterior head | right side
+tmj_pain
+----------------------------------------------------------------------------------------------------
+patient_id: B461
+airway_obstruction_present: False
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 55mm
+muscle_tenderness_score: 0
+neck_pain_location: none 
+maximum sustained_opening_without_pain: 20mm
+----------------------------------------------------------------------------------------------------
+patient_id: B461
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc lateral displacement | right disc lateral dislocation 
+airway_obstruction_present: True
+jaw_clicking: right jaw joint compatible with the displacement of the disc
+headache_intensity: present
+tmj_pain_rating: 0
+earache_frequency: right earache
+sleep_disorder_type: snoring
+----------------------------------------------------------------------------------------------------
+patient_id: B461
+patient_age: 58
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced with good reduction | right disc possible lateral displacement

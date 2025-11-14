@@ -1,0 +1,26 @@
+patient_id: B019
+patient_age: 22
+pain_onset_date: 18 years old
+appliance_history: orthodontics with head gear age of 12 to 15
+jaw_clicking: left TMJ | right TMJ
+headaches_intensity: 0
+tmj_pain_rating: 4
+jaw_function_score: 5
+diet_score: 0
+disability_rating: 0
+current_medications: none
+joint_pain_areas: foot
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+pain_aggravating_factors: clenching 
+airway_obstruction_present: True
+muscle_tenderness_present: False
+maximum_opening: 56mm
+----------------------------------------------------------------------------------------------------
+patient_id: B019
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+joint_pain_areas: TMJ

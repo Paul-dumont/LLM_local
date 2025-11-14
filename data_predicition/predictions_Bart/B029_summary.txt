@@ -1,0 +1,20 @@
+patient_id: B029
+patient_age: 21
+pain_onset_date: 18 years of age, 3 years ago
+jaw_clicking: left TMJ | right TMJ
+appliance_history: two occlusal splints made by Dr. XXXX for the last 9 months
+current_medications: Advil | Aleve
+headache_intensity: 5
+headaches_frequency: one to two times per week
+tmj_pain_rating: 8
+average_daily_pain
+----------------------------------------------------------------------------------------------------
+patient_id: B029
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anterior displacement with early reduction 
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+patient_id: B029
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with late reduction | right disc anterior and posterior displacement with early reduction

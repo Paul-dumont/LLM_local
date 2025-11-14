@@ -1,0 +1,24 @@
+patient_id: B308
+patient_age: 40
+headache_intensity: 0
+tmj_pain_rating: 0 
+earache_present: False
+tinnitus_present : False
+vertigo_diagnosed: False 
+hearing_loss_type: hearing loss
+joint_arthritis_location: left shoulder | ankles
+pain_aggravating_factors: clenching | bruxism
+jaw_locking: True
+appliance_history: orthodontics
+
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B308
+pain_aggravating_factors: left posterior crossbite | right posterior cross bite
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior dislocation with reduction
+----------------------------------------------------------------------------------------------------
+patient_id: B308
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and medial displacement with reduction 
+jaw_locking: True

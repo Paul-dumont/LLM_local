@@ -1,0 +1,57 @@
+patient_id: B274
+patient_age: 69
+current_appliance: dentures | splints
+headache_intensity: present
+earache_present: True
+tinnitus_present:'True
+vertigo_present': True
+joint_pain_areas: left TMJ | right TMJ
+pain_onset_date: 64 years of age
+onsets_triggers: having teeth extracted 5 years ago
+tmj
+----------------------------------------------------------------------------------------------------
+patient_id: B274
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteromedial displacement with early reduction | right disc anterior and medial dislocation 
+headache_intensity: present
+tmj_pain_rating: severe
+earache_present: True
+tinnitus_present : True
+vertigo_diagnosed: False
+pain_aggravating_factors: left posterior crosscurrent
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with early reduction | right disc anteriorly dislocated
+patient_id: B274
+headache_intensity: 5
+tmj_pain_rating: 0
+muscle_tenderness_present: True 
+earache_frequency: occasional 
+tinnitus_present : True
+ver
+----------------------------------------------------------------------------------------------------
+patient_id: B274
+muscle_tenderness_present: True
+joint_pain_areas: left shoulder | left temporalis | masseter | left medial pterygoid area
+current_medications: Cymbalta | Actonel | Nexium | Gold shots 
+appliance_history: Excedrin
+----------------------------------------------------------------------------------------------------
+patient_id: B274
+pain_onset_date: 14 months ago
+muscle_pain_score: 3
+headache_location: left frontal | left temporal
+tmj_pain _rating: 3 
+average_daily_painintensity: 5
+jaw_function_score : 0
+diet_score 4
+disability_rating:3
+physical_therapy_status: magnesium in the morning | Klonopin in the evening
+----------------------------------------------------------------------------------------------------
+patient_id: B274 
+muscle_pain_location: left TMJ | right TMJ
+earache_present: True
+jaw_clicking: jaw
+headache_intensity: present
+current_medications: Prozac
+adverse_reactions: clenching | grinding
+physical_therapy_status: Klonopin 0.5 mg

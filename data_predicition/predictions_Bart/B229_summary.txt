@@ -1,0 +1,26 @@
+patient_id: B229
+patient_age: 41
+current_medications: multiple vitamins and minerals
+joint_pain_areas: left TMJ | right TMJ
+neck_stiffness_present: True
+jaw_clicking: jaw joints
+earache_frequency: frequent 
+tinnitus_present : True
+vertigo_intensity: 0
+sleep_disorder_type: daytime somnolence | sleep apnea symptoms
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc dislocation 
+pain_aggravating_factors: posterior open bite
+tmj_pain_rating: 7
+headache_intensity: present
+earache_frequency: present
+----------------------------------------------------------------------------------------------------
+patient_id: B229
+patient_age: 41
+joint_arthritis_location: left TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc lateral and medial displacement
+appliance_history: orthodontics
+pain_aggravating_factors: left posterior crossbite

@@ -1,0 +1,23 @@
+patient_id: B517
+patient_age: 32
+appliance_history: orthodontics 15 years ago | nightguard | True splints
+onset_triggers: motor vehicle accident 15 years ago where lower jaw was pushed backwards
+physical_therapy_status: physical therapy | chiropractic treatments
+current_medications: antidepressants | pain medications | muscle relaxants 
+----------------------------------------------------------------------------------------------------
+sleep_disorder_type: daytime somnolence | snoring 
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 36mm
+maximum_opening_without_pain: 23mm
+muscle_pain_score: mild to moderate 
+muscle_pain_location: right temporalis | right masseter | right styloid | right SCM | right posterior neck area
+joint_pain_areas: right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B517
+disc_displacement: left disc dislocation with reduction | right disc dislocation 
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B517  

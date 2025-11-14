@@ -1,0 +1,31 @@
+patient_id: B323
+patient_age: 13
+current_medications: Flonase | Allegra
+adverse_reactions: none
+appliance_history: orthodontics 5 years ago with headgear and palatal expander
+earache_present: False
+tinnitus_present : False
+vertigo_present 
+hearing_loss_score: 0
+joint_pain_areas: left hip | knees | ankle 
+jaw_clicking: left TMJ | right TMJ
+pain_onset_date: 1-1/2 years ago of unknown etiology
+headache_intensity: 0
+----------------------------------------------------------------------------------------------------
+patient_id: B323
+airway_obstruction_present: False
+pain_aggravating_factors: clenching | bruxism | right posterior crossbite | anterior open bite
+earache_history: True
+current_appliance: orthodontics
+patient_age: 75
+----------------------------------------------------------------------------------------------------
+disc_displacement: right disc dislocation
+pain_aggravating_factors: left posterior crossbite tendency | clenching | bruxism
+joint_pain_areas: TMJ
+patient_id: B270
+----------------------------------------------------------------------------------------------------
+patient_id: B323
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc posterior displacement with reduction | right disc anterior and medial dislocation with reduction 
+pain_aggravating_factors: orthodontics
+patient_age: 33

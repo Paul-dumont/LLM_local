@@ -1,0 +1,46 @@
+patient_id: B285
+patient_age: 18
+appliance_history: orthodontics from 11 to 12 for 2 years
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: hips
+adverse_reactions: penicillin | cephalosporins | z-pak | nickel
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: 5 daily or 9 several times a month
+headache_frequency: daily
+tmj_pain_rating: 2
+jaw_function_score: 2
+diet_score: 3
+disability_rating: 3 can be 8 with severe headache
+pain_onset_date: 3 years ago
+onset_triggers: unknown
+current_appliance: orthodontics 3 years ago | splint
+current_medications: Excedrin | motrin
+pain_relieving_factors: splint
+jaw_clicking: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: right posterior cross bite | anterior open bite
+patient_id: B285
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 54mm
+maximum_opening_without_pain: 19mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+disc_displacement: left disc dislocation with early reduction | right disc dislocation with early reduction
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B285
+pain_aggravating_factors: left posterior cross bite
+disc_displacement: left disc medial and anterior displacement with reduction | right disc medial and anterior and posterior  displacement with reduction 
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B285
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc posterior displacement | right disc posterior displacement
+joint_arthritis_location: left TMJ | right TMJ

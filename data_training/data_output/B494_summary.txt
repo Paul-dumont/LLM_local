@@ -1,0 +1,44 @@
+patient_id: B494
+pain_onset_date: 17 years old 39 years ago
+onset_triggers: might have had a fracture after falling and hitting chin
+physical_therapy_status: physical therapy throughout 20-ish years ago | massage therapy biweekly | acupuncture treatments biweekly | chiropractic treatment biweekly | x3 Lidocaine injections and trigger points in the shoulders, neck, skull and face
+appliance_history: orthodontic treatment including a Herbst appliance for 1 year
+headache_intensity: 8
+headache_location: right frontal | right temporal 
+tmj_pain_rating: 6
+average_daily_pain_intensity: 8
+jaw_function_score: 6
+diet_score: 4
+disability_rating: 8
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+joint_pain_areas: knees | toes | fingers | neck
+neck_pain_present: True
+adverse_reactions: SULFA | PENICILLIN
+autoimmune_condition: rheumatoid arthritis | Sjogren's syndrome
+depression_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+sleep_apnea_diagnosed: False
+----------------------------------------------------------------------------------------------------
+patient_id: B494
+muscle_pain_score: Moderate to milder
+muscle_pain_location: left medial pterygoid | left retromandibular area | left SCM | right shoulder | temporalis muscles | masseters | right medial pterygoid | right retromandibular area | right SCM
+muscle_tenderness_present: True
+maximum_opening: 38mm
+maximum_opening_without_pain: 35mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: True 
+autoimmune_condition: rheumatoid arthritis
+sleep_apnea_diagnosed: True
+sleep_disorder_type: Sleep apnea
+joint_pain_areas: TMJ
+headache_intensity: present
+earache_present: True
+patient_id: B494
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: rheumatoid arthritis
+
+
+

@@ -1,0 +1,35 @@
+patient_id: B242
+patient_age: 40
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterolaterally displaced with reduction | right disc anterior and lateral displacement with reduction 
+sleep_disorder_type: sleep apnea | snoring | daytime somnolence | headache 
+headache_intensity: present
+jaw_pain_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B242 
+pain_onset_date: 7 to 10 years ago
+jaw_clicking: left TMJ | right TMJ
+joint_pain_areas: jaw joints
+onsets_triggers: unknown 
+sleep_disorder_type: snoring | sleep apnea associated symptoms
+earache_present: False
+tinnitus_present:' False
+vertigo_present 'True
+hearing_loss_present
+autoimmune_condition: none
+adverse_reactions
+----------------------------------------------------------------------------------------------------
+muscle_tenderness_present: True
+airway_obstruction_score: 0
+maximum_opening: 2 to 3mm
+patient_id: B3
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B242
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with early reduction | right disc dislocation 
+headache_intensity: present
+sleep_disorder_type: snoring | sleep apnea symptoms
+tmj_pain_rating: severe 
+sleep _apnea_diagnosed: True

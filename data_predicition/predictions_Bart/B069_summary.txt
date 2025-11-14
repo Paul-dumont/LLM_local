@@ -1,0 +1,18 @@
+patient_id: B069
+patient_age: 22
+pain_onset_date: 10 or 11 years of age
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontic treatment at the age of about 10 and finished when she was about 14 | splints for about 5 or 6 years
+current_medications: Levoxyl | Portia | Excedrin 
+headache_intensity: 7
+tmj_pain_rating:
+----------------------------------------------------------------------------------------------------
+patient_id: B069
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc displacement | right disc dislocation 
+headache_intensity: present
+tmj_pain_rating: moderate to moderate
+muscle_pain _score: masseters | retromandibular areas | temporalis | posterior neck | shoulder
+jaw_clicking: right side
+appliance_history: orthodontics

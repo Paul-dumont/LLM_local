@@ -1,0 +1,22 @@
+patient_id: B405
+patient_age: 13
+joint_arthritis_location: fingers | wrists | hips | knees | feet | toes | neck | back | temporomandibular joints
+pain_onset_date: age of 6 or so
+appliance_history: orthodontic treatment 5 years ago, including such devices as a chin cup to try to pull the chin upwards into position | maxillary expander
+headache_frequency: 2 to 3 times per week
+tmj_pain_rating: 7
+average
+----------------------------------------------------------------------------------------------------
+patient_id: B405
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea 
+pain_aggravating_factors: anterior open bite
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: juvenile rheumatoid arthritis
+headache_intensity: present
+patient_age: 40
+----------------------------------------------------------------------------------------------------
+patient_id: B405
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: JAR or similar connective tissue autoimmune disease 
+disc_displacement: left disc anteriorly postured with pannus surrounding it | right disc anterior and posterior displacement

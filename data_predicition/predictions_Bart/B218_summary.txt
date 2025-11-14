@@ -1,0 +1,29 @@
+patient_id: B218
+patient_age: 52
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: 3
+headaches_frequency: occasionally at a level of 3
+tmj_physical_therapy_status: retruding lower jaw
+appliance_history: orthodontics 41 years ago with 4 bicuspids extracted and the spaces all closed
+earache_present: False
+tinnitus_present : False
+vertigo_present
+----------------------------------------------------------------------------------------------------
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 45mm
+muscle_tenderness_present: False
+sleep_disorder_type: daytime somnolence 
+joint_pain_areas: none
+j joints_crepitus: left hip | right hip 
+neck_spasm: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+pain_aggravating_factors: previous chin implant that has eroded back into the mandible
+patient_id: B387
+----------------------------------------------------------------------------------------------------
+patient_id: B218
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+muscle_pain_score: arthritic 
+maximum_opening: 10mm

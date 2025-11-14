@@ -1,0 +1,18 @@
+patient_id: B421
+pain_onset_date: as young as when she was a teenager but significant pain began in her 30s
+joint_pain_areas: left TMJ | right TMJ| hip joints | knees | left foot | lower back | neck | hips | and possibly neck
+headache_frequency: once every 2 weeks
+headaches_location: posterior head
+head headache_intensity: 7
+tmj_average: 4
+average_daily_pain
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B421
+sleep_disorder_type: sleep apnea 
+jaw_crepitus: TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and posterior displacement with some fluid in superior and inferior joint spaces
+patient_id: B270

@@ -1,0 +1,35 @@
+patient_id: B235
+patient_age: 55
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B235
+pain_onset_date: 26 years of age
+onset_triggers: car accident sustaining a hairline fracture of the condyle
+previous_medications: splint therapy from 26 to 35
+joint_pain_areas: left TMJ | Right TMJ
+sleep_disorder_type: inability to feel rested
+current_medications: Demerol | PMS-hydromorphone | PMS-clonazepam | Pennsaid | Emla cream | Pantoloc | Imitrex nasal spray | Proxigel-Lyrica | Prednisone  | Celebrex | Motrin 
+----------------------------------------------------------------------------------------------------
+patient_id: B235
+physical_therapy_status: pain management | physical therapy | counseling
+sleep_apnea_diagnosed: True
+sleep_disorder_type: sleep apnea | snoring | daytime somnolence | sleep disorder
+headache_intensity: 10
+headache_location: frontal | temporal | posterior head area
+tmj_pain_rating: 10
+average_daily_pain_intensity: 10
+jaw_function_score: 10
+diet_score: 10
+disability_rating: 10
+jaw_crepitus: left TMJ | right TMJ
+maximum_opening: 26mm
+maximum_opening_without_pain: 18mm
+muscle_pain_location: temporalis
+muscle_pain_score: extreme
+----------------------------------------------------------------------------------------------------
+patient_id: B235
+joint_arthritis_location: left TMJ | right TMJ
+headache_intensity: severe
+sleep_apnea_diagnosed: True
+sleep_disorder_type: sleep apnea
+airway_obstruction_present: True

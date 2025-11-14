@@ -1,0 +1,32 @@
+patient_id: B429
+patient_age: 8
+earache_present: True
+tinnitus_present: True
+vertigo_present: False
+current_medications: Motrin 
+headache_intensity: 5, at 10 when bad headache occurs
+headache_location: top of the head toward the posterior aspect of the top
+headache_frequency: daily | continuous
+tmj_pain_rating: 0
+average_daily_pain_intensity: 5
+diet_score: 0
+pain_aggravating_factors: left posterior crossbite | right posterior crossbite
+muscle_tenderness_present: True
+muscle_pain_score:  mild to moderate
+muscle_pain_location: temporalis | styloid area | masseters | medial pterygoids | SCMs | posterior neck | shoulders
+neck_pain_present: True
+joint_pain_areas: left TMJ | right TMJ
+jaw_clicking: left TMJ  
+disc_displacement: left disc nonreducing
+maximum_opening: 48mm
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction 
+joint_pain_areas: TMJ
+headache_intensity: Severe 
+earache_present: True
+tinnitus_present: True
+sleep_disorder_type: sleep apnea syndrome
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B429
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced without reduction 

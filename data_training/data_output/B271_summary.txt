@@ -1,0 +1,29 @@
+patient_id: B271
+patient_age: 12
+joint_arthritis_location: right TMJ
+pain_onset_date: unknown
+onset_triggers: unknown
+current_appliance: orthodontics 2 years ago
+current_medications: none
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: none
+headache_intensity: 0
+tmj_pain_rating: 0
+jaw_function_score: 0
+diet_score: 0
+disability_rating: 0
+----------------------------------------------------------------------------------------------------
+patient_id: B271
+muscle_tenderness_present: False
+joint_pain_areas: TMJ
+tmj_pain_rating: 3
+maximum_opening: 45mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B271
+airway_obstruction_present: False
+pain_aggravating_factors: anterior open bite
+joint_pain_areas: TMJ

@@ -1,0 +1,28 @@
+patient_id: B385 
+patient_age: 17
+current_appliance: orthodontics
+migraine_history: True
+appliance_history: orthodontic treatment from about the age of 10 through 16
+pain_aggravating_factors: right posterior cross bite tendency
+airway_obstruction_present: True
+muscle_tenderness_present: False
+headache_intensity: 7
+headache_location: frontal | anterior temporal
+tmj_pain_rating: 0
+average_daily_pain_intensity: 5
+jaw_function_score: 0
+diet_score: 0
+disability_rating: 0
+maximum_opening: 50mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B385 
+headache_intensity: present
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea symptoms
+disc_displacement: left disc anteromedial displacement | right disc anterior displacement
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior dislocation without reduction 
+
+
+

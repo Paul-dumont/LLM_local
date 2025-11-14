@@ -1,0 +1,54 @@
+patient_id: B280
+patient_age: 55
+neck_pain_present: True
+back_pain_present: True
+jaw_clicking: Left TMJ | Right TMJ
+current_medications: Ginseng | Ziziphus | several other Chinese herbs | Green magma angelica | Provigil | Valtrex | Lyrica | Triamcinolone cream 
+pain_onset_date: childhood 
+physical_therapy_status: Physical therapy since 23 years ago until last year | acupuncture treatments since at least 7 years ago | Chiropractic treatment for over 20 years | Reiki for at least five years | Craniosacral therapy for 10 years | Massage for over 20 years
+previous_medications: Anti-inflammatories | Muscle relaxers 
+pain_relieving_factors: massage for temporary help
+onset_triggers: unknown
+----------------------------------------------------------------------------------------------------
+jaw_locking: True
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: False
+joint_pain_areas: hips | knees | shoulders
+sleep_disorder_type: daytime somnolence
+headache_intensity: 10
+headache_location: left forehead | top of the head | behind the left eye
+tmj_pain_rating: 10
+average_daily_pain_intensity: 10
+jaw_function_score: 9
+diet_score: 3
+disability_rating: 9
+patient_id: B280
+----------------------------------------------------------------------------------------------------
+patient_id: B280
+pain_aggravating_factors: right posterior crossbite
+airway_obstruction_present: True
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: high moderate
+muscle_pain_location: styloid areas | shoulders | medial pterygoids | temporalis | posterior neck
+neck_pain_present: True
+jaw_clicking: left TMJ | right TMJ
+jaw_crepitus: left TMJ | right TMJ
+maximum_opening: 48mm
+maximum_opening_without_pain: 15mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc lateral displacement | right disc dislocations with reduction
+headache_intensity: severe
+tmj_pain_rating: severe
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | sleep disorder
+patient_id: B280
+patient_age: 55
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+disc_displacement: left disc dislocation with early reduction | right disc anteriorly dislocated but with early reduction

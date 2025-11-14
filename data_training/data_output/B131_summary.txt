@@ -1,0 +1,36 @@
+patient_id: B131
+patient_age: 25
+airway_obstruction_present: True
+appliance_history: orthodontics form 17 to 18
+jaw_clicking: TMJ since 22
+headache_intensity: 2
+headache_frequency: 1 to 2 times a week
+headache_location: temporal
+tmj_pain_rating: 0
+average_daily_pain_intensity: 0
+jaw_function_score: 0
+diet_score: 0
+disability_rating: 0
+current_medications: Allegra
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+neck_pain_present: False
+back_pain_present: False
+joint_pain_areas: none
+pain_aggravating_factors: bruxism
+sleep_apnea_diagnosed: True
+sleep_disorder_type: sleep apnea
+muscle_tenderness_present: False
+maximum_opening: 47mm
+----------------------------------------------------------------------------------------------------
+patient_id: B131
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation
+sleep_disorder_type: sleep apnea
+----------------------------------------------------------------------------------------------------
+patient_id: B131
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction

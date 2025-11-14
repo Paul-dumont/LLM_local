@@ -1,0 +1,27 @@
+patient_id: B289
+patient_age: 13
+current_medications: Adderall 
+adverse_reactions: ADD
+pain_onset_date: 4 years of age
+appliance_history: maxillary expander | retainers | orthodontics since 2 years ago | braces for past 2 years
+jaw_clicking: left TMJ
+maximum_opening: 45mm
+----------------------------------------------------------------------------------------------------
+patient_id: B289
+muscle_tenderness_present: False
+joint_pain_areas: left TMJ | right TMJ
+headache_frequency: 2 times a month 
+headaches_intensity: 5
+headway_location: frontal
+----------------------------------------------------------------------------------------------------
+patient_id: B289
+airway_obstruction_present: True
+pain_aggravating_factors: left posterior crossbite
+joint_pain_areas: left TMJ
+jaw_locking: True
+----------------------------------------------------------------------------------------------------
+patient_id: B289
+patient_age: 13
+joint_arthritis_location: right TMJ
+disc_displacement: right disc may be displaced but difficult to interpret 
+pain_aggravating_factors: left posterior displacement | right posterior displacement

@@ -1,0 +1,29 @@
+patient_id: B076
+patient_age: 27
+joint_pain_areas: neck | shoulder | back | back| left TMJ | right TMJ
+neck_tenderness_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+pain_onset_date: 16 years of age
+appliance_history: orthodontics 9 years ago | LeForte I osteotomy performed 8 years and 9 months ago | occlusal splint
+current_medications: Levothyroxine | Naproxen | Advil 
+headache_intensity: 6 on the right side | 4 on the left side
+headaches_frequency: daily
+----------------------------------------------------------------------------------------------------
+patient_id: B076
+pain_aggravating_factors: anterior open bite
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True
+jaw_crepitus: left posterior cross | right posterior cross
+maximum_opening: 39mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B076
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B076
+patient_age: 27
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: JRA or other connective tissue autoimmune process
+disc_displacement: left disc medial and anterior displacement | right disc medial displacement

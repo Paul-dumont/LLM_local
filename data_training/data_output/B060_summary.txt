@@ -1,0 +1,22 @@
+patient_id: B060
+patient_age: 40
+current_medications: Effexor | Tegretol
+depression_present: True
+joint_arthritis_location: hands | wrists | fingers | elbows | hips | knees | ankles | feet |  toes
+headache_intensity: 4
+headache_location: top of head
+tmj_pain_rating: 1
+average_daily_pain_intensity: 0
+jaw_function_score: 9
+diet_score: 8
+disability_rating: 8
+sleep_disorder_type: snoring | mild daytime somnolence
+pain_aggravating_factors: left posterior crossbite | right  posterior crossbite
+maximum_opening: 13mm
+muscle_tenderness_present: False
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B060
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ

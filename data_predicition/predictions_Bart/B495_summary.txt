@@ -1,0 +1,32 @@
+patient_id: B495
+patient_age: 43
+joint_pain_areas: TMJ
+headache_intensity: present
+sleep_apnea_diagnosed: True
+earache_present: True 
+sleep apnea_history: True | sleep apnea symptoms during the past 5 years
+current_appliance: splint therapy for approximately 10 years
+physical_therapy_status: physical therapy for 6 to 8 weeks
+
+----------------------------------------------------------------------------------------------------
+patient_id: B495
+airway_obstruction_present: True
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea symptoms
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present : styloid areas 
+neck_pain _present: False
+jaw_clicking: jaw
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+sleep_apnea_diagnosed: True 
+autoimmune_condition: Sleep apnea_type: daytime somnolence | snoring | sleep apnea symptoms
+jaw_clicking: TMJ 
+headache_intensity: present
+tmj_pain_rating: 0
+earache_present : True
+tinnit
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and posterior displacement with reduction 
+patient_id: B5148

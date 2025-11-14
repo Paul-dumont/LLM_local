@@ -1,0 +1,35 @@
+patient_id: B213
+patient_age: 14
+appliance_history: orthodontics | maxillary expansion device | bite plate
+adverse_reactions: codeine | milk
+pain_onset_date: 7 months ago
+onset_triggers: unknown
+pain_aggravating_factors: bite splint | clenching | bruxism
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+headache_frequency: rare
+tmj_pain_rating: 6, can escalate up to 8
+average_daily_pain_intensity: 6
+jaw_function_score: 6
+diet_score: 4
+disability_rating: 3
+current_medications: Tretenion | vitamins | advil
+muscle_pain_location: right masseter
+joint_pain_areas: right TMJ
+muscle_pain_score: moderate
+maximum_opening: 44mm
+maximum_opening_without_pain: 39mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: right disc dislocation without reduction | left disc dislocation
+joint_pain_areas: right TMJ
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B213
+joint_arthritis_location: right TMJ
+disc_displacement: right disc lateral displacement without reduction | left disc anterior and medial displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+disc_displacement: right disc anterior displacement without reduction | left disc anterior and medial displacement

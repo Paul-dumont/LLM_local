@@ -1,0 +1,16 @@
+patient_id: B310
+maximum_opening_without_pain: unknown
+patient_age: 14
+maximum_opening: 42mm
+pain_relieving_factors: unknown
+diet_score: 0
+pain_duration: unknown
+disability_rating: 0
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical maxillary excess | anterior vertical

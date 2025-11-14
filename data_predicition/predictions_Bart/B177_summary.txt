@@ -1,0 +1,21 @@
+patient_id: B177
+patient_age: 16
+pain_onset_date: 3 to 4 years old
+appliance_history: orthodontics from age of 5 to 8 | maxillary expanders | several maxillary stretchers
+headache_intensity: 0
+tmj_pain_rating: 0.0
+headaches_present: False
+migraine_diagnosed: True
+current_medications: topical 
+
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B177
+disc_displacement: left disc posterior displacement | right disc medial displacement
+pain_aggravating_factors: anterior and bilateral posterior cross bite
+joint_pain_areas: left TMJ | right TMJ
+patient _age: 16
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc posteriorly displaced with reduction | right disc posterior displacement with reduction 
+joint_arthritis_location: left TMJ | right TMJ
+disc_pain_aggravating_factors: right disc anterior and posterior dislocation with reduction

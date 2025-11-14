@@ -1,0 +1,33 @@
+patient_id: B519
+patient_age: 13
+migraine_history: True
+pain_aggravating_factors: clenching | bruxism
+current_medications: Epival 
+jaw_clicking: left TMJ | right TMJ
+onset_triggers: unknown 
+appliance_ history: orthodontic treatment for 1 year about 2 years ago
+headache_intensity: 5 but can get to a level of 7
+tmj_pain_rating:
+----------------------------------------------------------------------------------------------------
+patient_id: B519
+muscle_tenderness_present: True 
+maximum_opening: 46mm
+sleep_disorder_type: sleep apnea_diagnosed: False
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B519
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with very early reduction | right disc anterior and posterior displacement 
+airway_obstruction_present: True
+headache_intensity: present
+tmj_pain_rating: 0
+patient_age: 13
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc anteriorly displaced with reduction 
+patient_id: B519
+age: 14
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with early reduction | right disc anteriorly displaced with early reductio
+patient_id: B5

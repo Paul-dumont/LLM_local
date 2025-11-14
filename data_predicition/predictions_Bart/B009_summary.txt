@@ -1,0 +1,17 @@
+patient_id: B009
+patient_age: 33
+pain_onset_date: age of 19
+autoimmune_condition: psoriasis 
+joint_pain_areas: TMJ | elbows | hip | shoulder | left TMJ| right TMJ
+headache_intensity: 7, with headache_location: bilaterally in the temporal areas
+headaches_frequency: occasionally
+tmj_pain _rating: 7
+average_daily_ pain_intensity : 7
+jaw_function_score
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: psoriasis
+airway_obstruction_present: False
+patient_id: B009
+headache_intensity: present
+tmj_pain_rating: present

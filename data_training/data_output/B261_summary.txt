@@ -1,0 +1,20 @@
+patient_id: B261 
+patient_age: 60
+onset_triggers: Four years ago, she fell and struck the left side of her jaw
+pain_aggravating_factors: clenching | open bite | right side crossbite
+headache_intensity: 0
+tmj_pain_rating: 5, can escalate to 8
+average_daily_pain_intensity: 8
+jaw_function_score: 0
+diet_score: 2
+disability_rating: 0
+current_medications: Levothyroxine | Detrol LA | Estrace | Zestoretic | Asacol
+current_appliance: splint
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+patient_id: B261 
+airway_obstruction_present: False
+----------------------------------------------------------------------------------------------------
+patient_id: B261 
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: right disc posterior displacement

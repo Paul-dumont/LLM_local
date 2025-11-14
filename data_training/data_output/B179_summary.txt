@@ -1,0 +1,26 @@
+patient_id: B179
+patient_age: 18
+pain_onset_date: 15 to 16 years of age
+sleep_disorder_type: snoring
+appliance_history: orthodontic head gear from 8 to 12 | orthodontic appliance form 10 to 15 | tongue rake from 9 to 11
+headache_intensity: 2
+headache_location: frontal | temporal | behind eyes
+tmj_pain_rating: 3
+average_daily_pain_intensity: 1
+jaw_function_score: 0
+diet_score: 0
+disability_rating: 0
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+joint_pain_areas: elbows | knees  
+neck_pain_present: False
+maximum_opening: 29mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+disc_displacement: left disc anterior and medial displacement | right dis medial displacement
+patient_id: B179
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc anterior and medial displacement

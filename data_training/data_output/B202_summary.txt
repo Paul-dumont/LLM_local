@@ -1,0 +1,36 @@
+patient_id: B202
+patient_age: 52
+previous_medications: chemotherapy
+pain_onset_date: 21 years old
+pain_relieving_factors: surgery for TMJ problems | whitening trays
+pain_aggravating_factors: anterior open bite
+appliance_history: orthodontics 30 years ago for surgery
+current_appliance: whitening trays
+pain_aggravating_factors: retainers
+----------------------------------------------------------------------------------------------------
+patient_id: B202
+sleep_disorder_type: snoring
+pain_aggravating_factors: clenching
+headache_intensity: 6
+headache_frequency: every 4 or days and may go for a time without getting any
+headache_location: frontal | temporal | top of head
+tmj_pain_rating: 4
+average_daily_pain_intensity: 3
+jaw_function_score: 2
+diet_score: 0
+disability_rating: 2
+current_medications: vitamins | Estroven
+muscle_pain_location: retromandibular area
+muscle_pain_score: mild
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ | right TMJ
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with questionable reduction | right disc medial displacement
+patient_age: 52
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior displacement with partial reduction | right disc anterior and medial displacement with reduction
+patient_id: B202
+airway_obstruction_present: False
+joint_arthritis_location: left TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ

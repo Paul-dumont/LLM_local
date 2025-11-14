@@ -1,0 +1,37 @@
+patient_id: B300
+patient_age: 34
+joint_pain_areas: TMJ
+headache_intensity: present
+sleep_disorder_type: snoring | sleep apnea_diagnosed: True
+airway_obstruction_present: True 
+earache_location: left ear | right ear | left tinnitus | right sinus
+tinnitus_present : True
+vertigo_present                pain_aggravating_factors: splint
+pain_onset_date: age of 15 to 16 years of unknown 
+appliance_history: orthodontics from the ages of 14 to 19
+physical_therapy_status: physical therapy in the past
+----------------------------------------------------------------------------------------------------
+patient_id: B300
+airway_obstruction_present: True
+muscle_pain_score: masseter | shoulder areas | styloids | SCMs | posterior neck area | temporalis area
+joint_arthritis_location: left TMJ | right TMJ
+maximum_opening: 38mm
+max_opening_without_pain: 20mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: Kirstin
+disc_displacement: left disc anterior displacement | right disc anterior and posterior displacement 
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B300
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocations 
+headache_intensity: present
+tmj_pain_rating: severe
+sleep_disorder_type: snoring | sleep apnea_diagnosed: True
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation in vertical direction | right disc anteriorly displaced with reduction 
+patient_id: B4
+jaw_locking: True

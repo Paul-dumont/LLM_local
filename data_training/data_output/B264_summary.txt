@@ -1,0 +1,46 @@
+patient_id: B264
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and lateral displacement without reduction 
+patient_age: 59
+back_pain_present: True
+joint_pain_areas: back | left TMJ | right TMJ | neck | fingers | feet
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: True
+pain_aggravating_factors: clenching | bruxing
+pain_onset_date: age of 21
+onset_triggers: fell down 14 basement stairs and hit her head
+neck_pain_present: True
+jaw_locking: True
+physical_therapy_status: equilibrations | steroid injections to the right TMJ | physical therapy since 20 years ago | massage therapies weekly
+appliance_history: splint for about 20 years | orthodontics from 15 to 10 years ago
+adverse_reactions: environmental | ceclor | vancomycin | horse serum and any medication made from that type of serum | fluorescein dye 10% | sulfa
+current_medications: Synthroid | zetia | soma | Robaxin | vitamin E | Darvocet | Tylenol | estrogen | ambien | desensitization injections for allergies
+sleep_disorder_type: sleep disorder
+----------------------------------------------------------------------------------------------------
+patient_id: B264
+pain_aggravating_factors: left posterior crossbite | right posterior crossbite
+maximum_opening: 45mm
+maximum_opening_without_pain: 42mm
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ
+muscle_pain_location: right styloid area | right temporalis
+muscle_pain_score: mild
+jaw_crepitus: right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B264
+current_medications: ticlid | cozaar | thyroid medication | corgard | Robaxin | antibiotics | lidocaine cream | lidocaine gargle
+physical_therapy_status: physical therapy once a week
+headache_intensity: 0
+tmj_pain_rating: 0
+----------------------------------------------------------------------------------------------------
+patient_id: B264
+previous_medications: lyrica | neurontin
+----------------------------------------------------------------------------------------------------
+NoInfo

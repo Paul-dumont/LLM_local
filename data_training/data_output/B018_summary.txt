@@ -1,0 +1,44 @@
+patient_id: B018
+patient_age: 52
+pain_onset_date: 21 years ago
+onset_triggers: injury to her TMJ joints
+appliance_history: orthodontics at age 34 | TMJ splints 21 years ago and at least 15 splints since that time
+current_medications: Fentanyl patch | Percocet | Ambien | Xanax | Estrogen | Progesterone 
+headache_frequency: continuous
+headache_intensity: 5
+headache_location: frontal | temporal | posterior head | top of the head
+tmj_pain_rating: 5
+average_daily_pain_intensity: 5
+jaw_function_score: 7
+diet_score: 7
+disability_rating: 9
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+pain_aggravating_factors: clenching | bruxism
+sleep_disorder_type: snoring | daytime somnolence 
+----------------------------------------------------------------------------------------------------
+patient_id: B018
+airway_obstruction_present: True
+muscle_pain_score: high moderate to low severe 
+muscle_pain_score: temporalis | masseters | styloid area | medial pterygoids | SCMs | posterior neck | shoulder
+neck_pain_present: True
+joint_pain_areas: left TMJ | right TMJ
+maximum_opening: 44mm
+maximum_opening_without_pain: 20mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B018 
+----------------------------------------------------------------------------------------------------
+patient_id: B018 
+joint_arthritis_location: left TMJ | right TMJ
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+airway_obstruction_present: True
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_age: 52
+disc_displacement: right disc anteriorly dislocation with reduction 
+----------------------------------------------------------------------------------------------------
+disc_displacement: right disc anteriorly dislocation with reduction 
+joint_arthritis_location: left TMJ
+

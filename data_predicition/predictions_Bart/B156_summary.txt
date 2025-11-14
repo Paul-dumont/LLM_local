@@ -1,0 +1,19 @@
+patient_id: B156
+patient_age: 31
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics around 20 years ago and finished when she was 16 | two expanders at that time | Invisalign from age 22 to 29
+physical_therapy_status: physical therapy | massage therapy
+current_medications: Advil | BCP
+earache_present: False 
+tinn
+----------------------------------------------------------------------------------------------------
+patient_id: B156
+joint_arthritis_location: right TMJ
+disc_displacement: right disc anterior and lateral displacement without reduction | left disc anterior dislocation without reduction 
+tmj_pain_rating: severe
+headache_intensity: present
+patient_age: 31
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced at the lateral aspect of the joint with early reduction | right disc anterior dislocation without reduction 
+patient_id: B5

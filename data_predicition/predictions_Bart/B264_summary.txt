@@ -1,0 +1,44 @@
+patient_id: B264
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: anterior open sore throat
+disc_displacement: left disc posterior displacement
+----------------------------------------------------------------------------------------------------
+patient_id: B264
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and lateral displacement without reduction | right disc anteriorly and laterally displaced without reduction
+patient_age: 59
+back_pain_present: True
+muscle_tinnocence_score: 0
+earache_intensity: False
+tinnitus_present:'
+----------------------------------------------------------------------------------------------------
+patient_id: B264
+joint_pain_areas: neck | back | fingers | feet
+appliance_history: splint for 20 years | orthodontics for five years from 15 to 10 years ago | splints since April of this year
+physical_therapy_status: physical therapy p.r. since 20 years ago until recently
+current_medications: Synthroid | Protonix | Zetia | Corgard | Robaxin | Vitamin E | Darvocet | Tylenol supp
+----------------------------------------------------------------------------------------------------
+patient_id: B264
+pain_aggravating_factors: left posterior crossbite | right posterior cross bite
+airway_obstruction_present: False
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_location: right temporalis | right styloid area
+jaw_crepitus: Right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc unknown
+pain_aggravating_factors: anterior open bite
+headache_intensity: present
+patient_id: B284
+----------------------------------------------------------------------------------------------------
+patient_id: B264
+current_medications: Ticlid | Cozaar | Thyroid medication | Corgard | Robaxin | Antibiotic 
+physical_therapy_status: physical therapy one day a week
+headache_intensity: 0
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B264
+current_medications: Topamax
+pain_aggravating_factors: genetic factors and her own systemic factors that are probably contributing to her current pain problems
+joint_pain_areas: left TMJ | right TMJ

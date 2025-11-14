@@ -1,0 +1,23 @@
+patient_id: B493
+patient_age: 53
+joint_pain_areas: left TMJ | right TMJ
+current_medications: Cenestin
+pain_onset_date: as long as she can remember
+time of onset: unknown 
+onsets_triggers: unknown
+migraine_history: True
+headache_intensity: 7, predominately on the right side and temporal towards the front and also towards the back of the head
+tmj_physical_therapy_status: none
+earache_present: False
+----------------------------------------------------------------------------------------------------
+patient_id: B493
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc lateral dislocation with reduction | right disc lateral displacement with reduction 
+headache_intensity: present
+airway_obstruction_present: True
+sleep_disorder_type: snoring | daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B493
+patient_age: 53
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteromedial and medial displacement with reduction | right disc anterior dislocation with reduction

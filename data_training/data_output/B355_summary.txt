@@ -1,0 +1,41 @@
+patient_id: B355 
+patient_age: 31
+onset_triggers: unknown 
+pain_onset_date: 11 years ago
+appliance_history: night guard | splint | physical therapy
+pain_relieving_factors: night guard
+current_appliance: splint since last year
+physical_therapy_status: physical therapy x 2
+current_medications: Norflex | Relafen | Tylenol with codeine | Aleve | birth control pills
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+adverse_reactions: none
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: 6
+headache_location: frontal | temporal |  posterior head
+tmj_pain_rating: 6
+average_daily_pain_intensity: 4
+jaw_function_score: 2
+diet_score: 3
+disability_rating: 5
+----------------------------------------------------------------------------------------------------
+patient_id: B355 
+airway_obstruction_present: False
+muscle_pain_score: mild
+muscle_pain_location: left temporalis | bilateral shoulders | styloid areas  | right masseter
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction 
+earache_present: True
+vertigo_present: True
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: present
+patient_id: B355 
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior dislocation with reduction 
+

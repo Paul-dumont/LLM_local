@@ -1,0 +1,36 @@
+patient_id: B344
+patient_age: 23
+headache_intensity: 0
+tmj_pain_rating: 0
+muscle_pain_score: 5 but can escalate to 8
+muscle_pain_location: right masseter
+jaw_function_score: 8
+diet_score: 4
+disability_rating: 3
+current_medications: Wellbutrin | Concerta
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: neck | shoulders | hips | right TMJ
+neck_pain_present: True
+adverse_reactions: none
+pain_aggravating_factors: clenching | bruxism
+current_appliance: retainer 
+----------------------------------------------------------------------------------------------------
+joint_pain_areas: left TMJ | right TMJ
+tmj_pain_rating: 7 on the right side and 2 on the left side
+muscle_pain_score: mild to moderate
+muscle_pain_location: right masseter | right styloid | SCMs | posterior neck
+maximum_opening: 28mm
+maximum_opening_without_pain: 18mm
+muscle_tenderness_present: True
+neck_pain_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction 
+joint_pain_areas: TMJ
+patient_id: B344
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction 

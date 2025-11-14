@@ -1,0 +1,27 @@
+patient_id: B347
+patient_age: 23
+pain_onset_date: 14 or 15 or early in high school
+appliance_history: orthodontics in the 3rd grade through 9th grade | splints at night for at least six years
+current_medications: LoEstrin | Concerta | Aleve | multivitamins
+earache_present: False
+tinnitus_present : True
+vertigo_present 
+hearing_loss_score: 0
+joint_pain_areas
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True 
+patient_id: B4
+sleep_disorder_type: daytime somnolence disorder | sleep apnea symptoms
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc dislocation 
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+patient_id: B347 
+jaw_clicking: TMJ 
+tmj_pain_rating: moderate to high
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc anterior and lateral displacement without reduction 
+patient_id: B5148

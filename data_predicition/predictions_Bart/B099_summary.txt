@@ -1,0 +1,26 @@
+patient_id: B099
+patient_age: 49
+sleep_disorder_type: sleep apnea | extreme fatigue | mental confusion | left TMJ popping
+headache_intensity: 6
+current_medications: Levoxyl | Prozac | Vytorin 
+pain_onset_date: unknown
+onsets_triggers: unknown
+----------------------------------------------------------------------------------------------------
+patient_id: B099
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ | right TMJ
+disc_displacement: left disc dislocation 
+airway_obstruction_present : True
+headache_intensity: present
+pain_aggravating_factors: left posterior cross bite
+----------------------------------------------------------------------------------------------------
+patient_id: B099
+patient_age: 49
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteromedially displaced with reduction | right disc medial displacement with early reduction
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B4
+current_appliance: Panorex 
+pain_aggravating_factors: left posterior crossbite | right posterior cross bite

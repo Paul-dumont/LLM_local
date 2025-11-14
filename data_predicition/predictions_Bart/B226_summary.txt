@@ -1,0 +1,21 @@
+patient_id: B226
+patient_age: 13
+current_medications: Ventolin 
+airway_obstruction_present: True
+appliance_history: orthodontics for about 2 to 3 years
+earache_intensity: 0
+tinnitus_present : False
+vertigo_present = False
+hearing_loss_presenter: False
+tmj_pain_rating: none
+muscle_tenderness_location: not present
+maximum_opening: 50mm
+----------------------------------------------------------------------------------------------------
+patient_id: B226
+airway_obstruction_present: True
+pain_aggravating_factors: left posterior crossbite
+disc_displacement: left disc medial displacement | right disc medially displaced
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medial and rotational displacement 
+patient_id: B2148 using the rheumatoid_pain_aggravating_factors: anterior open heart syndrome

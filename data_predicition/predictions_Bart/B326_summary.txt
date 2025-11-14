@@ -1,0 +1,31 @@
+patient_id: B326
+patient_age: 42
+adverse_reactions: mosquitos
+pain_onset_date: in about the third or fourth grade
+joint_pain_areas: left TMJ | right TMJ
+appliance_history: orthodontics 5 years ago | orthodon
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: orthodontics
+airway_obstruction_present: True
+sleep_disorder_type: snoring 
+maximum_opening: 26mm
+maximal_opening_without_pain: 18mm
+muscle_pain_score: 10 to 10 for temporalis area | 5 to 5 for masseters | 6 to 6 for the TMJ
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B326
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocations without reduction 
+sleep_disorder_type: daytime somnolence | sleep disorder
+tmj_pain_rating: Severe 
+headache_intensity: present
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B326
+disc_displacement: left disc anterior displacement | right disc anterior and medial displacement 
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and medial dislocation without reduction 
+patient_id: B5

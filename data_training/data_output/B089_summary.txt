@@ -1,0 +1,30 @@
+patient_id: B089
+patient_age: 53
+headache_intensity: present
+appliance_history: orthodontics from 14 to 15, at 41, and at 43| 3 splints over past 3 years
+physical_therapy_status: physical therapy from 51 to 52, ionophoresis treatment
+headache_intensity: 4
+headache_location: frontal | temporal | top of the head
+average_daily_pain_intensity: myofascial pain at 6 that escalate up to 8 in the evening
+jaw_function_score: 1
+diet_score: 0
+disability_rating: 5
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: False
+joint_pain_areas: shoulders | left hip | left knee | neck
+neck_pain_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B089
+muscle_pain_location: masseters | medial pterygoids
+joint_pain_areas: left TMJ | right TMJ
+maximum_opening: 70mm
+jaw_clicking: left TMJ | right TMJ
+jaw_crepitus: left TMJ
+disc_displacement: left articular disk anterior displacement | right articular disk anterior displacement 
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B089
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left articular disk anterior displacement with reduction | right articular disk anterior displacement with reduction

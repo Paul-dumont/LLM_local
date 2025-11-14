@@ -1,0 +1,20 @@
+patient_id: B060
+patient_age: 40
+appliance_history: Effexor | Tegretol | epilepsy | depression
+pain_onset_date: birth of arthrogryposis
+current_medications: Eff Exexor 
+depression_present: True
+headache_intensity: 4,tmj_pain_rating: 1
+average_daily_pain level: 0
+jaw_function_score: 9
+diet_score
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B060
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc lateral displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: possible connective tissue autoimmune disease or previous surgical procedure
+patient_id: B2148 
+disc_displacement: left disc anterior displacement | right disc medial displacement

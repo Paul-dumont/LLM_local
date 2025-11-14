@@ -1,0 +1,45 @@
+patient_id: B166
+patient_age: 40
+pain_onset_date: 18 or 19 years of age
+onset_triggers: once in seventh grade hit in the jaw with a door | once when patient was 15 was hit in the jaw with a boom on a tiny sailboat
+current_appliance: orthodontics since 34 years of age
+appliance_history: orthodontics as teenager
+headache_intensity: 6
+headache_location: left temporal | top of head
+tmj_pain_rating: 5
+average_daily_pain_intensity: 4
+jaw_function_score: 5
+diet_score: 6
+disability_rating: 4
+earache_present: True
+tinnitus_present: False
+vertigo_present: True
+hearing_loss_present: True
+joint_pain_areas: left TMJ | left elbow | wrist
+current_medications: Celebrex | Tramadol | Aleve | Fish oil | Flax seed oil
+----------------------------------------------------------------------------------------------------
+patient_id: B166
+pain_aggravating_factors: open bite tendency
+muscle_pain_location: left masseter | retromandibular area | SCMs | posterior neck | shoulder
+neck_pain_present: True
+muscle_pain_score: mild
+muscle_tenderness_present: True
+jaw_clicking: left TMJ
+sleep_disorder_type: daytime somnolence
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TIMJ
+patient_id: B166
+disc_displacement: left disc dislocation with possible reduction on wide opening
+joint_pain_areas: left TMJ
+headache_intensity: present
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B166
+patient_age: 40
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc anterior and medial displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc displacement | right disc anterior and medial displacement
+patient_id: B166
+patient_age: 40

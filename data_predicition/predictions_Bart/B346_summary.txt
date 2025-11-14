@@ -1,0 +1,19 @@
+patient_id: B346
+patient_age: 57
+jaw_clicking: right TMJ
+pain_onset_date: earlier this year
+appliance_history: splint around 30 years ago | day and nighttime splints
+physical_therapy_status: acupuncture | cranio-sacral treatment
+current_medications: Lexapro | Wellbutrin | Tylenol | Tylan
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+patient_id: B346
+autoimmune_condition: psoriatic arthritis
+airway_obstruction_present: True
+jaw_clicking: left TMJ 
+earache_intensity: present
+disc_displacement: left disc anterior displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction 
+pain_aggravating_factors: right posterior cross fracture

@@ -1,0 +1,33 @@
+patient_id: B484
+patient_age: 31
+pain_onset_date: 10 years ago at 22 years of age
+pain_aggravating_factors: wisdom teeth removal 9 years ago | left posterior crossbite tendency
+appliance_history: orthodontic treatment about 7 years ago and finished 4 years ago
+jaw_clicking: left TMJ | right TMJ
+joint_pain_areas: TMJ
+current_medications: Skelaxin | amitriptyline | Valium
+physical_therapy_status: Botox injections last year
+headache_intensity: 8
+headache_location: frontal | temporal | around the eyes
+tmj_pain_rating: 8
+average_daily_pain_intensity: 8
+jaw_function_score: 7
+diet_score: 3
+disability_rating: 8
+earache_present: False
+tinnitus_present: True
+vertigo_present: True
+maximum_opening: 51mm
+maximum_opening_without_pain: 26mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly and laterally displaced | right disc anteriorly and medially displaced 
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_id: B484
+patient_age: 31
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced with early reduction | right disc anteriorly and medially displaced with early reduction
+
+

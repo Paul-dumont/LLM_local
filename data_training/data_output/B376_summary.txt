@@ -1,0 +1,45 @@
+patient_id: B376
+patient_age: 54
+pain_onset_date: 14 years ago | since the 20s
+jaw_crepitus: TMJ
+appliance_history: bite plate
+joint_pain_areas: right TMJ
+current_medications: aspirin | Cymbalta | Ambien | ativan | Excedrin | Lipitor
+physical_therapy_status: undergoing physical therapy
+earache_present: True
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: neck | legs | back 
+neck_pain_present: True
+back_pain_present: True
+fibromyalgia_present: True
+pain_aggravating_factors: clenching
+headache_intensity: 7
+headache_location: temporal | posterior head
+headache_frequency: continuous
+tmj_pain_rating: 8 but it can escalate to 10
+average_daily_pain_intensity: 6
+jaw_function_score: 3
+diet_score: 3
+disability_rating: 6
+----------------------------------------------------------------------------------------------------
+maximum_opening: 44mm
+muscle_pain_score: mild-to-moderate
+muscle_pain_location: temporalis | styloid areas | posterior neck | shoulder
+joint_pain_areas: left TMJ | right TMJ
+neck_pain_present: True
+jaw_crepitus: right TMJ
+sleep_disorder_type: daytime somnolence
+appliance_history: orthodontics x2 when she was a teenager | splint therapy
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+joint_pain_areas: TMJ
+headache_intensity: present
+sleep_disorder_type: daytime somnolence | snoring 
+patient_id: B376
+patient_age: 53
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc partial displacement | right disc anterior displacement
+

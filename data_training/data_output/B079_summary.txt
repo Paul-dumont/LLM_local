@@ -1,0 +1,22 @@
+patient_id: B079
+patient_age: 18
+appliance_history: orthodontics from 14 to 16 years
+jaw_clicking: left TMJ | right TMJ
+headache_intensity: 0
+diet_score: 0
+tmj_pain_rating: 0
+disability_rating: 0
+jaw_function_score: 0
+current_medications: none
+earache_present: False
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: False
+maximum_opening: 58mm
+----------------------------------------------------------------------------------------------------
+current_appliance: lower retainer
+airway_obstruction_present: True
+disc_displacement: left possible articular disc dislocation | right possible articular disc dislocation
+----------------------------------------------------------------------------------------------------
+patient_id: B079
+disc_displacement: Left TMJ disc anterior displacement | Right TMJ disc medial and posterior displacement with reduction

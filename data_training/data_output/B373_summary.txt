@@ -1,0 +1,32 @@
+patient_id: B373 
+patient_age: 15
+current_medications: none
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: 0
+tmj_pain_rating: 0
+jaw_function_score: 0
+diet_score: 0
+disability_rating: 0
+joint_pain_areas: none
+onset_triggers: unknown
+muscle_tenderness_present: False
+jaw_clicking: left TMJ | right TMJ
+jaw_crepitus: left TMJ | right TMJ
+airway_obstruction_present: True
+sleep_disorder_type: snoring
+----------------------------------------------------------------------------------------------------
+patient_id: B373 
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction 
+pain_aggravating_factors: clenching | bruxism
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B373 
+patient_age: 15
+disc_displacement: left disc medial displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior  displacement with reduction | right disc anterior displacement with reduction 
+

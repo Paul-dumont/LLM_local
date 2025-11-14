@@ -1,0 +1,29 @@
+patient_id: B063
+patient_age: 20
+pain_onset_date: 5 years old
+appliance_history: orthodontics from 15 to 17 years of age | 4 bicuspids extracted for orthodentics
+headache_intensity: 8
+headaches_location: right side almost daily 
+tmj_pain_rating: 8, average daily facial pain that occurs only on the right side at 7
+jaw_function_score: 0
+diet_score
+----------------------------------------------------------------------------------------------------
+patient_id: B063
+current_appliance: 3 x 3 retainer
+muscle_pain_location: right masseter | right temporalis | right styloid area | right posterior neck
+joint_tenderness_present: left TMJ | right TMJ
+maximum_opening: 50mm 
+average_opening_without_pain: 34mm
+----------------------------------------------------------------------------------------------------
+patient_id: B063
+patient_age: 20
+joint_pain_areas: right TMJ
+headache_intensity: present
+airway_obstruction_present: True
+disc_displacement: right disc medial displacement
+headaches_frequency: right-sided
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior displacement with very early reduction | right disc anterior and medial displacement with early reduction
+joint_arthritis_location: left TMJ 
+disc_pain_rating: 0
+patient_id: B2

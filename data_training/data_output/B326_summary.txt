@@ -1,0 +1,44 @@
+patient_id: B326 
+patient_age: 42 
+joint_pain_areas: left TMJ | right TMJ
+adverse_reactions: mosquitos | nickel
+pain_onset_date: the third or fourth grade
+onset_triggers: unknown 
+appliance_history: orthodontics from 5 years ago to 2 years ago
+earache_present: False
+tinnitus_present: False
+vertigo_present: True
+hearing_loss_present: False
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: 8
+headache_location: temporal 
+headache_frequency: once a month
+tmj_pain_rating: 3 can exacerbate to 10
+average_daily_pain_intensity: 3
+jaw_function_score: 7
+diet_score: 7
+disability_rating: 7
+pain_relieving_factors: injection of o=local anesthetics or steroids to left TMJ
+current_medications: Orthocept | Vioxx | Hydrocodone | Multivitamins | extra vitamin E and vitamin C
+----------------------------------------------------------------------------------------------------
+maximum_opening: 26 mm
+maximum_opening_without_pain: 18 mm
+muscle_pain_score: 10 at temporalis | 5 at masseters
+muscle_pain_location: temporalis | masseters
+joint_pain_areas: left TMJ | right TMJ
+tmj_pain_rating: 6 
+----------------------------------------------------------------------------------------------------
+patient_id: B326 
+sleep_disorder_type: daytime somnolence
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+tmj_pain_rating: severe
+joint_pain_areas: TMJ
+airway_obstruction_present: True 
+----------------------------------------------------------------------------------------------------
+patient_id: B326 
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc anterior displacement without reduction
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction
+joint_arthritis_location: left TMJ

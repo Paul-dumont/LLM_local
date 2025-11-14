@@ -1,0 +1,36 @@
+patient_id: B108
+patient_age: 46
+current_medications: Nasonex
+headache_intensity: 0
+tmj_pain_rating: 0 
+average_daily_frequency: 1
+jaw_function_score: 3
+diet_score : 3
+disability_aggravating_factors: clenching
+sleep_disorder_type: sleep apnea | snoring | daytime somnolence
+
+----------------------------------------------------------------------------------------------------
+patient_id: B108
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea 
+maximum_opening: 47mm
+muscle_pain_location: shoulders
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics
+pain_aggravating_factors: right posterior crossbite
+----------------------------------------------------------------------------------------------------
+patient_id: B108
+airway_obstruction_present: True
+joint_pain_areas: left TMJ | right TMJ
+maximum_opening: 6mm
+muscle_traction: left posterior crossbite tendency | right posterior cross bite tendency
+----------------------------------------------------------------------------------------------------
+patient_id: B108
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea symptoms
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation without reduction | right disc anteriorly dislocated without reduction 
+patient_id: B5

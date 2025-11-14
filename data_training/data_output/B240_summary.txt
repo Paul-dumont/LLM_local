@@ -1,0 +1,18 @@
+patient_id: B240
+patient_age: 14
+current_medications: none
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_location: masseter | styloid areas
+muscle_pain_score: moderate
+muscle_tenderness_present: True
+maximum_opening: 45mm
+----------------------------------------------------------------------------------------------------
+patient_id: B240
+airway_obstruction_present: True
+patient_age: 14
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc moderate posterior displacement with reduction | right disc posterior displacement with reduction
+patient_id: B240
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True

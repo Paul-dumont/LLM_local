@@ -1,0 +1,39 @@
+patient_id: B161
+patient_age: 13
+pain_onset_date: 1-1.5 years ago
+onset_triggers: unknown
+jaw_clicking: left TMJ | right TMJ
+current_appliance: orthodontics since 13 months ago
+current_medications: growth hormone, synthroid
+previous_medications: steroids
+joint_pain_areas: right TMJ
+muscle_pain_location: jaw
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+adverse_reactions: dust | cheap earrings
+headache_intensity: 0
+tmj_pain_rating: 4, escalates to 7
+average_daily_pain_intensity: 5
+jaw_function_score: 5
+diet_score: 1 on left and 6 on right
+disability_rating: 3
+airway_obstruction_present: True
+sleep_apnea_diagnosed: False
+----------------------------------------------------------------------------------------------------
+patient_id: B161
+adverse_reactions: dust
+muscle_pain_location: right styloid
+muscle_tenderness_present: True
+joint_pain_areas: right TMJ
+maximum_opening: 40mm
+maximum_opening_without_pain: 32mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior dislocation without reduction
+joint_pain_areas: TMJ
+patient_id: B161
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior displacement without reduction

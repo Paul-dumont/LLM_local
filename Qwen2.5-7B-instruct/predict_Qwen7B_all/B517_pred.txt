@@ -1,0 +1,46 @@
+patient_id: B517
+maximum_opening_without_pain: 23mm
+patient_age: 32
+maximum_opening: 36mm
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching | anterior deep bite
+physical_therapy_status: physical therapy | chiropractic treatments
+earache_present: unknown
+onset_triggers: motor vehicle accident 15 years ago where she had facial injuries and had her lower jaw apparently pushed backwards
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: mild to moderate
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: present
+autoimmune_condition: unknown
+pain_onset_date: 15 years ago
+jaw_crepitus: unknown
+tmj_pain_rating: unknown
+sleep_disorder_type: daytime somnolence | snoring
+current_medications: antidepressants | pain medications | muscle relaxants
+disc_displacement: left disc dislocation with reduction | right disc dislocation
+muscle_pain_location: right temporalis | right masseter | right styloid | right scm | posterior neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics back around 15 years ago | nightguard treatment to try and get her more comfortable | splints | bite alignment procedures
+joint_pain_areas: tmj | left tmj | right tmj

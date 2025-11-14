@@ -1,0 +1,27 @@
+patient_id: B389 
+patient_age: 17
+current_medications: Yasmin | Tylenol | Hydrocodone 
+pain_onset_date: the age of 5 to 6
+onset_triggers: unknown
+appliance_history: orthodontics at about the age of 13 | orthodontics again at the age of 15
+joint_pain_areas: back | shoulders | hip | knee
+back_pain_present: True
+headache_intensity: 7 and can escalate to 9
+headache_location: temple areas | on the top of the head in the middle
+headache_frequency: daily | intensity of 9 every 1 to 2 weeks
+tmj_pain_rating: 3
+average_daily_pain_intensity: 4
+jaw_function_score: 3
+diet_score: 3
+disability_rating: 6
+sleep_disorder_type: daytime somnolence
+current_appliance: 3 x 3 retainer in the lower anterior arch | 3 x 3 retainer in the upper arch 
+----------------------------------------------------------------------------------------------------
+muscle_tenderness_present: True
+muscle_pain_score: moderate
+muscle_pain_location: masseters | styloid area | temporalis | SCMs | shoulder muscles
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction 
+joint_pain_areas: TMJ
+headache_intensity: present

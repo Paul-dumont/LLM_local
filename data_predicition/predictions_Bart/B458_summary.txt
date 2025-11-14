@@ -1,0 +1,18 @@
+patient_id: B458
+patient_age: 16
+current_medications: minocycline 
+appliance_history: orthodontics for about five years
+pain_aggravating_factors: left posterior crossbite | right posterior cross bite
+headache_intensity: present
+jaw_clicking: left TMJ
+sleep_disorder_type: daytime somnolence
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: right TMJ
+disc_displacement: left disc dislocation | right disc anterior displacement
+pain_aggravating_factors: right posterior cross bite
+patient_id: B5
+----------------------------------------------------------------------------------------------------
+patient_id: B458
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc dislocation predominantly in a medial direction without reduction | right disc anteriorly displaced and sitting beneath the articular eminence almost.

@@ -1,0 +1,15 @@
+patient_id: B296
+patient_age: 15
+autoimmune_condition: graves' disease
+appliance_history: orthodontics around 4th grade | orthodontics at age of 8 to 9 with class III elastics
+pain_aggravating_factors: left posterior cross bite | right posterior cross bite
+muscle_tenderness_present: True
+muscle_pain_score: slight
+muscle_pain_location: masseter muscles
+maximum_opening: 43mm
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: left posterior cross bite | right posterior cross bite
+patient_id: B296
+disc_displacement: left disc medial displacement
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior and medial dislocation with reduction | right disc dislocation with reduction 

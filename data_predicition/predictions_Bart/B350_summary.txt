@@ -1,0 +1,27 @@
+patient_id: B350
+patient_age: 57
+joint_pain_areas: left TMJ | right TMJ
+pain_onset_date: age of 32 in 17 years ago
+appliance_history: at least 5 splints | equilibrations | heating pad treatment | physical therapy | TENS
+current_medications: anti-inflammatory medications | numerous other medications
+physical_t
+----------------------------------------------------------------------------------------------------
+patient_id: B350
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea
+current_appliance: CPAP for a year and a half
+pain_aggravating_factors: clenching
+airway_obstruction_present: True
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenders
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B350
+autoimmune_condition: sero-negative rheumatoid arthritis
+sleep_disorder_type: sleep apnea requiring CPAP machine
+tmj_pain_rating: severe
+headache_intensity: severe
+----------------------------------------------------------------------------------------------------
+patient_id: B350
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly and significantly medially displaced with perforations | right disc dislocated without reduction

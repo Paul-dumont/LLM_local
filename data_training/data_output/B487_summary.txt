@@ -1,0 +1,26 @@
+patient_id: B487
+patient_age: 9
+headache_intensity: 0
+tmj_pain_rating: 2
+jaw_function_score: 0
+diet_score: 0
+disability_rating: 0
+pain_onset_date: age of 9 years
+onset_triggers: unknown 
+current_medications: none
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ | right TMJ
+jaw_clicking: TMJ
+jaw_crepitus: TMJ
+maximum_opening: 45mm
+----------------------------------------------------------------------------------------------------
+patient_id: B487
+disc_displacement: left disc medially displaced | right disc anteriorly displaced
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior displacement
+
+

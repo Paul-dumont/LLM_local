@@ -1,0 +1,19 @@
+patient_id: B195
+patient_age: 42
+pain_onset_date: 3 years ago
+neck_pain_present: True
+appliance_history: splint
+physical_therapy_status: rehab therapy on neck | chiropractor
+current_medications: testosterone | Imitrex | Loomocaine topical anesthetic | Phenergan occasionally
+hearing_loss_score: False
+tinnitus_present 
+vertigo_present
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+muscle_tenderness_location: temporalis | masseters | medial pteryoidgoids | styloids | SCMs 
+joint_pain_areas: left TMJ | right TMJ
+maximum_opening: 35mm
+max_opening_without_pain: 25mm
+jaw_crepitus: True
+patient_id: B195
+autoimmune_condition: arthritis | articular disc dislocations without reduction

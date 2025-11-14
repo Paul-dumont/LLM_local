@@ -1,0 +1,30 @@
+patient_id: B025
+patient_age: 13
+pain_onset_date: unknown
+onset_triggers: unknown
+appliance_history: orthodontics second grade through the fifth grade | head gear for 1-1/2 years 
+headache_frequency: occasional
+headache_intensity: 3
+headache_location: frontal | temporal 
+tmj_pain_rating: 0
+jaw_function_score: 0
+diet_score: 0
+disability_rating: 0
+earache_present: False
+tinnitus_present: True
+vertigo_present: True
+pain_aggravating_factors: standing up | getting up | lying down
+joint_pain_areas: none 
+patient_id: B025
+muscle_tenderness_present: False
+neck_pain_present: False
+jaw_clicking: left TMJ 
+maximum_opening: 51mm 
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ 
+patient_id: B025
+airway_obstruction_present: True
+disc_displacement: left disc anteriorly displaced
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ  
+disc_displacement: left disc anteriorly displaced with reduction | right disc anteriorly displaced with early reduction 

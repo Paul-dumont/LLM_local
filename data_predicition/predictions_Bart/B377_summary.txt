@@ -1,0 +1,34 @@
+patient_id: B377
+patient_age: 17
+current_medications: Zyrtec-D | Tylenol | Advil
+adverse_reactions: Biaxin | bees | environmental | nickel 
+joint_pain_areas: left ankle
+pain_onset_date: 4 to 5 years ago
+onsets_triggers: unknown 
+appliance_history: orthodontic treatment from 8 to 10 years ago starting when she was in the first grade
+----------------------------------------------------------------------------------------------------
+patient_id: B377
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+sleep_disorder_type: snoring | daytime somnolence
+muscle_pain_location: masseters | medial pterygoids | styloid areas
+muscular_pain _score: moderate to high moderate
+jaw_clicking: left TMJ | right TMJ
+neck_crepitus: right side could feel a little bit of popping on the right side
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ
+disc_displacement: left disc dislocation without reduction 
+pain_aggravating_factors: anterior open bite
+sleep_disorder_type: snoring | sleep apnea_diagnosed: True
+headache_intensity: present
+tmj_pain_rating: severe
+patient_id: B5
+----------------------------------------------------------------------------------------------------
+patient_id: B377
+patient_age: 15
+disc_displacement: left disc anteriorly displaced without reduction | right disc anterior displacement without reduction 
+appliance_history: orthodontics
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc in normal position with possible adhesions of the discs to the articular eminence

@@ -1,0 +1,33 @@
+patient_id: B078
+patient_age: 29
+pain_onset_date: 21 years of age
+joint_pain_areas: left TMJ | right TMJ
+jaw_clicking: jaw
+josting_present: True
+headache_intensity: 8
+earache_location: left ear | right ear | neck | shoulder | 
+tinnitus_present : False
+vertigo_present = True
+sleep_disorder_type: chronic fatigue
+physical_therapy_status: massage therapy for about 50 minutes weekly | hot and cold packs | physical therapy 1 month ago
+current_appliance: splint 3 months later, and has continued splint therapy until the present time
+----------------------------------------------------------------------------------------------------
+patient_id: B078
+pain_aggravating_factors: anterior open bite
+muscle_pain_score: moderate to moderate 
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 38mm
+maximal_opening_without_pain: 16mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B078
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+tmj_pain_rating: Severe 
+headache_intensity: present
+jaw_crepitus: right temporalis | left temporalis
+disc_displacement: left disc medial displacement | right disc lateral displacement
+----------------------------------------------------------------------------------------------------
+patient_id: B078
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and medial dislocation without reduction

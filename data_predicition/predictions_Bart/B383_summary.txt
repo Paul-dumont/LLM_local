@@ -1,0 +1,36 @@
+patient_id: B383
+patient_age: 39
+neck_pain_present: True
+pain_onset_date: 2 or 3 years ago
+onset-triggers: unknown 
+jaw_clicking: left TMJ | right TMJ
+current_medications: Allegra | Rhinocort Aqua | SulFA
+adverse_reactions:
+----------------------------------------------------------------------------------------------------
+patient_id: B383
+airway_obstruction_present: True
+muscle_pain_location: posterior neck area | styloid area | right TMJ
+jaw_clicking: left TMJ 
+maximum_opening: 42mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc anterior displacement with reduction 
+jaw_locking: True
+joint _pain_areas: TMJ 
+headache_intensity: present
+muscle_pain_score: headache_frequency: predominantly the styloid areas and down through the neck and shoulder area
+airway_obstruction_present: True 
+sleep_disorder_type: snoring
+----------------------------------------------------------------------------------------------------
+patient_id: B383
+joint_pain_areas: neck 
+neck_arthritis_location: left TMJ | right TMJ
+current_appliance: orthodontics
+pain_aggravating_factors: chronic infections in the urinary tract and bladder area
+physical_therapy_status: specific medication that she takes
+sleep_disorder_type: daytime somnolence | nocturia | no other urinary tract symptoms
+adverse_reactions:
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc anteriorly dislocated articular disc with early reduction 
+patient_id: B5

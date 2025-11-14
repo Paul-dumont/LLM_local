@@ -1,0 +1,26 @@
+patient_id: B003
+patient_age: 28
+pain_onset_date: 18 years of age
+appliance_history: orthodontic treatment of unknown etiology
+headache_intensity: 7
+tmj_pain_rating: 5
+average_daily_pain _intensity: 9
+jaw_function_score: 9 
+diet_scoring: 6
+disability_aggravating_factors: clenching | bruxism
+hearing_loss_present: False
+earache
+----------------------------------------------------------------------------------------------------
+patient_id: B003
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocations without reduction 
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea_diagnosed: True 
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+patient_id: B5
+pain_aggravating_factors: anterior open bite
+appliance_history: orthodontics
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: present

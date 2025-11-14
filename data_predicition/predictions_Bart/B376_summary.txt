@@ -1,0 +1,32 @@
+patient_id: B376
+patient_age: 54
+pain_onset_date: 14 years ago
+joint_pain_areas: left TMJ | right TMJ
+appliance_history: bite plate
+current_medications: aspirin | Cymbalta | Ambien | Ativan | Excedrin | Lipitor 
+physical_therapy_status: physical therapy
+earache_present: True
+vertigo_present
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: left posterior crossbite tendency | open bite tendency
+maximum_opening: 44mm
+muscle_pain_score: mild-to-moderate
+joint_arthritis_location: left TMJ | right TMJ 
+musical_tenderness_present: True
+sleep_disorder_type: daytime somnolence | snoring | daytime tiredness
+appliance_history: orthodontics x2 when she was a teenager
+
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+autoimmune_condition: left connective tissue autoimmune disease | right  autoimmune disease
+patient_id: B284
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea_diagnosed: True
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+patient_id: B376
+patient_age: 53
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc partially displaced but may be reactive pannus surrounding the disc | right disc dislocation 
+autoimmune_condition: True
+pain_aggravating_factors: connective tissue autoimmune disease | reactive arthritis

@@ -1,0 +1,24 @@
+patient_id: B430
+patient_age: 29
+pain_onset_date: four years ago
+onsets_triggers: unknown 
+physical_therapy_status: physical therapy for myofascial release treatments
+joint_pain_areas: neck | back | hips | knees | feet | feet
+earache_intensity: present
+tinnitus_present: True
+vertigo_present : True
+adverse_reactions: SULFA | MEDROL | REGLAN | cheaper jewelry
+current_medications: Zoloft | Trazodone | Ultracet | Clomid | Multivitamins | calcium | calcium
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc dislocation 
+headache_intensity: Severe 
+tmj_pain_rating: severe 
+fibromyalgia_diagnosed: True
+patient_id: B430
+joint _pain_areas: neck | back | hips | knees | ankles | feet
+jaw_locking: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation in a vertical orientation with reduction | right disc anteriorly displaced with reduction 
+patient_id: B5

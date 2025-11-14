@@ -1,0 +1,87 @@
+patient_id: B266
+joint_arthritis_location: right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anterior displacement without reduction
+patient_age: 17
+joint_pain_areas: shoulders | ankles | feet | neck
+physical_therapy_status: massage for neck
+neck_pain_present: True
+headache_intensity: 6
+headache_frequency: two to three times per week
+headache_location: temporal | frontal
+tmj_pain_rating: 8
+average_daily_pain_intensity: 9
+jaw_function_score: 8
+diet_score: 6
+disability_rating: 6
+----------------------------------------------------------------------------------------------------
+appliance_history: orthodontics 9 years ago until last year
+current_medications: Omnicef
+adverse_reactions: sulfa
+patient_id: B266
+earache_present: True
+vertigo_present: True
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: present
+sleep_disorder_type: snoring | daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B266
+airway_obstruction_present: True
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_location: temporalis | masseters | styloid areas | medial pterygoids | shoulders
+muscle_pain_score: moderate to very high moderate
+muscle_tenderness_present: True
+maximum_opening: 30mm
+maximum_opening_without_pain: 24mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+disc_displacement: left disc dislocation | right disc anterior displacement without reduction
+airway_obstruction_present: True
+joint_pain_areas: TMJ
+headache_intensity: present
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+NoInfo
+----------------------------------------------------------------------------------------------------
+patient_id: B266
+sleep_disorder_type: daytime somnolence
+headache_intensity: 6, can escalate to 10
+pain_frequency: sometimes wakes up with them and other times they begin during day or night and gets worse
+headache_location: frontal | temporal
+tmj_pain_rating: 7
+average_daily_pain_intensity: 5
+jaw_function_score: 8
+diet_score: 7
+disability_rating: 7
+maximum_opening: 30mm
+maximum_opening_without_pain: 30mm
+joint_pain_areas: left TMJ | right TMJ | knees | ankles
+muscle_pain_location: temporalis | masseters | medial pterygoids | styloid areas | SCMs | posterior neck | shoulder
+neck_pain_present: True
+muscle_pain_score: moderate to low severe
+current_medications: motrin | prevacid
+earache_present: True
+tinnitus_present: False
+vertigo_present: True
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+joint_pain_areas: left TMJ | right TMJ | knees | ankles
+patient_id: B266
+joint_arthritis_location: left TMJ | right TMJ
+earache_present: True
+vertigo_present: True
+joint_pain_areas: left TMJ | right TMJ
+sleep_disorder_type: snoring | daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B266
+joint_arthritis_location: right TMJ
+disc_displacement: left disc dislocation | right disc anterior displacement without reduction
+airway_obstruction_present: True
+joint_pain_areas: TMJ
+headache_intensity: present
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea symptoms

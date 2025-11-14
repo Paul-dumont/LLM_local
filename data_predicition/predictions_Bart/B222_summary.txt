@@ -1,0 +1,26 @@
+patient_id: B222
+patient_age: 33
+current_medications: occasional Advil
+airway_obstruction_present: True
+jaw_clicking: left TMJ | right TMJ
+pain_onset_date: as long as she can remember
+appliance_history: orthodontics with some bone graft
+----------------------------------------------------------------------------------------------------
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 62mm
+muscle_tenderness_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms 
+pain_aggravating_factors: left posterior cross bite tendency | right posterior crossbite tendency
+patient_id: B222
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocations
+headache_intensity: present
+tmj_pain_rating: severe
+sleep_disorder_type: sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B222
+patient_age: 33
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced with early reduction | right disc anterior and lateral displacement with early removal

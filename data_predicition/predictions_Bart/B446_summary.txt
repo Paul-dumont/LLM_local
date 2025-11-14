@@ -1,0 +1,27 @@
+patient_id: B446
+patient_age: 27
+pain_onset_date: mid-teens
+onsets_triggers: facial asymmetry until 18 years old
+appliance_history: orthodontics at 16 | splints 2 years ago | current splint 8 months ago
+current_medications: aspirin | acetaminophen | Tylenol
+headache_intensity: 8
+tmj_pain_rating: 8
+----------------------------------------------------------------------------------------------------
+patient_id: B446
+pain_aggravating_factors: right posterior cross bite | left posterior crossbite
+airway_obstruction_present: True
+joint_pain_areas: right TMJ
+muscle_tenderness_location: temporalis | masseter | styloid | SCMs | posterior neck | shoulders | left medial pterygoid area
+jaw_clicking: left TMJ 
+maximum_opening: 53mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ 
+disc_displacement: left disc lateral and anterior dislocation | right disc dislocation anteriorly and non-reducing
+tmj_pain_rating: Severe 
+headache_intensity: present
+patient_id: B2
+----------------------------------------------------------------------------------------------------
+patient_id: B446
+patient_age: 27
+joint_arthritis_location: right TMJ
+disc_displacement: left disc laterally and anteriorly displaced | right disc anteriorly dislocated with questionable reduction

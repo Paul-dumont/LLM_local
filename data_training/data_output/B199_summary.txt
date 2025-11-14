@@ -1,0 +1,50 @@
+patient_id: B199
+patient_age: 25
+pain_onset_date: age of 10
+onset_triggers: stress
+headache_intensity: present
+appliance_history: upper and lower jaw splint
+current_appliance: 4 splints since 22
+physical_therapy_status: acupuncture last year for few onths | chiropractic office between 21 and 23 | physical therapy for the past year
+headache_intensity: 6 that can exacerbate to 8 to 9
+headache_frequency: constant
+headache_location: throughout the head
+tmj_pain_rating: 7
+average_daily_pain_intensity: 8
+jaw_function_score: 5
+diet_score: 5
+disability_rating: 8
+current_medications: motrin 
+previous_medications: vicodin
+earache_present: True
+tinnitus_present: False
+vertigo_present: True
+hearing_loss_present: False 
+joint_pain_areas: knees | hips | ankles | neck vertebrae
+neck_pain_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B199
+pain_aggravating_factors: anterior open bite
+muscle_pain_location: throughout head and neck | shoulder
+neck_pain_present: True
+joint_pain_areas: TMJ
+muscle_pain_score: moderate to high
+jaw_clicking: right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B199
+airway_obstruction_present: True
+maximum_opening: 46mm
+maximum_opening_without_pain: 28mm
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+pain_aggravating_factors: anterior open bite
+joint_pain_areas: TMJ
+presheadache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B199
+patient_age: 25
+disc_displacement: left disc anterior and lateral displacement | right disc anterior, lateral and medial displacement without reduction
+joint_arthritis_location: right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc lateral displacement

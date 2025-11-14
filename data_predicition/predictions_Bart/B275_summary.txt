@@ -1,0 +1,27 @@
+patient_id: B275
+patient_age: 24
+current_medications: Toprol XL 
+tachycardia_present: True
+pain_aggravating_factors: jaw surgery x2
+appliance_history: orthodontic appliances from about the age of 8 to 13 | 1 pack of cigarettes per week for 7 years
+earache_presenter: False
+tinnitus_intensity: present
+jaw_clicking: left TMJ | right TMJ
+vertigo_present
+----------------------------------------------------------------------------------------------------
+patient_id: B275
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence
+muscle_pain_location: masseters | styloids | posterior neck area
+joint_tenderness_areas: left TMJ | right TMJ
+maximum_opening: 70mm
+----------------------------------------------------------------------------------------------------
+patient_id: B275
+pain_aggravating_factors: anterior open bite
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with nonsalvageable
+----------------------------------------------------------------------------------------------------
+patient_id: B275
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc dislocation without reduction | left disc anteriorly and medially displaced without reduction

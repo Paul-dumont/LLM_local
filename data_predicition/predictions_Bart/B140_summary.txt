@@ -1,0 +1,26 @@
+patient_id: B140
+patient_age: 28
+pain_onset_date: 5 years ago
+jaw_clicking: left TMJ | right TMJ
+headache_intensity: 0
+tmj_pain_rating: 2
+average_daily_medications: Invisaline
+muscle_tenderness_present: True 
+maximum_opening: 43mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B140
+autoimmune_condition: HLA-B27
+pain_aggravating_factors: anterior open bite
+joint_pain_areas: left TMJ | right TMJ
+patient's_appliance: orthodontics
+maximum_opening: 5mm
+----------------------------------------------------------------------------------------------------
+patient_id: B140
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: rheumatoid arthritis or similar connective tissue autoimmune disease
+disc_displacement: left disc displacement | right disc displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: connective tissue autoimmune disease 
+disc_displacement: left disc without articular disc | right disc without Articular disc

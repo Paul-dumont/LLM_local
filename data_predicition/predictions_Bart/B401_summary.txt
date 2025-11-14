@@ -1,0 +1,32 @@
+patient_id: B401
+patient_age: 46
+earache_present: True
+tinnitus_present : True
+vertigo_diagnosed: True 
+hearing_disorder_type: hearing loss
+pain_aggravating_factors: clenching
+appliance_history: orthodontic treatment for about 9 months | T&A as a child
+current_medications: AcipHex | aspirin
+headache_frequency: twice a week
+tmj_pain_rating: 5
+average_
+----------------------------------------------------------------------------------------------------
+patient_id: B401
+pain_aggravating_factors: buccal crossbite
+airway_obstruction_present: True
+maximum_opening: 53mm
+muscle_tenderness_location: right styloid area | left masseter | left medial pterygoid | bilateral SCMs
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: left posterior cross bite | right posterior crossbite
+airway_obstruction_present: True 
+patient_id: B376
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B401
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteroposterior displacement with Mitek anchor 
+appliance_history: orthodontics to refine occlusion
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc in good anteroposterior position but may be slightly lingually displaced | right disc in  anterior and posterior displacement

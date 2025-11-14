@@ -1,0 +1,33 @@
+patient_id: B305
+patient_age: 21
+earache_present: True
+muscle_tenderness_present: False
+vertigo_present: True
+hearing_loss_present: False
+joint_pain_areas: shoulders
+pain_aggravating_factors: clenching | bruxism
+current_medications: Ortho-TriCyclen
+pain_onset_date: about 16
+onset_triggers: unknown
+appliance_history: orthodontics from the age of 13 to 15 | orthodontics from 16 to 17 years of age
+headache_intensity: 3
+headache_location: temple
+headache_frequency: once a month
+tmj_pain_rating: 0
+jaw_function_score: 3
+diet_score: 4
+disability_rating: 0
+----------------------------------------------------------------------------------------------------
+patient_id: B305
+muscle_pain_score: moderate
+muscle_pain_location: styloid areas
+jaw_clicking: left TMJ
+maximum_opening: 54mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocation without reduction
+patient_id: B305
+patient_age: 21
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction

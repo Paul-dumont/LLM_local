@@ -1,0 +1,38 @@
+patient_id: B351
+patient_age: 57
+neck_pain_present: True
+joint_pain_areas: neck | ankles | lower back
+back_pain_present: True
+previous_medications: Clindamycin
+maximum_opening: 10=-12mm
+current_medications: Amrix | Zoloft | Omeprazole | Estradiol |
+CoQ-10 | Hyaluronic acid | B12 | Biotene | Fish oil | Calcium | vitamin D | Advil | Tylenol 
+----------------------------------------------------------------------------------------------------
+patient_id: B351
+headache_intensity: 0
+tmj_pain_rating: 0 but can escalate to 7
+average_daily_pain_intensity: 7
+neck_pain_present: True
+joint_pain_areas: neck | hands | elbows | knees | ankles | shoulders | right TMJ
+jaw_function_score: 4
+diet_score: 4
+disability_rating: 6
+autoimmune_condition: increased ANA
+pain_frequency: best in morning but progress as day goes on
+sleep_disorder_type: daytime somnolence | snoring 
+airway_obstruction_present: True 
+muscle_tenderness_present: True
+muscle_pain_score: mild
+muscle_pain_location: temporalis | masseters | right styloid area
+maximum_opening: 17mm
+disc_displacement: left disc medial displacement | right disc medial displacement
+----------------------------------------------------------------------------------------------------
+patient_id: B351
+maximum_opening: 17mm
+autoimmune_condition: increased ANA
+disc_displacement: left disc medial and anterior displacement | right disc medial displacement
+joint_arthritis_location: left TMJ | right TMJ
+patient_age: 57
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc medial and anterior displacement with reduction | right disc medial and anterior displacement with reduction
+joint_arthritis_location: left TMJ | right TMJ

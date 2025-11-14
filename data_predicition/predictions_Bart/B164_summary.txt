@@ -1,0 +1,16 @@
+patient_id: B164
+patient_age: 60
+current_medications: vitamins | baby aspirin
+pain_onset_date: last year
+appliance_history: nighttime splint since 7 months ago
+joint_pain_areas: left knee | left shoulder | lower back | left TMJ | right TMJ
+earache_present: True
+tinnitus_present : True
+vertigo_present 
+sleep_disorder_type: daytime somnolence | snoring | sleep disorder
+----------------------------------------------------------------------------------------------------
+patient_id: B164
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc dislocation 
+headache_intensity: present
+tmj_pain_rating: present

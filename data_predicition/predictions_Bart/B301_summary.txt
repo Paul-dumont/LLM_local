@@ -1,0 +1,27 @@
+patient_id: B301
+patient_age: 22
+joint_pain_areas: left knee | right knee
+autoimmune_condition: Marfans syndrome
+current_medications: seasonale birth control pill | Zoloft | Zyrtec | Zantac
+pain_onset_date: at least by the age of 14 or 15 or perhaps earlier
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics from 7 to 8 | orthodon
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+muscle_pain_score: moderate 
+joint_tenderness_areas: shoulders | left styloid area | left TMJ | masseters | temporalis muscles
+muscles_crepitus: right TMJ
+jaw_clicking: jaws 
+maximum_opening: 57mm
+max_opening_without_pain: 42mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B301
+pain_aggravating_factors: retrusion of jaw structures and significant decreased oropharyngeal airway space
+sleep_disorder_type: sleep apnea history
+----------------------------------------------------------------------------------------------------
+patient_id: B301
+patient_age: 22
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and medial displacement

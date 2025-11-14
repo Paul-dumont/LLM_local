@@ -45,10 +45,7 @@ logs/
 .cache/
 
 # Data files (keep structure)
-data_output/
-data_output_clean/
-predict_*/
-predictions_*/
+
 
 # OS
 .DS_Store

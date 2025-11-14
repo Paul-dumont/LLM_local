@@ -1,0 +1,39 @@
+patient_id: B504
+patient_age: 49
+pain_onset_date: 11 months ago
+muscle_spasm_present: True
+onset_triggers: unknown 
+physical_therapy_status: Novocain injections to the right TMJ x3 | Acupuncture | Chiropractic treatment
+appliance_history: Splint 
+pain_aggravating_factors: clenching | bruxism | chewING
+headache_intensity: 7
+headache_location: back of the head
+headache_frequency: 3 times per week
+tmj_pain_rating: 7
+average_daily_pain_intensity: 5
+jaw_function_score: 9
+diet_score: 7
+disability_rating: 9
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+sleep_disorder_type: daytime somnolence | snoring 
+jaw_locking: True
+----------------------------------------------------------------------------------------------------
+patient_id: B504
+muscle_pain_score: mild to moderate
+muscle_pain_location: through most of the head and neck area
+jaw_clicking: right TMJ
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B504
+joint_arthritis_location: right TMJ
+disc_displacement: right disc anteriorly dislocated
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B504
+patient_age: 49
+joint_arthritis_location: right TMJ
+disc_displacement: left disc anteriorly and medially displaced with reduction | right disc anteriorly and medially displaced
+

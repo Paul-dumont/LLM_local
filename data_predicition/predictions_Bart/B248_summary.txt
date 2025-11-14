@@ -1,0 +1,22 @@
+patient_id: B248
+patient_age: 21
+current_medications: iron supplements
+adverse_reactions: penicillin
+appliance_history: orthognathic surgery | orthodontics from about 3 to 13 years ago with only about a year break
+headache_intensity: 7 but gets real severe headaches about every couple of months or so where she gets extremely nauseated and vomiting as well
+tmj_pain_rating: 10
+average_daily_pain level: 6
+jaw_function_score:
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+tmj_pain_rating: Severe 
+headache_intensity: present
+patient_id: B248
+age_of_disability: 21
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction
+joint_arthritis_location: left TMJ | right TMJ 
+patient_id: B4
+maximum_opening: 8mm

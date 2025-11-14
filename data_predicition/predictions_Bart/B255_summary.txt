@@ -1,0 +1,45 @@
+patient_id: B255
+joint_arthritis_location: left TMJ | right TMJ
+headache_intensity: 0
+earache_present: False
+tinnitus_present : False
+vertigo_diagnosed: False 
+pain_aggravating_factors: high condylectomies
+disc_displacement: left disc displacement | right disc displacement
+----------------------------------------------------------------------------------------------------
+patient_id: B255
+airway_obstruction_present: True
+disc_displacement: left disc anterior and medial displacement | right disc medial displacement 
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B255
+patient_age: 17
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteromedial displacement | right disc dislocation and possibly nonreducing
+earache_present: False
+tinnitus_present : False
+vertigo_present 
+headache_intensity: 0
+pain_aggravating_factors: left posterior crossbite
+appliance_history: orthodontics for 5 or 6 years with palatal expanders | number of different appliances
+tmj_pain_rating: 2
+jaw_function_score:
+----------------------------------------------------------------------------------------------------
+patient_id: B255
+current_appliance: 3 x 3 retainer in the lower anterior arch
+pain_aggravating_factors: anterior crossbite tendency
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+current_appliance: 3 x 3 retainer in the lower arch
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc anterior and medial displacement 
+pain_aggravating_factors: left posterior crossbite
+patient_id: B255
+maximum_opening: 41mm
+average_opening_without_pain: 36mm
+----------------------------------------------------------------------------------------------------
+patient_id: B255 
+jaw_clicking: left TMJ | right TMJ
+appliance_history: Essex retainer
+pain_aggravating_factors: clenching | bruxism

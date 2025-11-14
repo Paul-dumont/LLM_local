@@ -1,0 +1,52 @@
+patient_id: B220
+disc_displacement: left disc anterior and medial displacement with early reduction | right disc anterior and medial displacement without reduction
+joint_arthritis_location: left TMJ | right TMJ
+patient_age: 39
+autoimmune_condition: Reiter's syndrome
+----------------------------------------------------------------------------------------------------
+patient_id: B220
+pain_onset_date: 12 years ago
+onset_triggers: unknown
+jaw_clicking: right TMJ
+appliance_history: orthodontics for two years from 13 or 14
+headache_intensity: 9 for frontal and 5 for others
+headache_frequency: 1 to 2 times a week
+headache_location: frontal | temporal | top of head | posterior head
+tmj_pain_rating: 2
+average_daily_pain_intensity: 1
+jaw_function_score: 7
+diet_score: 3
+disability_rating: 2
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: neck | shoulders | hands | fingers | hips | knees | toes | feet
+neck_pain_present: True
+autoimmune_condition: elevated ANA
+joint_pain_areas: right TMJ | left TMJ
+current_medications: fluoxetine } Tylenol | sinus medication
+----------------------------------------------------------------------------------------------------
+patient_id: B220
+maximum_opening: 53mm
+maximum_opening_without_pain: 35mm
+joint_pain_areas: left TMJ | right TMJ
+jaw_clicking: left TMJ | Right TMJ
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement 
+airway_obstruction_present: True
+patient_id: B220
+----------------------------------------------------------------------------------------------------
+joint_pain_areas: neck | shoulders | hands | fingers | hips | knees | toes | feet
+neck_pain_present: True
+sleep_disorder_type: tiredness
+autoimmune_condition: Reiter's disease
+patient_id: B220
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocation with questionable reduction
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+NoInfo

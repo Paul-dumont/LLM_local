@@ -1,0 +1,21 @@
+patient_id: B002
+patient_age: 30
+appliance_history: orthodontic treatment from 14 to 18 | splint 15 years ago | TMJ surgery 3 years ago 
+physical_therapy_status: physical therapy beginning this year
+pain_onset_date: 13 years of age
+onsets_triggers: unknown but likely AICR
+headache_intensity: 7 but can escalate to 9
+neck_pain_present: True
+jaw_function_score: 4
+diet_
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B002
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite
+patient_id: B5
+joint_arthritis_location: left TMJ | right TMJ
+appliance_history: orthodontics

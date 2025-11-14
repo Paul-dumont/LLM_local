@@ -1,0 +1,46 @@
+patient_id: B054
+maximum_opening_without_pain: 15mm
+patient_age: 27
+maximum_opening: 26mm
+pain_relieving_factors: unknown
+diet_score: 10
+pain_duration: unknown
+disability_rating: 5
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: physical therapy | splint therapy for two years
+earache_present: true
+onset_triggers: yawned and her jaw locked open
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: 9
+headache_intensity: 0
+autoimmune_condition: unknown
+pain_onset_date: 26 years old
+jaw_crepitus: unknown
+tmj_pain_rating: 9
+sleep_disorder_type: unknown
+current_medications: percocet | uptagin
+disc_displacement: left disc medial displacement | right disc anterior and medial displacement with early reduction
+muscle_pain_location: left tmj
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint for two years
+joint_pain_areas: knees | hips | left tmj

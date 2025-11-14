@@ -1,0 +1,23 @@
+patient_id: B382
+patient_age: 45
+current_medications: number of different antibiotics
+pain_onset_date: about two to three years ago
+onsets_triggers: right side of jaws in what appears would have been her maxillary and mandibular first molars
+appliance_history: dental amalgam replacement | bridgework | root canal treatment
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocated 
+patient_id: B4
+jaw_crepitus: TMJ 
+tmj_pain_rating: 0
+pain_aggravating_factors: clenching | bruxism 
+airway_obstruction_present: False
+----------------------------------------------------------------------------------------------------
+patient_id: B382
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction
+pain_aggravating_factors: neck pain
+sleep_disorder_type: daytime somnolence
+current_medications: none
+headache_intensity: present
+physical_therapy_status:

@@ -1,0 +1,21 @@
+patient_id: B107
+patient_age: 62
+pain_onset_date: age of 33
+appliance_history: left arthroplasty and disc plication at age 35 | at 36 left disentomb with temporal fascial muscle flap | at 42 left TMJ reconstruction with a rib graft | at 43 right TMJ diskectomy | at 44 right rib graft
+sleep_disorder_type: sleep apnea | CPAP | BiPAP
+physical_therapy_status: none
+headache_frequency: daily 
+tmj_pain_intensity:
+----------------------------------------------------------------------------------------------------
+patient_id: B107
+airway_obstruction_present: True
+joint_pain_areas: TMJ
+headache_intensity: present
+sleep_disorder_type: sleep apnea | snoring | daytime somnolence
+autoimmune_condition: Lupus | Sjogren's syndrome
+----------------------------------------------------------------------------------------------------
+patient_id: B107
+patient_age: 62
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+disc_displacement: right disc may be in position, but difficult to tell on these views

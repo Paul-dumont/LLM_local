@@ -1,0 +1,30 @@
+patient_id: B284
+patient_age: 21
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with early reduction | right disc medial displacement 
+current_medications: birth control pills
+pain_onset_date: 17 to 18 years of age
+appliance_history: orthodontics 4 years ago | splint therapy from 3 years ago until now
+physical_therapy_status: physical therapy including treatment by three different physical therapists | chiropractic treatment
+----------------------------------------------------------------------------------------------------
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: 5 but can escalate to 10
+migraine_history: True
+earache_present: True 
+tinnitus_present : True
+vertigo_diagnosed: False
+hearing_loss_rating: 0
+current_medications: amitriptyline | Depakote | numerous other medicines
+patient_id: B284
+maximum_opening: 69mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ
+disc_displacement: left disc medial displacement | right disc medial dislocation 
+patient_id: B284
+headache_intensity: present
+tmj_pain_rating: 0
+earache_present: True
+tinnitus_present : True
+vertigo_diagnosed: False
+pain_aggravating_factors: clenching
+sleep_disorder_type: daytime somnolence | clenching

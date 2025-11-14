@@ -1,0 +1,55 @@
+patient_id: B268
+patient_age: 20
+current_medications: Prozac | birth control medication | naproxen
+earache_present: True
+tinnitus_present:'True
+vertigo_present': True
+joint_pain_areas: left shoulder
+pain_aggravating_factors: clenching
+headache_intensity: 4
+headaches_location: temple | top of the head area
+tmj_pain
+----------------------------------------------------------------------------------------------------
+patient_id: B268
+joint_arthritis_location: left TMJ
+disc_displacement: right disc posterior displacement | left disc dislocation
+pain_aggravating_factors: left posterior crossbite | right posterior cross bite
+headache_intensity: present
+tmj_pain_rating: severe
+earache_present: True 
+tinnitus_present : True
+airway_obstruction_diagnosed: True
+patient_age: 26
+----------------------------------------------------------------------------------------------------
+patient_id: B268
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc posteriorly displaced with reduction
+jaw_locking: True
+patient_age: 38
+----------------------------------------------------------------------------------------------------
+patient_id: B268 
+current_medications: hydrocodone | antibiotics
+pain_aggravating_factors: clenching | vomiting
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B268
+current_appliance: palatal splint
+pain_aggravating_factors: left posterior cross bite | right posterior crossbite
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ | right TMJ
+maximum_opening: 34mm
+current-medications: Klonopin | Ambien | birth control pills | Prozac | Tramadol | tramadol 
+
+----------------------------------------------------------------------------------------------------
+patient_id: B268
+current_medications: birth control pills | Prozac
+muscle_tenderness_present: True
+joint_pain_areas: shoulders | neck | left shoulder | hips | knees
+headache_frequency: 2 days a week
+headaches_intensity: 2, but this may be related to nocturnal clenching
+tmj_painrating: 2
+average_daily_pain level: 5
+jaw_function_score: 2 
+diet_score 0
+disability_rating: 0
+

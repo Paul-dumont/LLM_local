@@ -1,0 +1,32 @@
+patient_id: B327
+patient_age: 12
+earache_present: False
+tinnitus_present : False
+vertigo_diagnosed: False 
+hearing_loss_score: 0
+adverse_reactions: cats | dogs
+migraine_history: True
+headache_intensity: range from 3 to 8 in the frontal and temporal areas
+pain_frequency: one to two times per week
+onset_triggers: four or five years ago when she began getting headaches
+current_medications: atenolol
+tmj_pain_rating: 7
+----------------------------------------------------------------------------------------------------
+muscle_pain_location: masseters | styloid area | left TMJ | right TMJ
+maximum_opening: 33mm 
+max_opening_without_pain: 28mm
+jaw_clicking: right TMJs
+maximum _opening_with_pain threshold: 8mm
+maximum range of movement: right
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc possible lateral displacement | right disc possibly lateral displacement 
+airway_obstruction_present: True
+headache_intensity: present
+tmj_pain_rating: light sensitivity with severe headaches
+patient_id: B5
+----------------------------------------------------------------------------------------------------
+patient_id: B327
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc lateral displacement | right disc possible lateral displacement 
+current_medications: Celebrex

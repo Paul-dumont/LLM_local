@@ -1,0 +1,29 @@
+patient_id: B305
+patient_age: 21
+earache_present: True
+vertigo_present : True
+hearing_loss_score: 0
+joint_pain_areas: shoulders | left TMJ | right TMJ
+headache_frequency: once a month 
+tmj_function_rating: 3
+diet_intensity: 4
+disability_rating": 0
+appliance_history: orthodontics from the age of 13 to 15 and then again for about approximately nine months when she was about 16 to 17 years of age
+pain_onset_date: unknown
+----------------------------------------------------------------------------------------------------
+patient_id: B305
+sleep_disorder_type: daytime somnolence | sleep apnea symptoms
+muscle_pain_score: moderate 
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 54mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc dislocation with reduction | right disc displacement without reduction 
+airway_obstruction_present: True
+patient_id: B305
+age: 21
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction 
+patient_id: B4
+jaw_locking: True

@@ -1,0 +1,29 @@
+patient_id: B525
+patient_age: 15
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: neck | knees
+neck_pain_present: True
+adverse_reactions: environmental | cheap earrings
+jaw_clicking: left TMJ | right TMJ 
+jaw_locking: True
+onset_triggers: unknown
+pain_aggravating_factors: left posterior cross bite | right posterior cross bite
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: milder 
+muscle_pain_location: masseter | styloid areas
+maximum_opening: 48mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_id: B525
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ  
+disc_displacement: left disc slight medial displacement | right disc possible displacement
+patient_id: B525
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior dislocation with reduction
+

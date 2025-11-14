@@ -1,0 +1,30 @@
+patient_id: B507
+patient_age: 13
+joint_pain_areas: TMJ
+headache_intensity: present
+tinnitus_present: True
+vertigo_present: True
+headache_intensity: 5
+headache_location: right posterior head | temporal
+tmj_pain_rating: 2
+average_daily_pain_intensity: 1
+jaw_function_score: 5
+diet_score: 3
+pain_onset_date: age of 3
+onset_triggers: motor vehicle accident
+hearing_loss_present: True
+pain_aggravating_factors: anterior open bite | left posterior cross bite | right posterior cross bite
+----------------------------------------------------------------------------------------------------
+patient_id: B507
+muscle_tenderness_present: False
+neck_pain_present: False
+----------------------------------------------------------------------------------------------------
+NoInfo
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite | left posterior cross bite | right posterior cross bite
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc possible dislocation 
+----------------------------------------------------------------------------------------------------
+patient_id: B507
+joint_arthritis_location: left TMJ | right TMJ 

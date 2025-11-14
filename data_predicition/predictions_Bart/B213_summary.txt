@@ -1,0 +1,22 @@
+patient_id: B213
+patient_age: 14
+appliance_history: orthodontics with maxillary expansion device
+adverse_reactions: codeine | milk | cheap jewelry | necklaces | earrings | cheap bracelets 
+pain_onset_date: 7 months ago
+onsets_triggers: unknown 
+earache_present: True
+tinnitus_present but no tinnitus | vertigo_present, hearing loss
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc dislocation without reduction | right disc possible dislocation 
+airway_obstruction_present: True
+patient_id: B158
+----------------------------------------------------------------------------------------------------
+patient_id: B213
+joint_arthritis_location: right TMJ 
+disc_displacement: right disc dislocation with probably no reduction | left disc anterior and medial displacement
+patient_age: 25
+jaw_locking: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ 
+disc_displacement: left disc medial and anterior displacement | right disc anterior displacement with loss of bony volume compatible with idiopathic condylar resorption

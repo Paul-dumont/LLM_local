@@ -1,0 +1,27 @@
+patient_id: B466
+patient_age: 41
+current_medications: Singulair | Advair | vitamins
+jaw_clicking: left TMJ | right TMJ
+pain_onset_date: 23 years ago when she was in dental school 
+onsets_triggers: unknown 
+appliance_history: orthodontics from the age of 13 to 15 | night guards 18 years ago and 7 years ago
+earache_present: False
+tinnitus_present:' False
+vertigo_present
+----------------------------------------------------------------------------------------------------
+patient_id: B466
+joint_arthritis_location: left TMJ
+disc_displacement: left disc dislocation without reduction 
+appliance_history: orthodontic appliances on for the second time since last year
+muscle_tenderness_present: False
+maximum_opening: 50mm
+jaw_clicking: right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc lateral displacement without reduction 
+patient_id: B2
+current_appliance: orthodontics
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc desiccation without reduction | right disc in normal position 
+pain_aggravating_factors: anterior open fracture

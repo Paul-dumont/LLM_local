@@ -1,0 +1,27 @@
+patient_id: B130 
+patient_age: 26
+pain_onset_date: teenage years of unknown etiology
+appliance_history: orthodontics from about the age of 12 to 16
+earache_present: False
+tinnitus_present%: False
+vertigo_present : False
+hearing_loss_present:' False
+joint_pain_areas: back
+headache_intensity: 8
+headaches_location: frontal | temporal | top of the head
+
+----------------------------------------------------------------------------------------------------
+patient_id: B130
+airway_obstruction_present: True
+sleep_disorder_type: snoring | daytime somnolence
+joint_pain_areas: TMJ
+headache_intensity: present
+disc_displacement: left disc dislocation with early reduction | right disc dislocated with early reductio
+patient_age: 35
+pain_aggravating_factors: anterior deep bite
+appl
+----------------------------------------------------------------------------------------------------
+patient_id: B130
+patient_age: 26
+disc_displacement: left disc anteromedial dislocation with early reduction | right disc anterior and medial dislocation 
+joint_arthritis_location: left TMJ | right TMJ

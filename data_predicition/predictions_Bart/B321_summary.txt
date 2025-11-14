@@ -1,0 +1,24 @@
+patient_id: B321
+patient_age: 49
+sleep_disorder_type: snoring | sleep apnea symptoms
+pain_aggravating_factors: clenching | bruxism
+appliance_history: orthodontic treatment for six years as a teenager | earlier this year orthotic devices
+joint_pain_areas: right shoulder | knees | left ankle
+headache_intensity: 8, used to occur almost daily | once a week
+----------------------------------------------------------------------------------------------------
+jaw_crepitus: left TMJ | right TMJ
+maximum_opening: 51mm
+sleep_disorder_type: snoring | sleep apnea 
+patient_id: B321
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation at lateral aspect of the joint | right disc dislocations at lateral area of joint 
+sleep_disorder_type: sleep apnea symptoms | snoring | daytime somnolence | sleep disorder symptoms | tinnitus symptoms 
+headache_intensity: present
+tmj_pain_rating: 0
+----------------------------------------------------------------------------------------------------
+patient_id: B321
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced | right disc anterior displacement at the lateral extent of the joint

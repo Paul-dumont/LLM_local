@@ -1,0 +1,40 @@
+patient_id: B362
+patient_age: 41
+pain_onset_date: 15 years ago
+joint_pain_areas: left TMJ | right TMJ  
+jaw_locking: True
+appliance_history: numerous splints during her 20s and 30s | orthodontics | orthognathic surgery to "correct her TMJ problems"
+current_medications: Advil | vitamins | Ecotrin
+headache_frequency: two times a week
+headaches_intensity: present
+sleep_disorder_type: Sleep disorder secondary to pain | clenching | bruxism
+vertigo_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B362
+airway_obstruction_present: True
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 38mm 
+maximal_opening_without_pain: 30mm
+joint_pain_areas: left knee | right knee
+----------------------------------------------------------------------------------------------------
+muscle_tenderness_present: True
+muscle-pain_score: normal 
+maximum_opening: 20mm
+headache_intensity: 0
+jaw_clicking: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B5
+joint_pain_areas: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc vertical orientation
+----------------------------------------------------------------------------------------------------
+patient_id: B362
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc anterior displacement 
+headache_intensity: present
+tmj_pain_rating: Severe 
+airway_obstruction_present: True
+patient_age: 35
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc anterior and medial displacement at the lateral aspect of the joint but the disc appears more degenerated

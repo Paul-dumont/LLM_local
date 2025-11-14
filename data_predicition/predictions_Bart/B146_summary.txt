@@ -1,0 +1,24 @@
+patient_id: B146
+patient_age: 40
+pain_onset_date: unknown but significant symptoms began at 39 years of age
+appliance_history: splint for the last 7 months
+physical_therapy_status: physical therapy | TAP III
+sleep_apnea_diagnosed: True
+joint_pain_areas: right TMJ | left TMJ
+muscle_spasm_present: True 
+headache_intensity: 9
+----------------------------------------------------------------------------------------------------
+patient_id: B146
+joint_arthritis_location: right TMJ
+headache_intensity: present
+sleep_disorder_type: sleep apnea
+airway_obstruction_present: True
+muscle_pain_score: high moderate to mild 
+tenderness_present : left retromandibular areas
+maximum_opening: 47mm
+maximum _opening_without_pain: 35mm
+----------------------------------------------------------------------------------------------------
+patient_id: B146
+joint_arthritis_location: right TMJ
+disc_displacement: right disc anterior displacement without reduction | left disc medial and anterior displacement with reduction 
+patient_age: 26

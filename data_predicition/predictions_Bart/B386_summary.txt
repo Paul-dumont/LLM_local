@@ -1,0 +1,20 @@
+patient_id: B386
+patient_age: 40
+autoimmune_condition: rheumatoid arthritis
+joint_arthritis_location: neck | shoulders | elbows | wrists | hands | fingers | ankles | feet | left TMJ | right TMJ
+pain_aggravating_factors: clenching | bruxism | sleep apnea symptoms
+headache_intensity: 4 on the right side and 2 on the left side
+headaches_frequency: 1 to 2 times per day
+tmj_pain_rating:
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: rheumatoid arthritis 
+tmj_pain_rating: Severe 
+headache_intensity: severe 
+earache_present: True
+tinnitus_diagnosed: True 
+patient_id: B386
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc anterior displacement with some kind of reactive tissue filling the joint space superiorly and posteriorly
+autoimmune_condition: rheumatoid arthritis

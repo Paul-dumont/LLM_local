@@ -1,0 +1,20 @@
+patient_id: B064
+patient_age: 22
+pain_onset_date: 13 or 14 years of age
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics from 14 to 17 years old | 3 x 3 lower retainer
+headache_intensity: present
+current_medications: Motrin 
+tmj_pain_rating: 8, average daily pain at 4, jaw function and diet at 5, disability at 8
+earache
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite
+patient_id: B064
+disc_displacement: left disc dislocation without reduction | right disc dislocations without reduction 
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and posterior dislocation without reduction 
+patient_id: B4

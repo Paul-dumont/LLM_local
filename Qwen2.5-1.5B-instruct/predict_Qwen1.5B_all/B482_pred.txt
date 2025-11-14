@@ -1,0 +1,16 @@
+patient_id: B482
+maximum_opening_without_pain: unknown
+patient_age: 19 | 19
+maximum_opening: 53mm
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: false
+pain_aggravating_factors: anterior maxillary vertical excess | anterior maxillary vertical excess | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left posterior yaw | left

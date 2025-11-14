@@ -1,0 +1,48 @@
+patient_id: B495
+patient_age: 43
+joint_pain_areas: TMJ
+headache_intensity: present
+sleep_disorder_type: sleep apnea symptoms
+earache_present: True 
+pain_onset_date: unknown but worsened last August
+sleep_apnea_diagnosed: True
+cpap_used: False
+physical_therapy_status: physical therapy for 6 to 8 weeks
+muscle_spasm_present: True
+appliance_history: splint for approximately 10 years
+current_medications: Ibuprofen | Q-Var inhaler | Albuterol | Prednisone | Nexium
+tmj_pain_rating: 9
+average_daily_pain_intensity: 8
+jaw_function_score: 5
+diet_score: 7
+disability_rating: 6
+headache_intensity: 7
+headache_location: right temporal | posterior head
+headache_frequency: at least every other day
+pain_aggravating_factors: clenching
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B495
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea symptoms
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True
+muscle_pain_score: mild
+muscle_pain_location: styloid areas
+neck_pain_present: False
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+sleep_apnea_diagnosed: True
+sleep_disorder_type: sleep apnea
+joint_pain_areas: TMJ
+headache_intensity: present
+earache_present: True
+tinnitus_present: True
+airway_obstruction_present: True
+patient_id: B495
+patient_age: 43
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ 
+disc_displacement: left disc anteriorly displaced | right disc anteriorly displaced without reduction 
+

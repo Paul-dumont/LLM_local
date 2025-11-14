@@ -1,0 +1,46 @@
+patient_id: B415
+patient_age: 32
+migraine_history: True
+migraine_frequency: 2 to 3 times per week, but sometimes even daily
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics from the age of 9 to 12 | night guard from about 11 to 12 years ago | TMJ device of some type
+headache_intensity: 8
+headache_location: frontal | temporal | posterior head
+headache_frequency: 2 to 3 times per week, but sometimes even daily
+tmj_pain_rating: 7 but can escalate to 8
+average_daily_pain_intensity: 7
+jaw_function_score: 7
+diet_score: 6
+disability_rating: 6
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: fingers | hands
+pain_aggravating_factors: clenching | bruxism
+current_medications: Axert | Elavil | Neurontin | Hydrocodone | Dolobid | Parafon 
+sleep_disorder_type: snoring | sleep apnea problem
+sleep_apnea_diagnosed: True
+----------------------------------------------------------------------------------------------------
+patient_id: B415
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B415
+muscle_tenderness_present: True
+muscle_pain_score: mild 
+muscle_pain_location: left temporalis | masseter | retromandibular area
+maximum_opening: 42mm
+maximum_opening_without_pain: 20mm
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation 
+joint_pain_areas: TMJ
+headache_intensity: Severe 
+sleep_disorder_type: snoring
+----------------------------------------------------------------------------------------------------
+patient_id: B415
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced with possible mid to late reduction
+
+
+

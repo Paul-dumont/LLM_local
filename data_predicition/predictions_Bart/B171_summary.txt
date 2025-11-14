@@ -1,0 +1,17 @@
+patient_id: B171
+patient_age: 18
+current_medications: sulfa methoxazole TMT
+pain_onset_date: 17 years old
+appliance_history: splint | orthodontics with braces roughly from the age of 12 to 15
+headache_intensity: 5
+headaches_location: frontal | temporal | posterior head | left TMJ | right TMJ
+tmj_pain_rating: 10
+average_daily_pain _intensity: 9
+jaw_function_score
+----------------------------------------------------------------------------------------------------
+patient_id: B171
+disc_displacement: left disc medial displacement | right disc medial and anterior displacement
+joint_pain_areas: TMJ
+headache_intensity: severe
+current_appliance: 3 x 3 retainer
+patient_age: 18

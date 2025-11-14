@@ -1,0 +1,39 @@
+patient_id: B453
+patient_age: 10
+headache_intensity: 0
+tmj_pain_rating: 0 
+pain_aggravating_factors: posterior crossbite | anterior open bite
+earache_present: False
+tinnitus_present : False
+vertigo_diagnosed: False
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+pain_aggravating_factors: left posterior crossbite | right posterior cross bite
+patient_id: B453
+appliance_history: orthodontic appliances for about 2 years
+headache_intensity: 0
+tmj_pain_rating: 0 
+earache_present : False
+tinnitus_present = False
+vertigo_present= False
+hearing_loss_present
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+maximum_opening: 35mm
+muscle_tenderness_score: 0
+neck_pain_location: none
+jaw_clicking: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B453
+pain_aggravating_factors: left posterior cross bite tendency | right posterior crossbite tendency
+maximum_opening: 5mm
+joint_pain_areas: left TMJ | right TMJ
+muscle_crepitus: left disc anterior and medial displacement | right disc anterior displacement
+----------------------------------------------------------------------------------------------------
+patient_id: B453
+disc_displacement: left disc medial and perhaps anteriorly displaced | right disc medially displaced
+joint_pain_areas: left TMJ | right TMJ
+appliance_history: orthodontics
+patient_age: 45

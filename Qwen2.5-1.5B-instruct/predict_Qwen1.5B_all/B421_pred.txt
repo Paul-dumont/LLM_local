@@ -1,0 +1,46 @@
+patient_id: B421
+maximum_opening_without_pain: 32mm
+patient_age: unknown
+maximum_opening: 41mm
+pain_relieving_factors: unknown
+diet_score: 7
+pain_duration: unknown
+disability_rating: 2
+sleep_apnea_diagnosed: true
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: once every 2 weeks
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: high moderate to low severe
+migraine_history: unknown
+headache_location: posterior head
+current_appliance: unknown
+average_daily_pain_intensity: 4
+headache_intensity: 7 | present
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 4
+sleep_disorder_type: sleep apnea
+current_medications: 18
+disc_displacement: left disc anterior displacement | right disc anterior displacement | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: retromandibular area | posterior neck | masseters
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics x3 the first time when she was age 16 to 18 and then she had them on for about 6 months at age of 22 and then at 45 she had them for about 3 months
+joint_pain_areas: hips | knees | left foot | lower back | neck

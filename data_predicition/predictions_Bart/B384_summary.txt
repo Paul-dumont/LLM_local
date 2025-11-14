@@ -1,0 +1,23 @@
+patient_id: B384
+patient_age: 17-1/2
+airway_obstruction_present: True
+appliance_history: orthodontic treatment for 5.5 years
+pain_aggravating_factors: Class II mechanics that flattened and retruded her jaw position
+----------------------------------------------------------------------------------------------------
+patient_id: B384
+pain_aggravating_factors: open bite
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea episodes
+appliance_history: orthodontic treatment from the age of 12 to 17 for about 5-1/2 years
+joint_pain_areas: none
+muscle_tenderness_present: True
+maximum_opening: 55mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc possible dislocation | right disc possibly dislocation 
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea episodes | restless leg syndrome
+----------------------------------------------------------------------------------------------------
+patient_id: B384
+patient_age: 17
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and lateral displacement with reduction | right disc anterior dislocation with reduction

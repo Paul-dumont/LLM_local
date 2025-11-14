@@ -1,0 +1,36 @@
+patient_id: B380
+patient_age: 45
+current_medications: Ativan 
+adverse_reactions: tetanus | penicillin
+hearing_loss_present: True
+earache_frequency: left earache | tinnitus | vertigo
+joint_pain_areas: neck | back | left shoulder | elbows | fingers | right big toe | left TMJ | right TMJ
+pain_onset_date: 3 years ago perhaps but in the last 8 to 9 months
+onset
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+maximum_opening: 56mm
+max_opening_without_pain: 46mm
+jaw_clicking: left TMJ
+sleep_disorder_type: sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B380
+joint_arthritis_location: right TMJ
+pain_aggravating_factors: right posterior crossbite tendency | orthodontics
+airway_obstruction_present: True
+patient_age: 38
+pain level generally worse in the morning since she has to really work her jaws to get them working and functioning and loosened up 
+sleep_disorder_type: daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B380
+joint_pain_areas: neck | back | left shoulder | elbows | fingers | right big toe | left TMJ | right TMJ
+neck_back_present: True
+back_displacement: left disc anterior displacement | right disc dislocation 
+jaw_crepitus_locking: True 
+headache_intensity: present
+earache_present : True
+tinnit
+----------------------------------------------------------------------------------------------------
+patient_id: B380
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteromedial dislocation with reduction | right disc anterior and medial displacement with reduction

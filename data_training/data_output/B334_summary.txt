@@ -1,0 +1,39 @@
+patient_id: B334
+patient_age: 15.5
+adverse_reactions: seasonal 
+current_medications: albuterol | motrin
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+pain_aggravating_factors: clenching | bruxism | eating
+headache_intensity: 0
+tmj_pain_rating: 5
+average_daily_pain_intensity: 6
+jaw_function_score: 5
+diet_score: 5
+disability_rating: 3
+jaw_clicking: right TMJ
+muscle_pain_score: moderate 
+muscle_pain_location: masseters | styloid areas
+muscle_tenderness_present: True 
+joint_pain_areas: left TMJ | right TMJ
+airway_obstruction_present: False 
+maximum_opening: 55 mm
+maximum_opening_without_pain: 31 mm
+----------------------------------------------------------------------------------------------------
+patient_id: B334
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation 
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B334
+disc_displacement: left disc medial and anterior displacement without reduction | right disc dislocation with reduction
+joint_arthritis_location: left TMJ | right TMJ
+
+
+
+
+
+

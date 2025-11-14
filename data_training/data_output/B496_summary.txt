@@ -1,0 +1,30 @@
+patient_id: B496
+patient_age: 13
+adverse_reactions: seasonal 
+current_medications: Claritin 
+current_appliance: headgear for about 8 months | full appliances for almost two years
+jaw_clicking: left TMJ | right TMJ
+appliance_history:  orthodontic treatment including a palatal expander
+headache_intensity: 0
+tmj_pain_rating: 0
+jaw_function_score: 0
+diet_score: 0
+disability_rating: 0
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: none
+airway_obstruction_present: True
+muscle_tenderness_present: False
+neck_pain_present: False
+maximum_opening: 50mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B496
+patient_age: 14
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc anterior displacement without reduction | right disc medial displacement
+
+

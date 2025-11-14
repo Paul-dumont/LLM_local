@@ -1,0 +1,36 @@
+patient_id: B010
+patient_age: 51
+pain_onset_date: age of 49
+onset_triggers: third molar removed from left side
+physical_therapy_status: laser treatment
+current_appliance: splint last month 
+pain_aggravating_factors: splint 
+headache_frequency: almost constant
+headache_intensity: 10
+headache_location: left side
+tmj_pain_rating: 10
+average_daily_pain_intensity: 8
+jaw_function_score: 2
+diet_score: 4
+disability_rating: 0
+earache_present: True
+tinnitus_present: False
+vertigo_present: True
+current_medications: vicodin | prednisone
+previous_medications: naproxen
+maximum_opening: 42mm
+maximum_opening_without_pain: 15mm
+muscle_pain_score: moderate 
+muscle_pain_location: left masseter | left temporalis | left retromandibular
+joint_pain_areas: left TMJ
+airway_obstruction_present: False
+jaw_clicking: left TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocation without reduction 
+patient_id: B010
+joint_pain_areas: left TMJ
+tmj_pain_rating: severe
+headache_intensity: severe
+----------------------------------------------------------------------------------------------------
+NoInfo

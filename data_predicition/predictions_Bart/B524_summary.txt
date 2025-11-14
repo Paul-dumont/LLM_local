@@ -1,0 +1,25 @@
+patient_id: B524
+patient_age: 52
+pain_aggravating_factors: auto accident 25 years ago
+appliance_history: orthodontics 22 years ago | multiple different splints for 15 years
+physical_therapy_status: physical therapy throughout the years | chiropractic therapy | TENS therapy
+current_medications: Vicodin | hydrocodone | Advil | Valium |
+----------------------------------------------------------------------------------------------------
+patient_id: B524
+airway_obstruction_present: True
+muscle_pain_score: low severe 
+joint_tenderness_areas: masseter | right TMJ | temporalis | medial pterygoids | posterior neck | shoulders | right styloid area | right side of the neck | right lower styloid areas
+maximum_opening: 28mm
+maximum _opening_without_pain: 21mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B524
+joint_arthritis_location: left TMJ
+disc_displacement: left disc dislocation without reduction 
+tmj_pain_rating: Severe 
+headache_intensity: severe 
+sleep_disorder_type: sleep apnea_diagnosed: True
+----------------------------------------------------------------------------------------------------
+patient_id: B524
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior and medial displacement with significant degenerative changes

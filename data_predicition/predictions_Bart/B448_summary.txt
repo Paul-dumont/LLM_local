@@ -1,0 +1,24 @@
+patient_id: B448
+patient_age: 23
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: present
+jaw_locking: True
+earache_present: True 
+tinnitus_frequency: occasional
+vertigo_diagnosed: True, but no hearing loss
+pain_aggravating_factors: clenching | bruxism
+appliance_history: orthodontics from the age of 11 to 14
+current_medications: none
+onset_triggers: unknown
+
+----------------------------------------------------------------------------------------------------
+patient_id: B448
+current_appliance: 3 x 3 retainer in the lower arch
+airway_obstruction_present: True
+pain_aggravating_factors: left posterior cross bite | right posterior crossbite
+joint_pain_areas: left TMJ | right TMJ
+sleep_disorder_type: sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B448
+disc_displacement: left disc medial displacement of the articular disc | right disc posteromedial displacement 
+joint_arthritis_location: left TMJ | right TMJ

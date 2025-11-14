@@ -1,0 +1,28 @@
+patient_id: B488 
+patient_age: 40
+pain_onset_date: last year
+appliance_history: splint
+muscle_pain_location: back of neck | shoulders | down into her arms | left TMJ | right TMJ
+jaw_clicking: jaw
+neck_tenderness_present: True
+backache_intensity: black and blue
+physical_therapy_status: chiropractic treatment | physical therapy | aquatic therapy
+----------------------------------------------------------------------------------------------------
+patient_id: B488
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True 
+jaw_clicking: left posterior crossbite | right posterior cross bite
+maximum_opening: 47mm
+maximal_opening_without_pain: 20mm
+----------------------------------------------------------------------------------------------------
+patient_id: B488
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc lateral displacement with reduction | left disc dislocation with reduction 
+headache_intensity: present
+tmj_pain_rating: 0
+patient_age: 40
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement with reduction | right disc medially displaced with reduction 
+jaw_locking: True
+patient_id: B5

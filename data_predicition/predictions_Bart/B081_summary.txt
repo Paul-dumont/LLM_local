@@ -1,0 +1,24 @@
+patient_id: B081
+patient_age: 16
+adverse_reactions: Ceclor
+current_medications: none
+appliance_history: maxillary expander 2 years ago | 2 x 2 retainer in the upper arch
+pain_aggravating_factors: clenching | bruxism | anterior open bite | bilateral posterior crossbite
+airway_obstruction_present: True
+muscle_pain_location: masseter
+musits_tender
+----------------------------------------------------------------------------------------------------
+patient_id: B081
+pain_aggravating_factors: left posterior crossbite involving the left second bicuspid
+sleep_disorder_type: daytime somnolence 
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B081
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite
+patient_age: 17
+disc_displacement: left disc medial and anterior displacement | right disc anterior displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteromedial displacement with reduction | right disc anterior and medial displacement with early reduction 
+patient_id: B5

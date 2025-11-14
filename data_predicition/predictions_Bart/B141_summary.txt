@@ -1,0 +1,27 @@
+patient_id: B141
+patient_age: 33
+appliance_history: orthodontics from 12 to 13 | lower retainer for 3 years | splint from 30 to 33
+pain_onset_date: age of 29
+muscle_pain_score: masseter
+headache_location: frontal | temporal 
+headaches_frequency: once per week
+tmj_painrating: 2
+average_daily_painintensity: 3
+jaw_function_score
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite
+patient_id: B141
+muscle_tenderness_present: False
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 41mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: rheumatoid arthritis or other connective tissue autoimmune disease
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+patient_id: B5
+----------------------------------------------------------------------------------------------------
+patient_id: B141
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: connective tissue autoimmune disease
+disc_displacement: left disc medial and anterior displacement | right disc dislocation

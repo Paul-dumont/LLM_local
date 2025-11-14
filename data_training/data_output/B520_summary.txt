@@ -1,0 +1,41 @@
+patient_id: B520
+patient_age: 17
+pain_onset_date: 13 years old
+onset_triggers: unknown
+appliance_history: orthodontic treatment the first time at age 8 | orthodontics  from about the age of 12 to 13 with elastics 
+current_appliance: splint past 2 years to present time
+physical_therapy_status:  physical therapy | dry needling | exercises
+current_medications: Daypro | birth control pills
+tmj_pain_rating: 8
+average_daily_pain_intensity: 8 to 9
+jaw_function_score: 4
+diet_score: 5
+disability_rating: 6
+headache_intensity: 0
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas:  right hip
+adverse_reactions: penicillin | cephalosporins | naproxen | adhesives | tap
+pain_aggravating_factors: clenching 
+sleep_disorder_type: daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B520
+appliance_history: orthodontics
+maximum_opening: 44mm
+maximum_opening_without_pain: 18mm
+muscle_pain_score: moderate 
+muscle_pain_location: masseters | retromandibular area
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B520
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: juvenile rheumatoid arthritis
+pain_aggravating_factors: anterior open bite
+----------------------------------------------------------------------------------------------------
+patient_id: B520
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced | right disc anteriorly displaced 
+

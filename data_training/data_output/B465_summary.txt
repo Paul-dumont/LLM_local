@@ -1,0 +1,43 @@
+patient_id: B465
+patient_age: 29
+autoimmune_condition: juvenile rheumatoid arthritis
+appliance_history: Herbst appliance when she was about 12 years old
+current_medications: Cymbalta | ibuprofen 
+headache_intensity: 8
+headache_location:  left frontal | left temporal | posterior head | left top of the head area
+tmj_pain_rating: 9
+average_daily_pain_intensity: 9
+jaw_function_score: 7
+diet_score: 6
+disability_rating: 5
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: hands | jaws | cervical vertebrae
+neck_pain_present: True
+pain_aggravating_factors: clenching
+muscle_pain_score: significant 
+muscle_pain_location: left side of the head and neck area |  left side of shoulder area
+----------------------------------------------------------------------------------------------------
+patient_id: B465
+jaw_clicking: left TMJ | right TMJ
+jaw_crepitus: right TMJ
+sleep_disorder_type: daytime somnolence | snoring 
+maximum_opening: 30mm
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: mild to moderate
+muscle_pain_location: styloid areas | posterior neck | shoulder areas
+neck_pain_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: juvenile rheumatoid arthritis
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B465
+patient_age: 29
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left displaced disc with reduction | left displaced disc with reduction
+

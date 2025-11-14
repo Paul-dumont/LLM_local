@@ -1,0 +1,25 @@
+patient_id: B208
+patient_age: 43
+pain_onset_date: 20 years old
+appliance_history: orthodontics as a child | splints at age 23 for about 1 year and finished 20 years ago with a good bite result | splint therapy 23 years ago to present
+current_medications: Zovia | Darvocet | Epipro
+----------------------------------------------------------------------------------------------------
+patient_id: B208
+airway_obstruction_present: False
+muscle_pain_location: right masseter | right retromandibular area | right shoulder
+jaw_crepitus: right TMJ
+maximum_opening: 43mm
+current_medications: ibuprofen
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+airway_obstruction_present: True
+patient_id: B208
+pain_aggravating_factors: bilateral posterior open bite | anterior open bite
+disc_displacement: left disc anteriorly and laterally displaced, but asymptomatic 
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+patient_id: B208
+patient_age: 43
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly and laterally displaced with reduction | right disc anterior dislocation without reduction

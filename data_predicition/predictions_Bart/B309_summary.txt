@@ -1,0 +1,27 @@
+patient_id: B309 
+patient_age: 17
+headache_intensity: 8
+tmj_pain_rating: 0
+headaches_frequency: one time per week
+appliance_history: 3 x 3 retainer in the lower arch
+airway_obstruction_present: False
+pain_aggravating_factors: left posterior cross bite | right posterior crossbite
+muscle_tenderness_location: masseter muscles | shoulders | milder tenderness over the posterior neck | temporalis | left
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B309
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: connective tissue autoimmune disease versus reactive arthritis
+pain_aggravating_factors: anterior open bite
+appliance_history: orthodontics from approximately 2 to 3 years ago
+----------------------------------------------------------------------------------------------------
+headache_intensity: present
+pain_aggravating_factors: left posterior cross bite | right posterior crossbite
+patient_id: B309
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc anterior and medial displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior dislocation without reduction 
+patient_id: B2187
+jaw_locking: True

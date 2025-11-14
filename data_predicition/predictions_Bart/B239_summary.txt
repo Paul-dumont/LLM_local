@@ -1,0 +1,33 @@
+patient_id: B239
+joint_arthritis_location: right TMJ
+disc_displacement: left disc lateral displacement | right disc lateral and rotational displacement
+jaw_clicking: left TMJ 
+patient_age: 21
+----------------------------------------------------------------------------------------------------
+patient_id: B239
+airway_obstruction_present: False
+current_appliance: splint
+pain_aggravating_factors: clenching
+headache_intensity: 0
+joint_pain_areas: right TMJ
+average_daily_pain-intensity: 4
+jaw_function_score: 0 
+diet_score : 0
+disability_rating: 7
+previous_medications: ibuprofen | vitamins
+----------------------------------------------------------------------------------------------------
+patient_id: B239
+pain_aggravating_factors: anterior open bite
+muscle_tenderness_present: True
+jaw_clicking: left TMJ 
+maximum_opening: 48mm
+----------------------------------------------------------------------------------------------------
+patient_id: B239
+joint_arthritis_location: right TMJ
+disc_displacement: left disc dislocation | right disc anterior displacement
+pain_aggravating_factors: anterior open bite
+patient_age: 32
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc anterior and medial depression with significantly thickened disc in the mid part of the disc
+pain_aggravating_factors: right posterior disk reduction

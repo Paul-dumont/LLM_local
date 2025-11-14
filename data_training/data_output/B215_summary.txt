@@ -1,0 +1,36 @@
+patient_id: B215
+patient_age: 55
+pain_onset_date: 3 years ago
+onset_triggers: mouth held open and overextended during dental work 
+current_appliance: splint
+pain_relieving_factors: splint
+headache_intensity: 4
+headache_frequency: every 2 weeks
+headache_location: frontal | temporal | top of head
+tmj_pain_rating: 5
+average_daily_pain_intensity: 3
+jaw_function_score: 5
+diet_score: 5
+disability_rating: 2
+current_medications: Flexeril | evamist | triamaterene | Excedrin tension
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+adverse_reactions: surgical iodine
+joint_pain_areas: right TMJ
+muscle_pain_location: right masseter | left SCM
+muscle_pain_score: mild
+jaw_crepitus: left TMJ | right TMJ
+maximum_opening: 43mm
+maximum_opening_without_pain: 35mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+airway_obstruction_present: True
+patient_id: B215
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B215
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc medial and anterior displacement without reduction | right disc medial and anterior displacement without reduction

@@ -1,0 +1,25 @@
+patient_id: B196
+patient_age: 26
+pain_onset_date: 20 years old
+appliance_history: orthodontics since 20 years of age
+jaw_clicking: left TMJ | right TMJ
+neck_pain_present: True
+joint_arthritis_location: left shoulder | knees | right knee | left foot | right shoulder | left
+----------------------------------------------------------------------------------------------------
+patient_id: B196
+pain_aggravating_factors: anterior cross bite relationship
+airway_obstruction_present: False
+muscle_pain_location: masseters | SCMs | shoulders | left retromandibular area | posterior neck | temporalis muscles
+joint_arthritis_score: left TMJ | right TMJ
+maximum_opening: 53mm
+----------------------------------------------------------------------------------------------------
+patient_id: B196
+disc_displacement: left disc medial displacement | right disc medial and posterior displacement
+airway_obstruction_present: False
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc medial displacement | right disc posterior and medial displacement
+joint_arthritis_location: left TMJ 
+disc_pain_rating: 0
+patient_id: B2
+disc _displacements: left articular disc

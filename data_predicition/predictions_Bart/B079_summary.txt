@@ -1,0 +1,21 @@
+patient_id: B079
+patient_age: 18
+appliance_history: orthodontics from age 14 to 16 for approximately 3 years
+jaw_clicking: left TMJ | right TMJ
+headache_intensity: 0
+tmj_pain_rating: 0 
+headaches_present: False
+diet_score: 1
+physical_therapy_status: none
+current_medications: none 
+
+----------------------------------------------------------------------------------------------------
+current_appliance: 3 x 3 retainer in the lower anterior six teeth
+airway_obstruction_present: True
+patient_id: B079
+disc_displacement: left disc dislocation | right disc possible dislocation
+----------------------------------------------------------------------------------------------------
+patient_id: B079
+disc_displacement: left disc medial and posterior displacement | right disc anterior displacement 
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True

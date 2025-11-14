@@ -1,0 +1,16 @@
+patient_id: B507
+maximum_opening_without_pain: unknown
+patient_age: 13
+maximum_opening: 38mm
+pain_relieving_factors: unknown
+diet_score: 3
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: unknown
+neck_pain_present: false
+pain_aggravating_factors: anterior open bite | anterior open bite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite

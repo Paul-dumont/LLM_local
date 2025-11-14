@@ -1,0 +1,23 @@
+patient_id: B027
+patient_age: 52
+pain_onset_date: 7 months ago
+onset_triggers: having dental work done on the mandibular right second molar
+earache_present: True
+pain_aggravating_factors: medications 
+current_appliance: bite guard
+previous_medications: Lodine | antibiotics 
+disc_displacement: right disc medial displacement
+airway_obstruction_present: False
+muscle_tenderness_present: True
+joint_pain_areas: right TMJ
+neck_pain_present: False
+jaw_crepitus: right TMJ
+maximum_opening: 45mm
+maximum_opening_without_pain: 32mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+joint_pain_areas:  right TMJ
+earache_present: True
+patient_id: B027
+patient_age: 52
+disc_displacement: right disc medial and anterior displacement

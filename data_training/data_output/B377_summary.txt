@@ -1,0 +1,42 @@
+patient_id: B377
+patient_age: 17
+current_medications: Zyrtec-D | Tylenol | Advil
+adverse_reactions: Biaxin | bees | environmental | nickel  
+joint_pain_areas: left ankle
+pain_onset_date: 4 to 5 years ago
+onset_triggers: unknown 
+current_appliance: orthodontics
+appliance_history: maxillary expansion from 8 to 10 years ago | maxillary expansion repeated and maxillary expansion on the lower arch
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: 5
+headache_location: temple
+headache_frequency: 1 time per week
+tmj_pain_rating: 7
+average_daily_pain_intensity: 4
+jaw_function_score: 4
+diet_score: 6
+disability_rating: 4
+joint_pain_areas: TMJ
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+muscle_pain_score: moderate to high moderate
+muscle_pain_location: masseters | medial pterygoids | styloid areas
+joint_pain_areas: left TMJ | right TMJ
+jaw_clicking: right TMJ
+sleep_disorder_type: snoring
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc dislocation without reduction 
+joint_pain_areas: TMJ
+headache_intensity: present
+pain_aggravating_factors: anterior open bite
+sleep_disorder_type: snoring
+----------------------------------------------------------------------------------------------------
+patient_id: B377
+patient_age: 15
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction 

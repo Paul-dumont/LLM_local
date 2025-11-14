@@ -1,0 +1,41 @@
+patient_id: B519
+patient_age: 13
+migraine_history: True
+pain_aggravating_factors: clenching | bruxism
+pain_frequency: in the mornings 
+current_medications: Epival 
+pain_onset_date: 2 years ago
+onset_triggers: unknown 
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontic treatment for 1 year about 2 years ago
+headache_intensity: 5 but can escalate to 7 | 4
+headache_location: frontal | temporal | on the top of the head
+headache_frequency: 1 and 7 times a week
+tmj_pain_rating: 7
+average_daily_pain_intensity: 3
+jaw_function_score: 2
+diet_score: 3
+disability_rating: 6
+pain_aggravating_factors: left posterior crossbite tendency
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B519
+muscle_tenderness_present: True
+muscle_pain_score: mild 
+muscle_pain_location: masseter 
+neck_pain_present: False
+maximum_opening: 46mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with very early reduction | right disc dislocation with very early reduction
+joint_pain_areas: TMJ
+headache_intensity: present
+airway_obstruction_present: True
+patient_id: B519
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc anteriorly displaced with reduction
+patient_id: B519
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with very early reduction | right disc dislocation with very early reduction

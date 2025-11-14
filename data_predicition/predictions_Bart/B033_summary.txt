@@ -1,0 +1,21 @@
+patient_id: B033
+patient_age: 60
+appliance_history: orthodontics from the age of 55 for approximately 2 years
+pain_onset_date: 10 to 12 years ago
+joint_pain_areas: left TMJ | right TMJ
+headache_frequency: wakes with headaches and usually goes to sleep with headaches
+onset-triggers: unknown 
+headaches_intensity: 7
+head
+----------------------------------------------------------------------------------------------------
+patient_id: B033
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and lateral displacement | right disc anteriorly and laterally displaced 
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+patient_id: B033
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly and laterally displaced | right disc lateral and anteriorly displaced 
+pain_aggravating_factors: clenching
+current_medications: Klonopin | 1 tablet q.h.

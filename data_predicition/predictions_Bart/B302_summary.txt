@@ -1,0 +1,27 @@
+patient_id: B302
+patient_age: 46
+adverse_reactions: some 
+current_medications: none
+appliance_history: orthodontics
+pain_onset_date: unknown
+joint_pain_areas: left TMJ | right TMJ
+earache_present: False
+tinnitus_present : False
+vertigo_present%: False
+hearing_loss_score: 0
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+muscle_tenderness_present: True
+musical_pain_score: mild 
+muscular_therapy_status: right masseter
+jaw_clicking: Right TMJ probably 30mm of opening and 20mm of closing
+maximum_opening: 63mm
+----------------------------------------------------------------------------------------------------
+patient_id: B302
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation without reduction | right disc anteriorly displaced without reduction
+airway_obstruction_present: True
+headache_intensity: present
+sleep_disorder_type: sleep apnea symptoms | snoring | daytime somnolence
+patient_age: 46

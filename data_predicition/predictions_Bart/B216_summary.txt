@@ -1,0 +1,22 @@
+patient_id: B216
+patient_age: 25
+neck_pain_present: True
+joint_arthritis_location: left shoulder | hips 
+pain_onset_date: 1-1/2 years ago
+motor vehicle_disorder_type: MVA
+physical_therapy_status: chiropractic and physical therapy for the past 1.5 years
+appliance_history: orthodontics when she was about 10 years old for about 9 months
+earache_
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement with early reduction | right disc anteriorly and medially displaced
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+headache_intensity: present
+tmj_pain_rating: 15
+patient_id: B216
+----------------------------------------------------------------------------------------------------
+patient_id: B216
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with early reduction | right disc anteriorly displaced with probable early reduction
+patient_age: 35

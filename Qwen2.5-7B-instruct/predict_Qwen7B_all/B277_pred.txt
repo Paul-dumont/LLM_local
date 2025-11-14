@@ -1,0 +1,46 @@
+patient_id: B277
+maximum_opening_without_pain: 20mm
+patient_age: 16 | 17
+maximum_opening: 50mm
+pain_relieving_factors: unknown
+diet_score: 3
+pain_duration: unknown
+disability_rating: 3
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: anterior crossbite | clenching
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: once or twice a week
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: mild to moderate
+migraine_history: unknown
+headache_location: frontal | temple | behind eyes
+current_appliance: 3 x 3 retainer in the lower anterior arch | 2 x 2 retainer in the upper arch
+average_daily_pain_intensity: 4
+headache_intensity: 4 but can escalate to 6 | present
+autoimmune_condition: unknown
+pain_onset_date: 14 years old
+jaw_crepitus: unknown
+tmj_pain_rating: 6 but can escalate to 9 to 10 | present
+sleep_disorder_type: unknown
+current_medications: ibuprofen | yasmin
+disc_displacement: left disc dislocation with early reduction | right disc dislocation with early reduction | left disc dislocation with early reduction | right disc dislocation with early reduction
+muscle_pain_location: temporalis | masseters | left styloid | right scm
+joint_arthritis_location: unknown
+appliance_history: orthodontic treatment completed in approximately four years ago
+joint_pain_areas: tmj | left tmj | right tmj

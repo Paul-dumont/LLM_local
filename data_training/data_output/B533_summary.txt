@@ -1,0 +1,19 @@
+patient_id: B533
+patient_age: 16
+sleep_disorder_type: snoring
+appliance_history: orthodontics at age of 13
+current_appliance: 3 x 3 retainer in the lower arch
+pain_aggravating_factors: anterior open bite
+----------------------------------------------------------------------------------------------------
+jaw_crepitus: left TMJ | right TMJ
+maximum_opening: 55mm
+----------------------------------------------------------------------------------------------------
+current_appliance: 3 x 3 retainer in the lower arch
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B533
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B533
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation anteriorly and laterally without reduction

@@ -1,0 +1,19 @@
+patient_id: B022
+patient_age: 22
+pain_onset_date: 16 years of age
+appliance_history: orthodontics from the age of 14 to 18 and then again when she was 20 to 21 years old
+jaw_clicking: left TMJ | right TMJ
+joint_pain_areas: posterior head
+headache_intensity: 6
+headaches_frequency: very often now as long as she wears her retainers
+current_medications: Essex retainers
+----------------------------------------------------------------------------------------------------
+patient_id: B022
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc anterior and/or medially displaced
+headache_intensity: present
+pain_aggravating_factors: clenching
+----------------------------------------------------------------------------------------------------
+patient_id: B022
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement with reduction with hypertranslation | right disc medial dislocation with reduction

@@ -1,0 +1,25 @@
+patient_id: B101
+patient_age: 42
+pain_onset_date: 17 years old
+appliance_history: orthodontics 3 times, once as an early teenager, once in high school, and then in her early 20s | splint for past year and a half
+physical_therapy_status: chiropractic treatment that she takes about three times a week for about one year
+headache_intensity: 10
+mig
+----------------------------------------------------------------------------------------------------
+patient_id: B101
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 3 to 4mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B101
+pain_aggravating_factors: posterior cross bite on the right side
+tmj_pain_rating: severe
+headache_intensity: severe 
+sleep_disorder_type: sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B101
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior dislocation without reduction 
+pain_aggravating_factors: left posterior crossbite | right posterior cross bite

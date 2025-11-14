@@ -1,0 +1,26 @@
+patient_id: B254 
+patient_age: 38
+jaw_clicking: left TMJ | right TMJ
+headache_intensity: 0
+tmj_pain_rating: 0
+jaw_function_score: 1
+diet_score: 1
+disability_rating: 0
+earache_present: False
+tinnitus_present: False 
+vertigo_present: False
+hearing_loss_present: False
+pain_aggravating_factors: clenching | bruxing
+appliance_history: orthodontics from the age of 12 to 14 | orthodontics 9 years ago 
+current_medications: none
+onset_triggers: unknown
+sleep_disorder_type: snoring
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B254 
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc medial displacement 
+patient_age: 39
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior displacement with early reduction
+joint_arthritis_location: left TMJ | right TMJ

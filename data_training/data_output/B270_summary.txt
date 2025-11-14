@@ -1,0 +1,14 @@
+patient_id: B270
+patient_age: 15
+appliance_history: orthodontics from 10 to 12
+pain_onset_date: unknown
+onset_triggers: unknown
+airway_obstruction_present: False
+maximum_opening: 50mm
+muscle_tenderness_present: False
+----------------------------------------------------------------------------------------------------
+patient_id: B270
+----------------------------------------------------------------------------------------------------
+patient_id: B270
+patient_age: 15
+disc_displacement: left disc posterior displacement | right disc posterior displacement

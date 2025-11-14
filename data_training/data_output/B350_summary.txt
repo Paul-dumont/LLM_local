@@ -1,0 +1,41 @@
+patient_id: B350
+patient_age: 57
+pain_onset_date: age of 32
+onset_triggers: 3 crowns that did not fit well and it threw the bite off
+physical_therapy_status: equilibrations | heating pad treatment | physical therapy | TENS
+current_medications: anti-inflammatory medications | numerous other medications
+appliance_history: orthodontics from 11 to 9 years ago
+autoimmune_condition: psoriasis
+sleep_disorder_type: sleep apnea 
+fibromyalgia_present: True 
+----------------------------------------------------------------------------------------------------
+patient_id: B350
+cpap_used: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea 
+pain_aggravating_factors: clenching
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: normal
+muscle_pain_location: retromandibular | left masseter | left shoulder| temporalis 
+muscle_tenderness_present: True
+jaw_crepitus: left TMJ | right TMJ
+maximum_opening: 26mm
+maximum_opening_without_pain: 20mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B350
+autoimmune_condition: sero-negative rheumatoid arthritis
+sleep_disorder_type: sleep apnea
+sleep_apnea_diagnosed: True
+cpap_used: True
+joint_pain_areas: TMJ
+tmj_pain_rating: severe
+headache_intensity: severe
+----------------------------------------------------------------------------------------------------
+patient_id: B350
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement | right disc anterior displacement without reduction
+
+
+
+

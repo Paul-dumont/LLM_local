@@ -1,0 +1,35 @@
+patient_id: B196
+patient_age: 26
+pain_onset_date: 20 years old
+onset_triggers: crown on a root canal treated tooth that was too high and redone to be too low
+joint_pain_areas: TMJ | left shoulder | knees | feet
+jaw_clicking: TMJ
+headache_intensity: 2
+headache_frequency: 4 times a week
+headache_location: posterior head area
+tmj_pain_rating: 7
+average_daily_pain_intensity: 5
+jaw_function_score: 6
+diet_score: 5
+disability_rating: 7
+current_medications: Tylenol
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+current_medications: environmental things
+appliance_history: splint therapy for past three years until few months ago
+----------------------------------------------------------------------------------------------------
+patient_id: B196
+airway_obstruction_present: False
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_location: masseters | SCMs | shoulders | left retromandibular area | posterior neck | temporalis
+muscle_pain_score: moderate to mild
+muscle_tenderness_present: True
+neck_pain_present: True
+maximum_opening: 53mm
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc medial displacement | right disc medial and posterior displacement
+patient_id: B196
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc medial displacement | right disc posterior displacement

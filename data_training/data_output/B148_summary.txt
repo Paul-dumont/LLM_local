@@ -1,0 +1,35 @@
+patient_id: B148
+patient_age: 47
+pain_onset_date: 15 years ago, gotten worse in the past 5 years
+onset_triggers: unknown
+current_appliance: orthodontics from 13 to 15 | retainers from 15 to 21 | mouth guard
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: 5
+headache_frequency: once a month
+headache_location: right frontal | anterior temple
+tmj_pain_rating: 5
+average_daily_pain_intensity: 1
+jaw_function_score: 5
+diet_score: 5
+disability_rating: 5
+earache_present: False
+tinnitus_present: True
+vertigo_present: True
+joint_pain_areas: knees | right hips | thumbs
+current_medications: Etodolac | Vicodin | Multiple supplements
+----------------------------------------------------------------------------------------------------
+muscle_tenderness_present: True
+muscle_pain_location: temporalis
+patient_id: B148
+jaw_crepitus: right TMJ
+maximum_opening: 48mm
+maximum_opening_without_pain: 35mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+patient_id: B148
+joint_pain_areas: right TMJ | left TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B148
+patient_age: 47
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction

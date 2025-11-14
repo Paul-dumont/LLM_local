@@ -1,0 +1,28 @@
+patient_id: B190
+patient_age: 20
+pain_onset_date: 12 years of age
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc anterior displacement without reduction
+appliance_history: phase 1 orthodontics from 9 to 12 years old | splints x2 from about the age of 13 to 15 | head gear for almost 2 years | headgear for 18 months
+current_medications: Nexium | Synthroid | Singulair | Allegra | Celebrex | Nasonex nasal spray | Vicodin | Skelaxin |
+----------------------------------------------------------------------------------------------------
+patient_id: B190
+current_appliance: lingual braces in the upper and lower arch
+pain_aggravating_factors: left posterior crossbite tendency | right posterior cross bite tendency
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True 
+musical_score: moderate to mild
+muscular_pain _location: masseters | retromandibular area | temporalis | shoulders
+maximum_opening: 51mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+airway_obstruction_present: True
+patient_id: B190
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior and medial dislocation with early reduction 
+tmj_pain_rating: present
+jaw_crepitus: TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B190
+patient_age: 20
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc anterior dislocation without reduction | left disc anterior and medial displacement without reduction

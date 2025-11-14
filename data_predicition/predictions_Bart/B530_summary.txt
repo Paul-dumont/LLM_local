@@ -1,0 +1,29 @@
+patient_id: B530
+patient_age: 20
+pain_onset_date: age of 12
+airway_obstruction_present: True
+appliance_history: orthodontic appliances when she was 13 to 15
+current_medications: Copaxone 
+headache_intensity: 8, used to be 2 times a week
+tmj_pain_rating: 4
+jaw_function_score: 1
+diet_score
+----------------------------------------------------------------------------------------------------
+patient_id: B530
+pain_aggravating_factors: anterior crossbite | left posterior cross bite | right posterior crossbite
+airway_obstruction_present: True
+maximum_opening: 54mm
+jaw_clicking: right TMJ 
+muscle_pain_location: 44mm
+neck_crepitus: left TMJ | Right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B530
+disc_displacement: left disc medially displaced | right disc medial displacement
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+patient_age: 35
+----------------------------------------------------------------------------------------------------
+patient_id: B530
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial dislocation | right disc anteromedial dislocation 
+patient_age: 33

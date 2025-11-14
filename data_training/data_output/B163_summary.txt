@@ -1,0 +1,43 @@
+patient_id: B163
+patient_age: 15
+jaw_clicking: left TMJ | right TMJ
+headache_intensity: present
+joint_pain_areas: TMJ
+sleep_disorder_type: daytime somnolence
+pain_onset_date: 11 years of age
+onset_triggers: unknown
+appliance_history: orthodontics from 11 to 13 | expander | orthodontics at 14 | Reverse head gear
+headache_intensity: 8
+headache_frequency: constant
+headache_location: temporal | posterior head
+tmj_pain_rating: 6
+average_daily_pain_intensity: 7
+jaw_function_score: 6
+diet_score: 0
+disability_rating: 7
+jaw_locking: True
+current_medications: BCP | Advil
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B163
+pain_aggravating_factors: right posterior crossbite
+airway_obstruction_present: True
+tmj_pain_rating: 8
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_location: right styloid | right shoulder | masseters | right SCM | left posterior neck
+muscle_pain_score: mild to moderate
+muscle_tenderness_present: True
+maximum_opening: 35mm
+jaw_clicking: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B163
+joint_arthritis_location: right disc dislocation with reduction | left disc dislocation without reduction
+pain_aggravating_factors: right posterior crossbite
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_age: 15
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right disc medial dislocation with reduction | left disc posterior dislocation without reduction

@@ -1,0 +1,43 @@
+patient_id: B280 
+patient_age: 55
+joint_pain_areas: left TMJ | right TMJ
+neck_back_present: True
+jaw_clicking: jaw, neck | back
+earache_present : True
+sleep_disorder_type: daytime somnolence | sleep apnea_diagnosed: True 
+current_medications: Ginseng | Ziziphus | several other Chinese herbs | Green magma angelica | Provigil | Valtrex | Lyrica | Triamcinolone cream for rash
+physical_therapy_status: physical therapy since 23 years ago until last year | spints | many splints | at least six splints over the years | orthotics in her shoes | acupuncture treatments began at least 7 years ago | chiropractic treatment for over 20 years | Reiki for at least five years |
+----------------------------------------------------------------------------------------------------
+joint_pain_areas: left TMJ | right TMJ
+earache_present: True
+tinnitus_present : True
+vertigo_present 
+hearing_loss_score: False
+jaw_locking: true
+headache_location: left forehead | center | right temple | back of head | top of the head | behind the left eye
+headaches_intensity: 10 without treatment | 10 with acupuncture | 8 with chiropractic treatment
+----------------------------------------------------------------------------------------------------
+patient_id: B280
+pain_aggravating_factors: right posterior crossbite
+airway_obstruction_present: True
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain _score: high moderate to low severe 
+muscular_tenders: styloid areas | shoulders | medial pterygoids | temporalis | posterior neck
+jaw_clicking: left jaw | right jaw
+maximum_opening: 48mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement with reduction | right disc dislocation with reduction 
+headache_intensity: severe
+tmj_pain_rating: Severe 
+earache_frequency: present
+tinnitus_present : present
+vertigo_present%: True
+sleep_disorder_type: sleep disorder | chronic fatigue
+pain_aggravating_factors: right cross bite in the second bicuspid area
+patient_id: B280
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+disc_displacement: left disc dislocation with early reduction | right disc anteriorly dislocated but with early reductio 
+patient_id: B5

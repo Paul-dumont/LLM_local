@@ -1,0 +1,19 @@
+patient_id: B420
+patient_age: 23
+pain_onset_date: unknown
+appliance_history: orthodontics from the age of 13 to 15
+headache_frequency: 3 to 4 times per week at a level of 4 in the frontal, temporal, and posterior head area
+tmj_pain_rating: 0
+average_daily_intensity: 3 
+jaw_function_score: 3
+diet_score
+----------------------------------------------------------------------------------------------------
+patient_id: B420
+disc_displacement: left disc medial and anterior displacement | right disc anterior displacement
+joint_pain_areas: left TMJ | right TMJ
+appliance_history: orthodontics
+airway_obstruction_present: False
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation without reduction | right disc anteriorly dislocated without reduction 
+patient_id: B5

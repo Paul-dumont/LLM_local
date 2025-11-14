@@ -1,0 +1,23 @@
+patient_id: B315
+patient_age: 33
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior and medial displacement
+----------------------------------------------------------------------------------------------------
+patient_id: B315
+current_medications: Celebrex | Hydrocodone | Tramadol | Cyclobenzaprine | Klonopin | Zolpidem
+headache_intensity: 6 on the right side and 4 on the left side
+tmj_pain_rating: 5
+average_daily_pain dosage: 6
+jaw_function_score: 6, jaw function | 8
+diet_score
+----------------------------------------------------------------------------------------------------
+patient_id: B315
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocated without reduction 
+tmj_pain_rating: Severe 
+headache_intensity: present
+earache_present: True
+tinnitus_present%: True
+vertigo_present : True
+hearing_loss_present:"True
+pain_aggravating_factors

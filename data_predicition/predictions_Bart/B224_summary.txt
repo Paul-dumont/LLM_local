@@ -1,0 +1,27 @@
+patient_id: B224
+patient_age: 15
+jaw_clicking: left TMJ | right TMJ
+airway_obstruction_present: True
+sleep_disorder_type: snoring | sleep apnea symptoms
+earache_frequency: every 3 months
+tinnitus_present : True
+vertigo_diagnosed: True 
+hearing_loss_score: False
+joint_pain_areas: knees
+current_
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc dislocation without reduction | right disc dislocations without reduction 
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B224
+disc_displacement: left disc anterior displacement | right disc anterior and medial displacement
+joint_pain_areas: left TMJ | right TMJ
+appliance_history: orthodontics
+patient_age: 23
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+disc_displacement: right disc dislocation without reduction | left disc anteriorly displaced without reduction 
+patient_id: B4
+jaw_locking: True

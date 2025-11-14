@@ -1,0 +1,29 @@
+patient_id: B482
+patient_age: 19
+pain_onset_date: past 2 ½ years
+appliance_history: orthodontics from 13 to 15 years of age | orthodone at 14 and 15 years old
+current_appliances: Orthodontic system with two previous rounds of orthodom
+----------------------------------------------------------------------------------------------------
+patient_id: B482
+airway_obstruction_present: True
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 53mm
+muscle_tenderness_location: none
+neck_pain_score: mild 
+muscular_tendersness_intensity: mild to mild
+musical_therapy_status: airway_appliance_history: adenoidectomy at age of 2
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+disc_displacement: right disc dislocation without reduction | left disc medially and anteriorly dislocated
+airway_obstruction_present: True
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+patient_id: B482
+patient_age: 19
+disc_displacement: left disc anterior displacement without reduction | right disc anteriorly displaced without reduction 
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement with reduction | right disc dislocation without reduction 
+patient_id: B3.5

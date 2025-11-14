@@ -1,0 +1,35 @@
+patient_id: B206
+patient_age: 54
+headache_intensity: 0
+tmj_pain_rating: 0
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+joint_pain_areas: right knee | left hip | wrist | finger
+headache_frequency: once a month
+pain_aggravating_factors: anterior open bite | right posterior cross bite
+----------------------------------------------------------------------------------------------------
+patient_id: B206
+patient_age: 54
+pain_aggravating_factors: anterior open bite 
+----------------------------------------------------------------------------------------------------
+patient_id: B206
+pain_aggravating_factors: anterior open bite | right posterior cross bite
+muscle_pain_location: masseter muscles | retromandibular area
+muscle_pain_score: mild
+muscle_tenderness_present: True
+jaw_clicking: left TMJ
+maximum_opening: 56mm
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite 
+patient_id: B206
+----------------------------------------------------------------------------------------------------
+patient_id: B206
+disc_displacement: left disc anterior and posterior displacement with reduction 
+joint_arthritis_location: right TMJ
+pain_aggravating_factors: anterior open bite | right posterior cross bite
+airway_obstruction_present: True
+patient_age: 54
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc posterior at medial and anterior at lateral displacement | right disc anterior displacement without reduction 
+joint_arthritis_location: right TMJ

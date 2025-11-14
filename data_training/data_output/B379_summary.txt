@@ -1,0 +1,32 @@
+patient_id: B379 
+patient_age: 20
+jaw_clicking: right TMJ
+pain_onset_date: last year
+joint_pain_areas: TMJ
+headache_intensity: 4
+pain_frequency: Daily 
+jaw_locking: True
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: True
+pain_aggravating_factors: clenching | bruxism
+headache_location: frontal 
+tmj_pain_rating: 3
+average_daily_pain_intensity: 3
+jaw_function_score: 5
+diet_score: 2
+disability_rating: 4
+sleep_disorder_type: daytime somnolence
+muscle_tenderness_present: False
+maximum_opening: 49mm
+----------------------------------------------------------------------------------------------------
+patient_id: B379 
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+disc_displacement: left disc medial dislocation | right disc anteromedial dislocation 
+----------------------------------------------------------------------------------------------------
+patient_id: B379 
+patient_age: 20
+joint_arthritis_location: right TMJ
+disc_displacement: left disc anterior dislocation with early reduction | right disc anterior and medial displacement without reduction

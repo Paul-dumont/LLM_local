@@ -1,0 +1,35 @@
+patient_id: B040
+current_medications: none
+appliance_history: orthodontics age of 10 to 14 | palatal expander | Herbst appliance on jaws
+pain_onset_date: when she was 6 
+onset_triggers: putting mouthpiece from scuba equipment too big in mouth
+jaw_clicking: TMJ
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+headache_intensity: 4
+headache_location: frontotemporal
+tmj_pain_rating: 5
+average_daily_pain_intensity: 6
+jaw_function_score: 6
+diet_score: 4
+disability_rating: 4
+sleep_disorder_type: daytime somnolence
+----------------------------------------------------------------------------------------------------
+muscle_pain_score: moderate to very high moderate
+muscle_pain_location: throughout the head and neck area
+neck_pain_present: True
+maximum_opening: 33mm
+maximum_opening_without_pain: 20mm
+----------------------------------------------------------------------------------------------------
+patient_id: B040
+airway_obstruction_present: True
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B040
+patient_age: 14
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left articular disc anteriorly displaced without reduction | right articular disc anteriorly displaced without reduction
+
+

@@ -1,0 +1,21 @@
+patient_id: B249
+patient_age: 19
+autoimmune_condition: juvenile rheumatoid arthritis
+joint_pain_areas: TMJ
+headache_intensity: 0
+appliance_history: orthodontics from the age of 8 to about 12 1/2
+current_medications: Methotrexate | Fibercon
+earache_present: False
+tinnitus_present : False
+vertigo_present
+----------------------------------------------------------------------------------------------------
+patient_id: B249
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: juvenile rheumatoid arthritis
+pain_aggravating_factors: left posterior crossbite tendency | right buccal cross bite tendency
+airway_obstruction_present: True
+patient_age: 19
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: probable connective tissue/autoimmune disease
+disc_displacement: left disc anterior beaking | right disc medial and lateral flattening

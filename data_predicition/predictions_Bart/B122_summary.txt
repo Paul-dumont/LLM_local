@@ -1,0 +1,23 @@
+patient_id: B122
+patient_age: 56
+pain_onset_date: 12 years ago
+appliance_history: orthodontics from the age of 14 to 16 | chin cup | tongue guards | retainer from 25 to 47 | night guard since 47
+headache_intensity: 10
+headaches_location: frontal | temporal | posterior head
+tmj_pain_rating: 6
+average_daily_pain level: 7
+jaw_function_score: 4
+diet_score
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B122
+sleep_disorder_type: sleep apnea 
+jaw_crepitus: right posterior cross | left posterior cross
+tmj_pain_rating: severe
+headache_intensity: severe
+----------------------------------------------------------------------------------------------------
+patient_id: B122
+patient_age: 56
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior dislocation without reduction

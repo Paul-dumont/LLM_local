@@ -1,0 +1,48 @@
+patient_id: B477
+patient_age: 43
+depression_present: True
+earache_present: False
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: finger 
+adverse_reactions: PENICILLIN | cheap earrings
+pain_onset_date: 8 years ago
+onset_triggers: unknown 
+headache_intensity: 0
+tmj_pain_rating: 8
+jaw_function_score: 8
+diet_score: 5
+disability_rating: 4
+appliance_history: splint 2 years ago
+current_appliance: four different splints
+pain_aggravating_factors: some splints
+current_medications: Cenestin | Zocor | Zoloft | Aldactazide  | Lamictal | Seroquel
+joint_pain_areas: TMJ
+headache_location: left temple 
+jaw_locking: True
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+patient_id: B477
+airway_obstruction_present: False
+joint_pain_areas: left TMJ
+muscle_pain_score: high moderate
+muscle_pain_location: left temporalis area | left posterior neck area | left masseter muscle
+maximum_opening: 27mm
+maximum_opening_without_pain: 20mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction 
+joint_pain_areas: left TMJ
+tmj_pain_rating: Severe 
+pain_aggravating_factors: clenching | bruxism
+sleep_disorder_type: sleep disorder
+patient_id: B477
+----------------------------------------------------------------------------------------------------
+patient_id: B477
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with early  reduction | right disc anterior displacement
+patient_age: 45
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc dislocated at the lateral aspect of the joint with reduction

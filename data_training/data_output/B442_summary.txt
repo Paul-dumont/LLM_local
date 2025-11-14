@@ -1,0 +1,43 @@
+patient_id: B442
+patient_age: 21
+pain_onset_date: 19 years of age
+onset_triggers: unknown 
+jaw_clicking: right TMJ
+appliance_history: orthodontics beginning in the 6th grade and got them off around the 11th grad
+current_appliance: splint 
+joint_pain_areas: TMJ
+headache_intensity: present
+sleep_disorder_type: Daytime tiredness
+----------------------------------------------------------------------------------------------------
+patient_id: B442
+pain_aggravating_factors: left posterior crossbite | right posterior crossbite tendency | anterior open bite
+muscle_pain_score: moderate 
+muscle_pain_location: right masseter | right styloid area | right SCM | shoulders
+joint_pain_areas: right TMJ
+muscle_tenderness_present: True
+jaw_clicking: right TMJ
+maximum_opening: 45mm
+maximum_opening_without_pain: 18mm
+tmj_pain_rating: 7
+average_daily_pain_intensity: 6
+jaw_function_score: 4
+diet_score: 5
+disability_rating: 3
+headache_intensity: 7
+headache_location: right temporal | posterior head 
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+headache_frequency: wake up fairly consistently with headaches in the morning
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+disc_displacement: left disc anteriorly displaced | right disc anteriorly displaced with reduction
+pain_aggravating_factors: left posterior crossbite | right posterior crossbite | anterior open bite
+patient_id: B442
+patient_age: 21
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocated in an anterior rotational position| right disc anteriorly dislocated
+
+

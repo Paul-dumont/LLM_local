@@ -1,0 +1,12 @@
+patient_id: B056
+patient_age: 60
+pain_onset_date: nine years ago at the age of 53
+appliance_history: ten implants in the upper jaw and eight of them have now been removed with only two remaining
+headache_intensity: 8
+headaches_location: frontal | temporal
+tmj_pain_rating: 8, average daily pain
+----------------------------------------------------------------------------------------------------
+patient_id: B056
+patient_age: 60
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and lateral displacement | right disc laterally displaced

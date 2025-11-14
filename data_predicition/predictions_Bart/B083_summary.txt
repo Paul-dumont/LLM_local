@@ -1,0 +1,22 @@
+patient_id: B083
+patient_age: 20
+current_medications: Yaz | Imitrex 
+pain_onset_date: 8th grade
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics from the age of 11 to 13 | mouth guard 2 months ago
+earache_present: False
+tmj_pain_rating: 6
+average_daily-pain_intensity: 5
+diet_score: 7
+disability_rating
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B083
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+patient_id: B083
+patient_age: 20
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocated without reduction | right disc anteriorly displaced with partial reduction

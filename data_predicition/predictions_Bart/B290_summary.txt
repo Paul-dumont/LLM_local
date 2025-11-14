@@ -1,0 +1,25 @@
+patient_id: B290
+patient_age: 69
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior dislocation without reduction 
+current_medications: Citalopraqn | Toprol XL | Zetia | Ambien | Estradiol | Fosamax
+current-medications_history: Fos amax for about 4 to 5 years
+----------------------------------------------------------------------------------------------------
+patient_id: B290
+earache_present: True
+tinnitus_present : False
+vertigo_diagnosed: False
+hearing_loss_rating: 0
+pain_aggravating_factors: clenching
+joint_pain_areas: left TMJ | thumbs | left hip | left knee
+headache_intensity: 5 but can escalate to 8 and can go as high as 10
+headaches_location: temple | posterior head
+head
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B290
+disc_displacement: left disc dislocation | right disc dislocations 
+jaw_clicking: TMJ 
+headache_intensity: present
+pain_aggravating_factors: clenching
+current_medications: Fosamax

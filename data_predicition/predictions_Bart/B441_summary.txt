@@ -1,0 +1,21 @@
+patient_id: B441
+patient_age: 47
+current_medications: Zocor | Ambien
+appliance_history: orthodontic treatment done when he was approximately 14 years old
+pain_onset_date: 19 years of age
+migraine_frequency: migraines
+jaw_clicking: left wrist
+headache_location: frontotemporal | posterior head
+tmj_pain_rating: 2
+average
+----------------------------------------------------------------------------------------------------
+patient_id: B441
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medial and anterior displacement
+tmj_pain_rating: 4
+headache_intensity: present
+patient_age: 47
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc possibly medially displaced but otherwise in good position 
+jaw_locking: True

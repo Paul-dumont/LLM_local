@@ -1,0 +1,20 @@
+patient_id: B183
+appliance_history: orthodontics at age 51 for 2 years
+physical_therapy_status: physical therapy | chiropractic treatment
+pain_aggravating_factors: bruxism
+current_medications: Synthroid | Zocor | Singulair | Motrin | Ambien 
+headache_intensity: 8
+headaches_location: frontal | temporal | posterior head area
+tmj
+----------------------------------------------------------------------------------------------------
+patient_id: B183
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc possible dislocation | right disc possibly dislocation 
+headache_intensity: present
+patient_age: 57
+current_medications: magnesium | klonopin | doxycycline | Celebrex | Relafen | bite splint | retainers | Ambien
+pain_aggravating_factors: coffee | chocolate
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ 
+disc_displacement: left disc anterior displacement with reduction | right disc reduced with reduction
+jaw_crepitus: left TMJ | Right TMJ

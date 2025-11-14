@@ -1,0 +1,21 @@
+patient_id: B439
+patient_age: 16
+current_medications: Zyrtec | Concerta
+adverse_reactions: pollens | grasses | farm animals | trees
+appliance_history: orthodontics
+airway_obstruction_present: True
+earache_intensity: 0
+tinnitus_present : False
+vertigo_Present: False
+hearing_loss_score: False 
+hears
+----------------------------------------------------------------------------------------------------
+current_appliance: 3x3 retainer in the lower arch
+airway_obstruction_present: True
+patient_id: B439
+disc_displacement: left disc medial displacement | right disc medially displaced
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medially displaced | right disc medial displacement
+airway_obstruction_present: True
+patient_id: B439

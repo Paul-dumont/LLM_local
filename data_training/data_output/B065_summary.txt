@@ -1,0 +1,26 @@
+patient_id: B065
+patient_age: 17
+appliance_history: orthodontics initially for 2 years from about the age of 7 to 8 until she was 9 to 10  | orthodontics from 12 to 14 years of age
+current_appliance: retainers
+headache_frequency: twice a month
+headache_location: frontal area
+diet_score: 0
+tmj_pain_rating: 0
+disability_rating: 0
+jaw_function_score: 0
+current_medications: none
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+airway_obstruction_present: False
+maximum_opening: 35mm
+muscle_tenderness_present: True
+muscle_pain_score: mild 
+joint_pain_areas: shoulders
+----------------------------------------------------------------------------------------------------
+patient_id: B065
+----------------------------------------------------------------------------------------------------
+patient_id: B065
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left articular disc lateral displaced | right disc medially and anteriorly displaced

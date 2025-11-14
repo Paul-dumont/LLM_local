@@ -1,0 +1,37 @@
+patient_id: B204
+patient_age: 48
+pain_onset_date: 20 years ago
+joint_pain_areas: TMJ
+pain_aggravating_factors: open bite | clenching
+headache_intensity: present
+onset_triggers: unknown
+current_appliance: splint for past 20 years
+physical_therapy_status: physical therapy | massage therapy weekly | chiropractic treatment
+current_medications: Mobic | Claritin | aleve | Sudafed | midrin | iron supplements
+earache_present: False
+tinnitus_present: True
+vertigo_present: True
+autoimmune_condition: mild unknown autoimmune disorder
+joint_pain_areas: knees | ankles | finger
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+patient_id: B204
+joint_pain_areas: let TMJ | right TMJ
+muscle_pain_location: retromandibular area
+muscle_pain_score: mild
+maximum_opening: 40mm
+maximum_opening_without_pain: 30mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B204
+autoimmune_condition: connective tissue autoimmune disease
+pain_aggravating_factors: anterior open bite
+joint_pain_areas: let TMJ | right TMJ
+headache_intensity: present
+sleep_disorder_type: sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B204
+patient_age: 48
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc anterior displacement

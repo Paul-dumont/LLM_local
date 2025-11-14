@@ -1,0 +1,19 @@
+patient_id: B095
+patient_age: 14
+headache_intensity: 0
+tmj_pain_rating: 0
+maximum_opening: 43mm
+airway_obstruction_present: True
+sleep_apnea_diagnosed: False
+current_medications: none
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+disc_displacement: left disc dislocation | right disc dislocation
+----------------------------------------------------------------------------------------------------
+patient_id: B095
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc dislocation with late reduction | right disc dislocation without reduction

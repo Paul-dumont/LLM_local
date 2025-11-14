@@ -1,0 +1,24 @@
+patient_id: B240
+patient_age: 14
+current_medications: none
+adverse_reactions: Zithromax
+pain_aggravating_factors: anterior vertical overbite
+muscle_tenderness_present: True
+maximum_opening: 45mm
+----------------------------------------------------------------------------------------------------
+patient_id: B240
+airway_obstruction_present: True
+patient_age: 14
+disc_displacement: left disc anterior displacement with minimal downward curvature | right disc lateral displacement with significant reduction
+----------------------------------------------------------------------------------------------------
+patient_id: B240
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc moderately posteriorly displaced but reduces on opening | right disc posteriorly dislocated towards the medial aspect of the joint
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B5
+current_appliance: Panorex 
+pain_aggravating_factors: 4 impacted third molars
+maximum_opening: 6mm

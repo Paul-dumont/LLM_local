@@ -1,0 +1,22 @@
+patient_id: B329
+patient_age: 52
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction 
+current_medications: Doryx | Concerta 
+pain_onset_date: 9 years of age
+appliance_history: orthodontics at the age of 33 | splint therapy for 15 to 18 years and at least 15 different splints
+physical_therapy_status: physical therapy for years
+----------------------------------------------------------------------------------------------------
+patient_id: B329
+maximum_opening: 20mm
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True
+jaw_crepitus: Left TMJ  | Right TMJ to palpation: retromandibular areas | temporalis | shoulders | shoulders 
+muscular_hearing_score: very high moderate
+musical_pap
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B329
+pain_aggravating_factors: clenching | bruxism
+tmj_pain_rating: Severe 
+headache_intensity: present

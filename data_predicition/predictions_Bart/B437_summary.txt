@@ -1,0 +1,30 @@
+patient_id: B437
+patient_age: 17
+adverse_reactions: asthma
+jaw_clicking: left TMJ | right TMJ
+onset_triggers: unknown 
+appliance_history: orthodontics in around the third or fourth grade with RPE appliance and head gear | orthodonics on the upper arch for about 9 months when he was about 12 to 13 years of age
+earache_present: False
+tinnitus_present:'
+----------------------------------------------------------------------------------------------------
+patient_id: B437
+current_appliance: 3 x 3 retainer
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | sleep apnea
+muscle_tenderness_score: 0
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 54mm
+----------------------------------------------------------------------------------------------------
+current_appliance: 3 x 3 retainer in the maxillary arch
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+joint_pain_areas: TMJ
+patient_id: B437
+disc_displacement: left disc dislocation with reduction | right disc dislocations with reduction 
+jaw_crepitus: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B437
+patient_age: 17
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc medial and posterior displacement

@@ -1,0 +1,29 @@
+patient_id: B053
+patient_age: 67
+current_medications: Armour thyroid | Estradiol | Medroxyprogesterone | Vitamin D3
+adverse_reactions: penicillin | sulfa
+pain_onset_date: age of 27 as a result of childbirth and an extended difficult labor
+appliance_history: various TMJ splints through the years
+sleep_disorder_type: sleep apnea
+
+----------------------------------------------------------------------------------------------------
+patient_id: B053
+muscle_pain_score: moderate  to mild 
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: False 
+maximum_opening: 46mm
+max_opening_without_pain: 25mm
+jaw_clicking: Right TMJ 
+adverse_reactions: gluten | soy | dairy | eggs | sugar | parasites | roundworm 
+current_appliance: CPAP machine for approximately 2 years
+----------------------------------------------------------------------------------------------------
+patient_id: B053
+sleep_disorder_type: sleep apnea
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and medial displacement with early reduction
+patient_age: 67
+----------------------------------------------------------------------------------------------------
+patient_id: B053
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc probable articular disc dislocation without reduction
+airway_obstruction_present: True

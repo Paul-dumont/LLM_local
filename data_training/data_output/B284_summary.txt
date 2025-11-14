@@ -1,0 +1,45 @@
+patient_id: B284
+patient_age: 21
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with early reduction | right disc medial displacement
+current_medications: birth control pills
+pain_onset_date: about 17 to 18 years of age
+onset_triggers: orthodontic treatment
+appliance_history: orthodontics 4 years ago | splint therapy from 3 years ago until now
+pain_relieving_factors: splints for two hours
+physical_therapy_status: physical therapy | chiropractic treatment | acupuncture
+----------------------------------------------------------------------------------------------------
+migraine_history: True
+headache_intensity: 5 but can escalate to 10
+headache_location: right side usually but left side can be severe
+tmj_pain_rating: 5 and ca escalate to 10
+average_daily_pain_intensity: 5
+jaw_function_score: 3
+diet_score: 2
+disability_rating: 2
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: False
+pain_aggravating_factors: clenching
+muscle_tenderness_present: True 
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: minimal
+muscle_pain_location: right styloid rea | left medial pterygoid area
+jaw_clicking: none
+jaw_crepitus: none
+patient_id: B284
+airway_obstruction_present: False
+maximum_opening: 69mm
+current_medications: none
+previous_medications: amitriptyline | Depakote | numerous other medicines, 30 different medications
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ
+disc_displacement: left disc dislocation | right disc medial displacement
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_id: B284
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+pain_aggravating_factors: clenching

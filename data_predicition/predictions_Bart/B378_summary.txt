@@ -1,0 +1,20 @@
+patient_id: B378 
+patient_age: 16
+pain_onset_date: 2 years ago
+joint_pain_areas: left TMJ | right TMJ
+onsets_triggers: unknown 
+appliance_history: orthodontics at the age of 10 | palatal expander at 4 | myofunctional therapy | tongue thrust therapy
+headache_frequency: frontal | temporal | top of the head areas
+headaches_intensity: 5
+tmj
+----------------------------------------------------------------------------------------------------
+patient_id: B378
+patient_age: 16
+pain_aggravating_factors: open bite on the right side
+airway_obstruction_present: True
+disc_displacement: left disc medial displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and perhaps anterior displacement | right disc medial dislocation 
+patient_id: B3
+jaw_locking: True

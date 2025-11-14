@@ -1,0 +1,33 @@
+patient_id: B372
+patient_age: 40
+current_medications: WELLBUTRIN 
+adverse_reactions: PENICILLIN | penicillin
+pain_onset_date: 14 or 15 years of age
+onsets_triggers: unknown
+joint_pain_areas: left TMJ | right TMJ
+appliance_history: splint for past year-and-a-half
+physical_therapy_status: physical therapy
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B372
+tmj_pain_rating: severe 
+headache_intensity: Severe 
+earache_frequency: present
+tinnitus_present : True
+vertigo_diagnosed: True 
+hearing_loss_score: hearing loss
+appliance_history: orthodontics
+----------------------------------------------------------------------------------------------------
+patient_id: B372
+joint_pain_areas: hips | knees
+current_appliance: orthodontics
+pain_onset_date: during her period
+physical_therapy_status: cryosurgery at the age of 37
+earache_present: True
+tinnitus_present:'True
+vertigo_present '
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with severe deformation and nonreducing | right disc displacement without reduction 
+pain_aggravating_factors: anterior openhearing_present: True

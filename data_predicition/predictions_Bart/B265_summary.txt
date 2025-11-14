@@ -1,0 +1,40 @@
+patient_id: B265
+patient_age: 49
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with early reduction | right disc anterior displacement with probable severe deformation
+current_medications: HRT-TR-EST | Celebrex | Wellbutrin XL | Crestor | Zetia | codeine 
+adverse_reactions: codeine
+----------------------------------------------------------------------------------------------------
+patient_id: B265
+pain_onset_date: 7 years ago
+joint_pain_areas: right TMJ
+onsets_triggers: unknown 
+jaw_locking: True
+appliance_history: splint since 6 years ago and current splint at nighttime
+earache_frequency: gets worse in the afternoon and during the evenings depending on how much she has to use her jaws in talking during the day
+current_medications: injections x2 into the right joint
+
+----------------------------------------------------------------------------------------------------
+patient_id: B265
+joint_arthritis_location: right TMJ
+autoimmune_condition: reactive arthritis
+current_medications: antibiotic 
+pain_aggravating_factors: antibiotic
+airway_obstruction_present: False
+----------------------------------------------------------------------------------------------------
+patient_id: B265
+joint_arthritis_location: left TMJ
+disc_displacement: left disc dislocation with early reduction 
+tmj_pain_rating: severe
+headache_intensity: present
+patient_age: 37
+maximum_opening: 37mm
+current_medications: Klonopin
+----------------------------------------------------------------------------------------------------
+patient_id: B265 
+muscle_pain_score: high moderate to high moderate
+joint_arthritis_location: masseter | medial pterygoid | temporalis
+maximum_opening: 40mm
+current_medications: Wellbutrin
+pain_aggravating_factors: clenching
+sleep_disorder_type: daytime somnolence

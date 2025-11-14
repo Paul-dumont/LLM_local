@@ -1,0 +1,33 @@
+patient_id: B304
+patient_age: 48
+current_medications: Lipitor | Nortriptyline | Tylenol | Advil | Excedrin 
+headache_frequency: daily
+pain_onset_date: 7 years old
+onsets_triggers: fall when she was seven years old and hit the back of her head
+appliance_history: orthodontic treatment including headgear as a teenager
+physical_therapy_status: physical therapy treatments initially three times a week
+earache_present: True
+tinnitus_present
+----------------------------------------------------------------------------------------------------
+patient_id: B304
+airway_obstruction_present: True
+muscle_pain_score: moderate to very high moderate 
+joint_tenderness_areas: temporalis | right masseter | right medial pterygoid | styloid areas | right posterior cross over the right TMJ | right anterior cross over left TMJ
+maximum_opening: 31mm
+maximal_opening_without_pain: 17mm
+jaw_clicking: none
+current_appliance: CPAP machine
+sleep_disorder_type: sleep study
+----------------------------------------------------------------------------------------------------
+patient_id: B304
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc displacement without reduction 
+tmj_pain_rating: Severe 
+headache_intensity: severe 
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea syndrome
+----------------------------------------------------------------------------------------------------
+patient_id: B304
+patient_age: 48
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc dislocation without reduction

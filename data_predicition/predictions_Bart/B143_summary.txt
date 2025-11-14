@@ -1,0 +1,23 @@
+patient_id: B143
+patient_age: 21
+appliance_history: orthodontics from 10 to 17 | fixed appliances from 15 to 17
+pain_onset_date: 2 years ago
+onset _triggers: unknown
+earache_present: False
+tinnitus_present : False
+vertigo_diagnosed: False 
+joint_pain_areas: left TMJ | right TMJ
+jaw_function_score: 6
+diet_score
+----------------------------------------------------------------------------------------------------
+current_appliance: 3 x 3 retainer
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: False
+patient_id: B143
+disc_displacement: left disc anterior dislocation | right disc anteriorly dislocated
+----------------------------------------------------------------------------------------------------
+patient_id: B143
+patient_age: 21
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction

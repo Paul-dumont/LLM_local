@@ -1,0 +1,23 @@
+patient_id: B037
+patient_age: 14
+current_medications: none
+adverse_reactions: Clarinex
+jaw_clicking: left TMJ | right TMJ
+onset_triggers: unknown 
+appliance_history: orthodontic treatment two years ago
+earache_present: False
+tinnitus_present : False
+vertigo_Present: False 
+hearing_loss_present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with late reduction | right disc anterior displacement 
+airway_obstruction_present: True
+headache_intensity: present
+sleep_disorder_type: snoring | daytime somnolence
+patient_id: B037
+age: 14
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and posterior dislocation without reduction 
+patient_id: B5

@@ -1,0 +1,53 @@
+patient_id: B053
+patient_age: 67
+current_medications: Armour thyroid | Estradiol | Medroxyprogesterone | Vitamin D3 
+adverse_reactions: penicillin | sulfa
+pain_onset_date: age of 27 
+onset_triggers: childbirth and extended difficult labor
+appliance_history: various splints after  Virtox system/Myomonitor full mouth reconstruction
+physical_therapy_status: cranial osteopathy
+pain_relieving_factors: cranial osteopathy
+pain_aggravating_factors: chewing
+tinnitus_present: True
+sleep_disorder_type: sleep apnea
+sleep_apnea_diagnosed: True
+headache_intensity: 4
+headache_location: frontal | top of her head | temple 
+tmj_pain_rating: 4
+average_daily_pain_intensity: 2
+jaw_function_score: 3
+diet_score: 2
+disability_rating: 2
+joint_pain_areas: knees | shoulders | hands
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+depression_present: True
+anxiety_present: True
+airway_obstruction_present: False
+----------------------------------------------------------------------------------------------------
+patient_id: B053
+ure_pain_score: moderate  
+muscle_pain_location: temporalis | masseter | SCMs 
+joint_pain_areas: right TMJ | left TMJ
+maximum_opening: 46mm
+maximum_opening_without_pain: 25mm
+jaw_crepitus: left TMJ
+jaw_clicking: right TMJ
+adverse_reactions: gluten | soy | dairy | eggs | sugar
+cpap_used: False
+appliance_history: CPAP for 2 years
+JPAP_used: True
+current_appliance: JPAP
+----------------------------------------------------------------------------------------------------
+patient_id: B053
+sleep_apnea_diagnosed: True
+sleep_disorder_type: sleep apnea
+joint_pain_areas: TMJ
+patient_age: 67
+joint_arthritis_present: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced with early  reduction
+----------------------------------------------------------------------------------------------------
+patient_id: B053
+joint_arthritis_present: left TMJ
+disc_displacement: left disc probable displacement without reduction

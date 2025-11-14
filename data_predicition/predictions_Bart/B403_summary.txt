@@ -1,0 +1,28 @@
+patient_id: B403
+patient_age: 48
+current_medications: Ambien | Elavil | Flexeril 
+pain_onset_date: mid-80s
+jaw_clicking: left TMJ | right TMJ
+vertigo_present: True
+appliance_history: orthodontic treatment as a child from 31 to 35 years ago and it was treated with head gear | full braces | removable appliances | spl
+----------------------------------------------------------------------------------------------------
+patient_id: B403
+airway_obstruction_present: True
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea symptoms
+muscle_tenderness_location: left TMJ | right TMJ
+joint_pain_areas: neck | back | masseter | styloid areas
+maximum_opening: 45mm
+max_opening_without_pain: 30mm
+----------------------------------------------------------------------------------------------------
+patient_id: B403
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc dislocation 
+sleep_disorder_type: sleep apnea | snoring | sleep disorder symptoms
+tmj_pain_rating: 7
+headache_intensity: present
+patient_age: 48
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medial and anterior dislocation 
+patient_id: B4
+jaw_locking: True

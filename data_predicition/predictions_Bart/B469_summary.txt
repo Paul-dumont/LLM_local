@@ -1,0 +1,28 @@
+patient_id: B469
+patient_age: 35
+onset_triggers: viral meningitis
+appliance_history: orthodontics x 2, one after the surgery 13 years ago and then repeated in 7 years ago after that surgery | splint therapy
+pain_aggravating_factors: clenching | sleep apnea_disorder_type: snoring | daytime somnolence
+current_medications: Wellbutrin XL | Advil or Advil 
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B469
+sleep_disorder_type: snoring
+muscle_pain_location: left temporalis | right styloid area | bilateral masseters | right medial pterygoid | left SCM | left styloid areas
+joint_arthritis_present: left TMJ 
+maximum_opening: 35mm
+maximum _opening_without_pain: 30mm
+headache_intensity: 4 but can escalate to 9
+headaches
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B469
+earache_present: True
+headache_intensity: present
+pain_aggravating_factors: open bite in centric relation on the right side
+disc_displacement: right disc anterior displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anteriorly displaced without reduction 
+patient_id: B5176
+pain_aggravating_factors: anterior displacement without reduction

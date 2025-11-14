@@ -1,0 +1,43 @@
+patient_id: B360 
+patient_age: 64
+fibromyalgia_present: True
+migraine_history: True
+joint_pain_areas: lower back | neck | shoulders | wrists |  knuckles | hips | knees | feet | toes
+back_pain_present: True
+adverse_reactions: PENICILLIN | SULFA | YELLOW DYE
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: True
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: 8 on the left side and 7 on the right side
+headache_location: frontal | temporal | posterior head 
+tmj_pain_rating: 5 but can escalate easily to 9
+average_daily_pain_intensity: 7
+jaw_function_score: 7
+diet_score: 9
+disability_rating: 8
+current_medications: Fiorinal #3 with codeine | Diazepam | Ultram  | Lortab | Armour Thyroid | Paxil | Glucosamine/chondroitin | Imitrex | Amitriptyline
+muscle_pain_score: moderate 
+muscle_pain_location: temporalis | right SCM | right posterior neck
+neck_pain_present: True
+joint_pain_areas: left TMJ | right TMJ
+jaw_crepitus: left TMJ | right TMJ
+maximum_opening: 35mm
+maximum_opening_without_pain: 10mm
+----------------------------------------------------------------------------------------------------
+headache_intensity: present
+joint_pain_areas: TMJ | shoulder | neck | back
+neck_pain_present: True
+back_pain_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+joint_arthritis_location: left TMJ | right TMJ
+earache_present: True
+tinnitus_present: True
+hearing_loss_present: True
+sleep_apnea_diagnosed: True
+----------------------------------------------------------------------------------------------------
+patient_id: B360 
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc medial dislocation 
+

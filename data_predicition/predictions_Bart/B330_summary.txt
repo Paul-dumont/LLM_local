@@ -1,0 +1,26 @@
+patient_id: B330
+patient_age: 17
+appliance_history: orthodontics 5 years ago to 2 years ago
+current_medications: Nasonex | Allegra 
+pain_onset_date: after her appliances were removed 2 year ago
+onsets_triggers: onset of the jaw problems began after she began to develop some discomfort and also that her jaw started to become more retruded
+joint_pain_areas: left TMJ | right TMJ
+jaw_crepitus: lower jaw
+----------------------------------------------------------------------------------------------------
+muscle_pain_location: left masseter | left styloid area 
+airway_obstruction_present: False
+joint_tenderness_areas: left TMJ | right TMJ
+maximum_opening: 34mm
+max_opening_without_pain: 20mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocations without reduction 
+patient_id: B330 
+pain_aggravating_factors: anterior open posterior crossbite tendency
+airway_obstruction_present: True
+muscle_pain_score: chronic hoarseness of the voice
+----------------------------------------------------------------------------------------------------
+patient_id: B330
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction 
+patient_age: 35

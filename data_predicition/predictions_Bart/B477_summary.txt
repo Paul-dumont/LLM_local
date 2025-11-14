@@ -1,0 +1,33 @@
+patient_id: B477
+patient_age: 43
+depression_present: True
+current_medications: cenestin | zocor | zoloft | Aldactazide | Lamictal |eroquel 
+pain_onset_date: 8 years ago
+onsit_triggers: unknown 
+tmj_pain_rating: severe for the past year
+headache_intensity: 0
+average_daily_pain
+----------------------------------------------------------------------------------------------------
+patient_id: B477
+joint_pain_areas: left TMJ 
+muscle_tenderness_present: True
+maximum_opening: 27mm
+maximum _opening_without_pain: 20mm
+migraine_history: True 
+current_medications: ibuprofen
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc anterior displacement with reduction 
+patient_id: B477 
+tmj_pain_rating: severe 
+sleep_disorder_type: sleep disorder
+pain_aggravating_factors: clenching | bruxism | sleep disorder
+----------------------------------------------------------------------------------------------------
+patient_id: B477
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with early reduction | right disc lateral and anterior displacement
+patient_age: 45
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc dislocated primarily at the lateral aspect of the joint 
+patient_id: B5

@@ -1,0 +1,21 @@
+patient_id: B131
+patient_age: 25
+airway_obstruction_present: True
+appliance_history: orthodontics at the age of 17 to 18 and then had appliances replaced
+jaw_clicking: left TMJ | right TMJ
+pain_onset_date: 22 years of age
+headache_frequency: once or twice a week
+tmj_pain_rating: 0
+average_daily_intensity: 0 
+diet_score:
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B131
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc anterior displacement 
+sleep_disorder_type: sleep apnea
+----------------------------------------------------------------------------------------------------
+patient_id: B131
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement with reduction | right disc dislocation with reduction 
+pain_aggravating_factors: anterior open disk

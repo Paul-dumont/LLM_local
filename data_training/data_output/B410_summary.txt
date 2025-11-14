@@ -1,0 +1,47 @@
+patient_id: B410
+migraine_history: True
+migraine_frequency: had one last 2 years ago | few others at home | one while driving
+adverse_reactions: PENICILLIN | ANCEF | TIGAN | ZOFRAN
+pain_onset_date: 14 years ago
+onset_triggers: orthognathic surgery
+appliance_history: braces
+pain_aggravating_factors: anterior open bite
+jaw_clicking: left TMJ | right TMJ
+jaw_locking: True
+physical_therapy_status: Botox injections into facial muscles
+headache_intensity: Severe 
+joint_pain_areas: TMJ 
+muscle_pain_location: muscles of the head and neck area
+neck_pain_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+earache_present: True
+current_medications: Imitrex | Actiq | Zanaflex | Remeron | Trileptal | Depakote | Phenergan
+----------------------------------------------------------------------------------------------------
+patient_id: B410
+current_appliance: 3 x 3 lower retainer
+pain_aggravating_factors: anterior open bite
+headache_intensity: 9
+headache_location: band form | frontal | temporal | posterior head area
+headache_frequency: daily 
+tmj_pain_rating: 8
+average_daily_pain_intensity: 8
+jaw_function_score: 9
+diet_score: 7
+disability_rating: 8
+maximum_opening: 33mm
+maximum_opening_without_pain: 26mm
+muscle_pain_score: severe to high moderate
+muscle_pain_location: masseters | medial pterygoids | styloid areas | SCMs | shoulder
+joint_pain_areas: left TMJ | right TMJ
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right rib graft
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+headache_intensity: Severe 
+joint_pain_areas: TMJ
+tmj_pain_rating: Severe 
+sleep_disorder_type: snoring | sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B410
+joint_arthritis_location: left TMJ | right TMJ 

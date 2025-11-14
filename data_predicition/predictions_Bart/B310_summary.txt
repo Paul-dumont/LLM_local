@@ -1,0 +1,27 @@
+patient_id: B310
+patient_age: 14
+current_medications: growth hormone for four years
+earache_present: False
+tinnitus_presenter: True
+vertigo_present : True
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: 3
+headaches_location: temple | posterior head
+tmj_pain_rating: 0
+jaw_function_score: 2
+
+----------------------------------------------------------------------------------------------------
+patient_id: B310
+joint_pain_areas: left TMJ | right TMJ
+pain_aggravating_factors: buccal crossbite
+airway_obstruction_present: False
+----------------------------------------------------------------------------------------------------
+patient_id: B310
+airway_obstruction_present: True
+patient_age: 14
+disc_displacement: left disc anterior and medial to the condyle | right disc anteriorly and medial displacement
+----------------------------------------------------------------------------------------------------
+patient_id: B310
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc dislocation with reduction 
+pain_aggravating_factors: anterior displacement

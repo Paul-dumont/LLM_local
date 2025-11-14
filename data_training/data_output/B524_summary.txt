@@ -1,0 +1,45 @@
+patient_id: B524
+patient_age: 52
+pain_onset_date: 25 years ago
+onset_triggers: auto accident creating a subcondylar fracture on the right side
+appliance_history: orthodontics | multiple different splints about 15 years ago
+physical_therapy_status: physical therapy throughout the years | chiropractic therapy | TENS therapy
+pain_aggravating_factors: physical therapy
+current_medications: Vicodin | hydrocodone | Advil | Valium 
+headache_intensity: 8
+headache_location:  frontal | temporal | posterior head area
+headache_frequency: daily | in the morning and then they tend to subside but they return later in the day
+tmj_pain_rating: 7
+average_daily_pain_intensity: 7
+jaw_function_score: 9
+diet_score: 8
+disability_rating: 8
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: hips | right knee
+pain_aggravating_factors: clenching
+sleep_disorder_type: daytime somnolence | snoring 
+----------------------------------------------------------------------------------------------------
+patient_id: B524
+maximum_opening: 28mm
+maximum_opening_without_pain: 21mm
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: severe to moderate
+muscle_pain_location: masseter muscles | temporalis | medial pterygoids | posterior neck | shoulders | right styloid area
+muscle_tenderness_present: True
+neck_pain_present: True
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc dislocation without reduction 
+joint_pain_areas: TMJ
+headache_intensity: Severe 
+tmj_pain_rating: Severe
+----------------------------------------------------------------------------------------------------
+patient_id: B524
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc anteriorly dislocated without reduction 
+
+

@@ -1,0 +1,31 @@
+patient_id: B134
+patient_age: 47
+jaw_clicking: left TMJ | right TMJ
+pain_onset_date: 4 years ago
+physical_therapy_status: splint therapy x4 | physical therapy | Lidocaine infusion | electro-rhizotomy to kill the nerve in Right TMJ 
+current_medications: Clonidine | Gabapentin | Seroquel | Effexor | Prilosec | Zofran | Visteril | Zantac | Doxepin | Advair inhaler
+headache_intensity: 7
+tmj_pain_rating:
+----------------------------------------------------------------------------------------------------
+patient_id: B134
+airway_obstruction_present: False
+current_appliance: CPAP
+muscle_pain_location: right temporalis | right medial pterygoid | high moderate over the right masseter | right masseters
+jaw_crepitus: right TMJ 
+maximum_opening: 27mm
+max_opening_with_pain: significant
+pain_aggravating_factors: left posterior cross bite tendency | right posterior crossbite tendency
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+patient_id: B134
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc medial dislocation
+tmj_pain_rating: severe
+headache_intensity: severe 
+sleep_disorder_type: sleep apnea syndrome 
+cpap_used: True
+----------------------------------------------------------------------------------------------------
+patient_id: B134
+patient_age: 47
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc medially displaced | right disc medial dislocation

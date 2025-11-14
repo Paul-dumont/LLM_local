@@ -1,0 +1,18 @@
+patient_id: B118
+patient_age: 39
+pain_onset_date: 3 years ago
+joint_pain_areas: left TMJ | right TMJ
+autoimmune_condition: Lyme disease
+current_medications: Flexeril | Primidone | Zyrtec | Toprol XL | Fentanyl patch | Flonase | Lyrica | Prilosec | Acidophilus |
+----------------------------------------------------------------------------------------------------
+patient_id: B118
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True
+maximum_opening: 15mm
+maximum _opening_without_pain: 37mm
+jaw_crepitus: left posterior displacement | right posterior displacement 
+disc_displacement: left disc anteriorly placed | right disc medially displaced
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced in a vertical orientation | right disc probably medially displaced
+appliance_history: splint

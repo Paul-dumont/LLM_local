@@ -1,0 +1,34 @@
+patient_id: B292
+patient_age: 44
+pain_onset_date: 5-9 years ago
+pain_aggravating_factors: open bite
+current_medications: Synthroid | vitamins | minerals
+headache_intensity: 0
+tmj_pain_rating: 3
+average_daily_pain_intensity: 0
+jaw_function_score: 3
+diet_score: 3
+disability_rating: 1
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+joint_pain_areas: right knee
+----------------------------------------------------------------------------------------------------
+patient_id: B292
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+muscle_tenderness_present: False
+maximum_opening: 35mm
+----------------------------------------------------------------------------------------------------
+patient_id: B292
+airway_obstruction_present: True
+joint_pain_areas: left TMJ | right TMJ
+autoimmune_condition: rheumatoid arthritis
+pain_aggravating_factors: anterior open bite
+sleep_disorder_type: sleep apnea
+----------------------------------------------------------------------------------------------------
+patient_id: B292
+patient_age: 44
+disc_displacement: left disc anterior displacement | right disc anterior displacement
+joint_pain_areas: left TMJ | right TMJ
+autoimmune_condition: rheumatoid arthritis

@@ -1,0 +1,25 @@
+patient_id: B328
+patient_age: 34
+current_medications: Celebrex | Darvocet 
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: severe
+earache_present: True
+tinnitus_present : True
+physical_therapy_status: physical therapy but has had no other treatment
+hearing_loss_score: False
+appliance_history: none
+pain_aggravating_factors: clenching
+
+----------------------------------------------------------------------------------------------------
+patient_id: B328
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anterior displacement without reduction 
+headache_intensity: Severe 
+tmj_pain_rating: severe 
+earache_present: True 
+physical_therapy_status: physical therapy if necessary to correct the jaw problems
+current_medications: Klonopin
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc anteriorly displaced very similar to the opposite side
+patient_id: B5

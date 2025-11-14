@@ -1,0 +1,24 @@
+patient_id: B492
+patient_age: 32
+joint_pain_areas: left TMJ
+onset_triggers: osteophytes and sclerosis formation
+jaw_clicking: left side of the jaw
+appliance_history: orthodontic treatment 3 years ago in preparation for orthognathic surgery
+headache_intensity: 4, left posterior head area at a level of 4
+headaches_frequency: occasional
+current_medications: none
+earache_present: True
+vertigo
+----------------------------------------------------------------------------------------------------
+patient_id: B492
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement | right disc medial and anterior displacement 
+tmj_pain_rating: asymptomatic
+patient_age: 19
+jaw_locking: True
+maximum_opening: 10mm
+airway_obstruction_present: False
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc anterior and medial displacement without reduction 
+patient_id: B2148

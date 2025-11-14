@@ -1,0 +1,53 @@
+patient_id: B516
+patient_age: 57
+neck_pain_present: True
+earache_present: True
+headache_intensity: present
+current_medications: Synthroid | Estradiol | Lexapro | Zetia | Digitek | Diovan |  Cyclobenzaprine | Skelaxin 
+pain_onset_date: 24 years ago 
+appliance_history: splint from 23 years ago for 5 years | orthodontics 21 years ago | splint until 13 years ago
+jaw_locking: True
+pain_relieving_factors: bilateral TMJ arthroscopy
+current_appliance: splint 
+physical_therapy_status: ionophoresis 
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: True
+joint_pain_areas: neck | left elbow | wrist | back  | knees  | ankles
+back_pain_present: True 
+headache_intensity: 7
+headache_location:  frontal | temple | posterior head
+headache_frequency: daily
+tmj_pain_rating: 8
+average_daily_pain_intensity: 9
+jaw_function_score: 5
+diet_score: 4
+disability_rating: 7
+sleep_disorder_type: daytime somnolence | snoring 
+----------------------------------------------------------------------------------------------------
+patient_id: B516
+airway_obstruction_present: True
+muscle_pain_score:  very high moderate pain to low severe
+muscle_pain_location: right posterior neck | left styloid | temporalis | masseters | medial pterygoids | SCMs | shoulders | left posterior neck | right styloid area
+joint_pain_areas: left TMJ | right TMJ
+neck_pain_present: True
+jaw_clicking: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+disc_displacement: left disc dislocation with reduction | right disc anteriorly displaced with reduction
+patient_id: B516
+current_medications: Synthroid | Estradiol
+joint_pain_areas: TMJ
+headache_intensity: present
+sleep_disorder_type: snoring | sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B516
+patient_age: 57
+disc_displacement: left disc anterior and medially displaced with early reduction | right disc anterior and medially displaced with early reduction
+joint_arthritis_location: left TMJ | right TMJ
+
+
+
+
+
+

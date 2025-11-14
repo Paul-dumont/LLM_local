@@ -1,0 +1,35 @@
+patient_id: B003
+patient_age: 28
+pain_onset_date: 18 years of age
+onset_triggers: unknown
+headache_intensity: 7
+headache_location: temporal | posterior head
+headache_frequency: 3 to 4 times per week
+tmj_pain_rating: 5
+average_daily_pain_intensity: 9
+jaw_function_score: 9
+diet_score: 6
+disability_rating: 3
+earache_present: True
+tinnitus_present: False
+vertigo_present: True
+hearing_loss_present: False
+joint_pain_areas: elbows | wrists
+pain_aggravating_factors: clenching | bruxism
+muscle_pain_score: high moderate to low severe 
+muscle_pain_location: posterior neck | shoulder | retromandibular area | SCMs
+neck_pain_present: True
+joint_pain_areas: left TMJ | right TMJ
+maximum_opening: 45mm
+maximum_opening_without_pain: 23mm
+airway_obstruction_present: True
+-----------------------------------------------------------------------------------------------------
+patient_id: B003
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction 
+joint_pain_areas: TMJ
+headache_intensity: present
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring
+----------------------------------------------------------------------------------------------------
+NoInfo

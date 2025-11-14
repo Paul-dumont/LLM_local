@@ -1,0 +1,41 @@
+patient_id: B082
+patient_age: 41
+appliance_history: lower splint | upper splint at nighttime | orthodontics 6 to 7 months
+jaw_locking: True
+current_appliance: splint
+pain_onset_date: 2 to 3 years ago
+physical_therapy_status: Prolo injections from age 39 to 40 | chiropractic treatment every 2 to 3 weeks
+current_medications: none
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: True
+joint_pain_areas: back | fingers | feet
+back_pain_present: True
+pain_aggravating_factors: Clenching | right posterior crossbite
+headache_intensity: 9
+headache_frequency: 1 to 2 times per week
+headache_location: frontal | posterior head | temple
+average_daily_pain_intensity: 9
+diet_score: 0
+tmj_pain_rating: 5
+jaw_function_score: 7
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: open bite
+sleep_disorder_type: snoring
+airway_obstruction_present: False
+muscle_pain_score: severe to moderate to mild
+muscle_pain_location: posterior head | left temporalis | masseter | styloid | SCM | right shoulder
+joint_pain_areas: right TMJ
+jaw_crepitus: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: right TMJ | left TMJ
+headache_intensity: severe
+joint_pain_areas: TMJ
+maximum_opening: 43mm
+pain_aggravating_factors: anterior open bite | right posterior cross bite
+----------------------------------------------------------------------------------------------------
+patient_id: B082
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: Left disc anteriorly displacement without reduction

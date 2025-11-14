@@ -1,0 +1,37 @@
+patient_id: B066
+patient_age: 37
+headache_frequency: 2-3 times a month
+pain_onset_date: 9 years old
+onset_triggers: unknown 
+appliance_history: orthodontics from 10 to 13 years of age
+physical_therapy_status: acupuncture treatment for the past 2 years
+headache_intensity: 9, but daily wakes up frequently with headaches in the morning that are at about a level of 5 that subsides
+headache_location: frontal | temporal | posterior head area
+average_daily_pain_intensity: 5
+diet_score: 1
+tmj_pain_rating: 1
+jaw_function_score: 1
+disability_rating: 5
+earache_present: False
+tinnitus_present: True
+vertigo_present: True
+pain_aggravating_factors: clenching and bruxism
+current_medications: butterbur | magnesium | vitamin D3 | vitamin B2 | multivitamins | acetyl-L-carnitine | N-acetyl-cysteine | Advil | aspirin
+----------------------------------------------------------------------------------------------------
+patient_id: B066
+muscle_tenderness_present: True
+muscle_pain_score: minimal 
+muscle_pain_location: left temporalis
+joint_pain_areas: left TMJ
+jaw_clicking: right TMJ
+jaw_crepitus: left TMJ
+maximum_opening: 52mm
+maximum_opening_without_pain: 20mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medial displacement 
+patient_id: B066
+----------------------------------------------------------------------------------------------------
+patient_id: B066
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medial displacement 

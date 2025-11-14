@@ -1,0 +1,25 @@
+patient_id: B508
+patient_age: 16
+joint_pain_areas: left TMJ | right TMJ
+current_medications: none
+pain_aggravating_factors: anterior open bite | left posterior cross bite tendency
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring 
+maximum_opening: 49mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B508
+pain_aggravating_factors: anterior open bite | left left posterior cross bite | right posterior cross bite 
+pain_onset_date: 11 years of age
+onset_triggers: unknown 
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics
+disc_displacement: left disc dislocation | right disc dislocation 
+sleep_disorder_type: daytime somnolence | snoring
+----------------------------------------------------------------------------------------------------
+patient_id: B508
+patient_age: 16
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly and medially displaced with reduction | right disc anteriorly displaced without reduction
+

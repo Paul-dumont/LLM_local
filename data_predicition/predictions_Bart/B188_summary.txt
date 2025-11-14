@@ -1,0 +1,36 @@
+patient_id: B188
+patient_age: 50
+current_medications: Aspirin | Levothroid | Estrogen | Progesterone | Vitamin | mineral supplements | Ambien | Skelaxin | Fioricet | migraine medication | Feldene | Zomig nasal spray | Maxalt
+adverse_reactions: IV iodine | Demerol | codeine | sulfa
+jaw_clicking: left TMJ | right TMJ
+joint_pain_areas: left hip | left shoulder | wrists
+neck_pain
+----------------------------------------------------------------------------------------------------
+patient_id: B188
+muscle_tenderness_present: True
+joint_pain_areas: masseters | retromandibular areas | SCMs | medial pterygoids
+neck_arthritis_location: left TMJ
+jaw_clicking: right TMJ 
+maximum_opening: 49mm
+maximum _opening_without_pain: 23mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B188
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc dislocation without reduction | right disc anterior displacement with early reduction 
+tmj_pain_rating: Severe 
+headache_intensity: severe 
+pain_aggravating_factors: anterior open bite
+current_medications: Restylane injections to the upper lip
+----------------------------------------------------------------------------------------------------
+patient_id: B188
+patient_age: 50
+disc_displacement: left disc anterior displacement | right disc anterior and medial displacement 
+current_appliance: orthodontics
+pain_aggravating_factors: TMJ Concepts procotol
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior and medial dislocation 
+jaw_locking: True
+patient_id: B5

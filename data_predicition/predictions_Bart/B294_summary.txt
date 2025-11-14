@@ -1,0 +1,19 @@
+patient_id: B294
+patient_age: 18
+joint_arthritis_location: left TMJ | right TMJ
+pain_onset_date: earlier this year
+autoimmune_condition: motor vehicle accident
+current_medications: Genotropin | DDAVP | Aricept | birth control pill | Ibuprofen | Norco 
+headache_intensity: 9
+tmj_pain_rating: 8
+average_daily_
+----------------------------------------------------------------------------------------------------
+patient_id: B294
+joint_arthritis_location: left TMJ
+disc_displacement: left disc dislocation without reduction 
+headache_intensity: Severe 
+tmj_pain_rating: severe 
+pain_aggravating_factors: clenching | bruxism | left blepharospasm
+airway_obstruction_present: True
+current_appliance: 3 x 3 retainer in the lower anterior arch
+patient_age: 35

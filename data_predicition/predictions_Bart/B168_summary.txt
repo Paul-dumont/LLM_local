@@ -1,0 +1,50 @@
+patient_id: B168
+patient_age: 16
+headache_intensity: present
+jaw_clicking: left TMJ | right TMJ
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring
+pain_aggravating_factors: anterior open bite
+physical_therapy_status: physical therapy at age 11 | NIT splint in 2009
+earache_present
+----------------------------------------------------------------------------------------------------
+patient_id: B168
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation anteriorly and medially with reduction | right disc anterior displacement with reduction 
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+patient_id: B168
+patient_age: 16
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement with reduction | right disc anterior displacement with early reduction
+headache_intensity: present
+muscle_pain_score: muscle aches and pains
+sleep_disorder_type: daytime somnolence | snoring
+----------------------------------------------------------------------------------------------------
+patient_id: B168
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+jaw_clicking: left TMJ | right TMJ
+muscle_pain_location: masseter | retromandibular area | posterior neck area
+neck_tenderness_present : True
+maximum_opening: 48mm
+headache_intensity: 7
+headaches_frequency: daily
+tmj
+----------------------------------------------------------------------------------------------------
+patient_id: B168
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation anteriorly and medially with reduction | right disc anterior displacement with reduction 
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+patient_id: B168
+patient_age: 16
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly and medially displaced with reduction | right disc anterior and medial displacement with reduction 
+jaw_crepitus: left posterior crossbite | right posterior cross bite

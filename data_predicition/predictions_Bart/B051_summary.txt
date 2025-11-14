@@ -1,0 +1,19 @@
+patient_id: B051
+patient_age: 18
+pain_aggravating_factors: anterior open bite
+appliance_history: orthodontic treatment from the age of 13 to 15
+headache_frequency: once or twice a month at about a level of 4 in the temporal area
+tmj_pain_rating: 0 
+average_daily_painintensity: 0
+jaw_function_score: 3
+diet_score
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B051
+pain_aggravating_factors: anterior open bite | right posterior crossbite | left posterior crossbiting | right frontal crossbite
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc displacement | right disc displacement 
+appliance_history: orthodontics

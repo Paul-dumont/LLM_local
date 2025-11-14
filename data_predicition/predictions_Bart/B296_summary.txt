@@ -1,0 +1,14 @@
+patient_id: B296
+patient_age: 15
+autoimmune_condition: Graves' disease | gastric reflux disease | exercise-induced asthma
+current_appliance: orthodontics at the age of 8 to 9 where Class III elastics were used to correct her bite
+pain_aggravating_factors: anterior crossbite | bilateral posterior crossbite
+----------------------------------------------------------------------------------------------------
+patient_id: B296
+pain_aggravating_factors: left posterior cross bite | right posterior crossbite
+airway_obstruction_present: False
+disc_displacement: left disc medial and lateral displacement
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anteromedial with reduction | right disc anterior and medial dislocation with reduction
+joint_arthritis_location: left TMJ | right TMJ 
+patient_id: B4

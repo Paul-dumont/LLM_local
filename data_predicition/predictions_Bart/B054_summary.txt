@@ -1,0 +1,13 @@
+patient_id: B054
+patient_age: 27
+pain_onset_date: age of 26
+jaw_locking: True
+appliance_history: splint for 2 years | two splints
+physical_therapy_status: physical therapy
+current_medications: Percocet | Uptagin
+headache_intensity: 0
+tmj_pain_rating: 9, average daily pain
+----------------------------------------------------------------------------------------------------
+patient_id: B054
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement with early reduction | right disc anterior and medial displacement with late reduction

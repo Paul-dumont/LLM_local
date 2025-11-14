@@ -1,0 +1,28 @@
+patient_id: B031
+patient_age: 49
+pain_onset_date: a month ago
+onset_triggers: root canal done
+jaw_locking: True
+headache_intensity: 0
+tmj_pain_rating: 4
+average_daily_pain_intensity: 2
+jaw_function_score: 5
+diet_score: 2
+disability_rating: 3
+current_medications: none
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+joint_pain_areas: knees
+pain_aggravating_factors: clenching | bruxism
+sleep_disorder_type: snoring
+maximum_opening: 25mm
+maximum_opening_without_pain: 20mm
+muscle_pain_score: anterior aspect of the masseter muscle
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B031
+muscle_pain_score: left masseter
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial dislocation | right disc medial dislocation 
+

@@ -1,0 +1,22 @@
+patient_id: B468
+patient_age: 17
+appliance_history: orthodontics beginning 10 years ago with a palatal expander
+current_medications: none
+headache_intensity: 0
+tmj_pain_rating: 0 
+jaw_function_score: 0.0
+diet_score : 0
+disability_rating": 0
+adverse_reactions_present: False
+earache_
+----------------------------------------------------------------------------------------------------
+patient_id: B468
+pain_aggravating_factors: left posterior cross bite tendency | right posterior crossbite tendency
+airway_obstruction_present: False
+joint_pain_areas: left TMJ | right TMJ
+disc_displacement: left mandibular condylar hyperplasia versus osteochondroma | left posterior yaw with the maxilla and mandible rotated off towards the left side
+----------------------------------------------------------------------------------------------------
+patient_id: B468
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc anterior and medial displacement without reduction 
+patient_age: 35

@@ -1,0 +1,13 @@
+patient_id: B455
+patient_age: 58
+current_medications: Colace | Zocor | Zoloft | Erythromycin ointment
+pain_aggravating_factors: stroke
+airway_obstruction_present: True
+maximum_opening: 17mm
+muscle_pain_location: right masseter
+jaw_locking: True
+----------------------------------------------------------------------------------------------------
+patient_id: B455
+patient_age: 58
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc in position | right disc anteriorly decreased posteriorly towards the medial aspect of the joint

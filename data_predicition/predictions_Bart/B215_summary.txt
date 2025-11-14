@@ -1,0 +1,21 @@
+patient_id: B215
+patient_age: 55
+pain_onset_date: 3 years ago
+jaw_clicking: right TMJ
+appliance_history: splint
+headache_intensity: 4 in the frontal and temporal areas | perhaps up to the top of her head
+headaches_frequency: every 2 weeks
+tmj_pain_rating: 5
+average_daily_pain-intensity: 3, jaw function 5, diet 5, disability 2
+current_medications: Flexeril occasionally | Evamist | Triamaterene | Excedrin
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B215
+pain_aggravating_factors: right posterior cross bite
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B215
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and medial displacement with reduction 
+patient_age: 35

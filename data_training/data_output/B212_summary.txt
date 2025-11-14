@@ -1,0 +1,36 @@
+patient_id: B212
+patient_age: 20
+joint_arthritis_location: left ankle
+pain_onset_date: 10 years ago
+onset_triggers: motor vehicle accident
+appliance_history: orthodontics
+jaw_locking: True
+earache_present: False
+tinnitus_present: False
+vertigo_present: True
+hearing_loss_present: False
+adverse_reactions: none
+joint_pain_areas: shoulders | elbows | wrists | hands | fingers | knees | ankles
+headache_intensity: 5
+headache_frequency: 1 time per week
+headache_location: frontal | temple | posterior head
+tmj_pain_rating: 6
+average_daily_pain_intensity: 6
+muscle_pain_location: masseters | styloid areas | SCMs
+jaw_function_score: 2
+diet_score: 5
+disability_rating: 0
+joint_pain_areas: left TMJ | right TMJ
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 57mm
+maximum_opening_without_pain: 35mm
+----------------------------------------------------------------------------------------------------
+patient_id: B212
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior displacement with early reduction
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: present
+patient_age: 20
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with probable early reduction | right disc anterior displacement with probable early reduction

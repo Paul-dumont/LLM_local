@@ -1,0 +1,31 @@
+patient_id: B282
+patient_age: 43
+pain_onset_date: 15 years ago
+onset_triggers: motor vehicle accident
+headache_intensity: present
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: True
+current_medications: Synthroid | Wellbutrin
+joint_pain_areas: hips
+physical_therapy_status: physical therapy past year | electrical stimulation
+current_appliance: bite splints
+pain_aggravating_factors: bite splints
+airway_obstruction_present: False
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_location: styloid areas | masseters | temporalis
+muscle_pain_score: moderate to severe
+jaw_crepitus: left TMJ | right TMJ
+jaw_clicking: left TMJ
+maximum_opening: 35mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+sleep_disorder_type: snoring | sleep apnea symptoms | daytime somnolence
+tmj_pain_rating: severe
+headache_intensity: present
+patient_id: B282
+disc_displacement: right disc anterior displacement without reduction
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior dislocation without reduction
+joint_arthritis_location: left TMJ | right TMJ

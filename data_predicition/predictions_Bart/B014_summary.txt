@@ -1,0 +1,21 @@
+patient_id: B014
+patient_age: 37
+pain_onset_date: 25 years of age
+joint_pain_areas: right TMJ | right ear | neck | right shoulder | right hip
+headache_intensity: 6
+headaches_location: frontal | temporal | top of the head | left temple | right frontal 
+head headache_frequency: predominantly on the right side in the frontal, temporal and top of head
+average_daily_ dosage: 6
+----------------------------------------------------------------------------------------------------
+patient_id: B014
+joint_arthritis_location: right TMJ
+disc_displacement: right disc dislocation with early reduction
+pain_aggravating_factors: right-sided posterior cross bite
+earache_present: True
+headache_intensity: present
+tmj_pain_rating: right
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite
+patient_id: B284
+joint_arthritis_location: right TMJ
+disc_displacement: right disc repositioning and ligament repair with Mitek anchor

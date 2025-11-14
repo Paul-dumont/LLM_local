@@ -1,0 +1,44 @@
+patient_id: B162
+patient_age: 27
+pain_onset_date: 20 years of age
+onset_triggers: unknown
+appliance_history: night guard | ALF appliance | neuromuscular appliance
+jaw_clicking: left TMJ | right TMJ
+pain_relieving_factors: neuromuscular appliance
+headache_intensity: 3
+headache_location: temporal | posterior head
+tmj_pain_rating: 8
+average_daily_pain_intensity: 7
+jaw_function_score: 3
+diet_score: 7
+disability_rating: 7
+joint_pain_areas: right TMJ
+muscle_spasm_present: True
+earache_present: False
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: False
+joint_pain_areas: knees | ankles
+depression_present: True
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+patient_id: B162
+pain_aggravating_factors: buccal cross bite
+airway_obstruction_present: True
+muscle_pain_location: retromadibular area | masseters | medial pterygoids | left SCM | right SCM
+muscle_pain_score: moderate
+muscle_tenderness_present: True
+joint_pain_areas: right TMJ | left TMJ
+maximum_opening: 34mm
+maximum_opening_without_pain: 22mm
+jaw_crepitus: right TMJ
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B162
+joint_pain_areas: left TMJ | right TMJ
+joint_arthritis_location: left disc anterior dislocation with early reduction | right disc anterior dislocation with early reduction
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B162
+joint_pain_areas: left TMJ | right TMJ
+joint_arthritis_location: left disc anterior dislocation with early reduction | right disc anterior dislocation with early reduction

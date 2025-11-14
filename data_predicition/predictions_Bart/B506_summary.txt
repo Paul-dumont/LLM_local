@@ -1,0 +1,37 @@
+patient_id: B506
+patient_age: 26
+current_medications: Midrin | hydrocodone 
+pain_onset_date: age of 16, five or six years ago
+onset _triggers: post-surgery at 16
+appliance_history: splints | steroid injections to muscles x 2 | iontophoresis | physical therapy | massage therapy
+physical_therapy_status: physical therapy and massage therapy as well as physical therapy
+joint_pain_areas: left TMJ | back | knees | knees
+adverse_reactions: PENICILLIN | DOGS | CATS |
+----------------------------------------------------------------------------------------------------
+patient_id: B506
+pain_aggravating_factors: left posterior crossbite
+headache_intensity: present
+tmj_pain_rating: significant
+earache_present: True 
+tinnitus_location: around the ears | up into the head
+jaw_clicking: left TMJ | right TMJ
+muscle_tenderness_score: tired
+joint_arthritis_areas: TMJ 
+j joints_crepitus: Left TMJ felt like ligaments are being ripped in her joints
+physical_therapy_status: can't touch the face or jaws without creating significant pain for her Clinical Examination
+----------------------------------------------------------------------------------------------------
+patient_id: B506
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation anteriorly with late reduction | right disc medial displacement with early reduction
+pain_aggravating_factors: clenching
+sleep_disorder_type: snoring | sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B506
+patient_age: 26
+joint_arthritis_location: left TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and posterior displacement with reduction
+----------------------------------------------------------------------------------------------------
+patient_id: B506
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc medially displaced 
+patient_age: 26

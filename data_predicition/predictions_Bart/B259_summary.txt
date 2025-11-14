@@ -1,0 +1,36 @@
+patient_id: B259
+patient_age: 57
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement | right disc medially displaced as well as slight anterior displacement
+----------------------------------------------------------------------------------------------------
+patient_id: B259
+patient_age: 57
+adverse_reactions: Keflex | cephalexin
+current_medications: Klonopin | Effexor XR | Niacin | Estradiol | Levoxyl | Lipitor | Aspirin
+pain_onset_date: in 20s 
+jaw_clicking: left TMJ | right TMJ
+sleep_disorder_type: snoring
+----------------------------------------------------------------------------------------------------
+patient_id: B259
+airway_obstruction_present: False
+jaw_clicking: left TMJ | right TMJ
+muscle_pain_score: mild 
+appliance_history: orthodontics since early childhood
+pain_aggravating_factors: right posterior crossbite tendency
+current_medications: ibuprofen
+----------------------------------------------------------------------------------------------------
+patient_id: B259
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial dislocation | right disc lateral dislocation 
+sleep_disorder_type: snoring | severe clenching | bruxism
+----------------------------------------------------------------------------------------------------
+patient_id: B259
+maximum_opening: 44mm
+jaw_clicking: left TMJ | right TMJ
+pain_aggravating_factors: clenching | bruxism
+current_appliance: orthodontics
+patient_age: 1 year 7 months
+joint_pain_areas: lower back
+muscle_tenderness_present: False
+headache_intensity: 0
+tmj_

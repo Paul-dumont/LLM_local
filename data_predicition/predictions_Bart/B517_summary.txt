@@ -1,0 +1,28 @@
+patient_id: B517
+patient_age: 32
+appliance_history: orthodontics 15 years ago
+pain_aggravating_factors: motor vehicle accident where lower jaw was pushed backwards
+physical_therapy_status: physical therapy | chiropractic treatments
+current_medications: antidepressants | pain medications | muscle relaxants
+----------------------------------------------------------------------------------------------------
+joint_pain_areas: left TMJ | right TMJ
+airway_obstruction_present: False
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+jaw_clicking:  
+maximum_opening: 36mm
+maximal_opening_without_pain: 23mm
+muscle_tenders
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+patient_id: B517
+disc_displacement: left disc anterior displacement with reduction | right disc dislocation with reduction 
+jaw_crepitus: left posterior crossbite | right posterior cross bite
+headache_intensity: present
+tmj_pain_rating: severe
+current_medications: Klonopin
+sleep_disorder_type: clenching
+----------------------------------------------------------------------------------------------------
+patient_id: B517
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc in position on opening | right disc anteriorly displaced 
+autoimmune_condition: juvenile rheumatoid arthritis

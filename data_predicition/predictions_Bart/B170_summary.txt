@@ -1,0 +1,24 @@
+patient_id: B170
+patient_age: 48
+jaw_clicking: left TMJ | right TMJ
+pain_aggravating_factors: overbite
+current_medications: Clarinex | Zyrtec | Singular | Multivitamins | OsteoBiFlex Triple | Bromelain | L-lysine
+appliance_history: orthodontic treatment in 8 months ago with placement of lower appliances | upper appliances 5 months ago | splint therapy last year
+----------------------------------------------------------------------------------------------------
+patient_id: B170
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+jaw_clicking: left TMJ | right TMJ
+muscle_pain_location: masseters | styloid areas 
+maximum_opening: 50mm
+max_opening_without_pain: 40mm
+----------------------------------------------------------------------------------------------------
+patient_id: B170
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc medial and anterior displacement with reduction 
+airway_obstruction_present: True
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc anteriorly displaced at the lateral aspect of the joint with reduction using reduction

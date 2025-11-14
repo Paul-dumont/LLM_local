@@ -1,0 +1,22 @@
+patient_id: B510
+patient_age: 23
+pain_onset_date: 13 years old
+onsets_triggers: unknown 
+appliance_history: orthodontics 11 years ago for 2 years | splint therapy 11 years. ago for 3 months | craniosacral therapy 8 years ago | 5 splints since 2 years ago to the present
+headache_intensity: 5
+headaches_location: frontal | temporal | posterior head
+tmj_pain_rating: 5, average daily pain at 3
+jaw_function_score: 1
+diet_score
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B510
+disc_displacement: left disc anterior dislocation without reduction | right disc anteriorly dislocation with reduction
+pain_aggravating_factors: anterior open bite
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B510
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc anterior and medial displacement with reduction 
+patient_age: 50

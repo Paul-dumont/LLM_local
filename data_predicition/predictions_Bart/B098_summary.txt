@@ -1,0 +1,16 @@
+patient_id: B098
+patient_age: 44
+joint_pain_areas: left TMJ | right TMJ
+onset_triggers: unknown
+appliance_history: orthodontic treatment for the last 18 months
+pain_relieving_factors: Orthodontics 
+headache_intensity: 0
+headaches_present: True
+sleep_disorder_type: sleep study
+----------------------------------------------------------------------------------------------------
+patient_id: B098
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly dislocated without reduction | right disc medial and anterior displacement without reduction
+pain_aggravating_factors: anterior and bilateral posterior open bites
+airway_obstruction_present: True
+patient_age: 44

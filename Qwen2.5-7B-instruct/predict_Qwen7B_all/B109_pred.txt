@@ -1,0 +1,46 @@
+patient_id: B109
+maximum_opening_without_pain: 26mm
+patient_age: 37
+maximum_opening: 45mm
+pain_relieving_factors: unknown
+diet_score: 3
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | anterior open bite | right posterior open bite
+physical_therapy_status: physical therapy as a teenager | reinitiated last year
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: true
+jaw_locking: unknown
+airway_obstruction_present: false | true
+depression_present: unknown
+headache_frequency: continuous
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: high moderate to moderate
+migraine_history: unknown
+headache_location: throughout her head
+current_appliance: unknown
+average_daily_pain_intensity: 7
+headache_intensity: 6 | present
+autoimmune_condition: unknown
+pain_onset_date: 15 years of age
+jaw_crepitus: unknown
+tmj_pain_rating: 6
+sleep_disorder_type: unknown
+current_medications: synthroid | t3 | flonase | lunesta | hydrocortisone
+disc_displacement: left disc medial displacement with reduction | right disc anterior and laterally displaced with reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: most of the head and neck area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from about the age of 12 to 13 for about a year and then from about 16 to 18 | 5 splints since 15 years ago
+joint_pain_areas: tmj | hands | fingers | toes | feet | knees | wrists | neck | left tmj | right tmj

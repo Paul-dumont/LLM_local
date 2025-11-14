@@ -1,0 +1,22 @@
+patient_id: B074
+patient_age: 19
+appliance_history: orthodontics from 12 to 13 years old and then again from 15 to 17 years old | splint 2 years and 2 months ago | another splint post-surgery 2 years ago
+pain_onset_date: age of 15
+jaw_clicking: left TMJ | right TMJ
+headache_frequency: daily at a level of 5 that are predominantly in the temporal and frontal area
+tmj_pain_rating: 7
+average_daily_pain
+----------------------------------------------------------------------------------------------------
+patient_id: B074
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc displacement without reduction | right disc dislocation without reduction 
+headache_intensity: present
+tmj_pain_rating: high 
+patient_age: 19
+jaw_locking: True
+jostling_present: True
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anteriorly displaced without reduction | right disc anterior and lateral displacement without reduction
+joint_pain_areas: left TMJ | right TMJ
+maximum_opening: restricted 
+disc_size: 2mm

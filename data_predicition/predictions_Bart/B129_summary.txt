@@ -1,0 +1,15 @@
+patient_id: B129
+patient_age: 14
+pain_onset_date: within the past year
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics from 8 to 11 years of age | braces from 12 until current
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B129
+disc_displacement: left disc displacement | right disc displacement
+----------------------------------------------------------------------------------------------------
+patient_id: B129
+patient_age: 14
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc anterior and medial displacement

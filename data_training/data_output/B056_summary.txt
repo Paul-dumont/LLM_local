@@ -1,0 +1,28 @@
+patient_id: B056 
+patient_age: 60 
+pain_onset_date: nine years ago at the age of 53
+headache_intensity: 8
+headache_location: frontal | temporal
+tmj_pain_rating: 8
+average_daily_pain_intensity: 8
+jaw_function_score: 8
+diet_score: 5
+disability_rating: 9
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: True
+joint_pain_areas: right shoulder | hip | left TMJ | right TMJ
+pain_aggravating_factors: clenching
+muscle_pain_score: moderate to mild 
+muscle_pain_location: masseters | posterior neck | shoulders
+neck_pain_present: True
+jaw_clicking: left TMJ | right TMJ
+current_medications: ASA | Multiple vitamin supplements 
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation 
+----------------------------------------------------------------------------------------------------
+patient_id: B056 
+patient_age: 60 
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation | right disc lateral dislocation

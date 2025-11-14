@@ -1,0 +1,36 @@
+patient_id: B133
+patient_age: 45
+sleep_apnea_diagnosed: True
+jaw_clicking: left TMJ | right TMJ
+headache_frequency: daily in the morning
+appliance_history: orthodontics around the age of 16 | CPAP from 39 to 41 | BiPAP from 36 to 37
+pain_relieving_factors: mandibular advancement appliance
+physical_therapy_status:
+----------------------------------------------------------------------------------------------------
+patient_id: B133
+airway_obstruction_present: True
+jaw_clicking: left TMJ
+maximum_opening: 33mm
+muscle_pain_score: 0
+neck_tenderness_location: False
+maximum _opening_without_pain: 30mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True 
+patient_id: B157
+pain_aggravating_factors: right posterior crossbite tendency
+current_appliance: dental implants to replace maxillary left lateral incisor | root canal in the maxillary right first molar and left second bicuspid
+disc_displacement: left disc with anterior displacement | right disc without anterior displacement
+----------------------------------------------------------------------------------------------------
+patient_id: B133
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement | right disc medial displacement
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea
+jaw_crepitus: Left TMJ 
+tmj_pain_rating: present
+appliance_history: orthodontics
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement with early reduction | right disc anterior and medial displacement but early reduction 
+patient_id: B5

@@ -1,0 +1,27 @@
+patient_id: B449
+patient_age: 20
+pain_onset_date: two years ago
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics from sixth grade to eighth grade
+earache_present: False
+tinnitus_intensity: True
+vertigo_present : False
+hearing_loss_score: False 
+adverse_reactions: PENICILLIN
+----------------------------------------------------------------------------------------------------
+patient_id: B449
+pain_aggravating_factors: tendency toward a crossbite on the left side
+airway_obstruction_present: False
+muscle_pain_location: right masseter | right styloid area | left masseters | right medial pterygoid | left styloid 
+joint_tenderness_areas: left TMJ | right TMJ
+maximum_opening: 57mm
+maximal_opening_without_pain: 25mm
+----------------------------------------------------------------------------------------------------
+patient_id: B449
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc posterior displacement | right disc anterior displacement
+tmj_pain_rating: Myofascial 
+headache_intensity: present
+tinnitus_present: True
+pain_aggravating_factors: clenching
+patient_age: 35

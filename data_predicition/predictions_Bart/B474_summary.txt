@@ -1,0 +1,24 @@
+patient_id: B474
+patient_age: 57
+current_medications: Verapamil | Diovan | Ambien | Climara patch 
+joint_pain_areas: TMJ | neck | lower jaw | temple
+headache_intensity: present
+pain_onset_date: 35 years old back 23 years ago
+appliance_history: orthodontic appliances | significant elastics
+physical_therapy_status: physical therapy | chiropractic treatment | rolfing | extensive dental reconstruction
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+muscle_pain_score: high moderate to severe 
+joint_tenderness_areas: styloid areas | masseter | temporalis | right TMJ | left TMJ
+maximum_opening: 45mm
+max_opening_without_pain: 25mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation predominately in a medial direction | right disc dislocated predominately  in a lateral direction 
+jaw_clicking: TMJ 
+headache_intensity: present
+airway_obstruction_present: True
+patient_age: 57
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medially displaced with some anterior displacement towards the lateral aspect of the joint but with reduction | right disc medial displacement with reduction
