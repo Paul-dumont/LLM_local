@@ -1,6 +1,6 @@
 patient_id: B160
 maximum_opening_without_pain: unknown
-patient_age: 29 | 29years
+patient_age: 29 | 29
 maximum_opening: unknown
 pain_relieving_factors: unknown
 diet_score: 4
@@ -42,5 +42,5 @@ current_medications: propecia | allegra | nasacort
 disc_displacement: left disc anterior displacement with reduction | right disc anterior displacement with reduction | left disc dislocation with reduction | right disc dislocation with reduction
 muscle_pain_location: shoulder
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics for about 2 to 4 years on and off | palatal expanders
+appliance_history: orthodontics for 2 to 4 years on and off | palatal expanders
 joint_pain_areas: tmj | left tmj | right tmj

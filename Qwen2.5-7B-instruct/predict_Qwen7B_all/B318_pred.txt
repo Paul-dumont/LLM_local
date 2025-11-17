@@ -27,19 +27,19 @@ pain_frequency: unknown
 muscle_symptoms_present: true
 jaw_clicking: left tmj | right tmj
 previous_medications: unknown
-muscle_pain_score: unknown
+muscle_pain_score: mild
 migraine_history: unknown
 headache_location: frontal | temple
 current_appliance: stage ii orthodontics
 average_daily_pain_intensity: 3
-headache_intensity: 5 | present
+headache_intensity: 5 and can escalate
 autoimmune_condition: unknown
 pain_onset_date: 4-1/2 years ago
 jaw_crepitus: unknown
 tmj_pain_rating: 5
 sleep_disorder_type: sleep apnea
-current_medications: advair | nasonex | doxycycline | loratadine | phenylephrine | ibuprofen | tylenol
-disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction | left disc dislocation without reduction | right disc dislocation without reduction
+current_medications: advair | nasonex | doxycycline | loratadine | phenylephrine hcl | ibuprofen | tylenol
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
 muscle_pain_location: styloid areas
 joint_arthritis_location: left tmj | right tmj
 appliance_history: stage i orthodontics for about 18 months from about 3 to 4 years ago

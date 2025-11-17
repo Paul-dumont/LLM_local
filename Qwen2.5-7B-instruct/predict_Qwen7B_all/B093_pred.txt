@@ -43,4 +43,4 @@ disc_displacement: left disc anterior and medial displacement | right disc anter
 muscle_pain_location: masseter | retromandibular area
 joint_arthritis_location: left tmj | right tmj
 appliance_history: expander at age of 8 | permanent retainer in the upper arch
-joint_pain_areas: multiple joint
+joint_pain_areas: all joints except for her spine

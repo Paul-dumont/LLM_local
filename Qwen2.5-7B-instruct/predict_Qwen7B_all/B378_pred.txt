@@ -13,7 +13,7 @@ vertigo_present: unknown
 hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: right posterior open bite | right posterior crossbite | left posterior crossbite
+pain_aggravating_factors: right posterior open bite | left posterior crossbite | right posterior crossbite
 physical_therapy_status: myofunctional therapy | some tongue thrust therapy
 earache_present: unknown
 onset_triggers: unknown
@@ -24,7 +24,7 @@ airway_obstruction_present: true
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
-muscle_symptoms_present: true
+muscle_symptoms_present: unknown
 jaw_clicking: unknown
 previous_medications: unknown
 muscle_pain_score: mild to moderate
@@ -32,7 +32,7 @@ migraine_history: unknown
 headache_location: frontal | temporal | top of the head
 current_appliance: unknown
 average_daily_pain_intensity: 1
-headache_intensity: 5 | present
+headache_intensity: 5
 autoimmune_condition: unknown
 pain_onset_date: 2 years ago
 jaw_crepitus: unknown

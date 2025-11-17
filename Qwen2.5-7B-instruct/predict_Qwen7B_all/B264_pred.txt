@@ -13,11 +13,11 @@ vertigo_present: false
 hearing_loss_present: true
 back_pain_present: true
 neck_pain_present: true
-pain_aggravating_factors: clenching | bruxism | posterior open bite | right posterior open bite | left posterior open bite
-physical_therapy_status: physical therapy one day a week
+pain_aggravating_factors: clenching | bruxism | yawning | chewing hard food
+physical_therapy_status: physical therapy p.r.n. since 20 years ago until recently | massage therapies weekly as well
 earache_present: false
 onset_triggers: root canal done
-adverse_reactions: environmental | ceclor | vancomycin | horse serum | any medication made from horse serum | fluorescein dye 10% | sulfa | oral pain medication
+adverse_reactions: environmental allergies | ceclor | vancomycin | horse serum and any medication made from that type of serum | fluroescein dye 10% | sulfa | oral pain medication
 fibromyalgia_present: unknown
 jaw_locking: true
 airway_obstruction_present: false
@@ -26,21 +26,21 @@ headache_frequency: unknown
 pain_frequency: unknown
 muscle_symptoms_present: true
 jaw_clicking: unknown
-previous_medications: cipro | vancomycin | synercid
+previous_medications: cipro | ceclor | vancomycin | synercid
 muscle_pain_score: mild
 migraine_history: unknown
 headache_location: unknown
-current_appliance: unknown
+current_appliance: splint
 average_daily_pain_intensity: unknown
 headache_intensity: present
 autoimmune_condition: unknown
 pain_onset_date: age of 21
 jaw_crepitus: right tmj
-tmj_pain_rating: 0
+tmj_pain_rating: unknown
 sleep_disorder_type: sleep disorder
-current_medications: synthroid | protonix | zetia | corgard | soma | robaxin | vitamin e | darvocet | tylenol | estrogen injection | ambien
-disc_displacement: left disc anteriorly and laterally displaced without reduction | right disc dislocation | left disc dislocation
+current_medications: synthroid | protonix | zetia | corgard | soma | robaxin | vitamin e | darvocet | ambien
+disc_displacement: left disc anterior and lateral displacement without reduction | right disc dislocation
 muscle_pain_location: right temporalis | right styloid area
 joint_arthritis_location: left tmj | right tmj
-appliance_history: splints for 20 years | orthodontics for 5 years
-joint_pain_areas: tmj | neck | back | fingers | feet | right tmj | left tmj
+appliance_history: orthodontics for five years from 15 to 10 years ago
+joint_pain_areas: neck | back | fingers | feet | left tmj | right tmj

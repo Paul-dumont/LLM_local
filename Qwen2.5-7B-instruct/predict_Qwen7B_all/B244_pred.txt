@@ -14,7 +14,7 @@ hearing_loss_present: false
 back_pain_present: unknown
 neck_pain_present: unknown
 pain_aggravating_factors: clenching | bruxism | clenching | bruxism
-physical_therapy_status: physical therapy x 2
+physical_therapy_status: physical therapy at least x 2
 earache_present: true
 onset_triggers: unknown
 adverse_reactions: penicillin
@@ -42,5 +42,5 @@ current_medications: amerge | yasmin
 disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction
 muscle_pain_location: shoulders
 joint_arthritis_location: left tmj | right tmj
-appliance_history: splints since 4 years ago | physical therapy x 2
-joint_pain_areas: shoulders | elbows | right wrist | right hip | ankles | left tmj | right tmj
+appliance_history: splints since about 4 years ago and has had at least 7 to 8, and many of those have had multiple repairs
+joint_pain_areas: tmj | shoulders | elbows | right wrist | right hip | ankles | left tmj | right tmj

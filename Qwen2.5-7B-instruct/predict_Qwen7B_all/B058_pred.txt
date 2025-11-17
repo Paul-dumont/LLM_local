@@ -30,9 +30,9 @@ previous_medications: unknown
 muscle_pain_score: mild to moderate
 migraine_history: true
 headache_location: unknown
-current_appliance: unknown
+current_appliance: bite splint or night guard
 average_daily_pain_intensity: unknown
-headache_intensity: 0
+headache_intensity: present
 autoimmune_condition: unknown
 pain_onset_date: 10 years ago
 jaw_crepitus: unknown
@@ -42,5 +42,5 @@ current_medications: vivelle | acebutol
 disc_displacement: left disc dislocation with early reduction | right disc dislocation with early reduction
 muscle_pain_location: masseter
 joint_arthritis_location: unknown
-appliance_history: bite splint or night guard about 10 years ago
+appliance_history: unknown
 joint_pain_areas: knees | feet | tmj

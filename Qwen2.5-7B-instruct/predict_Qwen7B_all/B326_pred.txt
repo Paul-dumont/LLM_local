@@ -2,7 +2,7 @@ patient_id: B326
 maximum_opening_without_pain: 18mm
 patient_age: 42
 maximum_opening: 26mm
-pain_relieving_factors: unknown
+pain_relieving_factors: local anesthetic and perhaps some steroid injection into the left tmj
 diet_score: 7
 pain_duration: unknown
 disability_rating: 7
@@ -27,7 +27,7 @@ pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: unknown
 previous_medications: unknown
-muscle_pain_score: severe to moderate
+muscle_pain_score: severe
 migraine_history: unknown
 headache_location: temporal
 current_appliance: unknown

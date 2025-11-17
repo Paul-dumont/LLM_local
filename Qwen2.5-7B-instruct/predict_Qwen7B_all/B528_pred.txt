@@ -40,7 +40,7 @@ tmj_pain_rating: 2
 sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
 current_medications: unknown
 disc_displacement: left disc dislocation with early reduction | right disc dislocation without reduction | left disc dislocation with reduction | right disc dislocation with reduction
-muscle_pain_location: shoulders
+muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontic treatment from 12 years of age | growth appliance to try to grow the mandible | orthodontics for 2.5 years
-joint_pain_areas: tmj | left tmj | right tmj
+appliance_history: orthodontic treatment from 12 years of age for 2-1/2 years
+joint_pain_areas: shoulders

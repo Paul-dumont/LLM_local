@@ -6,7 +6,7 @@ pain_relieving_factors: unknown
 diet_score: 2
 pain_duration: unknown
 disability_rating: 4
-sleep_apnea_diagnosed: true
+sleep_apnea_diagnosed: unknown
 jaw_function_score: 5
 tinnitus_present: true
 vertigo_present: true
@@ -14,7 +14,7 @@ hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: true
 pain_aggravating_factors: clenching | bruxism
-physical_therapy_status: chiropractic treatment | massage therapy | acupuncture | psychologist
+physical_therapy_status: chiropractic treatment | massage therapy | acupuncture
 earache_present: true
 onset_triggers: stress
 adverse_reactions: unknown
@@ -37,10 +37,10 @@ autoimmune_condition: unknown
 pain_onset_date: 18 years old
 jaw_crepitus: unknown
 tmj_pain_rating: 7
-sleep_disorder_type: daytime somnolence | snoring | sleep apnea | snoring | sleep apnea | sleep apnea | sleep apnea
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea syndrome
 current_medications: unknown
-disc_displacement: left disc anterior displacement with early reduction | right disc dislocation with early reduction | left disc dislocation with early reduction
+disc_displacement: left disc anterior displacement with early reduction | right disc dislocation | left disc dislocation with early reduction
 muscle_pain_location: left temporalis | left scm | left posterior neck | left shoulder | masseter | right tmj | retromandibular area | right scm
 joint_arthritis_location: left tmj
-appliance_history: 4 or 5 splints since the age of 22
+appliance_history: 4 or 5 splints since 22 years old
 joint_pain_areas: left tmj | left shoulder | knees | left tmj

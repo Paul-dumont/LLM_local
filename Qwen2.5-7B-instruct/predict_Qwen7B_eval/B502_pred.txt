@@ -13,7 +13,7 @@ vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: clenching | anterior and right posterior crossbites | tendency towards cross bite on the left side
+pain_aggravating_factors: clenching | anterior and right posterior crossbites and tendency towards cross bite on the left side
 physical_therapy_status: unknown
 earache_present: false
 onset_triggers: unknown
@@ -40,7 +40,7 @@ tmj_pain_rating: 6
 sleep_disorder_type: daytime somnolence
 current_medications: none
 disc_displacement: left disc anterior displacement with reduction | right disc anterior displacement without reduction | left disc dislocation with reduction | right disc dislocation without reduction
-muscle_pain_location: masseters | shoulders | left styloid area | temporalis | medial pterygoids | right styloid area
+muscle_pain_location: masseter | shoulders | left styloid area | temporalis | medial pterygoids | right styloid area
 joint_arthritis_location: right tmj
 appliance_history: unknown
-joint_pain_areas: tmj | si
+joint_pain_areas: tmj | right tmj | left tmj | si

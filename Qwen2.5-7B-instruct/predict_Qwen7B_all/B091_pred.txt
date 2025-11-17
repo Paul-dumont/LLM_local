@@ -16,7 +16,7 @@ neck_pain_present: unknown
 pain_aggravating_factors: unknown
 physical_therapy_status: unknown
 earache_present: false
-onset_triggers: striking chin on the head of another player
+onset_triggers: striking her chin on the head of another player
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
@@ -37,7 +37,7 @@ autoimmune_condition: unknown
 pain_onset_date: 15 years of age
 jaw_crepitus: left tmj | right tmj
 tmj_pain_rating: 8
-sleep_disorder_type: snoring | sleep apnea syndrome | snoring | sleep apnea syndrome
+sleep_disorder_type: snoring | sleep apnea syndrome | loud snoring | breathing difficulties
 current_medications: unknown
 disc_displacement: left disc anterior displacement | right disc anterior displacement | left disc dislocation | right disc dislocation
 muscle_pain_location: unknown

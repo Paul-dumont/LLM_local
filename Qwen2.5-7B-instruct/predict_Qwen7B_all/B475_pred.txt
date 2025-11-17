@@ -25,7 +25,7 @@ depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
 muscle_symptoms_present: true
-jaw_clicking: tmj | right tmj
+jaw_clicking: left tmj | right tmj
 previous_medications: unknown
 muscle_pain_score: mild to moderate
 migraine_history: unknown
@@ -37,9 +37,9 @@ autoimmune_condition: unknown
 pain_onset_date: unknown
 jaw_crepitus: unknown
 tmj_pain_rating: 0
-sleep_disorder_type: daytime somnolence | snoring
+sleep_disorder_type: snoring | daytime somnolence
 current_medications: none
-disc_displacement: left disc anteromedially displaced with reduction | right disc anterolaterally displaced with reduction | left disc dislocation with reduction | right disc dislocation with reduction
+disc_displacement: left disc anterior and medial displacement with reduction | right disc anterior and lateral displacement with reduction | left disc dislocation with reduction | right disc dislocation with reduction
 muscle_pain_location: retromandibular area | right shoulder
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics in high school for about 2 years

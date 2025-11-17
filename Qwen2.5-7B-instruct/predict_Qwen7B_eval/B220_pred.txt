@@ -13,7 +13,7 @@ vertigo_present: false
 hearing_loss_present: false
 back_pain_present: unknown
 neck_pain_present: true
-pain_aggravating_factors: anterior open bite | clenching | bruxism
+pain_aggravating_factors: anterior open bite | anterior open bite
 physical_therapy_status: unknown
 earache_present: false
 onset_triggers: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 2 but can escalate to 8
 sleep_disorder_type: unknown
 current_medications: fluoxetine | tylenol
-disc_displacement: left disc anteriorly displaced with early reduction | right disc anteriorly displaced without reduction | left disc anteriorly displaced with reduction | right disc anteriorly displaced with deformation
+disc_displacement: left disc anteriorly displaced with early reduction | right disc anteriorly displaced without reduction | left disc anteriorly displaced with reduction | right disc anteriorly displaced without reduction
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics at 13 or 14 years old for about two years
-joint_pain_areas: tmj | neck | shoulders | hands | fingers | hips | knees | toes | feet
+joint_pain_areas: tmj | neck | shoulders | hands | fingers | hips | knees | toes | feet | right tmj | left tmj

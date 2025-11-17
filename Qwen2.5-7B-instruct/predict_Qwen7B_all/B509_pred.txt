@@ -25,7 +25,7 @@ depression_present: unknown
 headache_frequency: daily
 pain_frequency: unknown
 muscle_symptoms_present: unknown
-jaw_clicking: unknown
+jaw_clicking: right tmj
 previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown

@@ -16,11 +16,11 @@ neck_pain_present: unknown
 pain_aggravating_factors: unknown
 physical_therapy_status: unknown
 earache_present: false
-onset_triggers: bicycle accident
+onset_triggers: bicycle accident where she sustained facial fractures
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: unknown
+airway_obstruction_present: true
 depression_present: unknown
 headache_frequency: daily
 pain_frequency: unknown

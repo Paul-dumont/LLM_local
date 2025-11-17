@@ -42,5 +42,5 @@ current_medications: prozac | headache medicine
 disc_displacement: left disc anterior displacement with early reduction | right disc medial displacement with reduction | left disc dislocation | right disc dislocation
 muscle_pain_location: temporalis | masseters | retromandibular | scms | shoulders
 joint_arthritis_location: left tmj | right tmj
-appliance_history: splints for 6 years
+appliance_history: splint for 6 years
 joint_pain_areas: tmj | spine | left tmj | right tmj

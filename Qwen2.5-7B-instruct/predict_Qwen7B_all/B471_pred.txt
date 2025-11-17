@@ -13,7 +13,7 @@ vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: anterior open bite | right posterior crossbite | clenching | bruxism
+pain_aggravating_factors: anterior open bite | right posterior crossbite
 physical_therapy_status: unknown
 earache_present: false
 onset_triggers: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 5
 sleep_disorder_type: snoring | sleep apnea symptoms
 current_medications: tylenol | advil
-disc_displacement: left disc anteriorly and medially displaced without reduction | right disc anteriorly displaced without reduction | left disc anterior displacement | right disc anterior displacement without reduction
+disc_displacement: left disc anteriorly and medially displaced without reduction | right disc anteriorly displaced without reduction | left disc anteriorly displaced | right disc anteriorly displaced without reduction
 muscle_pain_location: temporalis | masseters | styloid areas | right medial pterygoid area
 joint_arthritis_location: left tmj | right tmj
-appliance_history: bite splints in high school
+appliance_history: bite splints in high school | orthodontics as a teenager
 joint_pain_areas: tmj | left tmj | right tmj

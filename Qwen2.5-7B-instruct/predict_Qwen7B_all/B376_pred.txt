@@ -24,7 +24,7 @@ airway_obstruction_present: false
 depression_present: unknown
 headache_frequency: continuous
 pain_frequency: unknown
-muscle_symptoms_present: unknown
+muscle_symptoms_present: true
 jaw_clicking: unknown
 previous_medications: unknown
 muscle_pain_score: mild-to-moderate
@@ -37,10 +37,10 @@ autoimmune_condition: unknown
 pain_onset_date: 14 years ago
 jaw_crepitus: right tmj
 tmj_pain_rating: 8 but can escalate to 10
-sleep_disorder_type: daytime somnolence | snoring | daytime somnolence | sleep disorder
+sleep_disorder_type: daytime somnolence | snoring | daytime somnolence | snoring | sleep disorder
 current_medications: aspirin | cymbalta | ambien | ativan | excedrin | lipitor
-disc_displacement: left disc anterior displacement | left disc partial displacement | right disc dislocation with severe deformation
+disc_displacement: left disc partial displacement | right disc anterior displacement with severe deformation
 muscle_pain_location: temporalis | styloid areas | posterior neck | shoulder areas
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics x2 when she was a teenager | bite plate
-joint_pain_areas: tmj | right tmj | neck | l5-s | right tmj
+joint_pain_areas: tmj | right tmj | left tmj | neck | l5-s | right tmj

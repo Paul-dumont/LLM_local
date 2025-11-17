@@ -13,7 +13,7 @@ vertigo_present: false
 hearing_loss_present: false
 back_pain_present: unknown
 neck_pain_present: true
-pain_aggravating_factors: clenching | anterior open bite tendency
+pain_aggravating_factors: clenching
 physical_therapy_status: massages weekly
 earache_present: false
 onset_triggers: unknown
@@ -36,10 +36,10 @@ headache_intensity: 8 | present
 autoimmune_condition: unknown
 pain_onset_date: 12 years old
 jaw_crepitus: left tmj | right tmj
-tmj_pain_rating: 6 to 9
+tmj_pain_rating: 6 | it gets up to a 9
 sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
 current_medications: advil
-disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation with reduction | right disc dislocation with reduction
 muscle_pain_location: styloid areas | temporalis | masseter
 joint_arthritis_location: left tmj | right tmj
 appliance_history: splints for about seven or eight years

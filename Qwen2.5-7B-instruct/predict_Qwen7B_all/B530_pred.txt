@@ -13,7 +13,7 @@ vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: anterior open bite | anterior reverse crossbite of approximately 9 mm
+pain_aggravating_factors: anterior open bite | anterior reverse crossbite | anterior open bite | anterior reverse crossbite
 physical_therapy_status: unknown
 earache_present: false
 onset_triggers: unknown
@@ -32,7 +32,7 @@ migraine_history: unknown
 headache_location: frontal
 current_appliance: orthodontics since last year
 average_daily_pain_intensity: 8
-headache_intensity: 8
+headache_intensity: 8 and present but worse when she lived in tennessee
 autoimmune_condition: unknown
 pain_onset_date: age of 12
 jaw_crepitus: unknown
@@ -42,5 +42,5 @@ current_medications: copaxone
 disc_displacement: left disc medial dislocation | right disc medial dislocation | left disc medial dislocation | right disc medial dislocation
 muscle_pain_location: masseter | retromandibular
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics when she was 13 to 15
-joint_pain_areas: tmj
+appliance_history: orthodontics from 13 to 15
+joint_pain_areas: tmj | left tmj | right tmj

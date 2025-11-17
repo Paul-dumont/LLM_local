@@ -27,7 +27,7 @@ pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: unknown
 previous_medications: unknown
-muscle_pain_score: mild
+muscle_pain_score: moderate
 migraine_history: unknown
 headache_location: frontal | behind the eyes | temple
 current_appliance: orthodontics since 2 years ago

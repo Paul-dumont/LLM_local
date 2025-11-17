@@ -13,34 +13,4 @@ vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: anterior open bite | open bite | anterior open bite | open bite | anterior open bite | open bite | anterior open bite | open bite | anterior open bite | open bite | anterior open bite | open bite
-physical_therapy_status: unknown
-earache_present: unknown
-onset_triggers: unknown
-adverse_reactions: unknown
-fibromyalgia_present: unknown
-jaw_locking: unknown
-airway_obstruction_present: false | true
-depression_present: true
-headache_frequency: every other day
-pain_frequency: unknown
-muscle_symptoms_present: true
-jaw_clicking: left tmj | right tmj
-previous_medications: unknown
-muscle_pain_score: moderate
-migraine_history: unknown
-headache_location: frontal | temporal
-current_appliance: unknown
-average_daily_pain_intensity: 1
-headache_intensity: present
-autoimmune_condition: lupus anticoagulant | abnormal homosistine levels
-pain_onset_date: 12 years of age
-jaw_crepitus: unknown
-tmj_pain_rating: 0
-sleep_disorder_type: unknown
-current_medications: fexofenadine | flonase | slow fe | folic acid
-disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc anterior displacement | right disc anterior displacement
-muscle_pain_location: unknown
-joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics 4 years ago
-joint_pain_areas: tmj | knees | ankles
+pain_aggravating_factors: anterior open bite | anterior open bite | open bite | open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior open bite | anterior

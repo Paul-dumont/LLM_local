@@ -162,8 +162,8 @@ def evaluate_folders(manual_folder, llm_folder, exclude_unknown=False):
     return avg_results
 
 if __name__ == "__main__":
-    manual_folder = "/home/luciacev/Desktop/LLM/Data_output_13"
-    llm_folder = "/home/luciacev/Desktop/LLM/training/predictions_12_harmonized"
+    manual_folder = "/home/luciacev/Desktop/LLM/data_predicition/data_max_harmonized"
+    llm_folder = "/home/luciacev/Desktop/LLM/Mistral-7B-instruct/predict_Mistral7B_eval"
     
     if not os.path.exists(manual_folder) or not os.path.exists(llm_folder):
         print("Error: Folders not found.")

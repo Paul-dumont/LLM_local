@@ -27,19 +27,19 @@ pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: left tmj | right tmj
 previous_medications: unknown
-muscle_pain_score: high moderate
+muscle_pain_score: high moderate to moderate
 migraine_history: unknown
 headache_location: frontal | temporal | top of the head
 current_appliance: unknown
 average_daily_pain_intensity: 10
-headache_intensity: 8 | reaches a level of 8 in the frontal, temporal, and top of the head areas bilaterally with the left side somewhat worse than the right side | can escalate to 10
+headache_intensity: 8, can escalate to 10 | present
 autoimmune_condition: unknown
 pain_onset_date: last year
 jaw_crepitus: unknown
 tmj_pain_rating: 8
 sleep_disorder_type: unknown
 current_medications: unknown
-disc_displacement: left disc medial and anterior displacement | right disc medial displacement | left disc medial displacement | right disc medial displacement
+disc_displacement: left disc medial dislocation | right disc medial dislocation | left disc medial dislocation | right disc medial dislocation
 muscle_pain_location: temporalis | masseters | posterior neck | styloid areas | scms | left medial pterygoid area
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown

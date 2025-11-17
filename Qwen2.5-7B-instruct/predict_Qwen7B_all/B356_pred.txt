@@ -22,7 +22,7 @@ fibromyalgia_present: unknown
 jaw_locking: true
 airway_obstruction_present: unknown
 depression_present: unknown
-headache_frequency: unknown
+headache_frequency: continuous
 pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: tmj

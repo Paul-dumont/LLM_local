@@ -17,14 +17,14 @@ pain_aggravating_factors: unknown
 physical_therapy_status: unknown
 earache_present: false
 onset_triggers: unknown
-adverse_reactions: cats | dogs | jewelry
+adverse_reactions: cats | dogs
 fibromyalgia_present: unknown
 jaw_locking: unknown
 airway_obstruction_present: true
 depression_present: unknown
 headache_frequency: one to two times per week
 pain_frequency: unknown
-muscle_symptoms_present: unknown
+muscle_symptoms_present: true
 jaw_clicking: unknown
 previous_medications: unknown
 muscle_pain_score: mild to moderate

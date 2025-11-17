@@ -6,13 +6,13 @@ pain_relieving_factors: unknown
 diet_score: unknown
 pain_duration: unknown
 disability_rating: unknown
-sleep_apnea_diagnosed: unknown
+sleep_apnea_diagnosed: true
 jaw_function_score: unknown
 tinnitus_present: unknown
 vertigo_present: unknown
 hearing_loss_present: unknown
 back_pain_present: unknown
-neck_pain_present: true
+neck_pain_present: unknown
 pain_aggravating_factors: unknown
 physical_therapy_status: unknown
 earache_present: true

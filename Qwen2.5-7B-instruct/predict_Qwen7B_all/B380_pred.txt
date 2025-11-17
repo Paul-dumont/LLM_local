@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 8
 sleep_disorder_type: unknown
 current_medications: ativan
-disc_displacement: left disc anteromedially displaced with reduction | right disc anteromedially displaced with reduction | left disc dislocation | right disc dislocation
+disc_displacement: left disc anteromedially displaced with reduction | right disc anteromedially displaced with reduction | left disc dislocation with probable reactive pannus surrounding discs | right disc dislocation with probable reactive pannus surrounding discs
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from the age of 14 to 15 | retainers for quite a few years

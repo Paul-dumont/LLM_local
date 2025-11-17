@@ -42,5 +42,5 @@ current_medications: unknown
 disc_displacement: left disc anterior and lateral displacement with early reduction | right disc anterior and lateral displacement with late reduction | left disc dislocation | right disc dislocation
 muscle_pain_location: medial period | temporalis muscles | shoulder muscles
 joint_arthritis_location: left tmj | right tmj
-appliance_history: expander and lip bumper from ags 8 to 9
+appliance_history: expander and lip bumper from age 8 to 9
 joint_pain_areas: unknown

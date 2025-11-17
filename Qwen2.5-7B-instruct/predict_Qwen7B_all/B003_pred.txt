@@ -42,5 +42,5 @@ current_medications: unknown
 disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
 muscle_pain_location: posterior neck | shoulder | retromandibular area | scms
 joint_arthritis_location: left tmj | right tmj
-appliance_history: unknown
+appliance_history: orthodontics after completion of which tmj problems began
 joint_pain_areas: tmj | elbows | wrists

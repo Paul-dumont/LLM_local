@@ -32,7 +32,7 @@ migraine_history: unknown
 headache_location: right frontal | right temporal | right posterior head
 current_appliance: 3 x 3 retainer in the lower arch
 average_daily_pain_intensity: 7
-headache_intensity: 9 on the right side | 8 on the left side | present
+headache_intensity: 9 on the right side | 8 on the left side | severe
 autoimmune_condition: unknown
 pain_onset_date: 9 years ago
 jaw_crepitus: unknown
@@ -41,6 +41,6 @@ sleep_disorder_type: unknown
 current_medications: imitrex
 disc_displacement: left disc medial and anterior displacement with reduction | right disc anterior displacement without reduction | left disc medial displacement with reduction | right disc dislocation with significant deformation and nonreducing
 muscle_pain_location: masseters | shoulders | right retromandibular area | temporalis | posterior neck | left retromandibular area
-joint_arthritis_location: right tmj | left tmj | right tmj
+joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics as a teenager | orthodontics in her 20s to realign the lower teeth | orthodontics 5 years ago in preparation for surgery
 joint_pain_areas: tmj | right tmj | left tmj

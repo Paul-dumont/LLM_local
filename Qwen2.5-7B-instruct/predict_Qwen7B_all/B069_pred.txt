@@ -1,6 +1,6 @@
 patient_id: B069
 maximum_opening_without_pain: unknown
-patient_age: 22 | 22 years
+patient_age: 22
 maximum_opening: unknown
 pain_relieving_factors: unknown
 diet_score: 6
@@ -32,7 +32,7 @@ migraine_history: unknown
 headache_location: frontal | temporal | posterior head
 current_appliance: unknown
 average_daily_pain_intensity: 7
-headache_intensity: 9 | present
+headache_intensity: 9
 autoimmune_condition: unknown
 pain_onset_date: 10 or 11 years of age
 jaw_crepitus: unknown

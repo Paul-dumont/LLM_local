@@ -43,4 +43,4 @@ disc_displacement: left disc anterior displacement with early reduction | right 
 muscle_pain_location: throughout the head and neck area
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
-joint_pain_areas: left tmj | left hip | knees | back | neck
+joint_pain_areas: tmj | left tmj | left hip | knees | back | neck

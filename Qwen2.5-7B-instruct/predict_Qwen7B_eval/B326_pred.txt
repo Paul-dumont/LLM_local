@@ -2,7 +2,7 @@ patient_id: B326
 maximum_opening_without_pain: 18mm
 patient_age: 42
 maximum_opening: 26mm
-pain_relieving_factors: unknown
+pain_relieving_factors: local anesthetic and perhaps some steroid injection into the left tmj
 diet_score: 7
 pain_duration: unknown
 disability_rating: 7
@@ -27,7 +27,7 @@ pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: unknown
 previous_medications: unknown
-muscle_pain_score: severe to moderate
+muscle_pain_score: severe
 migraine_history: unknown
 headache_location: temporal
 current_appliance: unknown
@@ -36,11 +36,11 @@ headache_intensity: 8 | present
 autoimmune_condition: unknown
 pain_onset_date: third or fourth grade
 jaw_crepitus: unknown
-tmj_pain_rating: 3 but can escalate to 10
+tmj_pain_rating: 3 but can exacerbate to 10
 sleep_disorder_type: daytime somnolence | snoring
 current_medications: orthocept | vioxx | hydrocodone | glucosamine | chondroitin | multivitamins | extra vitamin e | vitamin c
 disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
-muscle_pain_location: temporalis | masseters | styloid area
+muscle_pain_location: temporalis | masseters | styloid
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics 5 years ago, completed 2 years ago
+appliance_history: orthodontics 5 years ago, and the orthodontics was completed 2 years ago
 joint_pain_areas: tmj | left tmj | right tmj

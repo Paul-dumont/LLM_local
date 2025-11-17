@@ -25,7 +25,7 @@ depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
 muscle_symptoms_present: false
-jaw_clicking: right tmj
+jaw_clicking: right tmj | left tmj
 previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
@@ -43,4 +43,4 @@ disc_displacement: left disc dislocation with reduction | right disc dislocation
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: 3 sets of braces
-joint_pain_areas: back
+joint_pain_areas: lower back

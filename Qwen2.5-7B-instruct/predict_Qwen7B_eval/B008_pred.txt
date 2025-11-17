@@ -30,7 +30,7 @@ previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
 headache_location: bilateral temporal
-current_appliance: orthodontics since 6 months ago
+current_appliance: orthodontics 6 months ago
 average_daily_pain_intensity: 4
 headache_intensity: 5 | present
 autoimmune_condition: unknown

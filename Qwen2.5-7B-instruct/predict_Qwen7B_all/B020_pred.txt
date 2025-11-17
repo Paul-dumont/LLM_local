@@ -16,7 +16,7 @@ neck_pain_present: unknown
 pain_aggravating_factors: clenching | bruxism
 physical_therapy_status: unknown
 earache_present: false
-onset_triggers: orthodontics and orthognathic surgery
+onset_triggers: orthodontics and orthognathic surgery to advance her mandible
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: left tmj | right tmj
 tmj_pain_rating: 8
 sleep_disorder_type: daytime somnolence | snoring
 current_medications: synthroid | clonazepam | maxalt | menostar patch | aleve | calcium | multivitamins | vitamin d
-disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
 muscle_pain_location: masseter
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics 27 years and 3 months to 29 years and 3 months
+appliance_history: orthodontics 27 years and 3 months to 2 years later
 joint_pain_areas: tmj | left tmj | right tmj

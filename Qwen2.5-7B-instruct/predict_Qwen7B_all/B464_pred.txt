@@ -14,7 +14,7 @@ hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: unknown
 pain_aggravating_factors: clenching | bruxism
-physical_therapy_status: physical therapy to the neck and shoulders as well as TENS
+physical_therapy_status: physical therapy to the neck and shoulders as well as tens
 earache_present: unknown
 onset_triggers: biting into a deli sandwich
 adverse_reactions: unknown
@@ -25,7 +25,7 @@ depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
 muscle_symptoms_present: true
-jaw_clicking: left tmj | right tmj
+jaw_clicking: left tmj
 previous_medications: robaxin | celebrex
 muscle_pain_score: unknown
 migraine_history: unknown
@@ -36,11 +36,11 @@ headache_intensity: 3 | present
 autoimmune_condition: unknown
 pain_onset_date: 10 years ago
 jaw_crepitus: left tmj
-tmj_pain_rating: 3 | 7 to 8
+tmj_pain_rating: 3 | as she functions her jaws, the pain in the tmj may get up to 7 to 8
 sleep_disorder_type: sleep disorder related to her pain
 current_medications: doxycycline | zetia | effexor | niaspan | pravachol | atacand | prempro | asa
 disc_displacement: left disc dislocation | right disc dislocation
 muscle_pain_location: left styloid
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
-joint_pain_areas: left tmj
+joint_pain_areas: tmj | left tmj

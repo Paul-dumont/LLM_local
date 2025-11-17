@@ -13,7 +13,7 @@ vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: true
 neck_pain_present: true
-pain_aggravating_factors: clenching
+pain_aggravating_factors: clenching | bruxism
 physical_therapy_status: chiropractic treatment | epidural injections into the lower cervical vertebrae | aquatic therapy
 earache_present: true
 onset_triggers: bus accident
@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 8
 sleep_disorder_type: unknown
 current_medications: unknown
-disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction | left disc medial displacement | right disc medial displacement
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction | left disc dislocation with reduction | right disc dislocation with reduction
 muscle_pain_location: retromandibular area | masseter muscles | right medial pterygoid | right scm | left medial pterygoid | left scm | left shoulder | right temporalis
 joint_arthritis_location: left tmj | right tmj
 appliance_history: splint
-joint_pain_areas: tmj | right shoulder | right elbow | right wrist | right hip | right ankle | neck | back
+joint_pain_areas: tmj | right shoulder | right elbow | right wrist | right hip | right ankle | neck | back | right tmj | left tmj

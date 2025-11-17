@@ -43,4 +43,4 @@ disc_displacement: left disc anteriorly and laterally displaced with reduction |
 muscle_pain_location: right masseter | right retromandibular area | right shoulder
 joint_arthritis_location: right tmj | left tmj | right tmj
 appliance_history: orthodontics as a child | orthodontics at age 23 for about 1 year | splints since 23 years ago
-joint_pain_areas: tmj | right tmj | left tmj | left knee | right ankle | right shoulder | wrists
+joint_pain_areas: right tmj | left tmj | left knee | right ankle | right shoulder | wrists

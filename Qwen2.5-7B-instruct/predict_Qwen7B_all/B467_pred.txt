@@ -12,7 +12,7 @@ tinnitus_present: unknown
 vertigo_present: unknown
 hearing_loss_present: unknown
 back_pain_present: unknown
-neck_pain_present: true
+neck_pain_present: unknown
 pain_aggravating_factors: unknown
 physical_therapy_status: unknown
 earache_present: unknown
@@ -20,7 +20,7 @@ onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: unknown
+airway_obstruction_present: true
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown

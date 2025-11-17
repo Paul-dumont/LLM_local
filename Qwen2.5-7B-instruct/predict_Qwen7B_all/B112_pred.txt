@@ -37,7 +37,7 @@ autoimmune_condition: unknown
 pain_onset_date: 24 years old
 jaw_crepitus: unknown
 tmj_pain_rating: 10
-sleep_disorder_type: sleep apnea | snoring | daytime somnolence | sleep apnea | sleep disorder | sleep disorder | sleep disorder
+sleep_disorder_type: sleep apnea | snoring | daytime somnolence | sleep apnea | sleep disorder | mouth breather
 current_medications: cymbalta | armour thyroid | hctz | ditropan xl | vicodin | advil
 disc_displacement: unknown
 muscle_pain_location: unknown

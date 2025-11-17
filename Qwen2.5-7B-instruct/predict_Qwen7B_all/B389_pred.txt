@@ -27,7 +27,7 @@ pain_frequency: unknown
 muscle_symptoms_present: true
 jaw_clicking: left tmj | right tmj
 previous_medications: unknown
-muscle_pain_score: moderate
+muscle_pain_score: moderate to mild
 migraine_history: unknown
 headache_location: temple | top of the head in the middle
 current_appliance: 3 x 3 retainer in the lower anterior arch | 3 x 3 retainer in the upper arch
@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 3
 sleep_disorder_type: daytime somnolence
 current_medications: yasmin | tylenol | hydrocodone
-disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction | left disc dislocation with reduction | right disc dislocation with reduction
 muscle_pain_location: masseters | styloid areas | temporalis | scms | shoulder muscles
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics when she was in the 9th grade at about the age of 13 | orthodontics again at the age of 15 for some touchup work

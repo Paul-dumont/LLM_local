@@ -12,7 +12,7 @@ tinnitus_present: true
 vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: unknown
-neck_pain_present: true
+neck_pain_present: unknown
 pain_aggravating_factors: clenching | bruxism | wearing mouthguard
 physical_therapy_status: unknown
 earache_present: true

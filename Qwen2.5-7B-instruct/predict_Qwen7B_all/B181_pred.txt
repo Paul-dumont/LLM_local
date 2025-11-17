@@ -23,7 +23,7 @@ jaw_locking: unknown
 airway_obstruction_present: true
 depression_present: unknown
 headache_frequency: constant
-pain_frequency: worse in the morning, better in the afternoons, and then gets worse again at night
+pain_frequency: worse in the morning, it is better in the afternoons, and then gets worse again at night
 muscle_symptoms_present: true
 jaw_clicking: left tmj | right tmj
 previous_medications: unknown
@@ -43,4 +43,4 @@ disc_displacement: left disc anterior displacement without reduction | right dis
 muscle_pain_location: scms | posterior neck | right shoulder
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from the ages of 10 to 11
-joint_pain_areas: shoulders | wrists | left tmj | right tmj
+joint_pain_areas: tmj | shoulders | wrists

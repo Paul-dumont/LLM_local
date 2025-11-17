@@ -32,7 +32,7 @@ migraine_history: unknown
 headache_location: temporal
 current_appliance: unknown
 average_daily_pain_intensity: 4
-headache_intensity: 4 on the right side and 2 on the left side | present
+headache_intensity: 4 on the right side and 2 on the left side | severe
 autoimmune_condition: rheumatoid arthritis
 pain_onset_date: unknown
 jaw_crepitus: unknown
@@ -43,4 +43,4 @@ disc_displacement: left disc anterior displacement | right disc anterior displac
 muscle_pain_location: styloid areas | temporalis | masseters | scms | shoulders
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
-joint_pain_areas: tmj | neck | shoulders | elbows | wrists | hands | fingers | ankles | feet
+joint_pain_areas: tmj | neck | shoulders | elbows | wrists | hands | fingers | ankles | feet | right tmj

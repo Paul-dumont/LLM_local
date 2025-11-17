@@ -38,7 +38,7 @@ pain_onset_date: unknown
 jaw_crepitus: unknown
 tmj_pain_rating: 3
 sleep_disorder_type: unknown
-current_medications: prozac | birth control medication | naproxen | klonopin | ambien | tramadol
+current_medications: prozac | birth control pill | naproxen | trazodone | ambien | klonopin | ultram
 disc_displacement: left disc anterior displacement with reduction | right disc posterior displacement | left disc dislocation | right disc posterior displacement
 muscle_pain_location: left masseter
 joint_arthritis_location: left tmj

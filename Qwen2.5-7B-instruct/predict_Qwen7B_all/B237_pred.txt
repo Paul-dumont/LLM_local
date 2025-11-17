@@ -25,22 +25,22 @@ depression_present: unknown
 headache_frequency: worse in the evenings
 pain_frequency: unknown
 muscle_symptoms_present: true
-jaw_clicking: right tmj | left tmj
+jaw_clicking: left tmj | right tmj
 previous_medications: wellbutrin | toradol | paxil | beta blockers
 muscle_pain_score: moderate to mild
 migraine_history: unknown
 headache_location: frontal | temporal | entire head
 current_appliance: unknown
 average_daily_pain_intensity: 6
-headache_intensity: 6 but can escalate to 10 | severe
+headache_intensity: 6 but can escalate to 10 | severe | present
 autoimmune_condition: unknown
 pain_onset_date: five years ago
 jaw_crepitus: unknown
-tmj_pain_rating: 0
+tmj_pain_rating: present
 sleep_disorder_type: unknown
 current_medications: lortab | elavil | depakote
-disc_displacement: left disc anterior and medial displacement with reduction | right disc anterior displacement with reduction | left disc dislocation with reduction | right disc dislocation with reduction
+disc_displacement: left disc anterior displacement with reduction | right disc dislocation with reduction | left disc dislocation with reduction | right disc dislocation with reduction
 muscle_pain_location: temporalis | styloid areas | scms | posterior neck | shoulders | masseters
 joint_arthritis_location: left tmj | right tmj
 appliance_history: bite splint for one year
-joint_pain_areas: tmj | left wrist | knees
+joint_pain_areas: left tmj | right tmj | left wrist | knees

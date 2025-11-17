@@ -40,7 +40,7 @@ tmj_pain_rating: unknown
 sleep_disorder_type: unknown
 current_medications: unknown
 disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
-muscle_pain_location: masseter
+muscle_pain_location: unknown
 joint_arthritis_location: unknown
-appliance_history: orthodontics at the age of 8 to 9 where class iii elastics were used to correct her bite
+appliance_history: orthodontics at the age of 8 to 9
 joint_pain_areas: unknown

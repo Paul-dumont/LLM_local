@@ -25,7 +25,7 @@ depression_present: unknown
 headache_frequency: once or twice per month
 pain_frequency: unknown
 muscle_symptoms_present: unknown
-jaw_clicking: tmj
+jaw_clicking: left tmj | right tmj
 previous_medications: unknown
 muscle_pain_score: moderate
 migraine_history: true
@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 4 but on the worst days at a level of 8
 sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms | sleep apnea
 current_medications: ibuprofen | excedrin | tylenol sinus
-disc_displacement: left disc dislocation | left disc medial dislocation | left disc dislocation in an anteromedial direction | right disc dislocation
+disc_displacement: left disc dislocation | left disc medial displacement | left disc dislocation in an anteromedial direction | left disc dislocation with reduction | right disc dislocation
 muscle_pain_location: styloid areas | temporalis | masseters | scms
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics from the age of 12 to 15
-joint_pain_areas: tmj | neck | wrists | knees | ankles
+appliance_history: orthodontics from 12 to 15
+joint_pain_areas: tmj | neck | wrists | knees | ankles | right tmj | left tmj

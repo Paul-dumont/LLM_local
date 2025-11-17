@@ -17,7 +17,7 @@ pain_aggravating_factors: unknown
 physical_therapy_status: unknown
 earache_present: true
 onset_triggers: unknown
-adverse_reactions: hay
+adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
 airway_obstruction_present: true
@@ -32,7 +32,7 @@ migraine_history: unknown
 headache_location: frontal | temporal
 current_appliance: unknown
 average_daily_pain_intensity: 3 but can escalate to 7
-headache_intensity: 5
+headache_intensity: 5 | present
 autoimmune_condition: unknown
 pain_onset_date: about a year to a year-and-a-half ago
 jaw_crepitus: unknown

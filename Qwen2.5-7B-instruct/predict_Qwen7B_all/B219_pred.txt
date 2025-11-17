@@ -16,7 +16,7 @@ neck_pain_present: unknown
 pain_aggravating_factors: clenching | bruxism | yawning
 physical_therapy_status: iontophoresis
 earache_present: true
-onset_triggers: bite block placed for about 2-1/2 hours while she had some dental work done
+onset_triggers: bite block for about 2-1/2 hours
 adverse_reactions: chocolate | caffeine | coke | peas | titanium | aluminum | vanadium | nickel | gold | silver | alloys
 fibromyalgia_present: unknown
 jaw_locking: unknown
@@ -24,7 +24,7 @@ airway_obstruction_present: false
 depression_present: unknown
 headache_frequency: two or three times per week
 pain_frequency: unknown
-muscle_symptoms_present: true
+muscle_symptoms_present: unknown
 jaw_clicking: unknown
 previous_medications: unknown
 muscle_pain_score: moderate
@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 10
 sleep_disorder_type: unknown
 current_medications: none
-disc_displacement: left disc anterior displacement with early reduction | right disc dislocation without reduction | left disc dislocation with reduction | right disc dislocation without reduction
+disc_displacement: left disc dislocation with early reduction | right disc dislocation without reduction | left disc dislocation with reduction | right disc dislocation without reduction
 muscle_pain_location: right masseter
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics twice | headgear for part of that treatment time
+appliance_history: orthodontics twice | headgear
 joint_pain_areas: tmj | knees

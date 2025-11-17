@@ -24,7 +24,7 @@ airway_obstruction_present: true
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
-muscle_symptoms_present: unknown
+muscle_symptoms_present: true
 jaw_clicking: unknown
 previous_medications: unknown
 muscle_pain_score: moderate
@@ -39,7 +39,7 @@ jaw_crepitus: left tmj
 tmj_pain_rating: 6
 sleep_disorder_type: daytime somnolence
 current_medications: advil
-disc_displacement: left disc anterior and perhaps laterally displaced | right disc anteriorly displaced
+disc_displacement: left disc anterior displacement | right disc anterior displacement
 muscle_pain_location: left masseter
 joint_arthritis_location: left tmj | right tmj
 appliance_history: night guard 2 years ago

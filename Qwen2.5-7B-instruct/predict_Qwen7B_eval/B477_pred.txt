@@ -24,13 +24,13 @@ airway_obstruction_present: unknown
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
-muscle_symptoms_present: unknown
+muscle_symptoms_present: true
 jaw_clicking: unknown
 previous_medications: unknown
-muscle_pain_score: left temporalis | left posterior neck | left masseter
+muscle_pain_score: high moderate to moderate
 migraine_history: unknown
 headache_location: unknown
-current_appliance: unknown
+current_appliance: splint since 2 years ago
 average_daily_pain_intensity: 8
 headache_intensity: 0
 autoimmune_condition: unknown
@@ -38,9 +38,9 @@ pain_onset_date: 8 years ago
 jaw_crepitus: unknown
 tmj_pain_rating: 8
 sleep_disorder_type: sleep disorder
-current_medications: cenestin | zocor | zoloft | aldaactazide | lamictal | seroquel
+current_medications: cenestin | zocor | zoloft | aldactazide | lamictal | seroquel
 disc_displacement: left disc anterior displacement with early reduction | right disc dislocation | left disc dislocation with reduction | right disc dislocation
 muscle_pain_location: left temporalis | left posterior neck | left masseter
 joint_arthritis_location: left tmj | right tmj
-appliance_history: splint 2 years ago
-joint_pain_areas: tmj | finger joints
+appliance_history: unknown
+joint_pain_areas: tmj | finger joints | left tmj

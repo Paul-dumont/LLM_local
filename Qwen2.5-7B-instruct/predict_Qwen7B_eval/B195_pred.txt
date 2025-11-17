@@ -14,7 +14,7 @@ hearing_loss_present: false
 back_pain_present: unknown
 neck_pain_present: true
 pain_aggravating_factors: clenching | bruxism
-physical_therapy_status: none
+physical_therapy_status: physical_therapy
 earache_present: false
 onset_triggers: getting out of her car and a handicapped van with no one in it popped into reverse with the engine running and ran into the back of her car, and her face hit the side of the steering wheel
 adverse_reactions: unknown
@@ -27,7 +27,7 @@ pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: unknown
 previous_medications: unknown
-muscle_pain_score: moderate to mild
+muscle_pain_score: moderate to high moderate
 migraine_history: true
 headache_location: frontal | temporal | posterior head
 current_appliance: splint
@@ -43,4 +43,4 @@ disc_displacement: left disc dislocation without reduction | right disc dislocat
 muscle_pain_location: temporalis | masseters | medial pteryoidgoids | styloids | scms
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
-joint_pain_areas: tmj | neck
+joint_pain_areas: tmj | neck | left tmj | right tmj

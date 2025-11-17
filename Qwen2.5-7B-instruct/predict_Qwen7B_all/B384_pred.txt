@@ -37,9 +37,9 @@ autoimmune_condition: unknown
 pain_onset_date: unknown
 jaw_crepitus: unknown
 tmj_pain_rating: 0
-sleep_disorder_type: daytime somnolence | snoring | sleep apnea | sleep apneic episodes | restless leg syndrome
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea episodes | sleep apnea syndrome
 current_medications: unknown
-disc_displacement: left disc anterior displacement with reduction | right disc anterior displacement with reduction | left disc dislocation | right disc dislocation
+disc_displacement: left disc anterior displacement with reduction | right disc anterior displacement with reduction
 muscle_pain_location: masseter
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from 12 to 17 for 5-1/2 years

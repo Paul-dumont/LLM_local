@@ -1,0 +1,44 @@
+patient_id: B210
+maximum_opening_without_pain: 25mm
+patient_age: 31
+maximum_opening: 46mm
+pain_relieving_factors: unknown
+diet_score: 0
+pain_duration: unknown
+disability_rating: 5
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: left frontal | left temporal | posterior head | neck | top of the head
+current_appliance: splint since 1 year and 5 months ago
+average_daily_pain_intensity: 6
+headache_intensity: 10 | severe
+autoimmune_condition: unknown
+pain_onset_date: age of 10
+jaw_crepitus: unknown
+tmj_pain_rating: 10 | severe
+sleep_disorder_type: unknown
+current_medications: pristiq
+disc_displacement: left disc anterior and medial displacement with early reduction | right disc anterior and medial displacement with reduction | left disc anterior displacement with reduction | right disc anterior displacement with reduction
+muscle_pain_location: retromandibular area | scms | posterior neck | temporalis | masseter
+joint_arthritis_location

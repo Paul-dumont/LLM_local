@@ -13,7 +13,7 @@ vertigo_present: false
 hearing_loss_present: false
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: clenching | bruxism | anterior open bite
+pain_aggravating_factors: anterior open bite | clenching | bruxism
 physical_therapy_status: unknown
 earache_present: false
 onset_triggers: kicked in the jaw by her brother
@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 3
 sleep_disorder_type: unknown
 current_medications: none
-disc_displacement: left disc anterior and lateral displacement without reduction | right disc anterior and lateral displacement without reduction | left disc dislocation without reduction | right disc dislocation without reduction
+disc_displacement: left disc anteriorly and laterally displaced without reduction | right disc anteriorly and laterally displaced without reduction | left disc dislocation without reduction | right disc dislocation without reduction
 muscle_pain_location: left temporalis | right retromandibular
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from the age of 15 to 17
-joint_pain_areas: tmj
+joint_pain_areas: left tmj | right tmj

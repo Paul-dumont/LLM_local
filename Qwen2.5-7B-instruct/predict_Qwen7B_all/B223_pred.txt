@@ -40,7 +40,7 @@ tmj_pain_rating: 4
 sleep_disorder_type: unknown
 current_medications: amitriptyline | yasmin | spironolactone
 disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
-muscle_pain_location: temporalis | masseters | right styloid area
+muscle_pain_location: temporalis | masseters | right styloid
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontic work at 5 | full braces from 10 to 12-1/2
 joint_pain_areas: tmj | left tmj | right tmj

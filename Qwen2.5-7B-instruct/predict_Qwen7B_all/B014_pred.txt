@@ -30,7 +30,7 @@ previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
 headache_location: right frontal | temporal | top of the head
-current_appliance: mago splint four months ago
+current_appliance: mago splint
 average_daily_pain_intensity: 7
 headache_intensity: 6 | present
 autoimmune_condition: unknown

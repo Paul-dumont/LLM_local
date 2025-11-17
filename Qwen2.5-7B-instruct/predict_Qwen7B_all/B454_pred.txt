@@ -34,7 +34,7 @@ current_appliance: splint for the past two years
 average_daily_pain_intensity: 6
 headache_intensity: 6 | present
 autoimmune_condition: unknown
-pain_onset_date: 2 years ago
+pain_onset_date: 12 to 13 years of age
 jaw_crepitus: unknown
 tmj_pain_rating: 6
 sleep_disorder_type: unknown

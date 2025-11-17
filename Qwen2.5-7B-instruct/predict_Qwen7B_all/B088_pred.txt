@@ -24,7 +24,7 @@ airway_obstruction_present: unknown
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
-muscle_symptoms_present: true
+muscle_symptoms_present: unknown
 jaw_clicking: unknown
 previous_medications: unknown
 muscle_pain_score: unknown
@@ -40,7 +40,7 @@ tmj_pain_rating: unknown
 sleep_disorder_type: unknown
 current_medications: motrin | klonopin
 disc_displacement: unknown
-muscle_pain_location: left tmj
+muscle_pain_location: unknown
 joint_arthritis_location: unknown
 appliance_history: unknown
-joint_pain_areas: unknown
+joint_pain_areas: tmj | left tmj

@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 6 with the right side being greater than the left side
 sleep_disorder_type: unknown
 current_medications: celebrex | darvocet
-disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction | left disc dislocation with reduction | right disc dislocation with reduction
-muscle_pain_location: temporalis | styloid | left temporalis | left scm | masseters | right medial pterygoid
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: temporalis | styloid areas | left temporalis | left scm | masseters | right medial pterygoid area
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
 joint_pain_areas: tmj | knees

@@ -1,7 +1,7 @@
 patient_id: B169
 maximum_opening_without_pain: unknown
 patient_age: 42
-maximum_opening: 14mm | 24mm
+maximum_opening: 24mm
 pain_relieving_factors: unknown
 diet_score: unknown
 pain_duration: unknown
@@ -24,7 +24,7 @@ airway_obstruction_present: true
 depression_present: unknown
 headache_frequency: occasional
 pain_frequency: unknown
-muscle_symptoms_present: unknown
+muscle_symptoms_present: false
 jaw_clicking: unknown
 previous_medications: unknown
 muscle_pain_score: unknown
@@ -42,5 +42,5 @@ current_medications: aleve
 disc_displacement: left disc anterior displacement | right disc medial displacement
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics at 12 to 14
+appliance_history: orthodontics at age of 12 to 14
 joint_pain_areas: right elbow | right wrist | right tmj | left tmj

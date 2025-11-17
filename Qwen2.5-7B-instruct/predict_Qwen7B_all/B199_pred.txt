@@ -29,17 +29,17 @@ jaw_clicking: left tmj | right tmj
 previous_medications: vicodin | pain medications with codeine
 muscle_pain_score: moderate to high moderate
 migraine_history: unknown
-headache_location: throughout her head
-current_appliance: 4 additional splints since age 22
+headache_location: throughout head area
+current_appliance: 4 splints since age 22
 average_daily_pain_intensity: 8
-headache_intensity: 6 that can exacerbate to a level of 8 to 9 | severe
+headache_intensity: 6 that can exacerbate to 8 to 9 | severe
 autoimmune_condition: unknown
 pain_onset_date: age of 10
 jaw_crepitus: unknown
 tmj_pain_rating: 7
 sleep_disorder_type: unknown
 current_medications: motrin
-disc_displacement: left disc anteriorly displaced without reduction | right disc lateral displacement | left disc anteriorly displaced with reduction | right disc lateral displacement
+disc_displacement: left disc anteriorly displaced without reduction | right disc laterally displaced | left disc anteriorly displaced with reduction | right disc without reduction
 muscle_pain_location: throughout the head and neck area | shoulder
 joint_arthritis_location: left tmj | right tmj
 appliance_history: upper and lower jaw splint devices that i have not seen before that she wore for 1 year

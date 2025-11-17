@@ -27,7 +27,7 @@ pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: left tmj
 previous_medications: unknown
-muscle_pain_score: high moderate
+muscle_pain_score: moderate
 migraine_history: unknown
 headache_location: left frontal | left temporal
 current_appliance: 3 x 3 retainer in the lower anterior arch
@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 8 | severe
 sleep_disorder_type: unknown
 current_medications: genotropin | ddavp | aricept | birth control pill | ibuprofen | norco
-disc_displacement: left disc dislocation without reduction
+disc_displacement: left disc dislocation without reduction | right disc dislocation
 muscle_pain_location: left temporalis | left retromandibular area | right temporalis
-joint_arthritis_location: left tmj
+joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
-joint_pain_areas: left tmj
+joint_pain_areas: tmj | left tmj

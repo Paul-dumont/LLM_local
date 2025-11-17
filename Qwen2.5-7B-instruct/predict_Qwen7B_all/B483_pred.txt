@@ -24,7 +24,7 @@ airway_obstruction_present: unknown
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
-muscle_symptoms_present: true
+muscle_symptoms_present: unknown
 jaw_clicking: left tmj | right tmj
 previous_medications: unknown
 muscle_pain_score: mild
@@ -32,7 +32,7 @@ migraine_history: true
 headache_location: right frontal | right temporal
 current_appliance: splint for 5 months
 average_daily_pain_intensity: 6
-headache_intensity: 7 | present
+headache_intensity: 7 | severe
 autoimmune_condition: unknown
 pain_onset_date: unknown
 jaw_crepitus: unknown

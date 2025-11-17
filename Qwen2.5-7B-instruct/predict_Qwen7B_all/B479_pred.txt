@@ -14,8 +14,7 @@ hearing_loss_present: false
 back_pain_present: unknown
 neck_pain_present: true
 pain_aggravating_factors: anterior open bite | left posterior open bite | right posterior open bite
-physical_therapy_status: physical therapy is necessary to maximize jaw function
-adverse_reactions: unknown
+physical_therapy_status: unknown
 earache_present: false
 onset_triggers: unknown
 adverse_reactions: unknown
@@ -40,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 6
 sleep_disorder_type: unknown
 current_medications: advair | albuterol
-disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation without reduction | right disc dislocation without reduction
 muscle_pain_location: shoulders | posterior neck | styloid areas
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown

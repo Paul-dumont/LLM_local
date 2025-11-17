@@ -37,10 +37,10 @@ autoimmune_condition: unknown
 pain_onset_date: 21 years ago
 jaw_crepitus: unknown
 tmj_pain_rating: 5
-sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms | snoring | daytime somnolence | obstructive episodes
+sleep_disorder_type: daytime somnolence | snoring | snoring | daytime somnolence | sleep apnea symptoms
 current_medications: fentanyl patch | percocet | ambien | xanax | estrogen | progesterone
-disc_displacement: right disc anterior displacement | right disc anterior displacement at the lateral aspect of the joint
-muscle_pain_location: temporalis | masseters | styloids area | medial pterygoids | scms | posterior neck | shoulder area
+disc_displacement: right disc anterior displacement | right disc anterior displacement with reduction | left disc anterior displacement
+muscle_pain_location: temporalis | masseters | styloids | medial pterygoids | scms | posterior neck | shoulder
 joint_arthritis_location: left tmj | right tmj
 appliance_history: 15 splints since 21 years ago
-joint_pain_areas: tmj | neck
+joint_pain_areas: tmj | neck | tmj

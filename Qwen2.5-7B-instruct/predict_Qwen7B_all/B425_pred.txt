@@ -42,5 +42,5 @@ current_medications: unknown
 disc_displacement: left disc anterior displacement with early reduction | right disc anterior displacement with reduction | left disc dislocation | right disc dislocation
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics from 12 to 13 years of age for 6 months
+appliance_history: orthodontics from 12 to 13 years of age | orthodontics for about 6 months
 joint_pain_areas: right knee

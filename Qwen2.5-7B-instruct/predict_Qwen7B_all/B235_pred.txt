@@ -42,5 +42,4 @@ current_medications: demerol | pms-hydromorphone | baclofen | pms-clonazepam | p
 disc_displacement: unknown
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
-appliance_history: splint | masseteric botox injections | left tmj arthroplasty | right tmj arthrocentesis | bilateral tmj arthroplasties
-joint_pain_areas: left tmj | right tmj | left tmj | right tmj
+appliance_history: splint | splint | splint | splint | splint | splint | splint | splint | splint | splint | splint | splint | splint | splint | splint | splint | splint | splint | splint | splint | splint | splint | splint | splint | spl

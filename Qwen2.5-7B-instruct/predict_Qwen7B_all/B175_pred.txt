@@ -37,4 +37,10 @@ autoimmune_condition: unknown
 pain_onset_date: early teens
 jaw_crepitus: unknown
 tmj_pain_rating: 6
-sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms | snoring | daytime somnolence | snoring | sleep apnea symptoms | snoring | daytime somnolence | snoring | sleep apnea symptoms | snoring | daytime somnolence | snoring | sleep apnea symptoms | snoring | daytime somnolence | snoring | sleep apnea symptoms | snoring | daytime somnolence | snoring | sleep apnea symptoms | snoring | daytime somnolence | snoring | sleep apnea symptoms | snoring | daytime somnolence | snoring | sleep apnea symptoms | snoring | daytime somnolence | snoring | sleep apnea symptoms | snoring | daytime somnolence | snoring | sleep apnea symptoms | snoring | daytime somnolence | snoring | sleep apnea symptoms | snoring | daytime somnolence |
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms | snoring | daytime somnolence | restless sleep | abrupt awakenings at night
+current_medications: lunesta | ibuprofen
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: most of the head and neck areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from about the age 8 to 10 including head gear | orthodontics from about the age 15 to 17
+joint_pain_areas: tmj | hands | fingers | right hip | back | right leg

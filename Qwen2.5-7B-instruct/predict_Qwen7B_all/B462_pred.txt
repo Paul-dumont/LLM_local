@@ -43,4 +43,4 @@ disc_displacement: left disc anterior displacement with reduction | right disc a
 muscle_pain_location: temporalis | masseter
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from 13 to 11 or 10 years ago
-joint_pain_areas: tmj
+joint_pain_areas: tmj | left tmj | right tmj

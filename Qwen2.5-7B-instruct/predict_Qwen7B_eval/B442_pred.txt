@@ -13,7 +13,7 @@ vertigo_present: false
 hearing_loss_present: false
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: anterior open bite | clenching | right posterior cross bite tendency | left posterior cross bite tendency
+pain_aggravating_factors: anterior open bite | right posterior cross bite tendency | left posterior cross bite tendency
 physical_therapy_status: unknown
 earache_present: true
 onset_triggers: unknown
@@ -32,7 +32,7 @@ migraine_history: unknown
 headache_location: right temporal | posterior head
 current_appliance: splint for about a year
 average_daily_pain_intensity: 6
-headache_intensity: 7 | present
+headache_intensity: 7 | severe
 autoimmune_condition: unknown
 pain_onset_date: 19 years of age
 jaw_crepitus: unknown
@@ -43,4 +43,4 @@ disc_displacement: left disc anterior dislocation in an anterior rotational posi
 muscle_pain_location: right masseter | right styloid area | right scm | shoulders
 joint_arthritis_location: right tmj | left tmj
 appliance_history: orthodontics from 6th grade until 11th grade
-joint_pain_areas: tmj | right tmj | left tmj | right shoulder
+joint_pain_areas: tmj | right tmj | left tmj

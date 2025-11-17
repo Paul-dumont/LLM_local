@@ -13,14 +13,14 @@ vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: true
 neck_pain_present: true
-pain_aggravating_factors: unknown
+pain_aggravating_factors: clenching | bruxism
 physical_therapy_status: splint for a year | physical therapy | acupuncture | manipulations | water therapy | hands on treatment
 earache_present: true
 onset_triggers: motor vehicle accident and sustained a whiplash injury
 adverse_reactions: environmental | cheap earrings
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: false
+airway_obstruction_present: false | true
 depression_present: unknown
 headache_frequency: two to three times per week
 pain_frequency: unknown
@@ -39,8 +39,7 @@ jaw_crepitus: right tmj
 tmj_pain_rating: 5
 sleep_disorder_type: unknown
 current_medications: estradiol | maxalt
-disc_displacement: left disc dislocation with reduction | right disc dislocation without reduction | left disc dislocation with reduction | right disc dislocation without reduction
+disc_displacement: left disc dislocation with reduction | right disc dislocation without reduction | left disc dislocation with reduction | right disc anterior dislocation without reduction
 muscle_pain_location: temporalis | masseters | medial pterygoid | styloid area | scm
-joint_arthritis_location: right tmj | left tmj | neck | lower back | right tmj | left tmj | right tmj | left tmj
-appliance_history: unknown
-joint_pain_areas: tmj | neck | back | shoulders | fingers | hips | knees | feet | right tmj | left tmj
+joint_arthritis_location: right tmj | left tmj | neck | lower back | right tmj | left tmj | right tmj | left tmj | right tmj | left tmj | right tmj | left tmj | right tmj | left tmj | right tmj | left tmj | right tmj
+appliance_history: splint

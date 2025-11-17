@@ -24,7 +24,7 @@ airway_obstruction_present: true
 depression_present: unknown
 headache_frequency: once or twice a month
 pain_frequency: unknown
-muscle_symptoms_present: unknown
+muscle_symptoms_present: true
 jaw_clicking: right tmj
 previous_medications: unknown
 muscle_pain_score: moderate
@@ -39,8 +39,8 @@ jaw_crepitus: right tmj
 tmj_pain_rating: 6
 sleep_disorder_type: unknown
 current_medications: celexa
-disc_displacement: right disc anterior displacement with reduction | left disc anterior displacement without reduction
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement with reduction | right disc dislocation
 muscle_pain_location: right retromandibular area | right masseter | medial pterygoid
 joint_arthritis_location: left tmj | right tmj
-appliance_history: 3 splints since 9 years ago
+appliance_history: 3 splints
 joint_pain_areas: tmj | left hip

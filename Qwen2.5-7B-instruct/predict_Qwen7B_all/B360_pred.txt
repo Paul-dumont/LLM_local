@@ -43,4 +43,4 @@ disc_displacement: left disc dislocation with severe deformation | right disc di
 muscle_pain_location: temporalis | left shoulder | right scm | right posterior neck
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
-joint_pain_areas: tmj | neck | lower back | shoulders | wrists | knuckles | hands | hips | knees | feet | toes
+joint_pain_areas: tmj | neck | lower back | shoulders | wrists | knuckles | hands | hips | knees | feet | toes | left tmj | right tmj

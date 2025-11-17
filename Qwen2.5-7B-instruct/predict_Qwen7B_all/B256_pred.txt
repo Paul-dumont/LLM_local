@@ -20,7 +20,7 @@ onset_triggers: unknown
 adverse_reactions: cats | benzoyl peroxide | erythromycin | prolene
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: true
+airway_obstruction_present: unknown
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
@@ -43,4 +43,4 @@ disc_displacement: left disc anterior displacement without reduction | right dis
 muscle_pain_location: shoulders
 joint_arthritis_location: left tmj | right tmj
 appliance_history: enameloplasty 15 years ago | night guard from 13 years ago to last year | night guard to place the tmj in a neutral position
-joint_pain_areas: feet | knees | right hip | sacroiliac joint | fingers | toes | left tmj | right tmj
+joint_pain_areas: tmj | feet | knees | right hip | sacroiliac joint | fingers | toes

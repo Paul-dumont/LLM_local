@@ -20,14 +20,14 @@ onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: true
 jaw_locking: unknown
-airway_obstruction_present: false
+airway_obstruction_present: false | true
 depression_present: unknown
 headache_frequency: daily | 6 to 7 days a month
 pain_frequency: unknown
 muscle_symptoms_present: true
 jaw_clicking: left tmj | right tmj
 previous_medications: unknown
-muscle_pain_score: unknown
+muscle_pain_score: very mild
 migraine_history: true
 headache_location: left frontal | left temporal | behind the eye
 current_appliance: unknown

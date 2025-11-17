@@ -27,19 +27,17 @@ pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: left tmj | right tmj
 previous_medications: unknown
-muscle_pain_score: moderate
+muscle_pain_score: myofascial pain at about a 6 most of the day, but in the evenings that can escalate up to 8
 migraine_history: unknown
 headache_location: frontal | temporal | top of the head
 current_appliance: unknown
-average_daily_pain_intensity: 6 but in the evenings that can escalate up to 8
+average_daily_pain_intensity: 6
 headache_intensity: 4 | present
 autoimmune_condition: unknown
 pain_onset_date: unknown
-jaw_crepitus: left tmj
+jaw_crepitus: left tmj | right tmj
 tmj_pain_rating: 0
 sleep_disorder_type: unknown
 current_medications: unknown
 disc_displacement: left disc anterior displacement | right disc anterior displacement | left disc anterior displacement | right disc anterior displacement
 muscle_pain_location: masseters | medial pterygoids | retromandibular area
-joint_arthritis_location: left tmj | right tmj
-appliance_history: orth

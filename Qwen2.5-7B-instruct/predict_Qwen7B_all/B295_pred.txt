@@ -42,5 +42,5 @@ current_medications: birth control pills
 disc_displacement: left disc medial and slightly anterior displacement | right disc medial and slight anterior displacement | left disc medial displacement | right disc medial displacement
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics at 12 years of age for 1.5 years
+appliance_history: orthodontics at the age of 12 years for about 1.5 years
 joint_pain_areas: unknown

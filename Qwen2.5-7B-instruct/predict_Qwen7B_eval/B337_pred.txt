@@ -17,7 +17,7 @@ pain_aggravating_factors: anterior open bite | clenching | bruxism | anterior op
 physical_therapy_status: unknown
 earache_present: false
 onset_triggers: eating a bagel
-adverse_reactions: doxycycline
+adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: true
 airway_obstruction_present: false
@@ -27,9 +27,9 @@ pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: left tmj
 previous_medications: unknown
-muscle_pain_score: moderate to mild
+muscle_pain_score: moderate
 migraine_history: unknown
-headache_location: left frontal | temple
+headache_location: left frontal | temple behind the eye
 current_appliance: unknown
 average_daily_pain_intensity: 5
 headache_intensity: 6 | present

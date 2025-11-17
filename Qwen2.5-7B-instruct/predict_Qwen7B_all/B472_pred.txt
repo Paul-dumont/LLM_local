@@ -20,14 +20,14 @@ onset_triggers: unknown
 adverse_reactions: zithromax
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: false
+airway_obstruction_present: false | true
 depression_present: unknown
 headache_frequency: five days per week
 pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: left tmj | right tmj
 previous_medications: unknown
-muscle_pain_score: moderate to mild
+muscle_pain_score: moderate
 migraine_history: unknown
 headache_location: frontal | behind the eyes | temple
 current_appliance: 3 x 3 retainer
@@ -43,4 +43,4 @@ disc_displacement: left disc anterior displacement without reduction | right dis
 muscle_pain_location: temporalis | styloid areas | right masseter | shoulders | left masseter
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontic treatment from 13-1/2 to 15
-joint_pain_areas: tmj
+joint_pain_areas: tmj | left tmj | right tmj

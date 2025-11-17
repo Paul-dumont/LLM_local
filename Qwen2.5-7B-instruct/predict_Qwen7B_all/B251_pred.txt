@@ -32,14 +32,15 @@ migraine_history: unknown
 headache_location: frontotemporal | posterior head | top of the head
 current_appliance: unknown
 average_daily_pain_intensity: 7
-headache_intensity: 9 | severe
+headache_intensity: 9 | present
 autoimmune_condition: unknown
 pain_onset_date: 10 years ago
 jaw_crepitus: unknown
-tmj_pain_rating: 7 | severe
+tmj_pain_rating: 7
 sleep_disorder_type: daytime somnolence | snoring | sleep apnea
 current_medications: unknown
 disc_displacement: left disc anteriorly dislocated with reduction | right disc anteriorly displaced with early reduction | left disc anteriorly displaced with reduction | right disc anteriorly displaced but with early reduction | left disc dislocation with reduction | right disc dislocation with reduction
 muscle_pain_location: masseter | styloids | scms | posterior neck | shoulders | temporalis | medial pterygoids
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics x2 | numerous splints since 9 years ago
+joint_p

@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 3
 sleep_disorder_type: unknown
 current_medications: unknown
-disc_displacement: left disc medial and anterior displacement with early reduction | right disc medial and anterior displacement with early reduction | left disc dislocation with early reduction | right disc dislocation with early reduction
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior displacement with early reduction | left disc medial displacement | right disc medial displacement
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from 13 to 15 that included palatal expanders and then fixed appliances

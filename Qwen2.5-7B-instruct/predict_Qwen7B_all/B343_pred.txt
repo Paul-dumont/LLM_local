@@ -31,7 +31,7 @@ muscle_pain_score: severe
 migraine_history: unknown
 headache_location: entire head
 current_appliance: unknown
-average_daily_pain_intensity: 5
+average_daily_pain_intensity: unknown
 headache_intensity: 2 but can escalate to 10 | present
 autoimmune_condition: unknown
 pain_onset_date: unknown

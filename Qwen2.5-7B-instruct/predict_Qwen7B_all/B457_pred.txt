@@ -17,7 +17,7 @@ pain_aggravating_factors: unknown
 physical_therapy_status: unknown
 earache_present: false
 onset_triggers: unknown
-adverse_reactions: penicillin
+adverse_reactions: penicillin | seasonal
 fibromyalgia_present: unknown
 jaw_locking: unknown
 airway_obstruction_present: false
@@ -37,10 +37,10 @@ autoimmune_condition: unknown
 pain_onset_date: unknown
 jaw_crepitus: unknown
 tmj_pain_rating: 3
-sleep_disorder_type: unknown
+sleep_disorder_type: sleep disorder
 current_medications: orthocept | vytorin | allegra d | maxalt
 disc_displacement: left disc anteriorly displaced with early reduction | right disc anteriorly displaced with early reduction | left disc dislocation | right disc dislocation
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from the age of 14 to 15
-joint_pain_areas: tmj
+joint_pain_areas: tmj | left tmj | right tmj

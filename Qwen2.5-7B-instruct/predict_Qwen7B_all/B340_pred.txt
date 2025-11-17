@@ -1,10 +1,10 @@
 patient_id: B340
 maximum_opening_without_pain: unknown
-patient_age: 59 | unknown
+patient_age: 59
 maximum_opening: 38mm
 pain_relieving_factors: splint
 diet_score: 7
-pain_duration: unknown
+pain_duration: several days in a row
 disability_rating: 5
 sleep_apnea_diagnosed: unknown
 jaw_function_score: 8
@@ -30,17 +30,17 @@ previous_medications: unknown
 muscle_pain_score: mild
 migraine_history: unknown
 headache_location: back of the head | up towards the top | up towards the temple area
-current_appliance: splint for approximately 15 years | current splint for about 3 years
+current_appliance: splint for about 3 years
 average_daily_pain_intensity: 5
 headache_intensity: 7 | present
 autoimmune_condition: unknown
 pain_onset_date: 20 years ago
 jaw_crepitus: right tmj
 tmj_pain_rating: 6
-sleep_disorder_type: snoring
+sleep_disorder_type: daytime somnolence
 current_medications: premarin | folic acid | detrol la | celebrex | plaquenil | methotrexate | methocarbamol | darvocet
 disc_displacement: unknown
 muscle_pain_location: right temporalis | right shoulder
 joint_arthritis_location: left tmj | right tmj
-appliance_history: unknown
+appliance_history: splints for approximately 15 years
 joint_pain_areas: tmj | knees | neck | back | right shoulder | right elbow | wrists | hands | fingers | hips | left big toe

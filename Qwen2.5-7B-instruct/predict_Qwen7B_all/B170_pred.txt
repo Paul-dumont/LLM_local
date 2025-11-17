@@ -17,14 +17,14 @@ pain_aggravating_factors: clenching | bruxism
 physical_therapy_status: prolo injection
 earache_present: false
 onset_triggers: unknown
-adverse_reactions: penicillin | aspirin | erythromycin | sulfa drugs | tequin
+adverse_reactions: penicillin | aspirin | erythromycin | sulfa drugs | tequin | cheap earrings
 fibromyalgia_present: unknown
 jaw_locking: true
 airway_obstruction_present: false
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
-muscle_symptoms_present: true
+muscle_symptoms_present: unknown
 jaw_clicking: left tmj | right tmj
 previous_medications: valium
 muscle_pain_score: mild
@@ -42,5 +42,5 @@ current_medications: clarinex | zyrtec | singular | multivitamins | osteobi flex
 disc_displacement: left disc anterior displacement with reduction | right disc anterior displacement with reduction | left disc dislocation with reduction | right disc dislocation with reduction
 muscle_pain_location: masseters | styloid areas
 joint_arthritis_location: left tmj | right tmj
-appliance_history: splint last year
+appliance_history: splint last year | orthodontic treatment 8 months ago on the lower jaw and 5 months ago on the upper jaw
 joint_pain_areas: tmj | right shoulder | right knee

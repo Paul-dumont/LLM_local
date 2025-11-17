@@ -38,7 +38,7 @@ pain_onset_date: high school
 jaw_crepitus: right tmj
 tmj_pain_rating: 0
 sleep_disorder_type: unknown
-current_medications: methotrexate | prednisone | remicade | vitamins and supplements
+current_medications: methotrexate | prednisone | remicade
 disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj

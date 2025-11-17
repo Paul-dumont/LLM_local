@@ -14,7 +14,7 @@ hearing_loss_present: false
 back_pain_present: unknown
 neck_pain_present: true
 pain_aggravating_factors: splint | right posterior crossbite
-physical_therapy_status: physical therapy done
+physical_therapy_status: extensive physical therapy
 earache_present: false
 onset_triggers: unknown
 adverse_reactions: sulfa
@@ -43,4 +43,5 @@ disc_displacement: left disc dislocation | right disc dislocation
 muscle_pain_location: masseter | styloid areas | posterior neck | medial pterygoids | temporalis | scms | shoulders
 joint_arthritis_location: unknown
 appliance_history: splint therapy x4 | orthotic | bionater | orthotic type of an appliance
-joint_pain_areas: tmj | left tmj | left tmj | left tmj | right tmj
+muscle_pain_location_other: unknown
+joint_pain_areas: left tmj | right tmj

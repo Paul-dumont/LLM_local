@@ -14,7 +14,7 @@ hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: true
 pain_aggravating_factors: unknown
-physical_therapy_status: physical therapy two times per week
+physical_therapy_status: physical therapy two times per week since three months ago
 earache_present: true
 onset_triggers: unknown
 adverse_reactions: unknown
@@ -40,7 +40,7 @@ tmj_pain_rating: 7 | severe
 sleep_disorder_type: daytime somnolence
 current_medications: vicodin | robaxin | yaz
 disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
-muscle_pain_location: posterior neck | shoulders | right scm | right masseter | right temporalis | left masseter | left scm
+muscle_pain_location: posterior neck | shoulders | right scm | right masseter | right tmj | bilateral temporalis
 joint_arthritis_location: left tmj | right tmj
 appliance_history: splint for a while 5 years ago
 joint_pain_areas: tmj | left tmj | right tmj | fingers

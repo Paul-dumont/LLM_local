@@ -13,7 +13,7 @@ vertigo_present: true
 hearing_loss_present: false
 back_pain_present: unknown
 neck_pain_present: true
-pain_aggravating_factors: clenching | right posterior cross bite
+pain_aggravating_factors: clenching | left posterior buccal crossbite
 physical_therapy_status: unknown
 earache_present: true
 onset_triggers: unknown
@@ -25,7 +25,7 @@ depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
 muscle_symptoms_present: unknown
-jaw_clicking: left tmj | right tmj
+jaw_clicking: right tmj
 previous_medications: unknown
 muscle_pain_score: moderate to high moderate
 migraine_history: unknown
@@ -33,8 +33,8 @@ headache_location: frontal | temporal | behind eyes
 current_appliance: unknown
 average_daily_pain_intensity: 6
 headache_intensity: 5 | present
-autoimmune_condition: hashimoto thyroiditis
+autoimmune_condition: hashimoto thyroiditis | ankylosing spondylitis | inflammatory arthritis
 pain_onset_date: one year ago
 jaw_crepitus: unknown
 tmj_pain_rating: 5
-sleep_disorder_type: daytime somnolence | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring |
+sleep_disorder_type: daytime somnolence | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring

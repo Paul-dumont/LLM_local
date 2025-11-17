@@ -43,4 +43,4 @@ disc_displacement: left disc anterior and medial displacement with early reducti
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics at age of 16 | orthodontics at age of 36 to 37 | mandibular advancement appliance
-joint_pain_areas: tmj | left tmj | right tmj
+joint_pain_areas: left tmj

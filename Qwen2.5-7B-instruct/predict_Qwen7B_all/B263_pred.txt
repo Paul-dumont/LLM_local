@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 4
 sleep_disorder_type: sleep apnea
 current_medications: none
-disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation without reduction | right disc dislocation without reduction
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
 muscle_pain_location: masseters | styloid areas | scms | posterior neck | shoulder
 joint_arthritis_location: unknown
-appliance_history: orthodontics from 13 to 14.5
+appliance_history: orthodontics from 13 to 14.5 years of age
 joint_pain_areas: tmj | left tmj | right tmj

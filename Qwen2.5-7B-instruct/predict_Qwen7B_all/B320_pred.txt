@@ -27,7 +27,7 @@ pain_frequency: unknown
 muscle_symptoms_present: true
 jaw_clicking: left tmj
 previous_medications: unknown
-muscle_pain_score: high moderate to moderate to mild
+muscle_pain_score: high moderate to moderate
 migraine_history: unknown
 headache_location: temporal | posterior head | top of the head
 current_appliance: unknown
@@ -40,7 +40,7 @@ tmj_pain_rating: 3
 sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
 current_medications: advil
 disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc medial displacement | right disc medial displacement
-muscle_pain_location: styloid areas | shoulders | posterior neck | temporalis | masseters | scms | medial pterygoid area
+muscle_pain_location: styloid areas | shoulders | posterior neck | temporalis | masseters | scms | medial pterygoid
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
 joint_pain_areas: tmj | left tmj | right tmj | left tmj | right tmj

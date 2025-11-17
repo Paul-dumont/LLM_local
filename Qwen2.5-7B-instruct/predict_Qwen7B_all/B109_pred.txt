@@ -13,7 +13,7 @@ vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: true
-pain_aggravating_factors: anterior open bite | anterior open bite | right posterior open bite
+pain_aggravating_factors: anterior open bite | anterior open bite | right posterior open bite | left posterior open bite
 physical_therapy_status: physical therapy as a teenager | reinitiated last year
 earache_present: true
 onset_triggers: unknown
@@ -42,5 +42,5 @@ current_medications: synthroid | t3 | flonase | lunesta | hydrocortisone
 disc_displacement: left disc medial displacement with reduction | right disc anterior and laterally displaced with reduction | left disc dislocation | right disc dislocation
 muscle_pain_location: most of the head and neck area
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics from about the age of 12 to 13 for about a year and then from about 16 to 18 | 5 splints since 15 years ago
+appliance_history: orthodontics from about the age of 12 to 13 for about a year and then from about 16 to 18 | 5 splints
 joint_pain_areas: tmj | hands | fingers | toes | feet | knees | wrists | neck | left tmj | right tmj

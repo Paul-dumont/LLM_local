@@ -14,7 +14,7 @@ hearing_loss_present: true
 back_pain_present: unknown
 neck_pain_present: unknown
 pain_aggravating_factors: unknown
-physical_therapy_status: electrical stimulation | physical therapy during this past year
+physical_therapy_status: electrical stimulation | physical therapy
 earache_present: true
 onset_triggers: motor vehicle accident
 adverse_reactions: gold
@@ -40,7 +40,7 @@ tmj_pain_rating: severe
 sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
 current_medications: synthroid | wellbutrin
 disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
-muscle_pain_location: styloid areas | masseters | temporalis muscles
+muscle_pain_location: styloid areas | masseters | temporalis
 joint_arthritis_location: left tmj | right tmj
 appliance_history: bite splints
 joint_pain_areas: tmj | hips | left tmj | right tmj

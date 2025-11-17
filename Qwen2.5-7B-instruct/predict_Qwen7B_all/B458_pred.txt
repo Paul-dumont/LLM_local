@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: unknown
 sleep_disorder_type: unknown
 current_medications: minocycline
-disc_displacement: left disc dislocation without reduction | right disc dislocation | left disc medial dislocation | right disc anterior dislocation
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction | left disc medial dislocation | right disc anterior dislocation
 muscle_pain_location: unknown
 joint_arthritis_location: right tmj
 appliance_history: unknown

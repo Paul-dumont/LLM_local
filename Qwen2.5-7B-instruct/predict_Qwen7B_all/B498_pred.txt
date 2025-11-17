@@ -29,7 +29,7 @@ jaw_clicking: left tmj | right tmj
 previous_medications: unknown
 muscle_pain_score: very mild
 migraine_history: unknown
-headache_location: left behind the eye | left frontal | left temporal
+headache_location: left behind the eye
 current_appliance: unknown
 average_daily_pain_intensity: 7
 headache_intensity: 5 | present
@@ -40,7 +40,7 @@ tmj_pain_rating: 2, but can escalate to 9
 sleep_disorder_type: daytime somnolence | snoring
 current_medications: hormone replacement | occasional pain medication
 disc_displacement: left disc anteromedially dislocated with reduction | right disc slightly anteriorly displaced at the lateral aspect of the joint and also slightly medially displaced | left disc dislocation with early reduction
-muscle_pain_location: left masseter | posterior neck
+muscle_pain_location: left masseter | left tmj | posterior neck
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from 34 to 36 | splint therapy x3
-joint_pain_areas: tmj | knees | hips | elbows | fingers | wrists | left tmj | right tmj
+joint_pain_areas: tmj | knees | hips | elbows | fingers | wrists

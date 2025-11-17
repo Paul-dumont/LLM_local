@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 0
 sleep_disorder_type: unknown
 current_medications: unknown
-disc_displacement: left tmj disc anterior displacement with early reduction | right tmj disc anterior displacement with early reduction | left tmj disc dislocation with reduction | right tmj disc dislocation with reduction
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior displacement with early reduction | left disc dislocation with reduction | right disc dislocation with reduction
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from 3rd grade to 7th grade

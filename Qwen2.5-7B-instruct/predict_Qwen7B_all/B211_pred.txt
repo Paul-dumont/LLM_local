@@ -42,5 +42,5 @@ current_medications: none
 disc_displacement: left disc anterior displacement with probable reduction | right disc anterior displacement with probable reduction
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontic treatment in 4th grade, 10 years old, headgear for 3 years at night
+appliance_history: orthodontics at age 10 for 3 years
 joint_pain_areas: unknown

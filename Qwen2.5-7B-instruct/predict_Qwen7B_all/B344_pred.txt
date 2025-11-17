@@ -36,7 +36,7 @@ headache_intensity: 0
 autoimmune_condition: unknown
 pain_onset_date: unknown
 jaw_crepitus: unknown
-tmj_pain_rating: 7 on the right side and 2 on the left side
+tmj_pain_rating: 0
 sleep_disorder_type: unknown
 current_medications: wellbutrin | concerta
 disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation without reduction | right disc dislocation without reduction

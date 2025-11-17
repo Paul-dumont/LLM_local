@@ -25,7 +25,7 @@ depression_present: unknown
 headache_frequency: 5 days per week
 pain_frequency: unknown
 muscle_symptoms_present: unknown
-jaw_clicking: left tmj | right tmj
+jaw_clicking: tmj | left tmj | right tmj
 previous_medications: unknown
 muscle_pain_score: high moderate to moderate
 migraine_history: unknown

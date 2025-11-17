@@ -25,7 +25,7 @@ depression_present: unknown
 headache_frequency: every two weeks
 pain_frequency: almost on a daily basis
 muscle_symptoms_present: unknown
-jaw_clicking: unknown
+jaw_clicking: left tmj
 previous_medications: unknown
 muscle_pain_score: moderate
 migraine_history: unknown
@@ -39,7 +39,7 @@ jaw_crepitus: right tmj
 tmj_pain_rating: 6 to 7
 sleep_disorder_type: unknown
 current_medications: imipramine | klonopin | propecia
-disc_displacement: left disc medial displacement | right disc probable degenerative changes
+disc_displacement: left disc medial displacement | right disc probable medial displacement
 muscle_pain_location: right masseter | right styloid area | right temporalis
 joint_arthritis_location: right tmj | left tmj
 appliance_history: unknown

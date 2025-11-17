@@ -20,14 +20,14 @@ onset_triggers: orthodontics
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: false
+airway_obstruction_present: true
 depression_present: unknown
 headache_frequency: daily
 pain_frequency: unknown
 muscle_symptoms_present: true
-jaw_clicking: left tmj | right tmj
+jaw_clicking: tmj | right tmj
 previous_medications: unknown
-muscle_pain_score: high moderate to moderate to mild
+muscle_pain_score: high moderate to moderate
 migraine_history: unknown
 headache_location: frontal | temporal
 current_appliance: orthodontics since 18 years of age
@@ -43,4 +43,4 @@ disc_displacement: left disc anterior displacement with reduction | right disc a
 muscle_pain_location: temporalis | masseters | shoulders | retromandibular area | scms
 joint_arthritis_location: unknown
 appliance_history: orthodontics from 10 to 12 | orthodontics from 12 to 13
-joint_pain_areas: tmj | left tmj | right tmj
+joint_pain_areas: tmj | right tmj

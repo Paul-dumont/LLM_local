@@ -12,7 +12,7 @@ tinnitus_present: unknown
 vertigo_present: unknown
 hearing_loss_present: unknown
 back_pain_present: unknown
-neck_pain_present: true
+neck_pain_present: unknown
 pain_aggravating_factors: clenching
 physical_therapy_status: unknown
 earache_present: unknown
@@ -20,9 +20,9 @@ onset_triggers: unknown
 adverse_reactions: pollens | grass | cotton | mold | shellfish
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: false | true
+airway_obstruction_present: true
 depression_present: unknown
-headache_frequency: periodic
+headache_frequency: unknown
 pain_frequency: unknown
 muscle_symptoms_present: true
 jaw_clicking: unknown
@@ -32,15 +32,15 @@ migraine_history: unknown
 headache_location: temporal
 current_appliance: retainers
 average_daily_pain_intensity: 0
-headache_intensity: 8
+headache_intensity: 8 but periodic
 autoimmune_condition: unknown
 pain_onset_date: unknown
 jaw_crepitus: unknown
 tmj_pain_rating: 0
 sleep_disorder_type: unknown
 current_medications: zyrtec-d | multivitamins | sodium chloride | proventil
-disc_displacement: right disc anterior dislocation with reduction
+disc_displacement: right disc anterior dislocation with reduction | right disc anterior displacement | left disc anterior displacement
 muscle_pain_location: temporalis | posterior neck | masseters
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics at the age of 10 | bioblock treatment that was just recently finished earlier this year
-joint_pain_areas: tmj | right tmj
+appliance_history: orthodontics at age of 10 | bioblock treatment
+joint_pain_areas: tmj | left tmj | right tmj

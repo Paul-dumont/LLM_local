@@ -36,10 +36,10 @@ headache_intensity: 4 but can escalate to 6 | present
 autoimmune_condition: unknown
 pain_onset_date: 14 years old
 jaw_crepitus: unknown
-tmj_pain_rating: 6 but can escalate to 9 to 10 | present
+tmj_pain_rating: 6 but can escalate to 9 to 10
 sleep_disorder_type: unknown
 current_medications: ibuprofen | yasmin
-disc_displacement: left disc dislocation with early reduction | right disc dislocation with early reduction | left disc dislocation with early reduction | right disc dislocation with early reduction
+disc_displacement: left disc medial and early reduction | right disc anterior displacement with reduction | left disc medial displacement with reduction | right disc anterior displacement with reduction
 muscle_pain_location: temporalis | masseters | left styloid | right scm
 joint_arthritis_location: unknown
 appliance_history: orthodontic treatment completed in approximately four years ago

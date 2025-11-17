@@ -22,7 +22,7 @@ fibromyalgia_present: unknown
 jaw_locking: unknown
 airway_obstruction_present: true
 depression_present: unknown
-headache_frequency: two to three times a week | couple of months
+headache_frequency: two to three times a week | couple of months or so
 pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: right tmj
@@ -38,7 +38,7 @@ pain_onset_date: unknown
 jaw_crepitus: right tmj
 tmj_pain_rating: 6
 sleep_disorder_type: unknown
-current_medications: iron supplements
+current_medications: unknown
 disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced without reduction
 muscle_pain_location: styloid areas | masseters | medial pterygoids | posterior neck | shoulder
 joint_arthritis_location: left tmj | right tmj

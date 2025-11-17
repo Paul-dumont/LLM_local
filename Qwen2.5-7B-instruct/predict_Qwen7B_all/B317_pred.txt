@@ -35,7 +35,7 @@ average_daily_pain_intensity: 4
 headache_intensity: 4
 autoimmune_condition: unknown
 pain_onset_date: 5 to 6 years ago
-jaw_crepitus: unknown
+jaw_crepitus: true
 tmj_pain_rating: 3
 sleep_disorder_type: sleep apnea symptoms
 current_medications: vitamins | calcium

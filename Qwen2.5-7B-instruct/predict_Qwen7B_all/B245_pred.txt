@@ -34,7 +34,7 @@ current_appliance: unknown
 average_daily_pain_intensity: 6
 headache_intensity: 4 | present
 autoimmune_condition: unknown
-pain_onset_date: 2 years ago at the age of 15
+pain_onset_date: 2 years ago
 jaw_crepitus: unknown
 tmj_pain_rating: 5
 sleep_disorder_type: unknown

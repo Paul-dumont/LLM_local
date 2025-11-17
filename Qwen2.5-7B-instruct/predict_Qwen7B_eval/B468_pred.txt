@@ -24,8 +24,8 @@ airway_obstruction_present: unknown
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
-muscle_symptoms_present: true
-jaw_clicking: left tmj | left tmj
+muscle_symptoms_present: false
+jaw_clicking: left tmj
 previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 0
 sleep_disorder_type: unknown
 current_medications: none
-disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement | left disc dislocation without reduction | right disc dislocation
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics 10 years ago with palatal expander

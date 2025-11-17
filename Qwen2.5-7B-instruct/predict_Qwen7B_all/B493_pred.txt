@@ -12,7 +12,7 @@ tinnitus_present: true
 vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: unknown
-neck_pain_present: false
+neck_pain_present: unknown
 pain_aggravating_factors: clenching
 physical_therapy_status: unknown
 earache_present: false
@@ -43,4 +43,4 @@ disc_displacement: left disc anterior and medial dislocation with reduction | ri
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
-joint_pain_areas: tmj | right shoulder | right tmj
+joint_pain_areas: tmj | right shoulder | left tmj

@@ -17,7 +17,7 @@ pain_aggravating_factors: anterior open bite | clenching
 physical_therapy_status: tens treatment | physical therapy | yoga | massage therapy | stress reduction classes | rolfing treatments
 earache_present: false
 onset_triggers: stress
-adverse_reactions: tetra cycline
+adverse_reactions: tetracycline
 fibromyalgia_present: unknown
 jaw_locking: true
 airway_obstruction_present: unknown
@@ -32,15 +32,15 @@ migraine_history: unknown
 headache_location: frontal | temporal | posterior head
 current_appliance: unknown
 average_daily_pain_intensity: unknown
-headache_intensity: 7 but can escalate to 9 | present
+headache_intensity: 7 | present
 autoimmune_condition: unknown
-pain_onset_date: 18 years old
+pain_onset_date: 18 years of age
 jaw_crepitus: left tmj | right tmj
 tmj_pain_rating: severe
-sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms | sleep disorder | snoring | sleep apnea symptoms
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms | sleep disorder
 current_medications: advil | restoril
-disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction | left disc dislocation | right disc dislocation
-muscle_pain_location: temporalis | styloid areas | posterior neck | masseter | scms | shoulders
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | styloid areas | posterior neck | masseters | scms | shoulders
 joint_arthritis_location: left tmj | right tmj
 appliance_history: splints
-joint_pain_areas: tmj | left tmj | right tmj | left shoulder | right shoulder
+joint_pain_areas: tmj | left tmj | right tmj | shoulders

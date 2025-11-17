@@ -27,12 +27,12 @@ pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: left tmj | right tmj
 previous_medications: opiates
-muscle_pain_score: moderate
+muscle_pain_score: moderate to mild
 migraine_history: unknown
 headache_location: frontal | temporal
 current_appliance: bite splint
 average_daily_pain_intensity: 7
-headache_intensity: 7
+headache_intensity: 7 | present
 autoimmune_condition: unknown
 pain_onset_date: 13 years ago
 jaw_crepitus: unknown

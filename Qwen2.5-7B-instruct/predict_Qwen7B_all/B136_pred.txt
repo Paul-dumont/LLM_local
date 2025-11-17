@@ -27,7 +27,7 @@ pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: left tmj | right tmj
 previous_medications: unknown
-muscle_pain_score: high moderate to moderate
+muscle_pain_score: high moderate to severe
 migraine_history: true
 headache_location: left temporal | posterior head
 current_appliance: unknown
@@ -40,7 +40,7 @@ tmj_pain_rating: severe
 sleep_disorder_type: unknown
 current_medications: lyrica | celebrex | oxycontin | baclofen | axert | amrix
 disc_displacement: left disc dislocation | right disc dislocation
-muscle_pain_location: left masseter | left posterior neck | styloid areas | right tmj | right masseter
-joint_arthritis_location: right tmj | left tmj | right tmj
+muscle_pain_location: left masseter | left posterior neck | styloid areas | right masseter
+joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
-joint_pain_areas: tmj | neck | upper back | right tmj | left tmj
+joint_pain_areas: tmj | neck | upper back | left tmj | right tmj

@@ -13,7 +13,7 @@ vertigo_present: false
 hearing_loss_present: false
 back_pain_present: unknown
 neck_pain_present: true
-pain_aggravating_factors: anterior open bite | anterior open bite | left posterior crossbite | right posterior crossbite
+pain_aggravating_factors: anterior open bite | anterior open bite | left posterior cross bite | right posterior cross bite
 physical_therapy_status: unknown
 earache_present: true
 onset_triggers: unknown
@@ -24,7 +24,7 @@ airway_obstruction_present: false
 depression_present: unknown
 headache_frequency: one time per week
 pain_frequency: unknown
-muscle_symptoms_present: unknown
+muscle_symptoms_present: true
 jaw_clicking: left tmj | right tmj
 previous_medications: unknown
 muscle_pain_score: moderate
@@ -39,8 +39,8 @@ jaw_crepitus: right tmj
 tmj_pain_rating: 0
 sleep_disorder_type: unknown
 current_medications: unknown
-disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc anterior displacement | right disc anterior displacement
 muscle_pain_location: masseter | shoulders | posterior neck | temporalis | left shoulder
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from 2 to 3 years ago
-joint_pain_areas: tmj | left tmj | right tmj
+joint_pain_areas: tmj

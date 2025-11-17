@@ -24,7 +24,7 @@ airway_obstruction_present: false
 depression_present: unknown
 headache_frequency: one time a week
 pain_frequency: unknown
-muscle_symptoms_present: true
+muscle_symptoms_present: unknown
 jaw_clicking: left tmj | right tmj
 previous_medications: unknown
 muscle_pain_score: mild
@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 3
 sleep_disorder_type: snoring | daytime somnolence
 current_medications: allegra | zestoretic | lipitor | nasonex | aranelle
-disc_displacement: left disc anterior dislocation with early reduction | right disc anterior dislocation with early reduction | left disc dislocation with early reduction | right disc dislocation with early reduction
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior displacement with early reduction | left disc anterior displacement with early reduction | right disc anterior displacement with early reduction
 muscle_pain_location: styloid areas | right masseter | posterior neck
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown

@@ -32,15 +32,15 @@ migraine_history: unknown
 headache_location: right in the center
 current_appliance: unknown
 average_daily_pain_intensity: 0
-headache_intensity: 6 | present
+headache_intensity: 6
 autoimmune_condition: unknown
 pain_onset_date: 30 years of age
 jaw_crepitus: left tmj | right tmj
 tmj_pain_rating: 6
-sleep_disorder_type: sleep apnea | snoring | daytime somnolence | sleep apnea | sleep disorder
+sleep_disorder_type: sleep apnea | snoring | daytime somnolence | sleep apnea
 current_medications: none
 disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc anterior displacement | right disc anterior displacement
-muscle_pain_location: retromandibular | masseters | medial pterygoids | scms
+muscle_pain_location: retromandibular area | masseters | medial pterygoids | scms
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from 13 to 16 years of age
-joint_pain_areas: tmj
+joint_pain_areas: tmj | left tmj | right tmj

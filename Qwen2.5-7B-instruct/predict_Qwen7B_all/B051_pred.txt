@@ -34,7 +34,7 @@ current_appliance: new retainers
 average_daily_pain_intensity: 0
 headache_intensity: 4
 autoimmune_condition: unknown
-pain_onset_date: unknown
+pain_onset_date: a year ago
 jaw_crepitus: right tmj
 tmj_pain_rating: 0
 sleep_disorder_type: unknown

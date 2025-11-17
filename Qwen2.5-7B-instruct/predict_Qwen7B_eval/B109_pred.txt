@@ -13,7 +13,7 @@ vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: true
-pain_aggravating_factors: anterior open bite | anterior open bite | right posterior open bite
+pain_aggravating_factors: anterior open bite | anterior open bite | right posterior open bite | left posterior open bite
 physical_therapy_status: physical therapy as a teenager | reinitiated last year
 earache_present: true
 onset_triggers: unknown

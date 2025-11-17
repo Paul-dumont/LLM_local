@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 0
 sleep_disorder_type: daytime somnolence
 current_medications: none
-disc_displacement: left disc anteromedial displacement with reduction | right disc anteromedial displacement with reduction
+disc_displacement: left disc anteromedial displacement with reduction | right disc anteromedial displacement with reduction | left disc medial displacement with reduction | right disc medial displacement with reduction
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from 13 to 16

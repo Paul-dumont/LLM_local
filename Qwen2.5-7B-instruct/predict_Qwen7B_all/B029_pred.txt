@@ -14,7 +14,7 @@ hearing_loss_present: false
 back_pain_present: unknown
 neck_pain_present: unknown
 pain_aggravating_factors: clenching | bruxism
-physical_therapy_status: tens treatment
+physical_therapy_status: tens
 earache_present: false
 onset_triggers: unknown
 adverse_reactions: unknown
@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 8
 sleep_disorder_type: unknown
 current_medications: advil | aleve
-disc_displacement: left disc anteriorly dislocation with late reduction | right disc anteriorly displaced with early reduction
+disc_displacement: left disc anterior displacement with late reduction | right disc anterior displacement with early reduction | left disc dislocation | right disc dislocation
 muscle_pain_location: left masseter | retromandibular areas | right masseter | shoulders
 joint_arthritis_location: left tmj | right tmj
 appliance_history: two occlusal splints

@@ -13,7 +13,7 @@ vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: true
-pain_aggravating_factors: clenching | eating | chewing | talking | singing
+pain_aggravating_factors: eating | chewing | talking | singing
 physical_therapy_status: physical therapy x20 treatments | chiropractic therapy x10 treatments
 earache_present: true
 onset_triggers: moving into a new house out in the country
@@ -22,7 +22,7 @@ fibromyalgia_present: unknown
 jaw_locking: unknown
 airway_obstruction_present: false
 depression_present: unknown
-headache_frequency: unknown
+headache_frequency: constant
 pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: unknown
@@ -32,7 +32,7 @@ migraine_history: unknown
 headache_location: left frontal | temporal | posterior head | top of the head
 current_appliance: splint
 average_daily_pain_intensity: 3
-headache_intensity: 3 but can escalate to 6 | severe
+headache_intensity: 3 but can escalate to 6 | present
 autoimmune_condition: unknown
 pain_onset_date: age of 12
 jaw_crepitus: left tmj
@@ -42,5 +42,5 @@ current_medications: pain cocktail | lyrica | effexor
 disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
 muscle_pain_location: left retromandibular | scm | left masseter | left medial pterygoid | right masseter | right medial pterygoid | right retromandibular | bilateral shoulders
 joint_arthritis_location: left tmj | right tmj
-appliance_history: retainers from the age of 11 to 15 | 3 splints during the past 18 months
+appliance_history: retainers from the age of 11 to 15
 joint_pain_areas: tmj | neck | jaw | shoulder

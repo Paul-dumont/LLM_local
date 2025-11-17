@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 2 but can escalate to 8
 sleep_disorder_type: unknown
 current_medications: fluoxetine | tylenol
-disc_displacement: left disc anteriorly displaced with early reduction | right disc anteriorly displaced without reduction | left disc anteriorly displaced with early reduction | right disc anteriorly displaced with deformation without reduction
+disc_displacement: left disc anteriorly displaced with early reduction | right disc anteriorly displaced without reduction | left disc anteriorly displaced with reduction | right disc anteriorly displaced without reduction
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics at 13 or 14 years old for about two years
-joint_pain_areas: tmj | neck | shoulders | hands | fingers | hips | knees | toes | feet | right tmj | left tmj
+joint_pain_areas: tmj | neck | shoulders | hands | fingers | hips | knees | toes | feet | left tmj | right tmj

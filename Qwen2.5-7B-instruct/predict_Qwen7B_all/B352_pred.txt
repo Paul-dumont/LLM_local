@@ -17,7 +17,7 @@ pain_aggravating_factors: clenching | bruxism
 physical_therapy_status: physical therapy for almost five years since her accident | acupuncture | hypnosis | electrical stimulation | radiofrequency treatment | ultrasonic treatment | hvg (high voltage galvanometer, similar to a tens device)
 earache_present: true
 onset_triggers: motor vehicle accident
-adverse_reactions: unknown
+adverse_reactions: none
 fibromyalgia_present: unknown
 jaw_locking: unknown
 airway_obstruction_present: false
@@ -40,7 +40,7 @@ tmj_pain_rating: 9 | severe
 sleep_disorder_type: snoring
 current_medications: kadian | thyroid | celexa | zanaflex | ansaid | advil | fluori-methane
 disc_displacement: unknown
-muscle_pain_location: styloid areas | masseter areas
+muscle_pain_location: styloid areas | masseter
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
 joint_pain_areas: tmj | neck | back | left tmj | right tmj

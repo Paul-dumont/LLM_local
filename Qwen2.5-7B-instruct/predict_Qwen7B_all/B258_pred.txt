@@ -29,7 +29,7 @@ jaw_clicking: unknown
 previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
-headache_location: left temple | left side of the face from the temple and downward
+headache_location: left temple | left side of the face
 current_appliance: unknown
 average_daily_pain_intensity: 10
 headache_intensity: 10 | severe and constant
@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 5
 sleep_disorder_type: snoring
 current_medications: soma | lipitor | fiorinal
-disc_displacement: left disc anterior and medial displacement without reduction | right disc anterior and medial displacement | left disc dislocation without reduction | right disc dislocation without reduction
+disc_displacement: left disc anterior and medial displacement without reduction | right disc anterior and medial displacement without reduction | left disc dislocation without reduction | right disc dislocation without reduction
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown

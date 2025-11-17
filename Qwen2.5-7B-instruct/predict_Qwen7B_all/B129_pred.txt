@@ -43,4 +43,4 @@ disc_displacement: left disc anterior displacement | right disc anterior displac
 muscle_pain_location: styloid areas
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from 8 to 11 years
-joint_pain_areas: unknown
+joint_pain_areas: tmj

@@ -22,7 +22,7 @@ fibromyalgia_present: unknown
 jaw_locking: unknown
 airway_obstruction_present: true
 depression_present: unknown
-headache_frequency: daily | continuous
+headache_frequency: daily | almost continuous
 pain_frequency: unknown
 muscle_symptoms_present: true
 jaw_clicking: left tmj | right tmj

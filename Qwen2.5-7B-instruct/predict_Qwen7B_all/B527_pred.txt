@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 4
 sleep_disorder_type: daytime somnolence
 current_medications: zyrtec | flonase
-disc_displacement: left disc anterior and medial displacement without reduction | right disc anterior and lateral displacement without reduction
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc medial displacement | right disc lateral and anterior displacement
 muscle_pain_location: shoulders
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from age of 7 to 8 | orthodontics from age of 7 | full braces from age of 12 to 15

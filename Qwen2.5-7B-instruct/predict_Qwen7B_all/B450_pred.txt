@@ -13,8 +13,8 @@ vertigo_present: false
 hearing_loss_present: true
 back_pain_present: true
 neck_pain_present: true
-pain_aggravating_factors: unknown
-physical_therapy_status: chiropractic treatment
+pain_aggravating_factors: left posterior cross bite tendency | right posterior cross bite tendency
+physical_therapy_status: chiropractic treatment for neck problems
 earache_present: false
 onset_triggers: unknown
 adverse_reactions: nickel | chromium iii | rubber | latex | black dye
@@ -32,14 +32,14 @@ migraine_history: unknown
 headache_location: unknown
 current_appliance: unknown
 average_daily_pain_intensity: unknown
-headache_intensity: unknown
+headache_intensity: 0
 autoimmune_condition: unknown
 pain_onset_date: unknown
 jaw_crepitus: unknown
 tmj_pain_rating: 0
 sleep_disorder_type: daytime somnolence | sleep apnea
 current_medications: cymbalta | lipitor | enbrel | keflex
-disc_displacement: left disc medial dislocation with reduction | right disc medial dislocation with reduction
+disc_displacement: left disc medial dislocation with reduction | right disc medial dislocation with reduction | left disc medial dislocation | right disc medial dislocation
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown

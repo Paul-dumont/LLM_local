@@ -25,7 +25,7 @@ depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
 muscle_symptoms_present: false
-jaw_clicking: unknown
+jaw_clicking: right tmj
 previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: right tmj
 tmj_pain_rating: 3
 sleep_disorder_type: unknown
 current_medications: none
-disc_displacement: left disc anteriorly dislocated with reduction | right disc dislocation without reduction | left disc anteriorly dislocated | right disc dislocation without reduction | left disc anteriorly dislocated, however, with the mandible postured forward. as it is, the disc appears to be in a reduced position | right disc dislocation with significant degenerative changes
+disc_displacement: left disc anteriorly dislocated with reduction | right disc dislocation without reduction | left disc anteriorly dislocated | right disc anteriorly displaced without reduction
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics 4 years ago | orthodontics 4 years ago
-joint_pain_areas: tmj | knees
+joint_pain_areas: knees | right tmj

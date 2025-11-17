@@ -25,7 +25,7 @@ depression_present: unknown
 headache_frequency: almost daily
 pain_frequency: unknown
 muscle_symptoms_present: unknown
-jaw_clicking: tmj
+jaw_clicking: left tmj | right tmj
 previous_medications: unknown
 muscle_pain_score: low severe
 migraine_history: true
@@ -34,7 +34,7 @@ current_appliance: splint since 2 years ago
 average_daily_pain_intensity: 8
 headache_intensity: 8 | present
 autoimmune_condition: connective tissue autoimmune disease | rheumatoid arthritis | juvenile rheumatoid arthritis
-pain_onset_date: age of 10
+pain_onset_date: age of 10 years
 jaw_crepitus: unknown
 tmj_pain_rating: 5
 sleep_disorder_type: unknown
@@ -43,4 +43,4 @@ disc_displacement: left disc anterior displacement without reduction | right dis
 muscle_pain_location: temporalis
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from 15 to 9 years ago
-joint_pain_areas: tmj | neck | left knee | back | hips | big toe | left tmj | right tmj
+joint_pain_areas: tmj | neck | left knee | back | hips | big toe

@@ -30,7 +30,7 @@ previous_medications: unknown
 muscle_pain_score: moderate
 migraine_history: unknown
 headache_location: temporal | posterior head
-current_appliance: lower 3 x 3 retainer
+current_appliance: 3 x 3 lower retainer
 average_daily_pain_intensity: 4
 headache_intensity: 3 | present
 autoimmune_condition: unknown

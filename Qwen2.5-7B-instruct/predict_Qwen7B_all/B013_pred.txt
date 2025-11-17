@@ -38,9 +38,9 @@ pain_onset_date: one year ago
 jaw_crepitus: unknown
 tmj_pain_rating: 5
 sleep_disorder_type: daytime somnolence | snoring | possible sleep apnea symptoms
-current_medications: topamax | relapax | oracea | fish oil | vitamin d with calcium
+current_medications: topamax | relpax | oracea | fish oil | vitamin d with calcium
 disc_displacement: left disc medial displacement | right disc medial displacement
 muscle_pain_location: temporalis | masseters | styloid areas | shoulders | left scm
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics 3 years ago to 1 year and 10 months ago
+appliance_history: orthodontics beginning 3 years ago and had her braces removed one year and 10 months ago
 joint_pain_areas: tmj | left tmj | right tmj | shoulders | wrists | hands | fingers | spine | knees | hips

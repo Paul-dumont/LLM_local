@@ -14,7 +14,7 @@ hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: true
 pain_aggravating_factors: anterior open bite | clenching | bruxism
-physical_therapy_status: botox injections into her facial muscles | botox injections around the head and neck area | botox injections to the temporalis muscles and to her posterior neck and cranial base areas
+physical_therapy_status: botox injections to the facial muscles | botox injections around the head and neck area | botox injections to the temporalis muscles | botox injections to the posterior neck and cranial base areas
 earache_present: true
 onset_triggers: orthognathic surgery
 adverse_reactions: penicillin | ancef | tigan | zofran
@@ -22,14 +22,14 @@ fibromyalgia_present: unknown
 jaw_locking: true
 airway_obstruction_present: true
 depression_present: unknown
-headache_frequency: almost daily
+headache_frequency: daily
 pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: tmj
 previous_medications: unknown
-muscle_pain_score: severe | high moderate to the masseters | moderate to the medial pterygoids | styloid areas | scms | shoulder area
+muscle_pain_score: severe to high moderate
 migraine_history: true
-headache_location: frontal | temporal | posterior head area
+headache_location: frontal | temporal | posterior head
 current_appliance: lower retainer
 average_daily_pain_intensity: 8
 headache_intensity: 9 | severe
@@ -37,10 +37,10 @@ autoimmune_condition: unknown
 pain_onset_date: 14 years ago
 jaw_crepitus: unknown
 tmj_pain_rating: 8 | severe
-sleep_disorder_type: sleep apnea syndrome | snoring | snoring | sleep apnea
+sleep_disorder_type: snoring | sleep apnea syndrome | snoring | waking up at night unable to catch her breath | mouth breathing particularly when sleeping | snoring
 current_medications: imitrex | actiq | zanaflex | remeron | trileptal | depakote | phenergan
 disc_displacement: unknown
-muscle_pain_location: masseters | medial pterygoids | styloid areas | scms | shoulder area
+muscle_pain_location: masseters | medial pterygoids | styloid areas | scms | shoulders
 joint_arthritis_location: left tmj | right tmj
 appliance_history: braces for quite some time
-joint_pain_areas: tmj | left tm
+joint_pain_areas: tmj | left tmj | right tmj

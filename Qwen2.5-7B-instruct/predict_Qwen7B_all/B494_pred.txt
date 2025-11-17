@@ -27,7 +27,7 @@ pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: unknown
 previous_medications: unknown
-muscle_pain_score: moderate to mild
+muscle_pain_score: moderate
 migraine_history: unknown
 headache_location: right side | frontal | temporal | posterior head area
 current_appliance: unknown
@@ -42,4 +42,4 @@ current_medications: unknown
 disc_displacement: unknown
 muscle_pain_location: left medial pterygoid | left retromandibular area | left scm | right shoulder | temporalis muscles | masseters | right medial pterygoid | right retromandibular area | right scm
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontic treatment including a herbst appliance for 1 year | physical therapy throughout
+appliance_history: orthodontic treatment including a herbst appliance for 1 year | physical therapy throughout 20

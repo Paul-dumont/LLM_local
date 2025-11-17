@@ -30,7 +30,7 @@ previous_medications: advil | tramadol
 muscle_pain_score: moderate
 migraine_history: unknown
 headache_location: unknown
-current_appliance: splint for 15 to 18 years
+current_appliance: unknown
 average_daily_pain_intensity: unknown
 headache_intensity: severe
 autoimmune_condition: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: left tmj | right tmj
 tmj_pain_rating: severe
 sleep_disorder_type: unknown
 current_medications: doryx | concerta
-disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction
 muscle_pain_location: retromandibular areas | temporalis | shoulders
 joint_arthritis_location: left tmj | right tmj
-appliance_history: 3 1/2 years of orthodontics at age of 33
-joint_pain_areas: tmj | left tmj | right tmj
+appliance_history: 3 1/2 years of orthodontics at age 33 | 15 to 18 years of splint therapy with at least 15 different splints
+joint_pain_areas: left tmj | right tmj

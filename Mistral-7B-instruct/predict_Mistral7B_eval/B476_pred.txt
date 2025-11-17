@@ -1,0 +1,42 @@
+patient_id: B476
+maximum_opening_without_pain: unknown
+patient_age: 45
+maximum_opening: 55mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 6
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching
+physical_therapy_status: chiropractic treatment since 16 years ago | massage therapy since 16 years ago | neurocranial reconstruction including nine series | botox injections about every 4-6 months in the head and shoulder areas for approximately 6 years | physical therapy including such treatments as ultrasound | tens | etc. | acupuncture
+earache_present: true
+onset_triggers: mva
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: daily
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: frontotemporal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: 8
+headache_intensity: 9 but frequently escalate to 10 | severe
+autoimmune_condition: unknown
+pain_onset_date: 18 years ago
+jaw_crepitus: unknown
+tmj_pain_rating: 8 | severe
+sleep_disorder_type: daytime somnolence
+current_medications: esterase | estratest hs | lunesta | vicodin
+disc_displacement:

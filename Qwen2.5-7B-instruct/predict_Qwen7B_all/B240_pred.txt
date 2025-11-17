@@ -32,11 +32,11 @@ migraine_history: unknown
 headache_location: unknown
 current_appliance: unknown
 average_daily_pain_intensity: unknown
-headache_intensity: unknown
+headache_intensity: 0
 autoimmune_condition: unknown
 pain_onset_date: unknown
 jaw_crepitus: unknown
-tmj_pain_rating: unknown
+tmj_pain_rating: 0
 sleep_disorder_type: unknown
 current_medications: none
 disc_displacement: left disc posterior displacement | right disc posterior displacement | left disc posterior displacement | right disc posterior displacement

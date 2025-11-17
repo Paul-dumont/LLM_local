@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 0
 sleep_disorder_type: unknown
 current_medications: claritin
-disc_displacement: left disc anterior displacement without reduction | right disc dislocation
+disc_displacement: left disc anterior displacement without reduction | right disc medial displacement
 muscle_pain_location: unknown
-joint_arthritis_location: left tmj
-appliance_history: palatal expander | full appliances
+joint_arthritis_location: left tmj | right tmj
+appliance_history: expander | full appliances
 joint_pain_areas: unknown

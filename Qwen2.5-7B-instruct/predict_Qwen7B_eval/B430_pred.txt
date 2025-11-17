@@ -13,7 +13,7 @@ vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: true
 neck_pain_present: true
-pain_aggravating_factors: eating | chewing
+pain_aggravating_factors: unknown
 physical_therapy_status: undergoing significant physical therapy for myofascial release treatments
 earache_present: true
 onset_triggers: unknown
@@ -24,7 +24,7 @@ airway_obstruction_present: false
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
-muscle_symptoms_present: unknown
+muscle_symptoms_present: true
 jaw_clicking: unknown
 previous_medications: unknown
 muscle_pain_score: moderate to severe
@@ -35,11 +35,11 @@ average_daily_pain_intensity: unknown
 headache_intensity: severe
 autoimmune_condition: unknown
 pain_onset_date: four years ago
-jaw_crepitus: left tmj | right tmj
+jaw_crepitus: left tmj
 tmj_pain_rating: severe
 sleep_disorder_type: unknown
 current_medications: zoloft | trazodone | ultracet | fiorinal | clomid | multivitamins | calcium
-disc_displacement: left disc anterior displacement with reduction | right disc anterior displacement with reduction | left disc dislocation | right disc dislocation
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior dislocation with reduction | left disc dislocation | right disc dislocation
 muscle_pain_location: temporalis | masseters | rest of the head and neck area
 joint_arthritis_location: left tmj | right tmj
 appliance_history: splint about four years ago

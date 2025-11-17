@@ -20,7 +20,7 @@ onset_triggers: unknown
 adverse_reactions: lortab
 fibromyalgia_present: unknown
 jaw_locking: true
-airway_obstruction_present: unknown
+airway_obstruction_present: true
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
@@ -32,14 +32,14 @@ migraine_history: unknown
 headache_location: right frontal | right temporal | top of the head
 current_appliance: unknown
 average_daily_pain_intensity: 8
-headache_intensity: 8 | present
+headache_intensity: 8
 autoimmune_condition: unknown
 pain_onset_date: 12 years old
 jaw_crepitus: right tmj
 tmj_pain_rating: 9
 sleep_disorder_type: sleep apnea
 current_medications: advil | ibuprofen | bayer aspirin
-disc_displacement: left disc anteriorly and laterally displaced without reduction | right disc anteriorly and laterally displaced without reduction | left disc anteriorly dislocated with reduction | right disc dislocation without reduction
+disc_displacement: left disc anteriorly and laterally displaced without reduction | right disc anteriorly and laterally displaced without reduction | left disc anteriorly dislocated with reduction | right disc anteriorly dislocated with reduction
 muscle_pain_location: right temporalis
 joint_arthritis_location: left tmj | right tmj
 appliance_history: splint 14 years ago | splint 6 years ago

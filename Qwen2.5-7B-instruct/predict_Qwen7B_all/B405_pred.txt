@@ -11,8 +11,8 @@ jaw_function_score: 9
 tinnitus_present: true
 vertigo_present: true
 hearing_loss_present: unknown
-back_pain_present: true
-neck_pain_present: true
+back_pain_present: unknown
+neck_pain_present: unknown
 pain_aggravating_factors: anterior open bite | clenching
 physical_therapy_status: unknown
 earache_present: false
@@ -24,7 +24,7 @@ airway_obstruction_present: true
 depression_present: unknown
 headache_frequency: 2 to 3 times per week
 pain_frequency: unknown
-muscle_symptoms_present: true
+muscle_symptoms_present: unknown
 jaw_clicking: unknown
 previous_medications: unknown
 muscle_pain_score: moderate
@@ -43,4 +43,4 @@ disc_displacement: unknown
 muscle_pain_location: masseter | medial pterygoids | retromandibular area | shoulders
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics 5 years ago | chin cup | maxillary expander | second bicuspids extracted in all four quadrants
-joint_pain_areas: tmj | fingers | wrists | hands | hips | knees | feet | toes | neck | back
+joint_pain_areas: tmj | fingers | wrists | hands | hips | knees | feet | toes | neck | back | tmj

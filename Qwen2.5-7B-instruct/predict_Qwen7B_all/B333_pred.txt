@@ -1,6 +1,6 @@
 patient_id: B333
 maximum_opening_without_pain: 40mm
-patient_age: 37 | 38
+patient_age: 37 | 37
 maximum_opening: 53mm
 pain_relieving_factors: unknown
 diet_score: 4
@@ -20,7 +20,7 @@ onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: false
+airway_obstruction_present: unknown
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
@@ -34,7 +34,7 @@ current_appliance: splint for bruxism for the past 5 years
 average_daily_pain_intensity: 4
 headache_intensity: 2
 autoimmune_condition: unknown
-pain_onset_date: past year
+pain_onset_date: unknown
 jaw_crepitus: unknown
 tmj_pain_rating: 5
 sleep_disorder_type: snoring
@@ -43,4 +43,4 @@ disc_displacement: left disc anterior and medial dislocation | right disc anteri
 muscle_pain_location: styloid
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from the age of 12 to 14
-joint_pain_areas: tmj
+joint_pain_areas: tmj | left tmj | right tmj

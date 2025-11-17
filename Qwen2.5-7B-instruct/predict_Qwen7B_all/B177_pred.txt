@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 0
 sleep_disorder_type: unknown
 current_medications: none
-disc_displacement: left disc posterior displacement with reduction | right disc posterior displacement with reduction | left disc medial displacement | right disc medial displacement
+disc_displacement: left disc posterior displacement with reduction | right disc posterior displacement with reduction
 muscle_pain_location: unknown
 joint_arthritis_location: unknown
 appliance_history: class iii face mask treatment through ucla and dr. XXXX and dr. XXXX | maxillary expander

@@ -200,7 +200,9 @@ def main():
         return
     
     ref_folder = "/home/luciacev/Desktop/LLM/data_training/data_output_clean"
-    pred_folder = "/home/luciacev/Desktop/LLM/Qwen2.5-1.5B-instruct/predict_Qwen1.5B_eval"
+    # pred_folder = "/home/luciacev/Desktop/LLM/Qwen2.5-1.5B-instruct/predict_Qwen1.5B_all"
+    pred_folder = "/home/luciacev/Desktop/LLM/Mistral-7B-instruct/predict_Mistral7B_eval"
+
     
     if not os.path.exists(ref_folder):
         print(f"❌ Reference folder not found: {ref_folder}")

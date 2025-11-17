@@ -33,11 +33,11 @@ headache_location: unknown
 current_appliance: unknown
 average_daily_pain_intensity: 7
 headache_intensity: 0
-autoimmune_condition: elevated ana titer
+autoimmune_condition: unknown
 pain_onset_date: unknown
 jaw_crepitus: unknown
 tmj_pain_rating: 0 but can escalate to 7
-sleep_disorder_type: daytime somnolence | snoring | sleep disorder
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea | sleep disorder
 current_medications: amrix | zoloft | omeprazole | estradiol | coq-10 | hyaluronic acid | b12 | biotene | fish oil | calcium | vitamin d | advil | tylenol
 disc_displacement: left disc medial and anterior displacement | right disc medial and anterior displacement | left disc medial displacement | right disc medial displacement
 muscle_pain_location: temporalis | masseters | right styloid

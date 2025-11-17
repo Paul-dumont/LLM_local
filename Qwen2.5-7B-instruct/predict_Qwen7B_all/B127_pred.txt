@@ -25,7 +25,7 @@ depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
 muscle_symptoms_present: true
-jaw_clicking: left tmj
+jaw_clicking: left tmj | right tmj
 previous_medications: unknown
 muscle_pain_score: moderate
 migraine_history: unknown
@@ -43,4 +43,4 @@ disc_displacement: left disc anterior displacement with early reduction | right 
 muscle_pain_location: masseter | medial pterygoids | retromandibular area
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics at age of 8
-joint_pain_areas: right hip | left knee | right ankle | left tmj | right tmj
+joint_pain_areas: tmj | right hip | left knee | right ankle

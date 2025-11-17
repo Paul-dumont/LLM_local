@@ -20,7 +20,7 @@ onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: unknown
+airway_obstruction_present: true
 depression_present: unknown
 headache_frequency: daily
 pain_frequency: unknown

@@ -32,15 +32,15 @@ migraine_history: unknown
 headache_location: unknown
 current_appliance: unknown
 average_daily_pain_intensity: 6
-headache_intensity: 0
+headache_intensity: none
 autoimmune_condition: unknown
 pain_onset_date: 20 years ago
 jaw_crepitus: unknown
 tmj_pain_rating: 6
 sleep_disorder_type: unknown
 current_medications: advil | tylenol
-disc_displacement: left disc anteriorly and medially displaced | right disc anteriorly and medially displaced | left disc medially displaced | right disc medially displaced
+disc_displacement: left disc anteriorly displaced | right disc anteriorly displaced | left disc medially displaced | right disc medially displaced
 muscle_pain_location: right masseter | left scm | left posterior neck
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
-joint_pain_areas: fingers | knees | elbows | left tmj | right tmj
+joint_pain_areas: fingers | knees | elbows

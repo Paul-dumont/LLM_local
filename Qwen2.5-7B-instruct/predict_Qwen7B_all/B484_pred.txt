@@ -13,7 +13,7 @@ vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: clenching
+pain_aggravating_factors: clenching | left posterior cross bite tendency
 physical_therapy_status: botox injections last year
 earache_present: false
 onset_triggers: wisdom teeth removal
@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 8
 sleep_disorder_type: unknown
 current_medications: skelaxin | amitriptyline | valium
-disc_displacement: left disc anterior and lateral displacement with early reduction | right disc anterior and medial displacement with adhesions to the fossa | left disc anterior and lateral displacement | right disc anterior and medial displacement
+disc_displacement: left disc anterior and lateral displacement with early reduction | right disc anterior and medial displacement with adhesions to the fossa | left disc anterior displacement with early reduction | right disc anterior displacement with adhesions to the fossa
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics 7 years ago to 4 years ago | splint 3 years ago

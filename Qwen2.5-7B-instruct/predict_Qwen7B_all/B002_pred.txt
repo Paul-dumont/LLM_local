@@ -17,7 +17,7 @@ pain_aggravating_factors: clenching | bruxism
 physical_therapy_status: physical therapy beginning this year
 earache_present: true
 onset_triggers: unknown but likely aicr
-adverse_reactions: unknown
+adverse_reactions: none
 fibromyalgia_present: unknown
 jaw_locking: unknown
 airway_obstruction_present: true

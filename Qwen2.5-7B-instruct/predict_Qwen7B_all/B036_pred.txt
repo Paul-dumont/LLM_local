@@ -20,7 +20,7 @@ onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: unknown
+airway_obstruction_present: false
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
@@ -30,7 +30,7 @@ previous_medications: unknown
 muscle_pain_score: mild
 migraine_history: unknown
 headache_location: frontal
-current_appliance: splint since 9 years ago
+current_appliance: 3 x 3 retainer
 average_daily_pain_intensity: 4
 headache_intensity: 2 but can escalate to 7 with chewing | present
 autoimmune_condition: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: left tmj
 tmj_pain_rating: 5
 sleep_disorder_type: unknown
 current_medications: omnaris nasal spray | multivitamins | viactiv calcium | advil
-disc_displacement: left disc anterior and medial displacement without reduction | right disc anterior and medial displacement without reduction
+disc_displacement: left disc anterior and medial displacement without reduction | right disc anterior and medial displacement without reduction | left disc anterior displacement | right disc anterior displacement
 muscle_pain_location: retromandibular area | temporalis | masseters | shoulders
 joint_arthritis_location: left tmj | right tmj
-appliance_history: 3 splints
-joint_pain_areas: tmj | neck | left ankle
+appliance_history: splint for 9 years
+joint_pain_areas: tmj | left tmj | right tmj

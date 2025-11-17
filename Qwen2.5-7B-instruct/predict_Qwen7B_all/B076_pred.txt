@@ -40,7 +40,7 @@ tmj_pain_rating: 8
 sleep_disorder_type: daytime somnolence
 current_medications: levothyroxine | naproxen | advil
 disc_displacement: unknown
-muscle_pain_location: left retromandibular area
+muscle_pain_location: left retromandibular
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics 9 years ago | leforte i osteotomy 8 years and 9 months ago
-joint_pain_areas: tmj | knees | ankles | neck | shoulders | back
+appliance_history: orthodontics 9 years ago | lefort i osteotomy 8 years and 9 months ago
+joint_pain_areas: knees | ankles | tmj | left tmj | right tmj

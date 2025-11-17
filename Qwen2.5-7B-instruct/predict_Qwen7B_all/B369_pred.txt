@@ -30,13 +30,13 @@ previous_medications: unknown
 muscle_pain_score: mild
 migraine_history: unknown
 headache_location: throughout most of the head area
-current_appliance: unknown
+current_appliance: splint
 average_daily_pain_intensity: 7
 headache_intensity: 7 | present
 autoimmune_condition: unknown
 pain_onset_date: 15 or 16 years of age
 jaw_crepitus: left tmj
-tmj_pain_rating: 10 | severe
+tmj_pain_rating: 10
 sleep_disorder_type: unknown
 current_medications: lexapro | percocet | diazepam | naproxen | ibuprofen | prednisone
 disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement with reduction | left disc dislocation | right disc dislocation

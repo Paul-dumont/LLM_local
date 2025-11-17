@@ -40,7 +40,7 @@ tmj_pain_rating: 6
 sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms | sleep apnea
 current_medications: oxycontin | oxycodone | alprazolam | paxil | trazodone | flonase | advair | proventil | allegra | imitrex
 disc_displacement: unknown
-muscle_pain_location: throughout the head and neck area
+muscle_pain_location: head | neck | shoulder | back
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics over a 5-year period
+appliance_history: orthodontics over a 5-year period | splints | mandibular posturing devices
 joint_pain_areas: tmj | left tmj | right tmj | back | left shoulder | elbows | left greater than right | fingers | left foot | left great toe

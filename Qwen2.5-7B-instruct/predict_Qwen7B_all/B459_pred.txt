@@ -27,7 +27,7 @@ pain_frequency: unknown
 muscle_symptoms_present: true
 jaw_clicking: unknown
 previous_medications: unknown
-muscle_pain_score: masseter muscles at a level of 4
+muscle_pain_score: left masseter at 4 | left tmj at 3
 migraine_history: unknown
 headache_location: unknown
 current_appliance: unknown

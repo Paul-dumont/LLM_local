@@ -37,10 +37,10 @@ autoimmune_condition: unknown
 pain_onset_date: elementary school
 jaw_crepitus: unknown
 tmj_pain_rating: 6
-sleep_disorder_type: unknown
+sleep_disorder_type: snoring
 current_medications: concerta | lexapro | antivert | advil | tylenol
 disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation with reduction | right disc dislocation without reduction
 muscle_pain_location: temporalis | masseters | styloid areas | scms
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics from 7 to 10 years of age | orthodontics from 16 to 18 years of age | splint therapy for at least five years | 2 years ago, she had bilateral tmj arthrocentesis | 2 years ago, she had equilibration
-joint_pain_areas: tmj | left tmj | right tmj | left ankle | right
+appliance_history: orthodontics from 7 to 10 years of age | orthodontics from 16 to 18 years of age | orthodontics 2 years ago
+joint_pain_areas: tmj | left tmj | right tmj | left tmj | right tmj | left tmj | right tmj | left tmj | right tmj | left tmj | right tm

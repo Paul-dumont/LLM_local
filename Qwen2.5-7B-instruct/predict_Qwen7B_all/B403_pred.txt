@@ -43,4 +43,4 @@ disc_displacement: left disc medial displacement | right disc medial displacemen
 muscle_pain_location: masseter | styloid areas
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontic treatment from 31 to 35 years ago | orthodontic treatment 6 years ago | splint therapy from 17 to 22 years ago
-joint_pain_areas: tmj | left tmj | right tmj
+joint_pain_areas: tmj | back | neck | elbow | thigh

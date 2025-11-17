@@ -13,14 +13,14 @@ vertigo_present: false
 hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: right anterior crossbite tendency
+pain_aggravating_factors: right mandibular hyperplasia | right tmj arthritis and articular disc dislocation without reduction
 physical_therapy_status: physical therapy | massage therapy
 earache_present: false
 onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: false
+airway_obstruction_present: false | decreased oropharyngeal airway
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 6
 sleep_disorder_type: difficulty falling asleep
 current_medications: advil | bcp
-disc_displacement: left disc anterior displacement with early reduction | right disc anterior dislocation without reduction | left disc dislocation without reduction | right disc dislocation without reduction
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior displacement without reduction | left disc dislocation without reduction | right disc dislocation without reduction
 muscle_pain_location: right retromandibular area
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics around 20 years ago | orthodontics at age 22 | invisalign from age 28 to 29

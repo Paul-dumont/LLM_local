@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 4
 sleep_disorder_type: daytime somnolence | snoring
 current_medications: smz/ 800-160 b.i.d.
-disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction
 muscle_pain_location: shoulders
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontic treatment stage 1 7 to 8 years ago | stage 2 bionator rapid palatal expander | stage 3 bite plane and lip bumper | stage 4 began in 5 years ago and ended 2 years ago with fixed appliances

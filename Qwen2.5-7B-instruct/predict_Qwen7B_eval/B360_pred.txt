@@ -37,7 +37,7 @@ autoimmune_condition: unknown
 pain_onset_date: unknown
 jaw_crepitus: left tmj
 tmj_pain_rating: 5 but can escalate easily to 9
-sleep_disorder_type: daytime somnolence | snoring | apneic episodes
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea
 current_medications: fiorinal | diazepam | ultram | lortab | armour thyroid | paxil | glucosamine | chondroitin | imitrex | amitriptyline
 disc_displacement: left disc dislocation with severe deformation | right disc dislocation medially
 muscle_pain_location: temporalis | left shoulder | right scm | right posterior neck

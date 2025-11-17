@@ -34,7 +34,7 @@ current_appliance: unknown
 average_daily_pain_intensity: 1
 headache_intensity: 5 | present
 autoimmune_condition: unknown
-pain_onset_date: 22 years old
+pain_onset_date: 22 years of age
 jaw_crepitus: left tmj
 tmj_pain_rating: 2
 sleep_disorder_type: unknown
@@ -43,4 +43,4 @@ disc_displacement: right disc anteriorly displaced without reduction | left disc
 muscle_pain_location: unknown
 joint_arthritis_location: right tmj
 appliance_history: unknown
-joint_pain_areas: tmj | hips
+joint_pain_areas: tmj | hips | left tmj

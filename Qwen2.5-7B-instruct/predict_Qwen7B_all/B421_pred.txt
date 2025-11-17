@@ -35,12 +35,12 @@ average_daily_pain_intensity: 4
 headache_intensity: 7 | present
 autoimmune_condition: unknown
 pain_onset_date: unknown
-jaw_crepitus: tmj
+jaw_crepitus: left tmj | right tmj
 tmj_pain_rating: 4
 sleep_disorder_type: sleep apnea | sleep apnea
 current_medications: 18 medications
-disc_displacement: left disc anterior displacement | right disc anterior displacement | left disc posterior displacement | right disc anterior displacement
-muscle_pain_location: retromandibular area | posterior neck | masseter | temporalis
+disc_displacement: left disc anterior displacement | right disc anterior displacement without reduction | left disc anterior displacement | right disc anterior displacement
+muscle_pain_location: retromandibular area | posterior neck | masseter muscles | temporalis muscles
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics x3 | orthodontics at age 16 to 18 | orthodontics at age 22 | orthodontics at age 45
-joint_pain_areas: tmj | hips | knees | left foot | lower back | neck | tmj
+appliance_history: orthodontics x3 | orthodontics at age 16 to 18 | orthodontics at age 22 | orthodontics at 45
+joint_pain_areas: tmj | hips | knees | left foot | lower back | neck | left tmj | right tmj

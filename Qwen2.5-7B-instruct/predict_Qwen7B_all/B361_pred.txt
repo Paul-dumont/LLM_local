@@ -30,7 +30,7 @@ previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
 headache_location: unknown
-current_appliance: orthodontics since last year | bite plate
+current_appliance: orthodontics since last year
 average_daily_pain_intensity: unknown
 headache_intensity: present
 autoimmune_condition: unknown

@@ -27,7 +27,7 @@ pain_frequency: unknown
 muscle_symptoms_present: true
 jaw_clicking: left tmj | right tmj
 previous_medications: unknown
-muscle_pain_score: mild to moderate
+muscle_pain_score: unknown
 migraine_history: unknown
 headache_location: frontal | temple | posterior head
 current_appliance: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: left tmj | right tmj
 tmj_pain_rating: 4
 sleep_disorder_type: daytime somnolence
 current_medications: yasmin | topamax | aleve
-disc_displacement: left disc anteriorly displaced without reduction | right disc dislocation with reduction | left disc dislocation with early reduction | right disc dislocation with late reduction
+disc_displacement: left disc anterior dislocation without reduction | right disc dislocation with reduction | left disc dislocation with early reduction | right disc dislocation with late reduction
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
-appliance_history: lower splint made 5 years ago | upper splint for about 8 months
-joint_pain_areas: tmj | left ankle | left knee | left wrist
+appliance_history: lower splint for about 1 year | upper splint for about 8 months
+joint_pain_areas: tmj | left tmj | right tmj

@@ -27,7 +27,7 @@ pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: unknown
 previous_medications: unknown
-muscle_pain_score: high moderate to moderate to mild
+muscle_pain_score: high moderate to moderate
 migraine_history: unknown
 headache_location: unknown
 current_appliance: splints at night for 1 year until now
@@ -37,10 +37,10 @@ autoimmune_condition: unknown
 pain_onset_date: 2 years ago
 jaw_crepitus: left tmj
 tmj_pain_rating: 5 when she is not chewing, but when she eats it goes to a level of 8
-sleep_disorder_type: snoring | snoring | snoring | sleep apnea symptoms
+sleep_disorder_type: snoring
 current_medications: levoxyl | lexapro | posture-d | boniva
 disc_displacement: left disc anterior and laterally displaced with reduction | right disc posteriorly displaced but reduces on opening | left disc dislocation with reduction
 muscle_pain_location: left masseter | right masseter | temporalis | styloids | scms | shoulders
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics in around 50 years ago | orthodontics 24 years ago
-joint_pain_areas: tmj | left tmj | right tmj | left tmj | right tmj | left
+joint_pain_areas: left tmj | right tmj | left tmj | right tmj | upper and lower back

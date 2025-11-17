@@ -1,6 +1,6 @@
 patient_id: B357
 maximum_opening_without_pain: unknown
-patient_age: 14 | 14years
+patient_age: 14
 maximum_opening: 53mm
 pain_relieving_factors: unknown
 diet_score: 0
@@ -29,18 +29,18 @@ jaw_clicking: left tmj
 previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
-headache_location: left frontal | left temple | left forehead | back of the head
+headache_location: left frontal | left temple | behind left eye | left forehead | back of the head
 current_appliance: unknown
 average_daily_pain_intensity: 1
-headache_intensity: 3
+headache_intensity: 3 | present
 autoimmune_condition: unknown
 pain_onset_date: 5th grade
 jaw_crepitus: unknown
 tmj_pain_rating: 0
 sleep_disorder_type: daytime somnolence | snoring | mild sleep apnea
 current_medications: none
-disc_displacement: left disc possible medial displacement | right disc possible medial displacement
+disc_displacement: left disc medial displacement | right disc medial displacement | left disc dislocation | right disc dislocation
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
-appliance_history: unknown
+appliance_history: herbst appliance
 joint_pain_areas: unknown

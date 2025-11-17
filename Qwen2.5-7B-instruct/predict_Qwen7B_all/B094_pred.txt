@@ -16,7 +16,7 @@ neck_pain_present: unknown
 pain_aggravating_factors: unknown
 physical_therapy_status: physical therapy which started 3 months ago
 earache_present: true
-onset_triggers: unknown etiology
+onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: true
@@ -25,9 +25,9 @@ depression_present: unknown
 headache_frequency: once a week
 pain_frequency: unknown
 muscle_symptoms_present: unknown
-jaw_clicking: right tmj | left tmj
+jaw_clicking: left tmj | right tmj
 previous_medications: unknown
-muscle_pain_score: unknown
+muscle_pain_score: moderate
 migraine_history: unknown
 headache_location: frontal | temporal
 current_appliance: unknown
@@ -42,5 +42,5 @@ current_medications: unknown
 disc_displacement: left disc anterior and medial displacement | right disc anterior and medial displacement | left disc anterior and medial displacement | right disc anterior and medial displacement
 muscle_pain_location: left retromandibular area
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics four times with the first beginning about the age of 6 with a palatal expander | last orthodontic appliances were only for a few months, 2 years ago
-joint_pain_areas: unknown
+appliance_history: orthodontics from age of 6 to 2 years ago
+joint_pain_areas: tmj | left tmj | right tmj

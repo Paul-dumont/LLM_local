@@ -42,5 +42,5 @@ current_medications: unknown
 disc_displacement: left disc anterior and early reduction | right disc anterior and early reduction | left disc dislocation | right disc dislocation
 muscle_pain_location: retromandibular areas
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics from 12 to 14-1/2
+appliance_history: orthodontics from the age of 12 to 14-1/2
 joint_pain_areas: knees | left tmj | right tmj

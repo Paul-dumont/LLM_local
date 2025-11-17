@@ -1,6 +1,6 @@
 patient_id: B183
 maximum_opening_without_pain: 25mm
-patient_age: 57 | 51
+patient_age: 57
 maximum_opening: 45mm
 pain_relieving_factors: unknown
 diet_score: 8
@@ -40,7 +40,7 @@ tmj_pain_rating: 8
 sleep_disorder_type: daytime somnolence
 current_medications: synthroid | zocor | singulair | motrin | ambien
 disc_displacement: left disc anterior displacement | right disc dislocation | right disc dislocation
-muscle_pain_location: temporalis | masseters | scms | posterior neck | shoulders
+muscle_pain_location: temporalis | masseters | scms | posterior neck | shoulders | tmjs
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics at age 51 | orthodontics for 2 years
 joint_pain_areas: tmj | left tmj | right tmj

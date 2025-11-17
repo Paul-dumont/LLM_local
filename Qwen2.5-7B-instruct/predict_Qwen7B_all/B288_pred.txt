@@ -13,7 +13,7 @@ vertigo_present: true
 hearing_loss_present: false
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: anterior bilateral posterior crossbites
+pain_aggravating_factors: anterior crossbite | posterior crossbite
 physical_therapy_status: unknown
 earache_present: false
 onset_triggers: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 1
 sleep_disorder_type: daytime somnolence
 current_medications: bcp | aspirin
-disc_displacement: left disc medial dislocation | right disc medial and posterior dislocation with reduction | left disc medial dislocation | right disc dislocation with reduction
+disc_displacement: left disc medial displacement | right disc medial and posterior displacement with reduction | left disc medial displacement | right disc medial and posterior displacement with reduction
 muscle_pain_location: styloid areas
 joint_arthritis_location: right tmj
-appliance_history: orthodontics from age 4 to last year
-joint_pain_areas: tmj | right tmj | left tmj
+appliance_history: maxillary expansion at age 4 | orthodontics last year
+joint_pain_areas: tmj | right tmj

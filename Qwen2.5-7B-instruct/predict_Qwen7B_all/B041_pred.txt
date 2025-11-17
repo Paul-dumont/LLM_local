@@ -42,5 +42,5 @@ current_medications: premarin | synthroid | bystolic | vytorin | fosamax | vitam
 disc_displacement: left disc anterior displacement without reduction | right disc dislocation
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
-appliance_history: unknown
+appliance_history: orthodontics since 3 years ago
 joint_pain_areas: right hip | left knee | left shoulder

@@ -37,7 +37,7 @@ autoimmune_condition: unknown
 pain_onset_date: 14 or 15 years of age
 jaw_crepitus: unknown
 tmj_pain_rating: severe
-sleep_disorder_type: snoring | daytime somnolence | sleep apnea symptoms | sleep disorder
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
 current_medications: vicodin | aspirin | excedrin
 disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction
 muscle_pain_location: styloid areas

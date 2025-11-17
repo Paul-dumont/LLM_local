@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 5 but can escalate to 8
 sleep_disorder_type: unknown
 current_medications: levothyroxine | detrol la | estrace | zestoretic | asacol
-disc_displacement: right disc posterior displacement
+disc_displacement: right disc posteriorly displaced
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown

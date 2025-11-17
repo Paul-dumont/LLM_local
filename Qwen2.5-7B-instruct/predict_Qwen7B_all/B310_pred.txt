@@ -26,11 +26,11 @@ headache_frequency: unknown
 pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: unknown
-previous_medications: growth hormone
+previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
 headache_location: temple | posterior head
-current_appliance: orthodontics
+current_appliance: orthodontics started earlier this year
 average_daily_pain_intensity: unknown
 headache_intensity: 3
 autoimmune_condition: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 0
 sleep_disorder_type: daytime somnolence
 current_medications: none
-disc_displacement: left disc anterior displacement with reduction | right disc anterior displacement with reduction
+disc_displacement: left disc anterior displacement | right disc anterior displacement
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
-appliance_history: palatal expander
+appliance_history: rapid palatal expander last year
 joint_pain_areas: unknown

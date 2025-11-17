@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 0
 sleep_disorder_type: snoring
 current_medications: unknown
-disc_displacement: left disc anterior displacement with early reduction | right disc anterior displacement with early reduction | left disc medial dislocation | right disc medial dislocation
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior displacement with early reduction | left disc medial displacement | right disc medial displacement
 muscle_pain_location: left masseter
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
-joint_pain_areas: left tmj
+joint_pain_areas: left tmj | right tmj

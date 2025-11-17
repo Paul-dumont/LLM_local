@@ -30,17 +30,17 @@ previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
 headache_location: temporal
-current_appliance: orthotic devices
+current_appliance: orthotic device
 average_daily_pain_intensity: 1
 headache_intensity: 8
 autoimmune_condition: unknown
 pain_onset_date: 6-7 years ago
 jaw_crepitus: left tmj | right tmj
 tmj_pain_rating: 0
-sleep_disorder_type: snoring | sleep apnea symptoms | daytime somnolence
+sleep_disorder_type: sleep apnea symptoms | snoring | daytime somnolence
 current_medications: unknown
 disc_displacement: left disc dislocation | right disc dislocation
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics for six years as a teenager
+appliance_history: orthodontics for 6 years as a teenager
 joint_pain_areas: right shoulder | knees | left ankle

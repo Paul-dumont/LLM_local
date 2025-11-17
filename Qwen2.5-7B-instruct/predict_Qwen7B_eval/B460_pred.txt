@@ -13,14 +13,14 @@ vertigo_present: true
 hearing_loss_present: false
 back_pain_present: unknown
 neck_pain_present: true
-pain_aggravating_factors: splint | right posterior crossbite
+pain_aggravating_factors: splint | clenching | bruxism | right posterior crossbite
 physical_therapy_status: physical therapy done
 earache_present: false
 onset_triggers: unknown
 adverse_reactions: sulfa
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: true
+airway_obstruction_present: false
 depression_present: unknown
 headache_frequency: daily
 pain_frequency: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: left tmj
 tmj_pain_rating: 8 but can escalate to 10
 sleep_disorder_type: daytime somnolence
 current_medications: lortab
-disc_displacement: left disc dislocation | right disc dislocation | left disc dislocation | right disc dislocation
+disc_displacement: left disc dislocation | right disc dislocation
 muscle_pain_location: masseter | styloid areas | posterior neck | medial pterygoids | temporalis | scms | shoulders
 joint_arthritis_location: unknown
 appliance_history: splint therapy x4 | orthotic | bionater | orthotic
-joint_pain_areas: tmj | left tmj | right tmj
+joint_pain_areas: tmj | left tmj | left tmj | left tmj | right tmj

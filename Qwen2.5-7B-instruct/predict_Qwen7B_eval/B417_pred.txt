@@ -42,5 +42,5 @@ current_medications: yasmin | topamax | aleve
 disc_displacement: left disc anterior dislocation without reduction | right disc dislocation with reduction | left disc dislocation with early reduction | right disc dislocation with late reduction
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
-appliance_history: lower splint made 5 years ago | upper splint for about 8 months
-joint_pain_areas: tmj | left tmj | right tmj | ankles | knees | wrists
+appliance_history: lower splint for about 1 year | upper splint for about 8 months
+joint_pain_areas: tmj | left tmj | right tmj

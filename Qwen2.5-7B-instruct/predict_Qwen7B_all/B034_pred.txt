@@ -6,7 +6,7 @@ pain_relieving_factors: unknown
 diet_score: 9
 pain_duration: unknown
 disability_rating: 10
-sleep_apnea_diagnosed: true
+sleep_apnea_diagnosed: unknown
 jaw_function_score: 9
 tinnitus_present: true
 vertigo_present: true
@@ -20,7 +20,7 @@ onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: true
-airway_obstruction_present: false
+airway_obstruction_present: true
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
@@ -37,10 +37,4 @@ autoimmune_condition: unknown
 pain_onset_date: 8 years ago
 jaw_crepitus: unknown
 tmj_pain_rating: 10
-sleep_disorder_type: daytime somnolence | snoring | snoring | sleep apnea
-current_medications: vyvanse | synthroid | reglan | mobic | fioricet | treximet | xanax
-disc_displacement: left disc anterior displacement with early reduction | right disc anterior displacement without reduction | left disc dislocation without reduction | right disc dislocation without reduction
-muscle_pain_location: right temporalis | right medial pterygoid | right retromandibular area | right shoulder
-joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics beginning at age 25 | splint beginning 1 month ago
-joint_pain_areas: tmj | right tmj | left tmj | right tmj | right tmj
+sleep_disorder_type: daytime somnolence | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | snoring | sn

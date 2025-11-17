@@ -20,7 +20,7 @@ onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: true
-airway_obstruction_present: unknown
+airway_obstruction_present: false
 depression_present: unknown
 headache_frequency: worse towards the end of the day
 pain_frequency: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 3
 sleep_disorder_type: daytime somnolence
 current_medications: unknown
-disc_displacement: left disc anteromedially dislocated | right disc anteriorly dislocated without reduction | left disc anteriorly dislocated with early reduction
+disc_displacement: left disc anteriorly dislocation with early reduction | right disc anteromedially dislocated | right disc anteriorly dislocation without reduction
 muscle_pain_location: unknown
 joint_arthritis_location: right tmj
 appliance_history: unknown
-joint_pain_areas: tmj | left tmj | right tmj
+joint_pain_areas: tmj | right tmj | left tmj

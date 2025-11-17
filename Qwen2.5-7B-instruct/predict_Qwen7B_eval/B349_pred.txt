@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 5
 sleep_disorder_type: unknown
 current_medications: adderall | prozac
-disc_displacement: left disc anteromedially displaced with reduction | right disc anterior displacement with reduction | left disc dislocation with reduction | right disc dislocation with reduction
+disc_displacement: left disc anteromedial displacement with reduction | right disc anterior displacement with reduction | left disc dislocation with reduction | right disc dislocation with reduction
 muscle_pain_location: masseters | styloid areas
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
-joint_pain_areas: tmj
+joint_pain_areas: tmj | left tmj | right tmj

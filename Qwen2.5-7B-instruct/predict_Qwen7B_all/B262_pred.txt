@@ -14,13 +14,13 @@ hearing_loss_present: unknown
 back_pain_present: true
 neck_pain_present: true
 pain_aggravating_factors: splint | chiropractic treatment
-physical_therapy_status: physical therapy
+physical_therapy_status: physical therapy | physical therapy | physical therapy | physical therapy
 earache_present: true
 onset_triggers: chiropractic treatment
 adverse_reactions: botox | medications | kidney infection
 fibromyalgia_present: true
 jaw_locking: true
-airway_obstruction_present: false | true
+airway_obstruction_present: false
 depression_present: unknown
 headache_frequency: daily | twice a week
 pain_frequency: unknown
@@ -30,7 +30,7 @@ previous_medications: unknown
 muscle_pain_score: severe
 migraine_history: true
 headache_location: left frontal | left temporal | left posterior head | right frontal | right temporal | right posterior head
-current_appliance: unknown
+current_appliance: splint
 average_daily_pain_intensity: 8
 headache_intensity: 8 | severe
 autoimmune_condition: hashimoto's thyroiditis
@@ -42,5 +42,5 @@ current_medications: unknown
 disc_displacement: left disc dislocation with early reduction | right disc dislocation with early reduction | left disc dislocation in a vertical direction and probably in a pre-click position with early reduction | right disc dislocation with early reduction
 muscle_pain_location: temples | shoulders | neck | head | jaw
 joint_arthritis_location: left tmj | right tmj
-appliance_history: splint treatment x 4 | equilibrations on her teeth
+appliance_history: orthodontics as a teenager | splint treatment x 4
 joint_pain_areas: tmj | back | neck | shoulders | elbows | wrists | fingers | hips | knees | ankles | feet | toes

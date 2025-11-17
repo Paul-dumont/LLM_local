@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 0
 sleep_disorder_type: unknown
 current_medications: flonase | allegra
-disc_displacement: right disc anterior displacement with reduction | left disc posterior displacement | right disc dislocation
+disc_displacement: left disc posterior displacement | right disc anterior displacement with reduction | right disc dislocation
 muscle_pain_location: temporalis | right masseter | styloid areas | scms | posterior neck
 joint_arthritis_location: right tmj
-appliance_history: orthodontics for five to six years with headgear and maxillary expansion 5 years ago
+appliance_history: orthodontics for 5 to 6 years with headgear and maxillary expansion 5 years ago
 joint_pain_areas: left hip | knees | ankles

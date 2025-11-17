@@ -40,7 +40,7 @@ tmj_pain_rating: 8
 sleep_disorder_type: daytime somnolence
 current_medications: synthroid | zocor | singulair | motrin | ambien
 disc_displacement: left disc anterior displacement | right disc dislocation | right disc dislocation
-muscle_pain_location: temporalis | masseters | scms | posterior neck | shoulders
+muscle_pain_location: temporalis | masseters | scms | posterior neck | shoulders | tmjs
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics at age 51 that lasted 2 years | orthodontics 5 years ago
+appliance_history: orthodontics at age 51 | orthodontics for 2 years
 joint_pain_areas: tmj | left tmj | right tmj

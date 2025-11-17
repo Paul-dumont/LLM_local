@@ -37,7 +37,7 @@ autoimmune_condition: rheumatoid arthritis | rheumatoid arthritis | antiphosphol
 pain_onset_date: 5-9 years ago
 jaw_crepitus: unknown
 tmj_pain_rating: 3
-sleep_disorder_type: sleep apnea | sleep apnea
+sleep_disorder_type: sleep apnea | sleep apnea | sleep apnea | sleep apnea
 current_medications: synthroid | vitamins | minerals
 disc_displacement: unknown
 muscle_pain_location: unknown

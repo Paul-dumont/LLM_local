@@ -29,7 +29,7 @@ jaw_clicking: left tmj | right tmj
 previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
-headache_location: frontal | temple | back of the head | behind her eyes
+headache_location: frontal | temple | behind her eyes | back of the head
 current_appliance: unknown
 average_daily_pain_intensity: 5
 headache_intensity: 7 but can escalate to 10 | present
@@ -42,5 +42,5 @@ current_medications: effexor | miralax | advil
 disc_displacement: left disc anterior displacement | right disc anterior displacement
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics at the age of 20 | orthodontics 11 months ago
+appliance_history: orthodontics at the age of 20 for about 2 years | 5 splints to date | orthodontics 11 months ago
 joint_pain_areas: tmj | left tmj | right tmj

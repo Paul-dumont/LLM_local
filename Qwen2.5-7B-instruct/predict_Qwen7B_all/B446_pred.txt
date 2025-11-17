@@ -30,7 +30,7 @@ previous_medications: unknown
 muscle_pain_score: moderate to severe
 migraine_history: unknown
 headache_location: frontal | temporal | posterior head
-current_appliance: splint since 8 months
+current_appliance: splint since 8 months ago
 average_daily_pain_intensity: 8
 headache_intensity: 8 | present
 autoimmune_condition: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 8
 sleep_disorder_type: snoring
 current_medications: none
-disc_displacement: left disc lateral and anterior displacement without reduction | right disc anterior displacement without reduction | left disc lateral and anterior displacement | right disc anterior displacement
+disc_displacement: left disc lateral and anterior displacement | right disc anterior displacement without reduction | left disc lateral and anterior displacement | right disc anterior displacement without reduction
 muscle_pain_location: temporalis | masseter | styloid | scms | posterior neck | shoulders | left medial pterygoid area
 joint_arthritis_location: right tmj
-appliance_history: orthodontics at 16 | splints
-joint_pain_areas: tmj | left tmj | right tmj
+appliance_history: orthodontics at 16 | splints from 2 years ago
+joint_pain_areas: tmj | knees

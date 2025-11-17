@@ -30,11 +30,11 @@ previous_medications: unknown
 muscle_pain_score: mild
 migraine_history: true
 headache_location: frontotemporal | posterior head
-current_appliance: orthodontic treatment since 2 years ago
+current_appliance: unknown
 average_daily_pain_intensity: 4
 headache_intensity: 6 | present
 autoimmune_condition: unknown
-pain_onset_date: 19 years old
+pain_onset_date: 19 years of age
 jaw_crepitus: unknown
 tmj_pain_rating: 2
 sleep_disorder_type: unknown
@@ -42,5 +42,5 @@ current_medications: zocor | ambien
 disc_displacement: left disc medial displacement | right disc medial displacement | left disc medial displacement | right disc medial displacement
 muscle_pain_location: temporalis | styloid areas
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontic treatment at 14 years old
+appliance_history: orthodontic treatment at 14 | orthodontic treatment 2 years ago
 joint_pain_areas: left tmj | right tmj

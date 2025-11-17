@@ -17,7 +17,7 @@ pain_aggravating_factors: clenching | bruxism
 physical_therapy_status: unknown
 earache_present: true
 onset_triggers: traction for a neck injury
-adverse_reactions: demerol | hydrocodone
+adverse_reactions: pollen | cats | dust | sycamore | timothy
 fibromyalgia_present: unknown
 jaw_locking: unknown
 airway_obstruction_present: unknown
@@ -43,4 +43,4 @@ disc_displacement: left disc dislocation in a medial direction | right disc disl
 muscle_pain_location: left medial pterygoid | left scm
 joint_arthritis_location: left tmj
 appliance_history: splint 7 to 2 years ago
-joint_pain_areas: thumbs | left hip | left tmj | right tmj
+joint_pain_areas: left tmj | right tmj | left hip | thumbs | cervical vertebrae

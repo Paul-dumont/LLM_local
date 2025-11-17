@@ -1,5 +1,5 @@
 patient_id: B515
-maximum_opening_without_pain: unknown
+maximum_opening_without_pain: 39mm
 patient_age: 19
 maximum_opening: 63mm
 pain_relieving_factors: unknown
@@ -20,7 +20,7 @@ onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: unknown
+airway_obstruction_present: true
 depression_present: unknown
 headache_frequency: five times per week
 pain_frequency: unknown
@@ -34,12 +34,12 @@ current_appliance: 3 x 3 retainer in the mandible
 average_daily_pain_intensity: 8
 headache_intensity: present
 autoimmune_condition: unknown
-pain_onset_date: age of 14
+pain_onset_date: around the age of 14
 jaw_crepitus: unknown
 tmj_pain_rating: 8
 sleep_disorder_type: unknown
 current_medications: norco | diazepam | adderrall | ibuprofen | soma
-disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement with reduction | left disc anterior displacement | right disc dislocation | left disc dislocation
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement with reduction | left disc anterior displacement | right disc dislocation
 muscle_pain_location: masseters | temporalis
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from the age of 7 to 14

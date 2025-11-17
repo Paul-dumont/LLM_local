@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 3
 sleep_disorder_type: sleep apnea | snoring | frequent awakenings at night | daytime tiredness
 current_medications: unknown
-disc_displacement: left disc anterolaterally displaced with reduction | right disc anterolaterally displaced with reduction | left disc dislocation with early reduction | right disc dislocation with early reduction
+disc_displacement: left disc anterolaterally displaced with reduction | right disc anterolaterally displaced with reduction
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics at the age of 32 for about 1.5 years

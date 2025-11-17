@@ -41,6 +41,6 @@ sleep_disorder_type: unknown
 current_medications: singulair | allegra | nasacort
 disc_displacement: left disc anterior displacement with early reduction | right disc dislocation with reduction | left disc dislocation with early reduction | right disc dislocation with reduction
 muscle_pain_location: left masseter | right styloid area | bilateral scms
-joint_arthritis_location: left tmj | right tmj
+joint_arthritis_location: left tmj
 appliance_history: palatal expander x 2 | expansion on the lower arch
-joint_pain_areas: tmj | left tmj | right tmj
+joint_pain_areas: left tmj | right tmj

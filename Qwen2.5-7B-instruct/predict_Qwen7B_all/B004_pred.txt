@@ -32,7 +32,7 @@ migraine_history: true
 headache_location: unknown
 current_appliance: splint
 average_daily_pain_intensity: unknown
-headache_intensity: 3 when without splint | 0 with splint
+headache_intensity: 3
 autoimmune_condition: unknown
 pain_onset_date: unknown
 jaw_crepitus: unknown

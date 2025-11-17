@@ -22,7 +22,7 @@ fibromyalgia_present: unknown
 jaw_locking: unknown
 airway_obstruction_present: true
 depression_present: true
-headache_frequency: increasing frequency
+headache_frequency: increasing
 pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: left tmj | right tmj
@@ -43,4 +43,4 @@ disc_displacement: left disc anteriorly displaced with early reduction | right d
 muscle_pain_location: right posterior body of the masseter
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics at 15 for about 1 year
-joint_pain_areas: tmj | right tmj | right knee | si joint
+joint_pain_areas: right tmj | right knee | si joint

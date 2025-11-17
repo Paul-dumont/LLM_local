@@ -14,7 +14,7 @@ hearing_loss_present: true
 back_pain_present: unknown
 neck_pain_present: unknown
 pain_aggravating_factors: unknown
-physical_therapy_status: physical therapy | splint therapy for two years
+physical_therapy_status: physical therapy
 earache_present: true
 onset_triggers: yawned and her jaw locked open
 adverse_reactions: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 9
 sleep_disorder_type: unknown
 current_medications: percocet | uptagin
-disc_displacement: left disc medial displacement | right disc anterior and medial displacement with early reduction
-muscle_pain_location: left tmj
+disc_displacement: left disc medial displacement | right disc anterior and medial displacement | left disc medially displaced, but ap in normal position with degeneration | right disc anterior and medially displaced with early reduction
+muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
-appliance_history: splint for two years
-joint_pain_areas: knees | hips | left tmj
+appliance_history: splint for two years | two splints
+joint_pain_areas: tmj | knees | hips

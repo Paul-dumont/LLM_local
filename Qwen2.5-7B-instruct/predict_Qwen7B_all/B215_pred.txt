@@ -17,17 +17,17 @@ pain_aggravating_factors: right lateral incisor and cuspid cross bite
 physical_therapy_status: unknown
 earache_present: false
 onset_triggers: dental work and being held open for a while
-adverse_reactions: surgical iodine
+adverse_reactions: surgical iodine | food | jewelry
 fibromyalgia_present: unknown
 jaw_locking: unknown
 airway_obstruction_present: true
 depression_present: unknown
 headache_frequency: every 2 weeks
 pain_frequency: unknown
-muscle_symptoms_present: true
+muscle_symptoms_present: unknown
 jaw_clicking: right tmj
 previous_medications: unknown
-muscle_pain_score: mild
+muscle_pain_score: moderate
 migraine_history: unknown
 headache_location: frontal | temporal | top of head
 current_appliance: unknown

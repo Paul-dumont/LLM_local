@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 7
 sleep_disorder_type: snoring | daytime somnolence
 current_medications: unknown
-disc_displacement: right disc anteriorly and medially displaced with significantly limited translation | left disc anteriorly and medially displaced
-muscle_pain_location: through most of the head and neck area | platysmal muscle | shoulder
+disc_displacement: left disc anterior and medial displacement with reduction | right disc anterior and medial displacement | left disc anterior and medial displacement | right disc anterior and medial displacement
+muscle_pain_location: through most of the head and neck area | down through her neck | into her shoulder area | platysmal muscle
 joint_arthritis_location: right tmj
 appliance_history: unknown
 joint_pain_areas: tmj | left tmj | right tmj

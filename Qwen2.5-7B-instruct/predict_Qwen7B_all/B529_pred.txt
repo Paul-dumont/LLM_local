@@ -13,7 +13,7 @@ vertigo_present: false
 hearing_loss_present: false
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: clenching | right buccal crossbite | left buccal crossbite
+pain_aggravating_factors: clenching | right buccal crossbite | left crossbite
 physical_therapy_status: unknown
 earache_present: false
 onset_triggers: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 2
 sleep_disorder_type: daytime somnolence
 current_medications: none
-disc_displacement: left disc anterior displacement without reduction | right disc anteromedial displacement with reduction | left disc dislocation without reduction | right disc dislocation with reduction
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement with reduction | left disc dislocation without reduction | right disc dislocation with reduction
 muscle_pain_location: unknown
-joint_arthritis_location: left tmj
+joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from 11 to 13
-joint_pain_areas: tmj | left tmj
+joint_pain_areas: tmj | left tmj | right tmj

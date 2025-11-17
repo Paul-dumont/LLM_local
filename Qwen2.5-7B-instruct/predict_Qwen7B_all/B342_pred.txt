@@ -24,10 +24,10 @@ airway_obstruction_present: unknown
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
-muscle_symptoms_present: true
+muscle_symptoms_present: unknown
 jaw_clicking: unknown
 previous_medications: unknown
-muscle_pain_score: moderate to mild
+muscle_pain_score: unknown
 migraine_history: unknown
 headache_location: unknown
 current_appliance: splint that she wears 24/7 and has done this for about 7 months
@@ -40,7 +40,7 @@ tmj_pain_rating: 0
 sleep_disorder_type: snoring | sleep disorder
 current_medications: synthroid | prefest | aciphex
 disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation without reduction | right disc dislocation without reduction
-muscle_pain_location: right styloid | shoulders | left styloid
+muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: ortho for the past two years
 joint_pain_areas: left shoulder | right hip | neck | left tmj | right tmj

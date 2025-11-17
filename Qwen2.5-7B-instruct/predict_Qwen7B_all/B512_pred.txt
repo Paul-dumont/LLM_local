@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 5
 sleep_disorder_type: unknown
 current_medications: none
-disc_displacement: right disc anterior displacement | right disc dislocation | left disc dislocation
+disc_displacement: left disc probable in good position | right disc anterior displacement
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: headgear or facemask apparatus
-joint_pain_areas: knees | ankles | right 4th finger | left tmj | right tmj
+joint_pain_areas: knees | ankles | right 4th finger

@@ -13,7 +13,7 @@ vertigo_present: false
 hearing_loss_present: false
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: left posterior cross bite tendency | left posterior cross bite tendency
+pain_aggravating_factors: clenching | left posterior cross bite tendency
 physical_therapy_status: unknown
 earache_present: true
 onset_triggers: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: right tmj
 tmj_pain_rating: 5
 sleep_disorder_type: unknown
 current_medications: none
-disc_displacement: left disc anterior displacement with early reduction | right disc anterior displacement with early reduction | left disc dislocation with reduction | right disc dislocation with reduction
+disc_displacement: left disc anterior displacement with early reduction | right disc dislocation with reduction | left disc dislocation with reduction | right disc dislocation with reduction
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics as a teenager | orthodontics at 54 years of age
+appliance_history: orthodontics as a teenager
 joint_pain_areas: tmj | left tmj | right tmj

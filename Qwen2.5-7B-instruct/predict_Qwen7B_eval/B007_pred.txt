@@ -32,7 +32,7 @@ migraine_history: unknown
 headache_location: temporal | posterior head
 current_appliance: 3 x 3 retainer in the lower arch
 average_daily_pain_intensity: unknown
-headache_intensity: 6 | present
+headache_intensity: 6
 autoimmune_condition: unknown
 pain_onset_date: 14 years of age
 jaw_crepitus: unknown
@@ -42,5 +42,5 @@ current_medications: unknown
 disc_displacement: right disc dislocation with very late reduction | left disc dislocation
 muscle_pain_location: temporalis | masseter
 joint_arthritis_location: right tmj
-appliance_history: orthodontics from 9 to 12
+appliance_history: orthodontics from 9 to 12 years of age
 joint_pain_areas: tmj | knees

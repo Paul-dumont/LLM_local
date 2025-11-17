@@ -30,7 +30,7 @@ previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
 headache_location: unknown
-current_appliance: 3 x 3 retainer in the lower anterior arch
+current_appliance: 3 x 3 retainer in the lower arch
 average_daily_pain_intensity: unknown
 headache_intensity: 0
 autoimmune_condition: hashimoto's thyroiditis

@@ -35,11 +35,11 @@ average_daily_pain_intensity: 7
 headache_intensity: 5 | present
 autoimmune_condition: unknown
 pain_onset_date: 15 years old
-jaw_crepitus: true
+jaw_crepitus: tmj
 tmj_pain_rating: 7
 sleep_disorder_type: unknown
 current_medications: unknown
-disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation without reduction | right disc dislocation without reduction
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc medial and anterior displacement | right disc medial and anterior displacement
 muscle_pain_location: masseters | retromandibular area
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from 12 to 13 years old | orthodontics from 15 to 17 years old

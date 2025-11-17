@@ -2,7 +2,7 @@ patient_id: B141
 maximum_opening_without_pain: unknown
 patient_age: 33
 maximum_opening: 41mm
-pain_relieving_factors: splint
+pain_relieving_factors: unknown
 diet_score: 0
 pain_duration: unknown
 disability_rating: 0
@@ -24,17 +24,17 @@ airway_obstruction_present: true
 depression_present: true
 headache_frequency: once per week
 pain_frequency: unknown
-muscle_symptoms_present: unknown
+muscle_symptoms_present: false
 jaw_clicking: left tmj | right tmj
 previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
 headache_location: frontal | temporal
-current_appliance: splint since 30 years of age
+current_appliance: splint since 30 years old
 average_daily_pain_intensity: 3
 headache_intensity: 2 | present
 autoimmune_condition: connective tissue autoimmune disease
-pain_onset_date: 29 years of age
+pain_onset_date: 29 years old
 jaw_crepitus: unknown
 tmj_pain_rating: 2
 sleep_disorder_type: unknown
@@ -42,5 +42,5 @@ current_medications: wellbutrin
 disc_displacement: unknown
 muscle_pain_location: left masseter
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics at 12 to 13 years of age | head gear to pull the upper teeth back to meet the lower teeth | lower retainer that was fixed in place for about 3 years
-joint_pain_areas: shoulders | right ankle | left tmj | right tmj
+appliance_history: orthodontics at 12 to 13 years old | head gear to pull the upper teeth back to meet the lower teeth | lower retainer that was fixed in place for about 3 years
+joint_pain_areas: shoulders | right ankle

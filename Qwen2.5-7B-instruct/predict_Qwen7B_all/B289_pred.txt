@@ -12,7 +12,7 @@ tinnitus_present: unknown
 vertigo_present: unknown
 hearing_loss_present: unknown
 back_pain_present: unknown
-neck_pain_present: false
+neck_pain_present: unknown
 pain_aggravating_factors: left posterior crossbite
 physical_therapy_status: unknown
 earache_present: unknown
@@ -30,7 +30,7 @@ previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
 headache_location: frontal
-current_appliance: braces for about 2 years
+current_appliance: unknown
 average_daily_pain_intensity: 1
 headache_intensity: 5
 autoimmune_condition: unknown
@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 3
 sleep_disorder_type: unknown
 current_medications: adderall
-disc_displacement: right disc may be displaced | right discal tissue in the joint area
+disc_displacement: right disc may be displaced | right discal tissue
 muscle_pain_location: unknown
 joint_arthritis_location: right tmj
 appliance_history: maxillary expander and retainers | braces 2 years ago

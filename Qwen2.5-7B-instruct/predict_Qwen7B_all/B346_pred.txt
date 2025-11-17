@@ -30,7 +30,7 @@ previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
 headache_location: right frontal | right temporal
-current_appliance: unknown
+current_appliance: splint
 average_daily_pain_intensity: 1
 headache_intensity: 6
 autoimmune_condition: psoriasis
@@ -42,5 +42,5 @@ current_medications: lexapro | wellbutrin | tylenol pm | tylenol
 disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction
 muscle_pain_location: unknown
 joint_arthritis_location: right tmj
-appliance_history: splint 30 years ago | splint for 2 years prior to this episode | day and nighttime splints
+appliance_history: splint 30 years ago | splint for 2 years prior to this episode
 joint_pain_areas: right tmj | right shoulder | right arm

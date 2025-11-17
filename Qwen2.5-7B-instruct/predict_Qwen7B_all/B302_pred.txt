@@ -25,7 +25,7 @@ depression_present: unknown
 headache_frequency: two times per month
 pain_frequency: unknown
 muscle_symptoms_present: true
-jaw_clicking: left tmj | right tmj
+jaw_clicking: right tmj
 previous_medications: unknown
 muscle_pain_score: mild
 migraine_history: unknown
@@ -39,7 +39,7 @@ jaw_crepitus: right tmj
 tmj_pain_rating: 2
 sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
 current_medications: none
-disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
 muscle_pain_location: right masseter
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown

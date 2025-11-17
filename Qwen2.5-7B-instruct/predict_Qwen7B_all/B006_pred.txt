@@ -16,7 +16,7 @@ neck_pain_present: unknown
 pain_aggravating_factors: clenching | bruxism
 physical_therapy_status: physical therapy
 earache_present: true
-onset_triggers: unknown
+onset_triggers: yawned and heard a large cracking noise in the left jaw joint
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
@@ -25,7 +25,7 @@ depression_present: unknown
 headache_frequency: one to two times per week
 pain_frequency: unknown
 muscle_symptoms_present: unknown
-jaw_clicking: left tmj
+jaw_clicking: unknown
 previous_medications: unknown
 muscle_pain_score: severe
 migraine_history: unknown
@@ -42,5 +42,5 @@ current_medications: tylenol
 disc_displacement: unknown
 muscle_pain_location: temporalis | masseters | retromandibular area | shoulders | medial pterygoids | scms
 joint_arthritis_location: left tmj | right tmj
-appliance_history: splint 2 years ago
+appliance_history: splint therapy 2 years ago
 joint_pain_areas: tmj | left tmj | right tmj | shoulders

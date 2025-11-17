@@ -17,7 +17,7 @@ pain_aggravating_factors: clenching | right lateral and posterior open bite
 physical_therapy_status: unknown
 earache_present: false
 onset_triggers: unknown
-adverse_reactions: animals | trees | grasses | weeds | dust | cheap earrings
+adverse_reactions: animals | trees | grasses | weeds | dust
 fibromyalgia_present: unknown
 jaw_locking: unknown
 airway_obstruction_present: true
@@ -36,11 +36,11 @@ headache_intensity: 5 | present
 autoimmune_condition: unknown
 pain_onset_date: 15 to 16 years of age
 jaw_crepitus: unknown
-tmj_pain_rating: 7 right side | 4 left side
+tmj_pain_rating: 7 right | 4 left
 sleep_disorder_type: unknown
 current_medications: zyrtec | tylenol
-disc_displacement: left disc anterior displacement with early reduction | left disc dislocation | right disc dislocation
+disc_displacement: left disc anterior displacement with early reduction | right disc dislocation
 muscle_pain_location: right temporalis
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics at the age of 10 with a bionator | orthodontics from the age of 10 to 14
-joint_pain_areas: tmj | wrists | hips | right tmj | left tmj
+joint_pain_areas: wrists | hips | right tmj

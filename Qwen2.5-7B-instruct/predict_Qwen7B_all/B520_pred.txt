@@ -38,7 +38,7 @@ pain_onset_date: 13 years old
 jaw_crepitus: unknown
 tmj_pain_rating: 8
 sleep_disorder_type: daytime somnolence | sleep disorder
-current_medications: daypro | birth control pills | enbrel
+current_medications: daypro | birth control pills
 disc_displacement: left disc anterior displacement | right disc anterior displacement
 muscle_pain_location: masseters | retromandibular area
 joint_arthritis_location: left tmj | right tmj

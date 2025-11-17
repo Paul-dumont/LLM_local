@@ -20,9 +20,9 @@ onset_triggers: unknown
 adverse_reactions: pollen | dust
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: true
+airway_obstruction_present: false | true
 depression_present: unknown
-headache_frequency: two times per month during the summer | during the school year, they are more common
+headache_frequency: two times per month during the summer | more common during the school year
 pain_frequency: unknown
 muscle_symptoms_present: true
 jaw_clicking: unknown
@@ -38,8 +38,8 @@ pain_onset_date: unknown
 jaw_crepitus: unknown
 tmj_pain_rating: 5 but can escalate to 8
 sleep_disorder_type: unknown
-current_medications: zyrtec | rhinocort | strattera
-disc_displacement: left disc medial displacement | right disc anterior and medial displacement
+current_medications: zyrtec | strattera
+disc_displacement: left disc medial dislocation | right disc anterior and medial dislocation
 muscle_pain_location: styloid areas
 joint_arthritis_location: unknown
 appliance_history: unknown

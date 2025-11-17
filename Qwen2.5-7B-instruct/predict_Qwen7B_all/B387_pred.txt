@@ -43,4 +43,4 @@ disc_displacement: left disc medial and anterior displacement | right disc media
 muscle_pain_location: left temporalis | left masseter | left medial pterygoid | styloid area
 joint_arthritis_location: left tmj | right tmj
 appliance_history: splints for two years
-joint_pain_areas: tmj | left tmj | right tmj | left-sided ear | bones in her neck | back | hips | left knee
+joint_pain_areas: tmj | left tmj | right tmj | neck | back | hips | left knee

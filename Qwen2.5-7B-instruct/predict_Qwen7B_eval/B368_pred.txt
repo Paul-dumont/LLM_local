@@ -2,7 +2,7 @@ patient_id: B368
 maximum_opening_without_pain: unknown
 patient_age: 23
 maximum_opening: unknown
-pain_relieving_factors: splints
+pain_relieving_factors: unknown
 diet_score: 1
 pain_duration: unknown
 disability_rating: 5

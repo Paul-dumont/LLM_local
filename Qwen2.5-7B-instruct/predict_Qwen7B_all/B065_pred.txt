@@ -30,7 +30,7 @@ previous_medications: unknown
 muscle_pain_score: mild
 migraine_history: unknown
 headache_location: frontal
-current_appliance: orthodontics from 12 to 14 | retainers
+current_appliance: orthodontics from 12 to 14
 average_daily_pain_intensity: unknown
 headache_intensity: present
 autoimmune_condition: unknown

@@ -20,12 +20,12 @@ onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: false
+airway_obstruction_present: unknown
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
 muscle_symptoms_present: false
-jaw_clicking: left tmj | left tmj
+jaw_clicking: left tmj
 previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
@@ -42,5 +42,5 @@ current_medications: none
 disc_displacement: left disc anterior and medial displacement without reduction | right disc medial displacement
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics from 13 to 15 years ago at the age of 16 | orthodontics from 14 to 12 years ago at the age of 28
+appliance_history: orthodontics from 13 to 15 years ago | orthodontics from 14 to 12 years ago
 joint_pain_areas: right tmj | left tmj | right knee

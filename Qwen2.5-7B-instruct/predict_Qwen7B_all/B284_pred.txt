@@ -30,7 +30,7 @@ previous_medications: amitriptyline | depakote | 30 different medications
 muscle_pain_score: mild
 migraine_history: true
 headache_location: left side | right side
-current_appliance: splint
+current_appliance: splint since 3 years ago
 average_daily_pain_intensity: 5
 headache_intensity: 5 but can escalate to 10 | present
 autoimmune_condition: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 5 but can escalate to 10
 sleep_disorder_type: unknown
 current_medications: birth control pills
-disc_displacement: left disc anteriorly displaced with early reduction | right disc medial displacement | left disc dislocation | right disc dislocation
+disc_displacement: left disc anteriorly displaced with early reduction | right disc medial displacement
 muscle_pain_location: left styloid area | left medial pterygoid area
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics 4 years ago | splint 3 years ago until now
+appliance_history: orthodontics 4 years ago
 joint_pain_areas: tmj | left tmj | right tmj

@@ -20,7 +20,7 @@ onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: true
-airway_obstruction_present: true
+airway_obstruction_present: false
 depression_present: unknown
 headache_frequency: daily
 pain_frequency: unknown
@@ -43,4 +43,4 @@ disc_displacement: left disc dislocation with early reduction | right disc dislo
 muscle_pain_location: right posterior neck | left styloid area | temporalis | masseters | medial pterygoids | scms | shoulders | left posterior neck | right styloid area
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics 12 years ago for one year | splints since 12 years ago
-joint_pain_areas: tmj | neck | left elbow | wrist
+joint_pain_areas: tmj | left tmj | right tm

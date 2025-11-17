@@ -13,7 +13,7 @@ vertigo_present: false
 hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: right buccal crossbite tendency
+pain_aggravating_factors: right posterior cross bite | left posterior cross bite
 physical_therapy_status: unknown
 earache_present: false
 onset_triggers: unknown

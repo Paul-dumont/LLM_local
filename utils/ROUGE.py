@@ -3,8 +3,8 @@ import json
 from rouge_score import rouge_scorer, scoring
 
 # Paths
-manual_folder = "/home/luciacev/Desktop/LLM/Data_output_harmonized"
-llm_folder = "/home/luciacev/Desktop/LLM/Qwen1.5B_full_V3_local/predictions_harmonized_harmonized"
+manual_folder = "/home/luciacev/Desktop/LLM/data_predicition/data_max_harmonized"
+llm_folder = "/home/luciacev/Desktop/LLM/Mistral-7B-instruct/predict_Mistral7B_eval"
 
 if not os.path.exists(manual_folder) or not os.path.exists(llm_folder):
     print("Error: Folders not found.")

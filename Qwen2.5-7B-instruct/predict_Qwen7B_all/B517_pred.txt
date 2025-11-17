@@ -12,8 +12,8 @@ tinnitus_present: unknown
 vertigo_present: unknown
 hearing_loss_present: unknown
 back_pain_present: unknown
-neck_pain_present: true
-pain_aggravating_factors: clenching | anterior deep bite
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | bruxism
 physical_therapy_status: physical therapy | chiropractic treatments
 earache_present: unknown
 onset_triggers: motor vehicle accident 15 years ago where she had facial injuries and had her lower jaw apparently pushed backwards
@@ -24,7 +24,7 @@ airway_obstruction_present: false
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
-muscle_symptoms_present: unknown
+muscle_symptoms_present: true
 jaw_clicking: left tmj | right tmj
 previous_medications: unknown
 muscle_pain_score: mild to moderate
@@ -42,5 +42,5 @@ current_medications: antidepressants | pain medications | muscle relaxants
 disc_displacement: left disc dislocation with reduction | right disc dislocation
 muscle_pain_location: right temporalis | right masseter | right styloid | right scm | posterior neck
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics back around 15 years ago | nightguard treatment to try and get her more comfortable | splints | bite alignment procedures
+appliance_history: orthodontics back around 15 years ago | nightguard treatment | splints | bite alignment procedures
 joint_pain_areas: tmj | left tmj | right tmj

@@ -12,7 +12,7 @@ tinnitus_present: false
 vertigo_present: false
 hearing_loss_present: false
 back_pain_present: unknown
-neck_pain_present: true
+neck_pain_present: unknown
 pain_aggravating_factors: anterior open bite | clenching | bruxism
 physical_therapy_status: physical therapy to initiate good lip closure at age 11
 earache_present: false

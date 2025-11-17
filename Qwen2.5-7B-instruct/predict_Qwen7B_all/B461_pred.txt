@@ -30,7 +30,7 @@ previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
 headache_location: right frontal | temple | posterior head
-current_appliance: orthodontics since 3 years ago | removable splint since earlier this year
+current_appliance: orthodontics since 3 years ago
 average_daily_pain_intensity: 4
 headache_intensity: 5 | present
 autoimmune_condition: unknown
@@ -43,4 +43,4 @@ disc_displacement: left disc dislocation laterally | right disc dislocation late
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
-joint_pain_areas: tmj | right tmj | left tmj
+joint_pain_areas: tmj | right tmj

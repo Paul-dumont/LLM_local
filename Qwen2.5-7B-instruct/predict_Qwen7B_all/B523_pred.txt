@@ -22,14 +22,14 @@ fibromyalgia_present: unknown
 jaw_locking: unknown
 airway_obstruction_present: true
 depression_present: unknown
-headache_frequency: right-sided earaches 6 to 10 times a day
+headache_frequency: unknown
 pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: unknown
-previous_medications: botox injections | prp injections
+previous_medications: botox | prp injections
 muscle_pain_score: moderate
 migraine_history: unknown
-headache_location: right side in the frontotemporal area
+headache_location: right side | frontotemporal
 current_appliance: splint since 18 years ago
 average_daily_pain_intensity: 7
 headache_intensity: 7 | present

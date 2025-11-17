@@ -16,7 +16,7 @@ neck_pain_present: true
 pain_aggravating_factors: clenching | bruxism | left posterior cross bite tendency
 physical_therapy_status: unknown
 earache_present: false
-onset_triggers: unknown
+onset_triggers: automobile accident
 adverse_reactions: penicillin | dust mites | mildew | cats | dogs | horses | grasses | nickel
 fibromyalgia_present: unknown
 jaw_locking: unknown
@@ -43,4 +43,4 @@ disc_displacement: left disc anterior displacement | right disc anterior displac
 muscle_pain_location: posterior neck | styloid areas | temporalis muscles
 joint_arthritis_location: right tmj
 appliance_history: orthodontics around the age of 7 to 8 | orthodontics beginning 11 years of age, for about 1 year
-joint_pain_areas: tmj | shoulders | wrists | hands | fingers | knees | ankles | feet | toes | right tmj | left tmj
+joint_pain_areas: shoulders | wrists | hands | fingers | knees | ankles | feet | toes | tmj | right tmj | left tmj | right shoulder | left tmj | right tmj | left tmj | right tmj | left tm

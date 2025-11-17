@@ -13,7 +13,7 @@ vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: true
 neck_pain_present: true
-pain_aggravating_factors: clenching | anterior open bite
+pain_aggravating_factors: clenching | bruxism
 physical_therapy_status: physical therapy
 earache_present: true
 onset_triggers: unknown
@@ -24,7 +24,7 @@ airway_obstruction_present: unknown
 depression_present: unknown
 headache_frequency: constant
 pain_frequency: unknown
-muscle_symptoms_present: unknown
+muscle_symptoms_present: true
 jaw_clicking: unknown
 previous_medications: unknown
 muscle_pain_score: mild to moderate
@@ -33,7 +33,7 @@ headache_location: left frontal | left temporal | left posterior head
 current_appliance: bite splint
 average_daily_pain_intensity: 7
 headache_intensity: 7 | present
-autoimmune_condition: psoriasis
+autoimmune_condition: psoriasis | psoriatic arthritis
 pain_onset_date: unknown
 jaw_crepitus: left tmj
 tmj_pain_rating: 5

@@ -30,7 +30,7 @@ previous_medications: unknown
 muscle_pain_score: moderate
 migraine_history: unknown
 headache_location: unknown
-current_appliance: unknown
+current_appliance: apap
 average_daily_pain_intensity: unknown
 headache_intensity: severe
 autoimmune_condition: unknown

@@ -30,7 +30,7 @@ previous_medications: unknown
 muscle_pain_score: mild to moderate
 migraine_history: unknown
 headache_location: unknown
-current_appliance: splint since the age of 21
+current_appliance: splint since 21 years of age
 average_daily_pain_intensity: unknown
 headache_intensity: present
 autoimmune_condition: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: unknown
 sleep_disorder_type: unknown
 current_medications: prozac | wellbutrin | singulair | flexeril | xanax | albuterol | pulmicort
-disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement with early reduction | left disc dislocation with reduction | right disc dislocation with early reduction
+disc_displacement: left disc dislocation without reduction | right disc anterior displacement with early reduction | left disc dislocation | right disc dislocation
 muscle_pain_location: throughout the head and neck area | shoulders
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics age 14 to 18
-joint_pain_areas: tmj | neck | shoulder
+joint_pain_areas: tmj | left tmj | right tmj | neck | shoulder

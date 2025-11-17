@@ -16,13 +16,13 @@ neck_pain_present: true
 pain_aggravating_factors: clenching
 physical_therapy_status: physical therapy throughout the years | chiropractic therapy | tens therapy
 earache_present: true
-onset_triggers: auto accident 25 years ago
+onset_triggers: auto accident 25 years ago, but she actually tripped and fell into the window which hit her on the underside of the right side of the lower jaw creating a subcondylar fracture on the right side
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
 airway_obstruction_present: true
 depression_present: unknown
-headache_frequency: unknown
+headache_frequency: daily
 pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: unknown
@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 7
 sleep_disorder_type: daytime somnolence | snoring
 current_medications: vicodin | hydrocodone | advil | valium
-disc_displacement: left disc anterior dislocation without reduction | right disc dislocation without reduction | left disc dislocation without reduction | right disc dislocation without reduction
+disc_displacement: left disc anteriorly dislocated without reduction | right disc dislocation without reduction | left disc dislocation without reduction | right disc dislocation without reduction
 muscle_pain_location: masseter | temporalis | medial pterygoids | posterior neck | shoulders | right styloid area
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics | multiple different splints for her

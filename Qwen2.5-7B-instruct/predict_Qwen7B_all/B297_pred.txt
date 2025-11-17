@@ -39,8 +39,8 @@ jaw_crepitus: left tmj
 tmj_pain_rating: 5
 sleep_disorder_type: daytime somnolence | snoring
 current_medications: mobic | estratest
-disc_displacement: left disc anteriorly and medially displaced with early reduction | right disc anteriorly and possibly laterally displaced with reduction | left disc dislocation | right disc dislocation
+disc_displacement: left disc anterior and medial displacement with early reduction | right disc anterior and possible lateral displacement with reduction | left disc dislocation | right disc dislocation
 muscle_pain_location: styloid areas
 joint_arthritis_location: left tmj | right tmj
-appliance_history: splint for about 10 years | splint last year
+appliance_history: splint for about 10 years ago
 joint_pain_areas: tmj | neck | back | left shoulder | left thumb | left knee

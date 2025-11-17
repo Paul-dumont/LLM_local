@@ -20,14 +20,14 @@ onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: false
+airway_obstruction_present: true
 depression_present: unknown
-headache_frequency: every 1 to 2 weeks
+headache_frequency: 1 to 2 weeks
 pain_frequency: unknown
 muscle_symptoms_present: true
 jaw_clicking: unknown
 previous_medications: unknown
-muscle_pain_score: moderate
+muscle_pain_score: moderate to mild
 migraine_history: unknown
 headache_location: temporal | posterior head
 current_appliance: 3 x 3 retainer in the lower anterior arch

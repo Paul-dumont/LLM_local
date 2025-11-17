@@ -13,11 +13,11 @@ vertigo_present: false
 hearing_loss_present: true
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: anterior open bite | anterior open bite | left posterior cross bite | right posterior cross bite
+pain_aggravating_factors: anterior open bite | anterior open bite | left open bite | right open bite | anterior open bite | left open bite | right open bite
 physical_therapy_status: unknown
 earache_present: false
 onset_triggers: unknown
-adverse_reactions: environmental
+adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
 airway_obstruction_present: true

@@ -13,10 +13,10 @@ vertigo_present: false
 hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: clenching | bruxism | left crossbite | left central incisor crossbite
+pain_aggravating_factors: clenching | bruxism | left crossbite | right crossbite
 physical_therapy_status: unknown
 earache_present: false
-onset_triggers: root canal procedure
+onset_triggers: root canal procedure one month ago
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: true

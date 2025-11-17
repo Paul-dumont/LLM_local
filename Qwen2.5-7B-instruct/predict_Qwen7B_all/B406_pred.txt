@@ -27,7 +27,7 @@ pain_frequency: unknown
 muscle_symptoms_present: true
 jaw_clicking: unknown
 previous_medications: unknown
-muscle_pain_score: unknown
+muscle_pain_score: minimal
 migraine_history: unknown
 headache_location: frontal | temporal
 current_appliance: unknown

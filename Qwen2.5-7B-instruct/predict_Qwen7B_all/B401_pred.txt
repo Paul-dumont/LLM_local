@@ -13,7 +13,7 @@ vertigo_present: true
 hearing_loss_present: true
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: clenching | buccal crossbite | right cuspid and bicuspids
+pain_aggravating_factors: clenching | anterior open bite
 physical_therapy_status: unknown
 earache_present: true
 onset_triggers: unknown

@@ -13,7 +13,7 @@ vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: true
-pain_aggravating_factors: yawning | clenching | bruxism
+pain_aggravating_factors: yawning
 physical_therapy_status: physical therapy at ages 14, 29, and 30
 earache_present: true
 onset_triggers: orthodontic treatment
@@ -42,5 +42,5 @@ current_medications: olux-e | tazorac
 disc_displacement: left disc medial displacement | right disc medial displacement
 muscle_pain_location: right retromandibular area
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics from ages 13 to 14 | splint therapy at age 14 | orthodontics again from ages 30 to 32 | physical therapy at ages 14, 29, and 30 | splint therapy again from ae 29 to 30
+appliance_history: orthodontics from ages 13 to 14 | splint therapy at age 14 | orthodontics again from ages 30 to 32 | physical therapy at ages 14, 29, and 30
 joint_pain_areas: tmj | elbows | neck | left tmj | right tmj

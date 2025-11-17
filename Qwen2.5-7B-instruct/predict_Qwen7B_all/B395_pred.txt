@@ -16,7 +16,7 @@ neck_pain_present: unknown
 pain_aggravating_factors: unknown
 physical_therapy_status: unknown
 earache_present: unknown
-onset_triggers: unknown
+onset_triggers: scuba diving
 adverse_reactions: flu shot
 fibromyalgia_present: unknown
 jaw_locking: unknown

@@ -16,7 +16,7 @@ neck_pain_present: unknown
 pain_aggravating_factors: anterior open bite | clenching | bruxism
 physical_therapy_status: unknown
 earache_present: true
-onset_triggers: trauma to the right side of the face at the age of 6
+onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
@@ -25,7 +25,7 @@ depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
 muscle_symptoms_present: true
-jaw_clicking: left tmj | right tmj
+jaw_clicking: tmj
 previous_medications: unknown
 muscle_pain_score: mild
 migraine_history: unknown
@@ -41,6 +41,6 @@ sleep_disorder_type: snoring
 current_medications: clarinex
 disc_displacement: left disc anteriorly and medially displaced without reduction | right disc medially displaced
 muscle_pain_location: masseter
-joint_arthritis_location: left tmj
+joint_arthritis_location: left tmj | left tmj
 appliance_history: orthodontics from 11 years old to 19 years old for approximately 8 years | splint to the jaws that was placed on the lower jaw
 joint_pain_areas: tmj | left tmj | right tmj

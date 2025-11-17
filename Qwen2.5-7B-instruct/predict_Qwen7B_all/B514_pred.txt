@@ -14,7 +14,7 @@ hearing_loss_present: false
 back_pain_present: unknown
 neck_pain_present: unknown
 pain_aggravating_factors: anterior crossbite | right posterior crossbite tendency
-physical_therapy_status: sees chiropractic health provider
+physical_therapy_status: unknown
 earache_present: false
 onset_triggers: unknown
 adverse_reactions: pollen | dust | smoke
@@ -30,7 +30,7 @@ previous_medications: unknown
 muscle_pain_score: unknown
 migraine_history: unknown
 headache_location: unknown
-current_appliance: 3 x 3 retainer in the lower anterior arch
+current_appliance: 3 x 3 retainer in the lower arch
 average_daily_pain_intensity: unknown
 headache_intensity: present
 autoimmune_condition: unknown

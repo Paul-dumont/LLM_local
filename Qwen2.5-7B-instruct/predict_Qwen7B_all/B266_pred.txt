@@ -12,7 +12,7 @@ tinnitus_present: true
 vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: unknown
-neck_pain_present: true
+neck_pain_present: unknown
 pain_aggravating_factors: unknown
 physical_therapy_status: neck massage
 earache_present: true
@@ -36,11 +36,11 @@ headache_intensity: 6 but can escalate to 10 | present
 autoimmune_condition: unknown
 pain_onset_date: two years ago
 jaw_crepitus: unknown
-tmj_pain_rating: 8 but not there all the time
-sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms | daytime somnolence | sleep apnea symptoms
+tmj_pain_rating: 8
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms | sleep apnea symptoms
 current_medications: omnicef | inhaler
 disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
 muscle_pain_location: temporalis | masseters | medial pterygoids | styloid areas | scms | posterior neck | shoulders
-joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics for six years
-joint_pain_areas: tmj | left tmj | right tmj | knees | ankles | elbows | wrists | shoulders | neck | back | ears | ankles
+joint_arthritis_location: right tmj
+appliance_history: orthodontics for six years from 9 years ago until last year
+joint_pain_areas: tmj | knees | ankles | shoulders | ears | neck | back | right tmj | left tmj

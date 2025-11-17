@@ -13,11 +13,11 @@ vertigo_present: unknown
 hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: clenching
+pain_aggravating_factors: clenching | left posterior vertical occlusion | right posterior vertical occlusion
 physical_therapy_status: unknown
 earache_present: unknown
 onset_triggers: unknown
-adverse_reactions: sulfa | penicillin
+adverse_reactions: sulfa drugs | penicillin
 fibromyalgia_present: unknown
 jaw_locking: unknown
 airway_obstruction_present: true
@@ -37,10 +37,10 @@ autoimmune_condition: unknown
 pain_onset_date: unknown
 jaw_crepitus: unknown
 tmj_pain_rating: unknown
-sleep_disorder_type: sleep apnea | snoring | daytime somnolence | sleep apnea syndrome
+sleep_disorder_type: sleep apnea | snoring | daytime somnolence
 current_medications: climara patch | prometrium
 disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement with reduction
 muscle_pain_location: shoulders | styloid areas
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
-joint_pain_areas: unknown
+joint_pain_areas: tmj | left tmj | right tmj

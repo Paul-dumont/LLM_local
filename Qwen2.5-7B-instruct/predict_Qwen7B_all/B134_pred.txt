@@ -25,7 +25,7 @@ depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
 muscle_symptoms_present: unknown
-jaw_clicking: unknown
+jaw_clicking: left tmj | right tmj
 previous_medications: unknown
 muscle_pain_score: moderate to severe
 migraine_history: unknown
@@ -37,10 +37,10 @@ autoimmune_condition: unknown
 pain_onset_date: 4 years ago
 jaw_crepitus: unknown
 tmj_pain_rating: 10
-sleep_disorder_type: sleep apnea | snoring | daytime somnolence
+sleep_disorder_type: sleep apnea symptoms | snoring | daytime somnolence
 current_medications: clonidine | gabapentin | seroquel | effexor | prilosec | zofran | visteril | zantac | doxepin | advair inhaler
 disc_displacement: left disc medial dislocation
 muscle_pain_location: right temporalis | right medial pterygoid | right masseter
 joint_arthritis_location: left tmj | right tmj
 appliance_history: splint therapy x4
-joint_pain_areas: right tmj | left tmj
+joint_pain_areas: right tmj | right tmj

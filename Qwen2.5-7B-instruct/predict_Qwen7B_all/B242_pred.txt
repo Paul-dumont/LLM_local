@@ -43,4 +43,4 @@ disc_displacement: left disc anterolaterally displaced with reduction | right di
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics at the age of 32 for about 1.5 years
-joint_pain_areas: tmj | left tmj | right tmj
+joint_pain_areas: tmj

@@ -43,4 +43,4 @@ disc_displacement: left disc anterior displacement without reduction | right dis
 muscle_pain_location: styloid areas
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from 13 to 15 | orthodontics from 16 to 17
-joint_pain_areas: shoulders
+joint_pain_areas: shoulders | tmj

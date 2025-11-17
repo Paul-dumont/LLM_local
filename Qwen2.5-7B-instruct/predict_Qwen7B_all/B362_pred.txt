@@ -35,8 +35,8 @@ average_daily_pain_intensity: 5
 headache_intensity: 7 | present
 autoimmune_condition: unknown
 pain_onset_date: 15 years ago
-jaw_crepitus: right tmj
-tmj_pain_rating: 7 | severe
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: severe
 sleep_disorder_type: sleep disorder secondary to pain and the inability to relax her jaws
 current_medications: advil | vitamins | ecotrin
 disc_displacement: left disc anterior displacement | right disc anterior displacement | left disc dislocation | right disc dislocation

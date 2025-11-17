@@ -24,7 +24,7 @@ airway_obstruction_present: true
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
-muscle_symptoms_present: unknown
+muscle_symptoms_present: true
 jaw_clicking: unknown
 previous_medications: unknown
 muscle_pain_score: high moderate
@@ -43,4 +43,4 @@ disc_displacement: left disc dislocation with severe deformation and non-reducin
 muscle_pain_location: left temporalis | left scm | left posterior neck | left medial pterygoid | retromandibular area
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
-joint_pain_areas: tmj | left tmj | right tmj
+joint_pain_areas: left tmj | right tmj

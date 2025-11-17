@@ -16,7 +16,7 @@ neck_pain_present: true
 pain_aggravating_factors: clenching
 physical_therapy_status: chiropractic treatment | massage therapy | neurocranial reconstruction | physical therapy | acupuncture
 earache_present: true
-onset_triggers: mva 20 years ago
+onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 8
 sleep_disorder_type: daytime somnolence
 current_medications: esterase | estratest hs | lunesta | vicodin
-disc_displacement: left disc anterior and lateral dislocation with reduction | right disc anterior displacement at the lateral aspect of the joint | left disc dislocation with reduction | right disc dislocation with reduction
+disc_displacement: left disc anterior and lateral displacement with reduction | right disc anterior displacement | left disc dislocation with reduction | right disc dislocation
 muscle_pain_location: scms | posterior neck | left medial pterygoid | masseters | styloid areas
 joint_arthritis_location: left tmj | right tmj
-appliance_history: splint since 15 years ago
-joint_pain_areas: tmj | knees | hips
+appliance_history: splint therapy since 15 years ago by four different doctors | neurocranial reconstruction including nine series
+joint_pain_areas: knees | hips | left tmj | right tmj

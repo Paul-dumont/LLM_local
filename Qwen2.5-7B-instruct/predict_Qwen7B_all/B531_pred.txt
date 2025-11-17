@@ -24,7 +24,7 @@ airway_obstruction_present: false
 depression_present: unknown
 headache_frequency: continuous
 pain_frequency: worse in the mornings when she gets up and then in the evenings
-muscle_symptoms_present: unknown
+muscle_symptoms_present: true
 jaw_clicking: unknown
 previous_medications: unknown
 muscle_pain_score: moderate to low severe
@@ -34,7 +34,7 @@ current_appliance: splint
 average_daily_pain_intensity: 8
 headache_intensity: 8 | present
 autoimmune_condition: unknown
-pain_onset_date: age of 17 to 18
+pain_onset_date: 17 to 18
 jaw_crepitus: unknown
 tmj_pain_rating: 7
 sleep_disorder_type: daytime somnolence

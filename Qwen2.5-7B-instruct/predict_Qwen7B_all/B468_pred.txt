@@ -12,7 +12,7 @@ tinnitus_present: false
 vertigo_present: false
 hearing_loss_present: false
 back_pain_present: unknown
-neck_pain_present: false
+neck_pain_present: unknown
 pain_aggravating_factors: left posterior crossbite tendency | right posterior crossbite tendency
 physical_therapy_status: unknown
 earache_present: false
@@ -20,7 +20,7 @@ onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: false
+airway_obstruction_present: unknown
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 0
 sleep_disorder_type: unknown
 current_medications: none
-disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement | left disc anterior displacement | right disc anterior displacement
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement | left disc adhesions to the articular eminence | right disc adhesions to the articular eminence
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics beginning 10 years ago with a palatal expander
+appliance_history: orthodontics 10 years ago with a palatal expander
 joint_pain_areas: unknown

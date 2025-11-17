@@ -27,7 +27,7 @@ pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: unknown
 previous_medications: unknown
-muscle_pain_score: severe | severe | extreme high moderate | moderate
+muscle_pain_score: severe | high moderate | severe
 migraine_history: unknown
 headache_location: frontal | temporal
 current_appliance: unknown
@@ -37,10 +37,10 @@ autoimmune_condition: unknown
 pain_onset_date: 16 years ago
 jaw_crepitus: unknown
 tmj_pain_rating: 6 | severe
-sleep_disorder_type: daytime somnolence | snoring | snoring
+sleep_disorder_type: daytime somnolence | snoring
 current_medications: norvasc | premarin | lorcet
 disc_displacement: unknown
 muscle_pain_location: masseter | left medial pterygoid | right medial pterygoid | left styloid area | temporalis | right styloid | scms | posterior neck | shoulder
 joint_arthritis_location: unknown
 appliance_history: splint | splint
-joint_pain_areas: tmj | left hip | right ankle | right hip | right ankle
+joint_pain_areas: tmj | left hip | right ankle

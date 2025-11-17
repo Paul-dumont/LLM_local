@@ -20,12 +20,12 @@ onset_triggers: childbirth and an extended difficult labor
 adverse_reactions: gluten | soy | dairy | eggs | sugar | penicillin | sulfa
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: false
+airway_obstruction_present: true
 depression_present: true
 headache_frequency: unknown
 pain_frequency: unknown
-muscle_symptoms_present: true
-jaw_clicking: left tmj
+muscle_symptoms_present: unknown
+jaw_clicking: right tmj
 previous_medications: unknown
 muscle_pain_score: moderate
 migraine_history: unknown

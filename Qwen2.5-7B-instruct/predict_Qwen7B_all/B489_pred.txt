@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 4
 sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
 current_medications: advil
-disc_displacement: left disc anteriorly dislocated with reduction | right disc anteriorly dislocated with reduction | left disc dislocation | right disc dislocation
+disc_displacement: left disc anteriorly dislocated with reduction | right disc anteriorly dislocated without reduction | left disc dislocation | right disc dislocation
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from 10 to 13 years

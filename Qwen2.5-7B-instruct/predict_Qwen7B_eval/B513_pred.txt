@@ -39,7 +39,7 @@ jaw_crepitus: left tmj | right tmj
 tmj_pain_rating: 4
 sleep_disorder_type: daytime somnolence | sleep disorder
 current_medications: wellbutrin xl
-disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced without reduction | left disc anteromedial displacement without reduction | right disc anteromedial displacement without reduction
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced without reduction | left disc anteromedially displaced without reduction | right disc anteromedially displaced without reduction
 muscle_pain_location: masseters
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown

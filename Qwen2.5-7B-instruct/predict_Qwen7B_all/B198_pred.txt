@@ -43,4 +43,4 @@ disc_displacement: unknown
 muscle_pain_location: unknown
 joint_arthritis_location: unknown
 appliance_history: unknown
-joint_pain_areas: right tmj
+joint_pain_areas: unknown

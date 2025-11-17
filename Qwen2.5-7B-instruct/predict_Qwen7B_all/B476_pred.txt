@@ -39,8 +39,8 @@ jaw_crepitus: unknown
 tmj_pain_rating: 8
 sleep_disorder_type: daytime somnolence
 current_medications: esterase | estratest hs | lunesta | vicodin
-disc_displacement: left disc anterior and lateral displacement with reduction | right disc anterior displacement at the lateral aspect of the joint | left disc dislocation with reduction | right disc dislocation
+disc_displacement: left disc anterior and lateral dislocation with reduction | right disc anterior displacement at the lateral aspect of the joint | left disc dislocation with reduction | right disc dislocation with reduction
 muscle_pain_location: scms | posterior neck | left medial pterygoid | masseters | styloid areas
 joint_arthritis_location: left tmj | right tmj
-appliance_history: splint since 15 years ago
-joint_pain_areas: tmj | knees | hips
+appliance_history: splint since 15 years ago | neurocranial reconstruction including nine series
+joint_pain_areas: knees | hips | tmj

@@ -13,14 +13,14 @@ vertigo_present: false
 hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: right anterior crossbite tendency | right posterior crossbite tendency
+pain_aggravating_factors: right mandibular hyperplasia | right anterior deep bite
 physical_therapy_status: physical therapy and massage therapy two months ago
 earache_present: false
 onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: false
+airway_obstruction_present: false | true
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown

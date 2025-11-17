@@ -40,7 +40,7 @@ tmj_pain_rating: 8
 sleep_disorder_type: unknown
 current_medications: amoxicillin | hydroxyzine
 disc_displacement: left disc anterior displacement with reduction | right disc anterior displacement with reduction | left disc dislocation | right disc dislocation
-muscle_pain_location: temporalis | masseters | scms | shoulders | medial pterygoids | styloids | posterior neck area
+muscle_pain_location: temporalis | masseters | scms | shoulders | medial pterygoids | styloids | posterior neck
 joint_arthritis_location: left tmj | right tmj
 appliance_history: unknown
 joint_pain_areas: tmj | knees | back

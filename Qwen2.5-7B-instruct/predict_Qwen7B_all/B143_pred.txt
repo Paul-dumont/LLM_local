@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 0
 sleep_disorder_type: unknown
 current_medications: unknown
-disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc anterior displacement | right disc anterior displacement
+disc_displacement: left disc anterior displacement | right disc anterior displacement | left disc anterior displacement without reduction | right disc anterior displacement without reduction
 muscle_pain_location: medial pterygoid | retromandibular area
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics from ages 10 to 17 | fixed appliances from ages 15 to 17

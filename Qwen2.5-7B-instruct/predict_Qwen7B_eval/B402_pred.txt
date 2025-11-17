@@ -25,11 +25,11 @@ depression_present: unknown
 headache_frequency: every two weeks
 pain_frequency: almost on a daily basis
 muscle_symptoms_present: unknown
-jaw_clicking: unknown
+jaw_clicking: left tmj
 previous_medications: unknown
 muscle_pain_score: moderate
 migraine_history: unknown
-headache_location: frontal | temporal
+headache_location: right frontal | right temporal
 current_appliance: unknown
 average_daily_pain_intensity: 7
 headache_intensity: 4 on the right side | 3 on the left side
@@ -43,4 +43,4 @@ disc_displacement: left disc medial displacement | right disc probable medial di
 muscle_pain_location: right masseter | right styloid area | right temporalis
 joint_arthritis_location: right tmj | left tmj
 appliance_history: unknown
-joint_pain_areas: tmj | right tmj
+joint_pain_areas: right tmj

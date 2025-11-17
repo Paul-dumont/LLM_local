@@ -13,7 +13,7 @@ vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: unknown
-pain_aggravating_factors: unknown
+pain_aggravating_factors: anterior open bite | clenching | bruxism
 physical_therapy_status: unknown
 earache_present: true
 onset_triggers: unknown
@@ -27,20 +27,20 @@ pain_frequency: unknown
 muscle_symptoms_present: unknown
 jaw_clicking: unknown
 previous_medications: unknown
-muscle_pain_score: high moderate to moderate
+muscle_pain_score: very high moderate to moderate
 migraine_history: unknown
 headache_location: right frontal | right temporal
 current_appliance: 3 x 3 retainer
 average_daily_pain_intensity: 7
 headache_intensity: 8 | present
 autoimmune_condition: unknown
-pain_onset_date: 2 years ago
+pain_onset_date: 5 years old
 jaw_crepitus: unknown
 tmj_pain_rating: 8
 sleep_disorder_type: unknown
 current_medications: unknown
-disc_displacement: left disc anterior displacement with early reduction | right disc in good position
-muscle_pain_location: right masseter | right temporalis | right styloid area | right posterior neck
+disc_displacement: left disc anterior displacement with early reduction | right disc in position
+muscle_pain_location: right masseter | right temporalis | right styloid | right posterior neck
 joint_arthritis_location: unknown
 appliance_history: orthodontics from age 15 to 17
 joint_pain_areas: right tmj | right tmj

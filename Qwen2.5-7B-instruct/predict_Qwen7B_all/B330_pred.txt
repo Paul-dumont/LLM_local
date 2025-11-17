@@ -11,7 +11,7 @@ jaw_function_score: unknown
 tinnitus_present: unknown
 vertigo_present: unknown
 hearing_loss_present: unknown
-back_pain_present: true
+back_pain_present: unknown
 neck_pain_present: unknown
 pain_aggravating_factors: unknown
 physical_therapy_status: unknown
@@ -20,7 +20,7 @@ onset_triggers: unknown
 adverse_reactions: unknown
 fibromyalgia_present: unknown
 jaw_locking: unknown
-airway_obstruction_present: false
+airway_obstruction_present: true
 depression_present: unknown
 headache_frequency: unknown
 pain_frequency: unknown
@@ -42,5 +42,5 @@ current_medications: nasonex | allegra
 disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation without reduction | right disc dislocation without reduction
 muscle_pain_location: left masseter | left styloid
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics 5 years ago | orthodontics 2 years ago
+appliance_history: orthodontics 5 years ago, completed 2 years ago
 joint_pain_areas: unknown

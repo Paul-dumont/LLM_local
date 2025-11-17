@@ -39,8 +39,8 @@ jaw_crepitus: left tmj
 tmj_pain_rating: 6
 sleep_disorder_type: unknown
 current_medications: verapamil | diovan | ambien | climara patch
-disc_displacement: left disc dislocation predominately in a medial direction | right disc dislocation predominately in a medial direction
+disc_displacement: left disc dislocation predominately in a medial direction | right disc dislocation predominately in a medial direction | left disc medial displacement with some anterior displacement | right disc medial displacement with some anterior displacement
 muscle_pain_location: styloid areas | masseter | temporalis
 joint_arthritis_location: left tmj | right tmj
-appliance_history: orthodontics | orthodontics with significant elastics
+appliance_history: orthodontics | multiple splints
 joint_pain_areas: tmj | left tmj | right tmj | cervical vertebrae

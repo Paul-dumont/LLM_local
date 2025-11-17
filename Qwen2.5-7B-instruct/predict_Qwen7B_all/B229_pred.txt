@@ -39,7 +39,7 @@ jaw_crepitus: unknown
 tmj_pain_rating: 7
 sleep_disorder_type: unknown
 current_medications: multiple vitamins and minerals
-disc_displacement: left disc anterior displacement without reduction | right disc laterally displaced | left disc dislocation | right disc dislocation
+disc_displacement: left disc anterior displacement without reduction | right disc laterally displacement | left disc dislocation | right disc dislocation
 muscle_pain_location: unknown
 joint_arthritis_location: left tmj | right tmj
 appliance_history: orthodontics ages 27-31 | bite plate (age 31) | orthodontic retainers age 34
