@@ -1,6 +1,6 @@
 patient_id: B302
 maximum_opening_without_pain: unknown
-patient_age: 46 | 46headache_intensity: 3 but can reach 7 to 8
+patient_age: 46
 maximum_opening: 63mm
 pain_relieving_factors: unknown
 diet_score: 1

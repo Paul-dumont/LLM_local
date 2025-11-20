@@ -1,6 +1,6 @@
 patient_id: B171
 maximum_opening_without_pain: unknown
-patient_age: 18 | 18headache_intensity: 5
+patient_age: 18
 maximum_opening: 66mm
 pain_relieving_factors: unknown
 diet_score: 6

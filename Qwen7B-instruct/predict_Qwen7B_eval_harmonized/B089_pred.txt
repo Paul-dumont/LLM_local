@@ -1,0 +1,43 @@
+patient_id: B089
+maximum_opening_without_pain: unknown
+patient_age: 53
+maximum_opening: 70mm
+pain_relieving_factors: unknown
+diet_score: 0
+pain_duration: unknown
+disability_rating: 5
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite
+physical_therapy_status: physical therapy
+earache_present: true
+onset_triggers: motor vehicle accident
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left and right TMJ
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: frontal | temporal | top of the head
+current_appliance: unknown
+average_daily_pain_intensity: 6
+headache_intensity: 4
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: left and right TMJ
+tmj_pain_rating: 0
+sleep_disorder_type: unknown
+current_medications: unknown
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | retromandibular

@@ -9,7 +9,7 @@ disability_rating: 0
 sleep_apnea_diagnosed: unknown
 jaw_function_score: 0
 tinnitus_present: unknown
-vertigo_present: unknown
+vertigo_present: false
 hearing_loss_present: unknown
 back_pain_present: unknown
 neck_pain_present: unknown

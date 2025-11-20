@@ -1,55 +1,63 @@
 import os
 import json
 from collections import defaultdict
+from pathlib import Path
 
-# Define the 46 criteria
+# === Configuration (top-level) ===
+# Set the model short name and derive the model folder automatically
+# Convention: model_folder = f"{model}-instruct"
+model = 'Mistral7B'
+model_folder = f"{model}-instruct"
+REPO_ROOT = Path(__file__).resolve().parents[1]
+
+# Define the 46 criteria in the exact display order requested by the user
 CRITERIA = [
     "patient_id",
-    "maximum_opening_without_pain",
     "patient_age",
-    "maximum_opening",
-    "pain_relieving_factors",
-    "diet_score",
-    "pain_duration",
-    "disability_rating",
-    "sleep_apnea_diagnosed",
+    "headache_intensity",
+    "tmj_pain_rating",
+    "disc_displacement",
+    "joint_arthritis_location",
     "jaw_function_score",
+    "maximum_opening",
+    "diet_score",
+    "disability_rating",
     "tinnitus_present",
     "vertigo_present",
-    "hearing_loss_present",
-    "back_pain_present",
-    "neck_pain_present",
-    "pain_aggravating_factors",
-    "physical_therapy_status",
+    "joint_pain_areas",
     "earache_present",
-    "onset_triggers",
-    "adverse_reactions",
-    "fibromyalgia_present",
-    "jaw_locking",
-    "airway_obstruction_present",
-    "depression_present",
-    "headache_frequency",
-    "pain_frequency",
-    "muscle_symptoms_present",
-    "jaw_clicking",
-    "previous_medications",
-    "muscle_pain_score",
-    "migraine_history",
-    "headache_location",
-    "current_appliance",
+    "pain_aggravating_factors",
     "average_daily_pain_intensity",
-    "headache_intensity",
-    "autoimmune_condition",
+    "airway_obstruction_present",
     "pain_onset_date",
-    "jaw_crepitus",
-    "tmj_pain_rating",
-    "sleep_disorder_type",
-    "current_medications",
-    "disc_displacement",
-    "muscle_pain_location",
-    "joint_arthritis_location",
     "appliance_history",
-    "joint_pain_areas"
+    "current_medications",
+    "headache_location",
+    "muscle_pain_location",
+    "muscle_symptoms_present",
+    "muscle_pain_score",
+    "hearing_loss_present",
+    "jaw_clicking",
+    "headache_frequency",
+    "sleep_disorder_type",
+    "maximum_opening_without_pain",
+    "neck_pain_present",
+    "current_appliance",
+    "onset_triggers",
+    "physical_therapy_status",
+    "adverse_reactions",
+    "jaw_crepitus",
+    "jaw_locking",
+    "pain_relieving_factors",
+    "back_pain_present",
+    "sleep_apnea_diagnosed",
+    "autoimmune_condition",
+    "migraine_history",
+    "previous_medications",
+    "pain_frequency",
+    "depression_present",
+    "pain_duration",
+    "fibromyalgia_present"
 ]
 
 def parse_summary_file(file_path):
@@ -162,42 +170,32 @@ def evaluate_folders(manual_folder, llm_folder, exclude_unknown=False):
     return avg_results
 
 if __name__ == "__main__":
-    manual_folder = "/home/luciacev/Desktop/LLM/data_predicition/data_max_harmonized"
-    llm_folder = "/home/luciacev/Desktop/LLM/Mistral-7B-instruct/predict_Mistral7B_eval"
+    # Use ONLY the harmonized data_output as the manual/reference folder
+    manual_folder = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
+
+    # llm_folder is derived from the top-level `model` and `model_folder` variables
+    # Use the harmonized predictions folder (suffix `_harmonized`) so we compare
+    # predictions that were harmonized to the reference harmonized outputs.
+    llm_folder = str(REPO_ROOT / model_folder / f"predict_{model}_eval_harmonized")
     
     if not os.path.exists(manual_folder) or not os.path.exists(llm_folder):
         print("Error: Folders not found.")
     else:
         # Calculate both versions
-        print("=" * 80)
-        print("CALCULATING F1 SCORES - WITH AND WITHOUT UNKNOWN VALUES")
-        print("=" * 80)
-        
+        print("Computing F1 scores...")
         # Version 1: WITH unknown (original)
-        print("\n[1/2] Computing F1 scores WITH unknown values...")
         avg_metrics = evaluate_folders(manual_folder, llm_folder, exclude_unknown=False)
         
         # Version 2: WITHOUT unknown (real data only)
-        print("[2/2] Computing F1 scores WITHOUT unknown values...")
+
         avg_metrics_no_unknown = evaluate_folders(manual_folder, llm_folder, exclude_unknown=True)
         
-        os.makedirs("metrics", exist_ok=True)
-        
-        # Save both versions
-        with open("metrics/F1score.json", "w") as f:
-            json.dump(avg_metrics, f, indent=4)
-        
-        with open("metrics/F1score_no_unknown.json", "w") as f:
-            json.dump(avg_metrics_no_unknown, f, indent=4)
-        
-        print("\n✅ Metrics saved:")
-        print("   - metrics/F1score.json (WITH unknown)")
-        print("   - metrics/F1score_no_unknown.json (WITHOUT unknown)")
+        # Note: per user request we do NOT save metrics to disk anymore.
+        # The metrics are computed and printed below but not written to files.
+
         
         # Calculate and print F1 statistics for BOTH
-        print("\n" + "=" * 80)
-        print("F1 COMPARISON: WITH UNKNOWN vs WITHOUT UNKNOWN")
-        print("=" * 80)
+
         
         f1_scores = [v['F1'] for v in avg_metrics.values()]
         f1_scores_no_unk = [v['F1'] for v in avg_metrics_no_unknown.values()]
@@ -220,36 +218,25 @@ if __name__ == "__main__":
             std_f1 = (sum((x - avg_f1)**2 for x in f1_scores) / len(f1_scores))**0.5
             std_f1_no_unk = (sum((x - avg_f1_no_unk)**2 for x in f1_scores_no_unk) / len(f1_scores_no_unk))**0.5
             
-            print(f"\n{'Metric':<20} {'WITH unknown':<20} {'WITHOUT unknown':<20} {'Difference':<15}")
+            print(f"\n{'Metric':<20} {'WITH unknown':<20} {'WITHOUT unknown':<20}")
             print("-" * 75)
-            print(f"{'Average F1':<20} {avg_f1:<20.4f} {avg_f1_no_unk:<20.4f} {avg_f1_no_unk - avg_f1:+.4f}")
-            print(f"{'Median F1':<20} {median_f1:<20.4f} {median_f1_no_unk:<20.4f} {median_f1_no_unk - median_f1:+.4f}")
-            print(f"{'Min F1':<20} {min_f1:<20.4f} {min_f1_no_unk:<20.4f} {min_f1_no_unk - min_f1:+.4f}")
-            print(f"{'Max F1':<20} {max_f1:<20.4f} {max_f1_no_unk:<20.4f} {max_f1_no_unk - max_f1:+.4f}")
-            print(f"{'Std Dev F1':<20} {std_f1:<20.4f} {std_f1_no_unk:<20.4f} {std_f1_no_unk - std_f1:+.4f}")
+            print(f"{'Average F1':<20} {avg_f1:<20.4f} {avg_f1_no_unk:<20.4f} ")
+
             
-            print("\n" + "=" * 80)
-            print("INTERPRETATION:")
-            print("=" * 80)
-            print(f"✓ Real F1 performance is likely: {avg_f1_no_unk:.4f}")
-            print(f"✗ Inflation from 'unknown' predictions: {avg_f1 - avg_f1_no_unk:+.4f}")
-            print("=" * 80)
             
             # Detailed per-criterion comparison
-            print("\n" + "=" * 100)
-            print("DETAILED F1 SCORES PER CRITERION - WITH vs WITHOUT UNKNOWN")
-            print("=" * 100)
             
             print(f"\n{'Criterion':<40} {'Presence':<12} {'WITH unknown':<18} {'WITHOUT unknown':<18}")
             print("-" * 100)
             
-            sorted_criteria = sorted(avg_metrics.items(), key=lambda x: x[1]['F1'], reverse=True)
-            
-            for criterion, metrics_with in sorted_criteria:
+            # Print in the user-requested feature order (CRITERIA list)
+            ordered_criteria = [(c, avg_metrics.get(c, {'Presence': '0/0', 'F1': 0.0})) for c in CRITERIA]
+
+            for criterion, metrics_with in ordered_criteria:
                 presence = metrics_with.get('Presence', 'N/A')
-                f1_with = metrics_with['F1']
-                f1_without = avg_metrics_no_unknown[criterion]['F1']
-                
+                f1_with = metrics_with.get('F1', 0.0)
+                f1_without = avg_metrics_no_unknown.get(criterion, {}).get('F1', 0.0)
+
                 print(f"{criterion:<40} {presence:<12} {f1_with:<18.4f} {f1_without:<18.4f}")
             
             print("=" * 100 + "\n")

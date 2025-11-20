@@ -1,6 +1,6 @@
 patient_id: B098
 maximum_opening_without_pain: 26mm
-patient_age: 44 | 44headache_intensity: 0
+patient_age: 44 
 maximum_opening: 56mm
 pain_relieving_factors: orthodontics
 diet_score: 4

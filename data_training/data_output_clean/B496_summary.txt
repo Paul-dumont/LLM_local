@@ -1,6 +1,6 @@
 patient_id: B496
 maximum_opening_without_pain: unknown
-patient_age: 13 | 14
+patient_age: 13
 maximum_opening: 50mm
 pain_relieving_factors: unknown
 diet_score: 0

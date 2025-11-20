@@ -4,22 +4,35 @@ Script d'harmonisation des summaries sans dépendances externes (pas de LLM)
 Version simple et rapide basée uniquement sur des règles
 """
 
+# standard imports
 import json
 import os
 import re
 from typing import Dict, List
 from collections import defaultdict
+from pathlib import Path
 
-# Charger les valeurs acceptées
-with open('../value.json', 'r', encoding='utf-8') as f:
+# Resolve repository root reliably and load value.json from repo root
+REPO_ROOT = Path(__file__).resolve().parents[1]
+VALUE_JSON_PATH = REPO_ROOT / 'value.json'
+if not VALUE_JSON_PATH.exists():
+    raise FileNotFoundError(f"value.json not found at expected location: {VALUE_JSON_PATH}")
+
+with open(VALUE_JSON_PATH, 'r', encoding='utf-8') as f:
     value_data = json.load(f)
     indicators = {feature['name']: feature['possible_output'] for feature in value_data['features']}
 
-# Répertoires
-# input_dir = '../Qwen1.5B_full_V3_local/predictions_12'
-# output_dir = '../Qwen1.5B_full_V3_local/predictions_12_harmonized'
-input_dir = '../Data_ouput_Bart'
-output_dir = '../Data_ouput_Bart_harmonized'
+# Répertoires (paths relative to repository root)
+# Use a variable `model` so the script can be reused for different models.
+# The convention used: model folder = f"{model}-instruct"
+# and prediction folders = f"predict_{model}_eval" / f"predict_{model}_eval_harmonized"
+model = 'Mistral7B'
+model_folder = f"{model}-instruct"
+input_dir = str(REPO_ROOT / model_folder / f"predict_{model}_eval")
+output_dir = str(REPO_ROOT / model_folder / f"predict_{model}_eval_harmonized")
+# Alternative (legacy paths):
+# input_dir = '../Data_ouput_Bart'
+# output_dir = '../Data_ouput_Bart_harmonized'
 os.makedirs(output_dir, exist_ok=True)
 
 # Dictionnaire de synonymes pour améliorer la correspondance
@@ -884,10 +897,6 @@ if __name__ == "__main__":
     # Par défaut : traiter 5 fichiers aléatoires
     # Pour traiter tous les fichiers : python3 harmonize.py --all
     
-    if len(sys.argv) > 1 and sys.argv[1] == "--all":
-        print("MODE COMPLET - traitement de TOUS les fichiers\n")
-        traiter_fichiers()
-    else:
-        print("MODE TEST - traitement de 5 fichiers aléatoires")
-        print("(Pour traiter tous les fichiers : python3 harmonize.py --all)\n")
-        traiter_fichiers(limite=5, aleatoire=True)
+
+    print("MODE COMPLET - traitement de TOUS les fichiers\n")
+    traiter_fichiers()

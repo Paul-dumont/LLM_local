@@ -1,0 +1,43 @@
+patient_id: B117
+maximum_opening_without_pain: unknown
+patient_age: 29
+maximum_opening: 43mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: anterior open bite | clenching | bruxism
+physical_therapy_status: physical therapy
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: true
+headache_frequency: daily
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left and right TMJ
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: true
+headache_location: temporal | posterior head | top of the head
+current_appliance: unknown
+average_daily_pain_intensity: 8
+headache_intensity: 8
+autoimmune_condition: unknown
+pain_onset_date: 16 years of age
+jaw_crepitus: left and right TMJ
+tmj_pain_rating: 7
+sleep_disorder_type: unknown
+current_medications: lexapro | claritin | ocp | benadryl | melatonin | advil | minocin
+disc_displacement: left disc dislocation | right disc dislocation | without reduction
+muscle_pain_location: masseter | temporalis

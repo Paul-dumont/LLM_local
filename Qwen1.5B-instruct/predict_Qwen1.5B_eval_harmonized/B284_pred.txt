@@ -1,0 +1,46 @@
+patient_id: B284
+maximum_opening_without_pain: unknown
+patient_age: 21
+maximum_opening: 69mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 2
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching
+physical_therapy_status: physical therapy | chiropratic
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left and right TMJ
+previous_medications: 30 different medications
+muscle_pain_score: mild
+migraine_history: true
+headache_location: unknown
+current_appliance: splint
+average_daily_pain_intensity: 5
+headache_intensity: 8
+autoimmune_condition: unknown
+pain_onset_date: 18 years of age
+jaw_crepitus: unknown
+tmj_pain_rating: 8
+sleep_disorder_type: unknown
+current_medications: none
+disc_displacement: left disc dislocation | right disc dislocation | with reduction
+muscle_pain_location: unknown
+joint_arthritis_location: left TMJ | right TMJ
+appliance_history: orthodontics
+joint_pain_areas: left and right TMJ

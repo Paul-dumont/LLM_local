@@ -6,11 +6,12 @@ Génère un fichier JSON avec toutes les comparaisons pour l'interface web
 import json
 import os
 
-# Répertoires
-DATA_OUTPUT_12_DIR = '../Data_output_12'
-REFERENCE_DIR = '../Data_output_harmonized'
-PREDICTIONS_12_DIR = '../Qwen1.5B_full_V3_local/predictions_12'
-LLM_PREDICTIONS_DIR = '../Qwen1.5B_full_V3_local/predictions_harmonized'
+# Répertoires (paths relative to repository root)
+# Run this script from the repository root (/home/luciacev/Desktop/LLM)
+DATA_OUTPUT_12_DIR = 'data_training/data_output_clean'
+REFERENCE_DIR = 'data_training/data_output_clea'
+PREDICTIONS_12_DIR = 'Qwen2.5-7B-instruct/predict_Qwen7B_all'
+LLM_PREDICTIONS_DIR = 'Qwen2.5-7B-instruct/predict_Qwen7B_all'
 
 def parse_file(filepath):
     """Parser un fichier summary en préservant l'ordre"""
@@ -145,7 +146,7 @@ def generate_comparison_data():
         }
     
     # Sauvegarder le JSON
-    output_file = 'comparison_data.json'
+    output_file = 'clean/comparison_data.json'
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(all_comparisons, f, ensure_ascii=False, indent=2)
     

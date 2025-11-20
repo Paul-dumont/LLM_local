@@ -1,6 +1,6 @@
 patient_id: B153
 maximum_opening_without_pain: 19mm
-patient_age: 18 | 19
+patient_age: 18
 maximum_opening: 36mm
 pain_relieving_factors: unknown
 diet_score: 6

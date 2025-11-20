@@ -22,54 +22,117 @@ except Exception as e:
     print(f"⚠️  Semantic model not available: {e}")
     SEMANTIC_AVAILABLE = False
 
-# Define the 46 criteria
+# === Configuration (top-level) ===
+# Reference and prediction folders can be adjusted here. Use REPO_ROOT so paths are repo-relative.
+REPO_ROOT = Path(__file__).resolve().parents[1]
+
+# Model configuration (short name used in prediction folder names)
+# Set `model` to the short model name (example: 'Qwen1.5B', 'Mistral7B', 'Mistral7B')
+model = 'Qwen1.5B'
+model_folder = f"{model}-instruct"
+
+# Reference and prediction folders (repo-relative)
+REF_FOLDER = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
+PRED_FOLDER = str(REPO_ROOT / model_folder / f"predict_{model}_eval_harmonized")
+
+# Define the 46 criteria - sorted by representation rate (highest to lowest)
 CRITERIA = [
+    "fibromyalgia_present",           # 97.60%
+    "pain_duration",                  # 94.80%
+    "depression_present",             # 93.40%
+    "pain_frequency",                 # 92.20%
+    "previous_medications",           # 87.80%
+    "pain_relieving_factors",         # 86.60%
+    "current_medications",            # 85.80%
+    "pain_aggravating_factors",       # 84.60%
+    "headache_frequency",             # 81.60%
+    "patient_age",                    # 81.20%
+    "headache_intensity",             # 79.80%
+    "onset_triggers",                 # 78.80%
+    "headache_location",              # 78.40%
+    "back_pain_present",              # 77.20%
+    "neck_pain_present",              # 75.60%
+    "average_daily_pain_intensity",   # 75.20%
+    "migraine_history",               # 72.80%
+    "jaw_locking",                    # 72.20%
+    "adverse_reactions",              # 70.40%
+    "muscle_pain_score",              # 68.80%
+    "sleep_disorder_type",            # 68.40%
+    "jaw_clicking",                   # 68.00%
+    "muscle_symptoms_present",        # 66.80%
+    "tmj_pain_rating",                # 65.60%
+    "tinnitus_present",               # 63.80%
+    "vertigo_present",                # 62.80%
+    "disc_displacement",              # 61.60%
+    "physical_therapy_status",        # 59.00%
+    "current_appliance",              # 58.60%
+    "appliance_history",              # 58.20%
+    "hearing_loss_present",           # 57.60%
+    "joint_pain_areas",               # 55.80%
+    "muscle_pain_location",           # 54.80%
+    "joint_arthritis_location",       # 53.20%
+    "earache_present",                # 50.40%
+    "jaw_crepitus",                   # 48.60%
+    "disability_rating",              # 47.80%
+    "jaw_function_score",             # 45.60%
+    "sleep_apnea_diagnosed",          # 45.00%
+    "airway_obstruction_present",     # 42.40%
+    "diet_score",                     # 39.40%
+    "maximum_opening",                # 25.00%
+    "maximum_opening_without_pain",   # 20.20%
+    "pain_onset_date",                # 11.00%
+    "autoimmune_condition",           # 8.20%
+    "patient_id"                      # 0.00%
+]
+
+# Optional: explicit ordering by semantic representation/rate (highest → lowest)
+SEMANTIC_ORDER = [
     "patient_id",
-    "maximum_opening_without_pain",
     "patient_age",
-    "maximum_opening",
-    "pain_relieving_factors",
-    "diet_score",
-    "pain_duration",
-    "disability_rating",
-    "sleep_apnea_diagnosed",
+    "headache_intensity",
+    "tmj_pain_rating",
+    "disc_displacement",
+    "joint_arthritis_location",
     "jaw_function_score",
+    "maximum_opening",
+    "diet_score",
+    "disability_rating",
     "tinnitus_present",
     "vertigo_present",
-    "hearing_loss_present",
-    "back_pain_present",
-    "neck_pain_present",
-    "pain_aggravating_factors",
-    "physical_therapy_status",
+    "joint_pain_areas",
     "earache_present",
-    "onset_triggers",
-    "adverse_reactions",
-    "fibromyalgia_present",
-    "jaw_locking",
-    "airway_obstruction_present",
-    "depression_present",
-    "headache_frequency",
-    "pain_frequency",
-    "muscle_symptoms_present",
-    "jaw_clicking",
-    "previous_medications",
-    "muscle_pain_score",
-    "migraine_history",
-    "headache_location",
-    "current_appliance",
+    "pain_aggravating_factors",
     "average_daily_pain_intensity",
-    "headache_intensity",
-    "autoimmune_condition",
+    "airway_obstruction_present",
     "pain_onset_date",
-    "jaw_crepitus",
-    "tmj_pain_rating",
-    "sleep_disorder_type",
-    "current_medications",
-    "disc_displacement",
-    "muscle_pain_location",
-    "joint_arthritis_location",
     "appliance_history",
-    "joint_pain_areas"
+    "current_medications",
+    "headache_location",
+    "muscle_pain_location",
+    "muscle_symptoms_present",
+    "muscle_pain_score",
+    "hearing_loss_present",
+    "jaw_clicking",
+    "headache_frequency",
+    "sleep_disorder_type",
+    "maximum_opening_without_pain",
+    "neck_pain_present",
+    "current_appliance",
+    "onset_triggers",
+    "physical_therapy_status",
+    "adverse_reactions",
+    "jaw_crepitus",
+    "jaw_locking",
+    "pain_relieving_factors",
+    "back_pain_present",
+    "sleep_apnea_diagnosed",
+    "autoimmune_condition",
+    "migraine_history",
+    "previous_medications",
+    "pain_frequency",
+    "depression_present",
+    "pain_duration",
+    "fibromyalgia_present",
 ]
 
 UNKNOWN_VARIATIONS = ["unknown", "unknow", "n/a", "na", "not available", "not provided", "none", ""]
@@ -112,21 +175,25 @@ def extract_criterion_from_file(filepath):
         return {}
     
     values = {}
+    
+    # Initialize all criteria with empty strings
+    for criterion in CRITERIA:
+        values[criterion] = ""
+    
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             lines = f.readlines()
         
-        for i, criterion in enumerate(CRITERIA):
-            if i < len(lines):
-                line = lines[i].strip()
-                # Parse "key: value" format
-                if ':' in line:
-                    value = line.split(':', 1)[1].strip()
-                else:
-                    value = line
-                values[criterion] = value
-            else:
-                values[criterion] = ""
+        # Parse each line by looking for "key: value" format
+        for line in lines:
+            line = line.strip()
+            if ':' in line:
+                key, value = line.split(':', 1)
+                key = key.strip()
+                value = value.strip()
+                # Only store if it's a known criterion
+                if key in CRITERIA:
+                    values[key] = value
     except Exception as e:
         print(f"Error reading {filepath}: {e}")
     
@@ -146,7 +213,6 @@ def compare_folders(ref_folder, pred_folder, filter_unknown=False):
     pred_files = sorted(pred_path.glob("B*_pred.txt"))
     ref_files = sorted(ref_path.glob("B*_summary.txt"))
     
-    print(f"\n📊 Found {len(ref_files)} references, {len(pred_files)} predictions")
     print(f"📊 Evaluating {len(pred_files)} patients...\n")
     
     for pred_file in pred_files:
@@ -189,19 +255,22 @@ def compare_folders(ref_folder, pred_folder, filter_unknown=False):
 
 
 def main():
-    print("\n" + "="*120)
-    print("🧠 SEMANTIC SIMILARITY EVALUATION (Average Distances)")
-    print("Data_output_12 vs predictions_12")
-    print("="*120)
-    
+   
     if not SEMANTIC_AVAILABLE:
         print("❌ Semantic model not available. Install with:")
         print("   pip install sentence-transformers")
         return
     
-    ref_folder = "/home/luciacev/Desktop/LLM/data_training/data_output_clean"
-    # pred_folder = "/home/luciacev/Desktop/LLM/Qwen2.5-1.5B-instruct/predict_Qwen1.5B_all"
-    pred_folder = "/home/luciacev/Desktop/LLM/Mistral-7B-instruct/predict_Mistral7B_eval"
+    # Use ONLY the harmonized data_output as the manual/reference folder
+    manual_folder = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
+
+    # llm_folder is derived from the top-level `model` and `model_folder` variables
+    llm_folder = str(REPO_ROOT / model_folder / f"predict_{model}_eval_harmonized")
+
+    # Keep backward-compatible names used later in the script
+    ref_folder = manual_folder
+    pred_folder = llm_folder
+    # pred_folder = "/home/luciacev/Desktop/LLM/Mistral-7B-instruct/predict_Mistral7B_eval"
 
     
     if not os.path.exists(ref_folder):
@@ -216,9 +285,6 @@ def main():
     print(f"📁 Predictions: {pred_folder}\n")
     
     # ===== MODE 1: With unknowns =====
-    print("="*120)
-    print("MODE 1️⃣  : WITH UNKNOWNS (all values included)")
-    print("="*120)
     
     scores_normal, counts_normal, unknown_stats = compare_folders(
         ref_folder, pred_folder, filter_unknown=False
@@ -250,16 +316,9 @@ def main():
     
     overall_mean_normal = np.mean(all_scores_normal) if all_scores_normal else 0
     overall_std_normal = np.std(all_scores_normal) if all_scores_normal else 0
-    
-    print(f"\n📊 OVERALL SEMANTIC SIMILARITY (with unknowns):")
-    print(f"   Mean: {overall_mean_normal:.4f}")
-    print(f"   Std Dev: {overall_std_normal:.4f}")
-    print(f"   Total comparisons: {len(all_scores_normal)}")
-    
+        
     # ===== MODE 2: Without unknowns =====
-    print("\n" + "="*120)
-    print("MODE 2️⃣  : WITHOUT UNKNOWNS (filtered)")
-    print("="*120)
+
     
     scores_filtered, counts_filtered, _ = compare_folders(
         ref_folder, pred_folder, filter_unknown=True
@@ -292,9 +351,6 @@ def main():
     
     
     # ===== COMPARISON =====
-    print("\n" + "="*120)
-    print("📊 COMPARISON: With vs Without Unknowns")
-    print("="*120)
     print(f"\n{'Metric':<30} {'With Unknowns':<20} {'Without Unknowns':<20}")
     print("-"*70)
     print(f"{'Mean':<30} {overall_mean_normal:.4f}{' '*15} {overall_mean_filtered:.4f}")
@@ -302,14 +358,11 @@ def main():
     print(f"{'Total comparisons':<30} {len(all_scores_normal):<20} {len(all_scores_filtered):<20}")
     
     # ===== PER-CRITERION COMPARISON =====
-    print("\n" + "="*120)
-    print("📋 PER-CRITERION SEMANTIC SIMILARITY SCORES")
-    print("="*120)
-    
+  
     print(f"\n{'Criterion':<40} {'With UK':<15} {'No UK':<15}")
     print("-"*70)
     
-    # Sort all criteria by normal score (best to worst)
+    # Build a dict of per-criterion stats (kept for easy lookup)
     criterion_diffs = {}
     for criterion in CRITERIA:
         normal = criterion_stats_normal[criterion]['mean']
@@ -318,12 +371,12 @@ def main():
             'normal': normal,
             'filtered': filtered
         }
-    
-    # Sort from best to worst
-    sorted_criteria = sorted(criterion_diffs.items(), key=lambda x: x[1]['normal'], reverse=True)
-    
-    print("\n📊 ALL CRITERIA (ranked from best to worst):")
-    for criterion, stats in sorted_criteria:
+
+    # Print all criteria in the semantic order provided by SEMANTIC_ORDER
+    # (highest → lowest semantic representation as provided by the user)
+    print("\n📊 ALL CRITERIA (ordered by semantic presence: HIGH → LOW):")
+    for criterion in SEMANTIC_ORDER:
+        stats = criterion_diffs.get(criterion, {'normal': 0.0, 'filtered': 0.0})
         print(f"{criterion:<40} {stats['normal']:.4f}          {stats['filtered']:.4f}")
     
 

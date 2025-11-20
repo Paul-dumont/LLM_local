@@ -9,7 +9,7 @@ disability_rating: 3 | 8 but today is 2
 sleep_apnea_diagnosed: unknown
 jaw_function_score: 0 | 3
 tinnitus_present: true
-vertigo_present: false | true
+vertigo_present: true
 hearing_loss_present: unknown
 back_pain_present: true
 neck_pain_present: unknown
