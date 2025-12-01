@@ -1,0 +1,53 @@
+patient_id: B221
+maximum_opening_without_pain: 38mm
+patient_age: 28
+maximum_opening: 45mm
+pain_relieving_factors: unknown
+diet_score: 5
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching
+physical_therapy_status: physical therapy x2 rounds
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: once a week
+pain_frequency: unknown
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: frontal | temple | back of the head | behind the eyes
+current_appliance: orthodontics since 11 months ago
+average_daily_pain_intensity: 5
+headache_intensity: 7 | present
+autoimmune_condition: unknown
+pain_onset_date: 8 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 5 but can escalate to 10
+sleep_disorder_type: daytime somnolence | snoring | snoring | daytime somnolence
+current_medications: effexor | miralax | advil
+disc_displacement: left disc anterior displacement | right disc anterior displacement
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics at 20 years of age for 2 years
+joint_pain_areas: tmj | left tmj | right tmj | left tmj | right tmj
+joint_pain_areas_other: unknown
+muscle_pain_areas: unknown
+sleep_disorder_present: true
+pain_onset_triggers: unknown
+tmj_pain_rating: 5 but can escalate to 10
+muscle_pain_location_other: unknown
+joint_pain_rating_other: unknown

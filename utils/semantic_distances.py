@@ -28,7 +28,7 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 
 # Model configuration (short name used in prediction folder names)
 # Set `model` to the short model name (example: 'DeepSeek7B', 'Qwen1.5B', 'Mistral7B')
-model = 'DeepSeek7B'
+model = 'Llama3-8B'
 model_folder = f"{model}-instruct"
 
 # Reference and prediction folders (repo-relative)

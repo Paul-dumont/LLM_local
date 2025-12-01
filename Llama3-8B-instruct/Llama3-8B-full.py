@@ -17,12 +17,12 @@ else:
     print("⚠️ No HF_TOKEN in environment, will try to use cached token")
 
 # ==================== PARAMS ====================
-MODEL_ID    = "meta-llama/Llama-3-8b-Instruct"  # ✅ Meta's Llama 3 8B Instruct
+MODEL_ID    = "meta-llama/Meta-Llama-3-8B-Instruct"  # ✅ Meta's Llama 3 8B Instruct
 MODEL_SHORT = "llama3_8B"
 
 # Optimisé pour RTX 6000 Ada (48GB VRAM) - DeepSeek 7B
 MAX_SEQ_LEN  = int(os.getenv("MAX_SEQ_LEN", 4096))    # Gardé à 4096
-NUM_EPOCHS   = int(os.getenv("NUM_EPOCHS", 6))       # 6 epochs (au lieu de 3) - plus de training
+NUM_EPOCHS   = int(os.getenv("NUM_EPOCHS", 5))       # 6 epochs (au lieu de 3) - plus de training
 BATCH_SIZE   = int(os.getenv("BATCH_SIZE", 1))        # 1 per-device (économise VRAM)
 GRAD_ACCUM   = int(os.getenv("GRAD_ACCUM", 12))       # 12 (effective BS = 1*12 = 12) - augmenté pour meilleur gradient
 LR           = float(os.getenv("LR", "5e-6"))         # 5e-6 (au lieu de 1e-5) - convergence plus fine
