@@ -1,0 +1,29 @@
+patient_id: B119
+patient_age: 31
+pain_onset_date: 28 years of age
+onset_triggers: unknown
+current_medications: Wellbutrin | Spironolactone | Ibuprofen | Levocet
+headache_intensity: 5, but can escalate to 10 once every 3-4 months
+headache_frequency: 3  to 5 days a week
+headache_location: temporal | posterior head
+migraine_history: True
+migraine_frequency: once every 3 to 4 months
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+joint_pain_areas: hips | knees | 3 fingers on the right hand
+autoimmune_condition: elevated ANA without diagnosis of autoimmune disorder
+adverse_reactions: penicillin
+----------------------------------------------------------------------------------------------------
+patient_id: B119
+muscle_pain_location: medial pterygoid | retromandibular area
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 50mm
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc anterior dislocation | right disc anterior and medial dislocation
+tmj_pain_rating: present
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior dislocation with reduction

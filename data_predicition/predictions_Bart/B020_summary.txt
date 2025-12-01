@@ -1,0 +1,17 @@
+patient_id: B020
+patient_age: 60
+pain_onset_date: age of 36
+appliance_history: orthodontics 27 years and 3 months and finished about two years later | orthognathic surgery 27 years ago and had jaws wired together for 6 weeks
+joint_pain_areas: left TMJ | right TMJ
+current_medications: Synthroid | Clonazepam | Maxalt | Menostar Patch | Aleve | calcium | multivitamins | vitamin D
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B020
+disc_displacement: left disc displaced without reduction | right disc dislocation without reduction 
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B020
+patient_age: 60
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior dislocation without reduction

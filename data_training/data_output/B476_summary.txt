@@ -1,0 +1,37 @@
+patient_id: B476
+patient_age: 45
+pain_onset_date: 18 years ag
+onset_triggers: MVA 20 years ago | struck in the face with a baseball that broke nose and maybe caused a crack in the sphenoid bone as a teenager | falls during roller skating where she hit the floor and strike the back of her | fell off a counter striking the right side of head and sustained a fractured skull at 6 months old
+headache_intensity: 9 frequently to 10
+headache_location: frontotemporal | posterior head 
+headache_frequency: daily | worse in the mornings and may get a little bit better in the afternoon but then get worse again at night
+physical_therapy_status: Chiropractic treatment since 16 years ago and currently still receiving that treatment | Massage therapy since 16 years ago to current | Neurocranial reconstruction including nine series | Botox injections about every 4-6 months in the head and shoulder areas for approximately 6 years | Physical therapy including such treatments as ultrasound | TENS | acupuncture | Equilibration x3
+appliance_history: Splint therapy since 15 years ago by four different doctors
+tmj_pain_rating: 8
+average_daily_pain_intensity: 8
+jaw_function_score: 7
+diet_score: 2
+disability_rating: 6
+current_medications: Esterase | Estratest HS | Lunesta | Vicodin 
+earache_present: True
+tinnitus_present: True
+vertigo_present: False
+joint_pain_areas: knees | her hips
+pain_aggravating_factors: clenching
+sleep_disorder_type: daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B476
+muscle_pain_score: moderate 
+muscle_pain_location: SCMs | posterior neck | left medial pterygoid | masseters | styloid areas
+muscle_tenderness_present: True
+neck_pain_present: True
+joint_pain_areas: left TMJ | right TMJ
+jaw_clicking: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B476
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc medially and anteriorly displaced with reduction 
+patient_age: 45
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly and laterally dislocated with reduction | right disc anteriorly displaced at the lateral aspect of the joint

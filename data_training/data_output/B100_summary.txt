@@ -1,0 +1,42 @@
+patient_id: B100
+patient_age: 47
+headache_intensity: severe, normally at 4 but can escalate up to 9
+headache_location: frontal | temporal | occasionally at back of head
+pain_onset_date: 28 years ago
+migraine_history: True
+autoimmune_condition: rheumatoid arthritis
+joint_arthritis_location: knees | hips | left TMJ | right TMJ
+physical_therapy_status: acupuncture | physical therapy | hypnotherapy
+headache_frequency: daily
+earache_present: True
+vertigo_present: True
+sleep_disorder_type: breathing difficulties
+joint_pain_areas: left TMJ | right TMJ | knees | hips
+pain_relieving_factors: orthotic that reduces frequency to a couple of headache per month, as well as the vertigo
+tmj_pain_rating: 4
+average_daily_pain_intensity: 4
+jaw_function_score: 6
+diet_score: 4
+disability_rating: 8
+tinnitus_present: True
+current_medications: Plaquenil, Ibuprofen, Claritin, Vitamins
+----------------------------------------------------------------------------------------------------
+patient_id: B100
+airway_obstruction_present: True
+neck_pain_present: True
+jaw_clicking: left TMJ | Right TMJ
+jaw_crepitus: left TMJ | right TMJ
+maximum_opening: 35mm
+maximum_opening_without_pain: 18mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: rheumatoid arthritis
+airway_obstruction_present: True
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_id: B100
+----------------------------------------------------------------------------------------------------
+patient_id: B100
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: rheumatoid arthritis
+disc_displacement: right disc medial displacement

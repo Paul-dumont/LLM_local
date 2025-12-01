@@ -1,0 +1,27 @@
+patient_id: B413
+patient_age: 20
+pain_onset_date: 17 years of age
+appliance_history: orthodontics from 6 to 8 years ago with Dr. XX | rhinoplasty last year | hand surgery 2 years ago
+earache_present: False
+tinnocaine_frequency: none
+vertigo_diagnosed: False 
+joint_pain_areas: neck
+tmjaw_function_score: 5
+diet_score 0
+disability_rating: 2
+current_medications: Lexapro | Vyanse | Solodyne
+adverse_reactions:
+----------------------------------------------------------------------------------------------------
+patient_id: B413
+disc_displacement: left disc medial displacement | right disc lateral displacement
+joint_pain_areas: TMJ
+headache_intensity: present
+current_appliance: 3 x 3 mandibular retainer
+patient_age: 22
+disc _displacements: left TMJ disc dislocation | right TMJ disk dislocation 
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc medial displacement | right disc possible bilateral medial displacement 
+joint_pain_areas: left TMJ | right TMJ
+patient_id: B195
+disc_size: 2.5mm

@@ -1,0 +1,33 @@
+patient_id: B021
+patient_age: 51
+pain_onset_date: 17 years of age
+joint_pain_areas: left TMJ | right TMJ
+appliance_history: 20 to 25 splints and night guards over the years | orthodontics from 34 to 44
+physical_therapy_status: physical therapy on and off beginning 20 years ago through the current time
+earache_present: True
+tinnit
+----------------------------------------------------------------------------------------------------
+patient_id: B021
+pain_aggravating_factors: buccal cross bite tendency
+joint_pain_areas: right TMJ | right shoulder | right posterior neck area | right masseter
+muscle_tenderness_present: True
+jaw_clicking: left TMJ
+maximum_opening: 20mm
+----------------------------------------------------------------------------------------------------
+patient_id: B021
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation with reduction 
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite tendency
+sleep_disorder_type: sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B021
+patient_age: 51
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced with early reduction | right disc dislocation without reduction
+----------------------------------------------------------------------------------------------------
+patient_id: B021
+patient_age: 51
+joint_arthritis_location: right TMJ 
+airway_obstruction_present: False
+pain_aggravating_factors: right posterior crossbite tendency

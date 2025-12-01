@@ -1,0 +1,17 @@
+patient_id: B459
+patient_age: 17
+onset_triggers: motor vehicle accident where the car she was a passenger in was T-boned by an 18-wheeler
+pain_aggravating_factors: left subcondylar fracture with significant displacement | right mandibular ramus non-displaced fracture
+headache_intensity: none
+tmj_pain_rating: 0
+jaw_function_score: 7
+diet_score
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+patient_id: B459
+pain_aggravating_factors: MVA this year
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B459
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc displaced medially at 90 degree angle to the vertical ramus with the articular disc sitting over top of the neck of the condyle

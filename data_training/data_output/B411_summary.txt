@@ -1,0 +1,35 @@
+patient_id: B411
+patient_age: 14
+earache_present: True
+pain_aggravating_factors: clenching
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: neck | elbows | left TMJ | right TMJ
+neck_pain_present: True
+adverse_reactions: POLLENS | DUST
+headache_intensity: 6
+headache_location: frontal | temporal 
+headache_frequency: two times per month during the summer | more common during the school year 
+tmj_pain_rating: 5 but can escalate to 8
+average_daily_pain_intensity: 5
+jaw_function_score: 0
+diet_score: 1
+disability_rating: 1
+current_medications: Zyrtec | Strattera
+previous_medications: Concerta
+airway_obstruction_present: False
+muscle_pain_score: mild
+muscle_pain_location: styloid areas
+muscle_tenderness_present: True
+maximum_opening: 59mm
+maximum_opening_without_pain: 37mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B411
+pain_aggravating_factors: anterior open bite
+joint_pain_areas: TMJ
+disc_displacement: left disc medial displacement
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc medial dislocation | right disc anterior and medial displacement
+

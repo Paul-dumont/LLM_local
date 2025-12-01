@@ -1,0 +1,27 @@
+patient_id: B100
+patient_age: 47
+pain_onset_date: 28 years ago
+migraine_history: severe migraines since 20 years of age
+joint_arthritis_location: knees | hips | possibly her TMJ
+autoimmune_condition: rheumatoid arthritis
+physical_therapy_status: physical therapy without resolution | acupuncture | hypnotherapy
+current_medications: Plaquenil | Ibuprofen | Claritin | Vitamins
+----------------------------------------------------------------------------------------------------
+patient_id: B100
+airway_obstruction_present: True
+muscle_pain_score: masseter 
+jaw_crepitus: left TMJ | right TMJ
+maximum_opening: 35mm
+maximum _opening_without_pain: 18mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B100
+autoimmune_condition: rheumatoid arthritis
+pain_aggravating_factors: right posterior open bite
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B100
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: rheumatoid arthritis
+disc_displacement: right disc medial displacement | left disc possible perforation

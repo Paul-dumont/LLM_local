@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Comparison - Harmonization</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #1e1e1e;
+            color: #d4d4d4;
+            padding: 10px;
+            line-height: 1.3;
+        }
+
+        .header {
+            background: #252526;
+            padding: 8px 15px;
+            margin-bottom: 10px;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: nowrap;
+            gap: 15px;
+        }
+
+        h1 {
+            font-size: 16px;
+            color: #4fc3f7;
+            margin: 0;
+            white-space: nowrap;
+        }
+
+        .controls {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        select, button {
+            padding: 5px 10px;
+            font-size: 13px;
+            border: 1px solid #3c3c3c;
+            border-radius: 3px;
+            background: #2d2d30;
+            color: #cccccc;
+            cursor: pointer;
+            outline: none;
+        }
+
+        select {
+            min-width: 300px;
+        }
+
+        button {
+            background: #0e639c;
+            border-color: #0e639c;
+            color: white;
+            font-weight: 500;
+            transition: background 0.2s;
+        }
+
+        button.secondary {
+            background: #0e7a0e;
+            border-color: #0e7a0e;
+            color: white;
+            font-weight: bold;
+            padding: 8px 16px;
+            font-size: 14px;
+            border-radius: 6px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+            transition: all 0.3s ease;
+        }
+
+        button.secondary:hover {
+            background: #118811;
+            border-color: #118811;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+        }
+
+        .stats {
+            background: #252526;
+            padding: 8px 15px;
+            margin-bottom: 10px;
+            border-radius: 4px;
+            display: flex;
+            gap: 20px;
+            font-size: 13px;
+        }
+
+        .stat-item {
+            display: flex;
+            gap: 5px;
+        }
+
+        .stat-label {
+            color: #858585;
+        }
+
+        .stat-value {
+            color: #4fc3f7;
+            font-weight: 600;
+        }
+
+        .stat-item.changes {
+            background: rgba(255, 193, 7, 0.1);
+            padding: 2px 6px;
+            border-radius: 3px;
+        }
+
+        .stat-item.changes .stat-value {
+            color: #ffc107;
+        }
+
+        .stat-item.unknown {
+            background: rgba(244, 135, 113, 0.1);
+            padding: 2px 6px;
+            border-radius: 3px;
+        }
+
+        .stat-item.unknown .stat-value {
+            color: #f48771;
+        }
+
+        .table-container {
+            background: #252526;
+            border-radius: 4px;
+            overflow: hidden;
+            margin-top: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 12px;
+        }
+
+        thead {
+            background: #2d2d30;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        th {
+            padding: 12px 15px;
+            text-align: left;
+            font-weight: 600;
+            color: #cccccc;
+            border-bottom: 2px solid #3c3c3c;
+        }
+
+        tbody tr {
+            border-bottom: 1px solid #3c3c3c;
+        }
+
+        tbody tr:hover {
+            background: #2d2d30;
+        }
+
+        td {
+            padding: 10px 15px;
+            vertical-align: top;
+        }
+
+        .indicator-name {
+            color: #4fc3f7;
+            font-weight: 600;
+            font-family: 'Consolas', monospace;
+        }
+
+        .value-original {
+            color: #ce9178;
+            font-family: 'Consolas', monospace;
+            word-break: break-word;
+        }
+
+        .value-harmonized {
+            color: #4ec9b0;
+            font-family: 'Consolas', monospace;
+            word-break: break-word;
+        }
+
+        .value-unchanged {
+            color: #858585;
+        }
+
+        .value-match {
+            color: #4CAF50;
+            font-weight: 600;
+        }
+
+        .value-changed {
+            background: rgba(76, 175, 80, 0.15);
+            color: #4CAF50;
+            font-weight: 600;
+        }
+
+        .value-unknown {
+            color: #f48771;
+            font-weight: 600;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 50px 20px;
+            color: #858585;
+            font-size: 14px;
+        }
+
+        .loading::after {
+            content: '...';
+            animation: dots 1.5s steps(4, end) infinite;
+        }
+
+        @keyframes dots {
+            0%, 20% { content: '.'; }
+            40% { content: '..'; }
+            60%, 100% { content: '...'; }
+        }
+
+        .filter-controls {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        .filter-btn {
+            padding: 5px 12px;
+            font-size: 12px;
+            background: #3c3c3c;
+            color: #cccccc;
+            border: 1px solid #3c3c3c;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+
+        .filter-btn.active {
+            background: #0e639c;
+            border-color: #0e639c;
+            color: white;
+        }
+
+        .filter-btn:hover {
+            background: #1177bb;
+            border-color: #1177bb;
+        }
+
+        .filter-row {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .filter-buttons {
+            flex: 0 0 auto;
+        }
+
+        .stats {
+            background: #252526;
+            padding: 8px 15px;
+            border-radius: 4px;
+            display: flex;
+            gap: 15px;
+            font-size: 13px;
+            margin: 0 15px;
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        .search-container {
+            margin-left: auto;
+        }
+
+        .stat-item {
+            display: flex;
+            gap: 5px;
+        }
+
+        .stat-label {
+            color: #858585;
+        }
+
+        .stat-value {
+            color: #4fc3f7;
+            font-weight: 600;
+        }
+
+        .search-box {
+            width: 200px;
+            padding: 5px 12px;
+            font-size: 13px;
+            border: 1px solid #3c3c3c;
+            border-radius: 3px;
+            background: #2d2d30;
+            color: #cccccc;
+        }
+
+        @media (max-width: 1024px) {
+            .comparison-container {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Scrollbar styling */
+        ::-webkit-scrollbar {
+            width: 12px;
+            height: 12px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #1e1e1e;
+            border-radius: 6px;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #3c3c3c;
+            border-radius: 6px;
+            border: 2px solid #1e1e1e;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #505050;
+        }
+
+        ::-webkit-scrollbar-corner {
+            background: #1e1e1e;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>File Comparison - 500 Patients</h1>
+        <div class="controls">
+            <select id="fileSelect">
+                <option value="">Loading...</option>
+            </select>
+            <button onclick="loadPrevious()">Previous</button>
+            <button onclick="loadNext()">Next</button>
+            <button onclick="loadRandom()">Random</button>
+            <button onclick="window.location.href='compare_indicators.html'" class="secondary">View by Indicator</button>
+        </div>
+    </div>
+
+    <div class="filter-row">
+        <div class="filter-buttons">
+            <button class="filter-btn active" id="filterAll" onclick="setFilter('all')">
+                All (<span id="countAll">0</span>)
+            </button>
+            <button class="filter-btn" id="filterChanged" onclick="setFilter('changed')">
+                Changed (<span id="countChanged">0</span>)
+            </button>
+            <button class="filter-btn" id="filterUnknown" onclick="setFilter('unknown')">
+                Unknown (<span id="countUnknown">0</span>)
+            </button>
+            <button class="filter-btn" id="filterWithoutUnknown" onclick="setFilter('without-unknown')">
+                Without Unknown (<span id="countWithoutUnknown">0</span>)
+            </button>
+        </div>
+        <div class="stats" id="stats">
+            <div class="stat-item">Loading...</div>
+        </div>
+        <div class="search-container">
+            <input type="text" class="search-box" id="searchBox" placeholder="Search indicators...">
+        </div>
+    </div>
+
+    <div class="table-container">
+        <div class="loading" id="loading">Loading data...</div>
+        <table id="dataTable" style="display: none; table-layout: fixed;">
+            <thead>
+                <tr>
+                    <th style="width: 400px;">Indicator</th>
+                    <th style="width: 300px;">Data_output_12</th>
+                    <th style="width: 300px;">Predictions_12</th>
+                    <th style="width: 300px;">Reference (Harmonized)</th>
+                    <th style="width: 300px;">LLM Prediction</th>
+                </tr>
+            </thead>
+            <tbody id="tableBody">
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        let allData = {};
+        let fileList = [];
+        let currentIndex = 0;
+        let currentFilter = 'all';
+        let isLoadingFile = false; // Flag to avoid loops
+
+        // Load data
+        async function loadData() {
+            try {
+                const response = await fetch('comparison_data.json');
+                allData = await response.json();
+                
+                // Filter only files with predictions (reference_available = true)
+                fileList = Object.keys(allData)
+                    .filter(file => allData[file].stats.reference_available === true)
+                    .sort();
+                
+                const select = document.getElementById('fileSelect');
+                select.innerHTML = fileList.map((file, idx) => 
+                    `<option value="${idx}">${file}</option>`
+                ).join('');
+                
+                // Update header with count
+                document.querySelector('.header h1').textContent = `File Comparison - ${fileList.length} Patients`;
+                
+                if (fileList.length > 0) {
+                    loadFile(0);
+                } else {
+                    document.getElementById('loading').innerHTML = 
+                        '<div style="color: orange; text-align: center; padding: 50px;">No patient files with predictions found</div>';
+                }
+            } catch (error) {
+                console.error('Loading error:', error);
+                document.getElementById('loading').innerHTML = 
+                    '<div style="color: red; text-align: center; padding: 50px;">Error: comparison_data.json file not found<br><br>Run: python3 generate_comparison.py first</div>';
+                document.getElementById('loading').style.display = 'block';
+            }
+        }
+
+        // Load specific file
+        function loadFile(index) {
+            if (index < 0 || index >= fileList.length) return;
+            
+            isLoadingFile = true; // Disable events
+            currentIndex = index;
+            document.getElementById('fileSelect').value = index;
+            isLoadingFile = false; // Re-enable events
+            
+            const filename = fileList[index];
+            const data = allData[filename];
+            
+            // Update page title with current file
+            document.title = `File Comparison - ${filename.replace('_summary.txt', '')}`;
+            
+            displayComparison(data);
+        }
+
+        // Set filter
+        function setFilter(filter) {
+            currentFilter = filter;
+            
+            // Update buttons
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            
+            // Handle special case "without-unknown"
+            const buttonId = filter === 'without-unknown' ? 'filterWithoutUnknown' : 
+                            'filter' + filter.charAt(0).toUpperCase() + filter.slice(1);
+            document.getElementById(buttonId).classList.add('active');
+            
+            // Reload display
+            loadFile(currentIndex);
+        }
+
+        // Display comparison
+        function displayComparison(data) {
+            // First pass: count items in each category
+            let countAll = 0;
+            let countChanged = 0;
+            let countUnknown = 0;
+            let countWithoutUnknown = 0;
+            let toUnknownCount = 0;
+
+            data.comparison.forEach(item => {
+                const origVal = item.llm_prediction || 'unknown';
+                const harmVal = item.reference || 'unknown';
+
+                countAll++;
+                
+                if (origVal !== harmVal) {
+                    if (harmVal === 'unknown' && origVal !== 'unknown') {
+                        countUnknown++;
+                        toUnknownCount++;
+                    } else {
+                        countChanged++;
+                    }
+                }
+                
+                if (harmVal !== 'unknown' && origVal !== 'unknown') {
+                    countWithoutUnknown++;
+                }
+            });
+
+            // Update filter button counts
+            document.getElementById('countAll').textContent = countAll;
+            document.getElementById('countChanged').textContent = countChanged;
+            document.getElementById('countUnknown').textContent = countUnknown;
+            document.getElementById('countWithoutUnknown').textContent = countWithoutUnknown;
+            const tbody = document.getElementById('tableBody');
+            tbody.innerHTML = '';
+
+            let displayedCount = 0;
+
+            data.comparison.forEach(item => {
+                const key = item.key;
+                const dataOut12Val = item.data_output_12 || '';
+                const predictions12Val = item.predictions_12 || '';
+                const harmVal = item.reference || '';
+                const origVal = item.llm_prediction || '';
+
+                // Logique simple: si prediction === reference, colorier en vert
+                const predMatchesRef = origVal === harmVal;
+
+                // Apply filter
+                if (currentFilter === 'changed' && predMatchesRef) return;
+                if (currentFilter === 'unknown' && harmVal !== 'unknown' && origVal !== 'unknown') return;
+                if (currentFilter === 'without-unknown' && (harmVal === 'unknown' || origVal === 'unknown')) return;
+
+                // Apply search filter
+                const searchTerm = document.getElementById('searchBox').value.toLowerCase();
+                if (searchTerm && !key.toLowerCase().includes(searchTerm)) return;
+
+                displayedCount++;
+
+                const tr = document.createElement('tr');
+
+                // Indicator column
+                const tdIndicator = document.createElement('td');
+                tdIndicator.className = 'indicator-name';
+                tdIndicator.textContent = key.replace(/_/g, ' ');
+
+                // Data_output_12 value column (pas de coloration spéciale)
+                const tdDataOut12 = document.createElement('td');
+                tdDataOut12.className = 'value-original';
+                tdDataOut12.textContent = dataOut12Val || '(empty)';
+
+                // Predictions_12 value column (pas de coloration spéciale)
+                const tdPredictions12 = document.createElement('td');
+                tdPredictions12.className = 'value-original';
+                tdPredictions12.textContent = predictions12Val || '(empty)';
+
+                // Reference value column
+                const tdReference = document.createElement('td');
+                tdReference.className = 'value-harmonized';
+                if (predMatchesRef) {
+                    tdReference.classList.add('value-match');
+                }
+                tdReference.textContent = harmVal || '(empty)';
+
+                // LLM Prediction value column
+                const tdPrediction = document.createElement('td');
+                tdPrediction.className = 'value-original';
+                if (predMatchesRef) {
+                    tdPrediction.classList.add('value-match');
+                }
+                tdPrediction.textContent = origVal || '(empty)';
+
+                tr.appendChild(tdIndicator);
+                tr.appendChild(tdDataOut12);
+                tr.appendChild(tdPredictions12);
+                tr.appendChild(tdReference);
+                tr.appendChild(tdPrediction);
+                tbody.appendChild(tr);
+            });
+
+            if (displayedCount === 0) {
+                tbody.innerHTML = '<tr><td colspan="3" style="text-align: center; padding: 50px; color: #858585;">No items to display with this filter</td></tr>';
+            }
+
+            // Show table and hide loading
+            document.getElementById('loading').style.display = 'none';
+            document.getElementById('dataTable').style.display = 'table';
+
+            updateStats(data.stats, toUnknownCount);
+        }
+
+        // Update statistics
+        function updateStats(stats, toUnknownCount) {
+            const statsDiv = document.getElementById('stats');
+            statsDiv.innerHTML = `
+                <div class="stat-item">
+                    <span class="stat-label">File:</span>
+                    <span class="stat-value">${currentIndex + 1} / ${fileList.length}</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Indicators:</span>
+                    <span class="stat-value">${stats.total}</span>
+                </div>
+                <div class="stat-item changes">
+                    <span class="stat-label">Changed:</span>
+                    <span class="stat-value">${stats.changes}</span>
+                </div>
+                <div class="stat-item unknown">
+                    <span class="stat-label">To Unknown:</span>
+                    <span class="stat-value">${toUnknownCount}</span>
+                </div>
+            `;
+        }
+
+        // Navigation
+        function loadPrevious() {
+            if (currentIndex > 0) {
+                loadFile(currentIndex - 1);
+            }
+        }
+
+        function loadNext() {
+            if (currentIndex < fileList.length - 1) {
+                loadFile(currentIndex + 1);
+            }
+        }
+
+        function loadRandom() {
+            const randomIndex = Math.floor(Math.random() * fileList.length);
+            loadFile(randomIndex);
+        }
+
+        // Event listeners
+        document.getElementById('fileSelect').addEventListener('change', (e) => {
+            if (!isLoadingFile) {
+                loadFile(parseInt(e.target.value));
+            }
+        });
+
+        document.getElementById('searchBox').addEventListener('input', () => {
+            loadFile(currentIndex); // Re-filter current data
+        });
+
+        // Initialize
+        loadData();
+    </script>
+</body>
+</html>

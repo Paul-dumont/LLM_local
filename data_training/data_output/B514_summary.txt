@@ -1,0 +1,33 @@
+patient_id: B514
+patient_age: 18
+current_medications: Prilosec | Zyrtec D | Accolate | Detrol LA | Amitriptyline | Metoclopramide | Maxalt | Albuterol 
+earache_present: False
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: False
+physical_therapy_status: chiropractic 
+adverse_reactions: pollen | dust | smoke 
+appliance_history: orthodontic treatment from the age of 11 to 13
+current_appliance: 3 x 3 retainer in the lower arch
+pain_aggravating_factors: right posterior crossbite tendency
+airway_obstruction_present: False
+----------------------------------------------------------------------------------------------------
+patient_id: B514
+sleep_disorder_type: daytime somnolence
+muscle_tenderness_present: True
+neck_pain_present: False
+muscle_pain_score: moderate 
+muscle_pain_location: shoulders 
+----------------------------------------------------------------------------------------------------
+current_appliance: 3 x 3 retainer in the lower arch
+pain_aggravating_factors: right posterior crossbite tendency
+headache_intensity: present
+patient_id: B514
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation anteriorly and medially possibly non-reducing | right disc dislocation posteriorly
+patient_id: B514
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc dislocation medially with reduction | right disc dislocation medially with reduction
+joint_arthritis_location: right TMJ
+

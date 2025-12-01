@@ -1,0 +1,46 @@
+patient_id: B323
+maximum_opening_without_pain: unknown
+patient_age: 13
+maximum_opening: 47mm
+pain_relieving_factors: unknown
+diet_score: 0
+pain_duration: unknown
+disability_rating: 1
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism | left lateral open bite
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: none
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+previous_medications: unknown
+muscle_pain_score: mild to moderate
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: 6
+headache_intensity: 0
+autoimmune_condition: unknown
+pain_onset_date: 1-1/2 years ago
+jaw_crepitus: unknown
+tmj_pain_rating: 0
+sleep_disorder_type: unknown
+current_medications: flonase | allegra
+disc_displacement: left disc posterior displacement | right disc anterior displacement with partial reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | right masseter | styloid areas | scms | posterior neck
+joint_arthritis_location: right tmj
+appliance_history: orthodontics for 5 to 6 years with dr. __ including head gear and maxillary expansion
+joint_pain_areas: left tmj | right tmj | left hip | knees | ankles

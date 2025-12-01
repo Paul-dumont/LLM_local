@@ -1,0 +1,26 @@
+patient_id: B520
+patient_age: 17
+pain_onset_date: 13 years old
+appliance_history: orthodontics from age 8 to 12 | elastics from 12 to 13 | splints for the past 2 years
+physical_therapy_status: physical therapy last year | dry needling | exercises | physical therapy with physical therapy 
+current_medications: Daypro | birth control pills | Enbrel
+
+----------------------------------------------------------------------------------------------------
+patient_id: B520
+muscle_pain_score: moderate 
+joint_arthritis_location: left TMJ | right TMJ
+maximum_opening: 44mm
+maximum _opening_without_pain: 18mm
+musical_tenderness_present: True
+muscular_pain score: masseters | retromandibular area | right temporalis | left temporalis
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B520
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: juvenile rheumatoid arthritis
+pain_aggravating_factors: anterior open bite
+----------------------------------------------------------------------------------------------------
+patient_id: B520
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior dislocation without reduction 
+autoimmune_condition: connective tissue autoimmune type of process

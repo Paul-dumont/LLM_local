@@ -1,0 +1,45 @@
+patient_id: B109
+maximum_opening_without_pain: 26mm
+patient_age: 37
+maximum_opening: 45mm
+pain_relieving_factors: unknown
+diet_score: 3
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | posterior open bite
+physical_therapy_status: physical therapy was reinitiated last year
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: true
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: continuous
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: high moderate to moderate
+migraine_history: unknown
+headache_location: throughout her head
+current_appliance: 5 splints
+average_daily_pain_intensity: 7
+headache_intensity: 6
+autoimmune_condition: fibromyalgia
+pain_onset_date: 15 of unknown etiology
+jaw_crepitus: unknown
+tmj_pain_rating: 6
+sleep_disorder_type: unknown
+current_medications: synthroid 25 mcg per day | t3 37.5 mcg per day | flonase 2 pumps | lunesta 2 mg q.h.s. | hydrocortisone 5 mg q.d. | adrenal insufficiency
+disc_displacement: left disc medial displacement with reduction | right disc anterior and lateral displacement with reduction | left disc medial displacement | right disc anterior and lateral displacement
+muscle_pain_location: head and neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: 4 first bicuspids extracted | orthodontics from about the

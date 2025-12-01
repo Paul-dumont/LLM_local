@@ -1,0 +1,48 @@
+patient_id: B293
+patient_age: 57
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement without reduction | right disc anterior and posterior displacement without reduction
+----------------------------------------------------------------------------------------------------
+patient_id: B293
+patient_age: 57
+earache_present: False
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: False
+joint_pain_areas: right hip
+adverse_reactions: iodine
+pain_aggravating_factors: clenching | bruxism
+pain_onset_date: 2 to 3 years ago
+onset_triggers: unknown
+current_appliance: orthodontics since last year
+physical_therapy_status: previous biofeedback treatments
+headache_intensity: 5
+headache_location: temporal 
+headache_frequency: daily 
+tmj_pain_rating: 4
+average_daily_pain_intensity: 5
+jaw_function_score: 5
+diet_score: 7
+disability_rating: 5
+neck_pain_present: True
+current_medications: Tylenol | ultra | clonazepam
+jaw_clicking: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B293
+maximum_opening: 37mm
+jaw_crepitus: left TMJ | right TMJ
+jaw_clicking: left TMJ
+muscle_pain_score: moderate
+muscle_pain_location: temporalis | masseters | posterior neck | shoulder | styloid areas | SCMs
+neck_pain_present: True
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B293
+patient_age: 57
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation
+headache_intensity: present
+joint_pain_areas: TMJ
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+NoInfo

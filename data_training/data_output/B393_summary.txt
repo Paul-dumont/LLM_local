@@ -1,0 +1,52 @@
+patient_id: B393
+patient_age: 58 
+joint_arthritis_location: right knee
+current_medications: Inderal | Nexium | Crestal | Amitriptyline | Mobic | Imitrex
+pain_onset_date: at least 13 years ago or probably longer
+onset_triggers: unknown 
+appliance_history: splint for 13 year | orthodontics for one year
+physical_therapy_status: physical therapy for at least three to four years and goes on a weekly basis
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: True
+joint_pain_areas: neck | lumbar area of back | right elbow | right knee
+neck_pain_present: True
+back_pain_present: True
+headache_intensity: 9
+headache_location: frontal | temporal | posterior head | top of the head
+headache_frequency: daily
+tmj_pain_rating: 9
+average_daily_pain_intensity: 8
+jaw_function_score: 8
+diet_score: 8
+disability_rating: 5
+pain_aggravating_factors: right posterior cross bite tendency
+----------------------------------------------------------------------------------------------------
+patient_id: B393
+headache_intensity: 9
+headache_location: frontal | temporal | posterior head | top of the head
+headache_frequency: daily
+tmj_pain_rating: 9
+average_daily_pain_intensity: 8
+jaw_function_score: 8
+diet_score: 8
+disability_rating: 5
+maximum_opening: 41mm
+jaw_crepitus: left TMJ | right TMJ
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: severe 
+muscle_pain_location: right posterior neck | right styloid | right shoulder | medial pterygoids | right masseter | right temporalis | right SCM
+neck_pain_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: False
+joint_pain_areas: TMJ
+headache_intensity: Severe 
+tmj_pain_rating: Severe
+earache_present: True
+patient_id: B393
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc anterior dislocation without reduction
+

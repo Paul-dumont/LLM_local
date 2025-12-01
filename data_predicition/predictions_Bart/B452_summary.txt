@@ -1,0 +1,37 @@
+patient_id: B452
+patient_age: 54
+current_medications: Estratest 
+pain_onset_date: three or four years ago
+jaw_clicking: right TMJ
+earache_present: False
+tinnitus_frequency: comes and goes
+vertigo_present : False
+hearing_loss_score: 0
+physical_therapy_status: none
+appliance_history: orthodontics for 2.5 years
+headache_
+----------------------------------------------------------------------------------------------------
+patient_id: B452
+maximum_opening: 45mm
+jaw_crepitus: right TMJ 
+pain_aggravating_factors: posterior open bite
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B452
+airway_obstruction_present: False
+pain_aggravating_factors: right posterior crossbite tendency
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+sleep_disorder_type: snoring | daytime somnolence | sleep disorder 
+patient_id: B452
+disc_displacement: left disc anterior displacement
+----------------------------------------------------------------------------------------------------
+patient_id: B452
+disc_displacement: left disc anteriorly displaced | right disc medial displacement 
+joint_pain_areas: left TMJ | right TMJ
+patient_age: 45
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc anteriorly displaced with very early reduction 
+patient_id: B5

@@ -1,0 +1,49 @@
+patient_id: B188
+patient_age: 50
+current_medications: Aspirin | Levothroid | Estrogen | Progesterone | Vitamin | mineral supplements | Ambian | Skelaxin | Fioricet | migraine medication | Feldene | Zomig | Maxalt
+adverse_reactions: IV iodine | Demerol |codeine | sulfa
+jaw_clicking: left TMJ | right TMJ
+joint_pain_areas: left neck | left shoulder | left hip | wrist
+neck_pain_present: True
+headache_intensity: present
+headache_location: left
+onset_triggers: as teenager, fell off a roof and struck face on a trampoline fracturing nose and bruising face |  in high school, got hit in the face with a softball| fourteen years ago, hit as a pedestrian by a car that fractured pelvis as well as caused some facial injury and concussion and a whiplash injury
+appliance_history: orthodontics at age of 13 | splints in 20s | splints in early 30s
+physical_therapy_status: physical therapy in late 20s
+earache_present: False
+tinnitus_present: False
+vertigo_present: True
+headache_intensity: 9
+headache_frequency: constant and progress during the day
+headache_location: temporal | frontal | posterior head
+jaw_function_score: 8
+diet_score: 2
+disability_rating: 7
+pain_relieving_factors: injections in muscles of left neck and shoulder area
+airway_obstruction_present: True
+sleep_disorder_type: snoring | daytime tiredness
+sleep_apnea_diagnosed: False
+----------------------------------------------------------------------------------------------------
+patient_id: B188
+maximum_opening: 49mm
+maximum_opening_without_pain: 23mm
+muscle_pain_location: masseters | retromandibular area | SCMs | medial pterygoid
+muscle_pain_score: high moderate
+joint_pain_areas: left TMJ
+muscle_tenderness_present: True
+jaw_clicking: right TMJ | left TMJ
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B188
+joint_arthritis_location: left TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation with early reduction
+joint_pain_areas: left TMJ
+tmj_pain_rating: severe
+headache_intensity: severe
+----------------------------------------------------------------------------------------------------
+patient_id: B188
+patient_age: 50
+disc_displacement: left disc anterior displacement | right disc anterior displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and medial displacement

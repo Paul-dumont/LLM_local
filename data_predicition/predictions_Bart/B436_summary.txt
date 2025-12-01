@@ -1,0 +1,22 @@
+patient_id: B436
+patient_age: 46
+pain_onset_date: 7 months ago
+onsets_triggers: unknown except she chewed some gum around the onset of the pain
+current_medications: ibuprofen | Flexeril | Synthroid
+tmj_pain_rating: 6
+average_daily_intensity: 6, jaw function: 2
+diet_score: 4
+disability_rating
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+disc_displacement: left disc dislocation | right disc dislocated 
+headache_intensity: present
+tmj_pain_rating: 9
+earache_frequency: left earache greater than right ear
+patient_id: B5
+----------------------------------------------------------------------------------------------------
+patient_id: B436
+patient_age: 46
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior dislocation without reduction

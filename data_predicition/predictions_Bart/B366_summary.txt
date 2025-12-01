@@ -1,0 +1,29 @@
+patient_id: B366
+patient_age: 30
+pain_onset_date: last year
+appliance_history: motor vehicle accident
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: 8 but can escalate to 10
+headaches_location: frontal | temporal | top of the head | left side somewhat worse than the right side
+tmj_painrating: 8 with average daily pain of 10
+jaw_function_score: 8
+diet_score 5
+disability_rating: 5
+----------------------------------------------------------------------------------------------------
+patient_id: B366
+maximum_opening: 32mm
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True
+jaw_crepitus: temporalis | masseters | posterior neck | styloid areas | SCMs | left medial pterygoid area | left  splotches of bone | left posterior cross
+----------------------------------------------------------------------------------------------------
+patient_id: B366
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement | right disc dislocation 
+headache_intensity: present
+tmj_pain_rating: 0
+patient_age: 30
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medial and rotational displacement 
+patient_id: B4
+jaw_locking: True

@@ -1,0 +1,19 @@
+patient_id: B236
+patient_age: 18
+pain_onset_date: 12 years of age
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics from 10 to 12, and then the braces were removed about 6 months later and she wore them again from about the age of 12 to 13
+headache_intensity: 8
+headaches_frequency: almost on a daily basis
+ frontal | temporal
+tmj_pain_rating: 8 gets TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B236
+airway_obstruction_present: True
+joint_pain_areas: left TMJ | right TMJ
+disc_displacement: left juvenile internal condylar resorption | right adolescent internal dislocation
+----------------------------------------------------------------------------------------------------
+patient_id: B236
+patient_age: 18
+disc_displacement: left disc anterior displacement with reduction | right disc anterior and medial displacement with early reduction
+joint_arthritis_location: left TMJ | right TMJ

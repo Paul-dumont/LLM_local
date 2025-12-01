@@ -1,0 +1,24 @@
+patient_id: B112
+patient_age: 59
+pain_onset_date: 24 years old
+onsets_triggers: severe beating
+physical_therapy_status: physical therapy on and off for the past 9 years
+current_medications: Cymbalta | Armour thyroid | HCTZ | Ditropan XL | Vicodin | Advil
+joint_pain_areas: TMJ
+headache_intensity: 10
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea | sleep disorder | daytime tiredness
+earache_present: True
+tinnitus_present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B112
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea
+tmj_pain_rating: Severe 
+headache_intensity: severe 
+jaw_clicking: TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B478
+joint_arthritis_location: left TMJ | right TMJ
+appliance_history: orthodontics
+pain_aggravating_factors: anterior open bite

@@ -1,0 +1,29 @@
+patient_id: B375
+patient_age: 12
+current_medications: Adderall XR
+headache_intensity: 5
+headache_frequency: three to four times per week
+pain_onset_date: one year ago
+onset_triggers: chewing gum 
+headache_location: temporal 
+tmj_pain_rating: 0
+average_daily_pain_intensity: 5
+jaw_function_score: 1
+diet_score: 0
+disability_rating: 6
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: mild
+muscle_pain_location: temporalis | masseters | styloids | SCMs | posterior neck | shoulders | medial pterygoids
+neck_pain_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B375
+sleep_disorder_type: snoring
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation 
+headache_intensity: present
+joint_pain_areas: TMJ
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B375
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement with reduction | right disc anterior and medial displacement with reduction 

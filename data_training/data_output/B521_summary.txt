@@ -1,0 +1,61 @@
+patient_id: B521
+patient_age: 42
+joint_arthritis_location: left TMJ | right TMJ
+current_medications: Advil
+adverse_reactions: CODEINE
+pain_onset_date: about 12 years old
+jaw_clicking: TMJ
+jaw_locking: True
+current_appliance: splints for about seven or eight years
+physical_therapy_status: massages weekly
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: neck | knees | TMJ
+neck_pain_present: True
+pain_aggravating_factors: clenching
+headache_intensity: 8
+headache_location: temporal | posterior head
+headache_frequency: two times a week
+tmj_pain_rating: 6 but can escalate to 9
+average_daily_pain_intensity: 5
+jaw_function_score: 8
+diet_score: 7
+disability_rating: 7
+sleep_disorder_type: snoring | daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B521
+airway_obstruction_present: True
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: high moderate to low severe
+muscle_pain_location: styloid areas | right temporalis | right masseter
+headache_intensity: 8
+headache_location: temporal | posterior head
+headache_frequency: two times a week
+tmj_pain_rating: 6 but can escalate to 9
+average_daily_pain_intensity: 5
+jaw_function_score: 8
+diet_score: 7
+disability_rating: 7
+jaw_crepitus: left TMJ | right TMJ
+jaw_clicking: left TMJ 
+maximum_opening: 35mm
+maximum_opening_without_pain: 25mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction 
+pain_aggravating_factors: anterior open bite
+joint_pain_areas: TMJ
+headache_intensity: Severe 
+tmj_pain_rating: Severe 
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+patient_id: B521
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc dislocation without reduction 
+
+
+
+

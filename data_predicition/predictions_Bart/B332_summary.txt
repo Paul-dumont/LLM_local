@@ -1,0 +1,31 @@
+patient_id: B332
+patient_age: 35
+joint_arthritis_location: right TMJ
+current_appliance: 3 x 3 retainer in the lower arch
+airway_obstruction_present: False
+disc_displacement: left disc medial displacement
+----------------------------------------------------------------------------------------------------
+patient_id: B332
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics one time as a teenager then again in her 20s to realign the lower teeth
+physical_therapy_status: chiropractic treatment | craniofacial treatment | physical therapy
+----------------------------------------------------------------------------------------------------
+patient_id: B332
+current_appliance: 3 x 3 retainer
+pain_aggravating_factors: open bite
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True 
+muscular_therapy_status: masseters | shoulders | right retromandibular area | temporalis | posterior neck | left retrom and left retro
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B332
+joint_arthritis_location: right TMJ
+disc_displacement: left disc medial displacement with reduction | right disc dislocation without reduction 
+pain_aggravating_factors: left posterior open bite | Candida infections | black mold
+current_appliance: 3 x 3 retainer in the lower arch
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B332
+patient_age: 35
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement with early reduction | right disc anterior displacement without reduction

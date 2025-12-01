@@ -1,0 +1,32 @@
+patient_id: B344
+patient_age: 23
+headache_intensity: 0
+tmj_pain_rating: 5 but can escalate to 8
+average_daily_strength: 5
+jaw_function_score: 8
+diet_score 4
+disability_rating 3
+current_medications: Wellbutrin | Concerta
+earache_present: True
+tinnitus_ present: False
+vertigo_present
+----------------------------------------------------------------------------------------------------
+patient_id: B344
+pain_aggravating_factors: open bite
+muscle_pain_score: 7 on the right side and 2 on the left side
+maximum_opening: 28mm 
+maximal_opening_without_pain: 18mm
+joint_pain _areas: left TMJ | right TMJ
+muscular_tenderness_present: True
+musical_pain score: mild to moderate 
+musits_location: masseter | posterior aspect of lateral portion of the posterior border of the mandible
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocations without reduction | right disc dislocation without reduction 
+pain_aggravating_factors: left posterior open bite
+patient_id: B5
+----------------------------------------------------------------------------------------------------
+patient_id: B344
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior dislocation without reduction 
+patient_age: 38

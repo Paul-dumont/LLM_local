@@ -1,0 +1,28 @@
+patient_id: B175
+patient_age: 26
+pain_onset_date: since early teens
+appliance_history: orthodontics from about the age 8 to 10 including head gear | splint from 15 to 17 years of age | night guard since 4 years ago
+current_medications: Lunesta | Ibuprofen 
+headache_intensity: 4
+headaches_location: throughout the head bilaterally
+tmj_pain_rating:
+----------------------------------------------------------------------------------------------------
+patient_id: B175
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocations 
+muscle_pain_score: moderate to high moderate 
+headache_intensity: present 
+maximum_opening: 60mm
+average_opening_without_pain: 25mm
+jaw_clicking: jaws
+neck_tenderness_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B175
+patient_age: 26
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced and foreshortened anteroposteriorly | right disc anterior displacement without reduction
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation without reduction | right disc anteriorly dislocated without reduction 
+patient_id: B175
+airway_obstruction_present: True

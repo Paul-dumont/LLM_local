@@ -1,0 +1,16 @@
+patient_id: B188
+maximum_opening_without_pain: 23mm
+patient_age: 50
+maximum_opening: 49mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 7
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism | left tmj pain | left tmj disc dislocation | left tmj disc dislocation without reduction | right tmj disc dislocation with early reduction | left tmj disc dislocation without reduction and severe deformation | right tmj disc dislocation with early reduction | left tmj disc dislocation without reduction and severe deformation | right tmj disc dislocation with early reduction | left tmj disc dislocation without reduction and severe deformation | right tmj disc dislocation with early reduction | left tmj disc dislocation without reduction and severe deformation | right tmj disc dislocation with early reduction | left tmj disc dislocation without reduction and severe deformation | right tmj disc dislocation with early reduction | left tmj disc dislocation without reduction and severe deformation | right tmj disc dislocation with early reduction | left tmj disc dislocation without reduction and severe deformation | right tmj disc dislocation with early reduction | left tmj disc dislocation without reduction and severe deformation | right tmj disc dislocation with early reduction | left tmj disc dislocation without reduction and severe deformation | right tmj disc dislocation with early reduction | left tmj disc dislocation without reduction and severe deformation | right tmj disc dislocation with early reduction | left tmj disc dislocation without reduction and severe deformation | right tmj disc dislocation with early reduction | left tmj disc dislocation without reduction and severe deformation | right tmj disc dislocation with early reduction | left tmj disc dislocation without reduction and severe deformation | right tmj disc dislocation with early reduction | left tmj disc dislocation without reduction and severe deformation | right tmj disc dislocation with early reduction | left tmj disc dislocation without reduction and severe deformation | right tmj disc dislocation with

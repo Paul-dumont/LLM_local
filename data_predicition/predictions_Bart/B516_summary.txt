@@ -1,0 +1,31 @@
+patient_id: B516
+patient_age: 57
+neck_pain_present: True
+earache_intensity: present
+joint_arthritis_location: left TMJ | neck | left elbow | wrist | back | back  | knees | ankles | ankles
+appliance_history: splint therapy from 23 years ago for 5 years | orthodontics and then went back into splints which she continued to wear until about 12 years ago and 6 years ago
+current_medications: Synthroid | Estradiol | Lexapro | Zetia | Digitek | Diovan | Cyclobenzaprine | Skelaxin
+pain_onset_date: unknown but at the age of 19 she had her wisdom teeth taken out and had significant limited jaw mobility for months following that
+jaw_clicking: not aware of clicking at the time but would have been about 40 years ago when this incident occurred
+physical_therapy_status: physical therapy with Dr. XXXX
+----------------------------------------------------------------------------------------------------
+patient_id: B516
+muscle_pain_score: very high moderate to low severe
+neckache_location: right posterior neck | left styloid area | temporalis | masseters | medial pterygoids | SCMs | shoulders | left posterior neck and right styloid areas
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 20mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B516
+disc_displacement: left disc dislocation with reduction | right disc anterior displacement with reduction
+joint_pain_areas: TMJ
+headache_intensity: present
+sleep_disorder_type: snoring | sleep apnea symptoms
+current_medications: Synthroid | Estradiol
+pain_aggravating_factors: dry mouth
+
+----------------------------------------------------------------------------------------------------
+patient_id: B516
+patient_age: 57
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement with early reduction | right disc anterior dislocation anteromedial with early reduced reduction

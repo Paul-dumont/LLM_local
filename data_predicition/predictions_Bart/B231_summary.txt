@@ -1,0 +1,27 @@
+patient_id: B231
+patient_age: 51
+current_medications: Synthroid | natural progesterone
+adverse_reactions: penicillin
+muscle_spasm_present: True
+pain_onset_date: 20 years ago or longer
+joint_pain_areas: neck | shoulders | left TMJ | right TMJ
+neck_tenderness_present : True 
+musits_spasticity_location: neck and shoulders | hands | fingers
+physical_therapy_status: physical therapy | medications | massage | spl
+----------------------------------------------------------------------------------------------------
+patient_id: B231
+airway_obstruction_present: True
+current_appliance: orthodontics back through the first molars
+muscle_pain_location: left TMJ | right TMJ 
+maximum_opening: 49mm
+----------------------------------------------------------------------------------------------------
+patient_id: B231
+airway_obstruction_present: True
+disc_displacement: left disc dislocation without reduction 
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B231
+patient_age: 51
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: bilateral maxillary sinusitis
+airway_obstruction_present: False

@@ -1,0 +1,27 @@
+patient_id: B233
+patient_age: 36
+jaw_locking: True
+appliance_history: orthodontics 7 months ago
+current_medications: Benicar | albuterol inhaler | ibuprofen 
+headache_intensity: 4
+pain_onset_date: unknown but has probably been there for several years
+onsets_triggers: unknown
+pain aggravating_factors: clenching | bruxism
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea
+----------------------------------------------------------------------------------------------------
+patient_id: B233
+pain_aggravating_factors: anterior open bite
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ | right TMJ
+maximum_opening: 43mm
+----------------------------------------------------------------------------------------------------
+patient_id: B233
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc displacement | right disc displacement
+pain_aggravating_factors: anterior open bite | left posterior cross bite | right posterior crossbite
+airway_obstruction_present: True
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B233
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc in fairly good AP position but with some medial displacement | right disc anteriorly displaced with reduction

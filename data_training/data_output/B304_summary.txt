@@ -1,0 +1,46 @@
+patient_id: B304
+patient_age: 48
+current_medications: Lipitor | Nortriptyline | Tylenol | Advil | Excedrin 
+pain_onset_date: all of her life as long as she can remember
+onset_triggers: fall when she was seven years old and hit the back of her head
+appliance_history: orthodontics including headgear | orthotic | splint
+pain_aggravating_factors: orthodontics including headgear | orthotic
+physical_therapy_status: physical therapy treatments initially three times a week but now one to three times a week | chiropractic treatment for shoulder
+earache_present: True
+tinnitus_present: False
+vertigo_present: True
+hearing_loss_present: False
+joint_pain_areas: neck | right shoulder
+neck_pain_present: True
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: 9
+headache_location: temporal | posterior head area
+tmj_pain_rating: 9
+average_daily_pain_intensity: 9
+jaw_function_score: 9
+diet_score: 5
+disability_rating: 5
+disc_displacement: left disc anterior displacement | right disc anterior displacement 
+----------------------------------------------------------------------------------------------------
+patient_id: B304
+airway_obstruction_present: True 
+muscle_pain_score: moderate to high moderate
+muscle_pain_location: temporalis | right masseter | right medial pterygoid | left styloid | right styloid
+muscle_tenderness_present: True
+maximum_opening: 31mm
+maximum_opening_without_pain: 17mm
+jaw_clicking: none
+cpap_used: True
+----------------------------------------------------------------------------------------------------
+patient_id: B304
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+tmj_pain_rating: severe
+headache_intensity: severe
+airway_obstruction_present: True 
+sleep_disorder_type: sleep apnea syndrome
+----------------------------------------------------------------------------------------------------
+patient_id: B304
+patient_age: 48
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation | right disc anterior dislocation without reduction

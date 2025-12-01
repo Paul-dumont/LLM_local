@@ -1,0 +1,28 @@
+patient_id: B491
+patient_age: 14
+pain_onset_date: last year
+appliance_history: orthodontics in the third grade and seventh grade | splint | fish oil | folic acid | cilantro supplements
+physical_therapy_status: acupressure treatment | supplements 
+current_medications: Aleve | Zanaflex | Spironolactone | Doxycycline | topical mask wash
+muscle_pain_location: left masseter | increasing with exercise
+----------------------------------------------------------------------------------------------------
+patient_id: B491
+airway_obstruction_present: False
+sleep_disorder_type: difficulty sleeping at night
+pain_aggravating_factors: clenching
+muscle_pain_score: masseters | right retromandibular area
+joint_arthritis_location: left TMJ | right TMJ
+maximum_opening: 42mm
+maximal_opening_without_pain: 18mm
+----------------------------------------------------------------------------------------------------
+patient_id: B491
+joint_pain_areas: left TMJ | right TMJ
+airway_obstruction_present: True
+current_medications: Relafen | tramadol
+disc_displacement: left disc medial displacement
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc medial and anteromedial displacement
+joint_arthritis_location: left TMJ 
+disc_pain_rating: 0
+patient_id: B2
+disc _displacements: right disc may be medially displaced

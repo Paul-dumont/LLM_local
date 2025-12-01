@@ -1,0 +1,25 @@
+patient_id: B276
+patient_age: 48
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc anterior and medial displacement without reduction 
+pain_onset_date: 16 or even maybe slightly later in her teens years years
+onsets_triggers: unknown 
+jaw_clicking: joints that could be heard across the room
+sleep_apnea_diagnosed: True
+current_appliance: CPAP
+----------------------------------------------------------------------------------------------------
+patient_id: B276
+airway_obstruction_present: False
+sleep_disorder_type: daytime somnolence
+muscle_pain_score: moderate 
+joint_tenderness_areas: temporalis | masseter | retromandibular area | shoulders
+muscular_therapy_status: left TMJ crepitus
+maximum_opening: 44mm
+maximal_opening_without_pain: 30mm
+jaw_crepitus: right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B276
+disc_displacement: left disc dislocation without reduction | right disc dislocated without reduction 
+headache_intensity: present
+tmj_pain_rating: present

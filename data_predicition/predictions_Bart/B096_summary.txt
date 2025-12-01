@@ -1,0 +1,22 @@
+patient_id: B096
+patient_age: 18
+appliance_history: orthodontics 8 years ago for 3 1/2 years beginning when she was 10 years old | braces reapplied to her teeth two months ago
+headache_intensity: 0
+tmj_pain_rating: 0 
+jaw_function_score:0
+diet_score : 0
+disability_rating = 0
+current_medications: none
+earache_present: False
+tinn
+----------------------------------------------------------------------------------------------------
+patient_id: B096
+joint_arthritis_location: right TMJ
+muscle_tenderness_present: True
+neck_pain_score: mild 
+maximum_opening: 42mm
+airway_obstruction_rating: present
+----------------------------------------------------------------------------------------------------
+patient_id: B096
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and medial dislocation without reduction

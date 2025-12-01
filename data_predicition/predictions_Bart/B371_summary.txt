@@ -1,0 +1,25 @@
+patient_id: B371 
+patient_age: 21
+current_medications: none
+adverse_reactions: dust | molds | cats | a few things like that
+pain_onset_date: age of 13
+appliance_history: orthodontic treatment
+onsets_triggers: unknown 
+earache_present: True
+tinnitus_present%: True
+vertigo_present : True
+hearing_loss_rating: 0
+sleep_disorder_type: bruxism
+headache_frequency: once a month
+tmj_pain_intensity: 8
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocations without reduction | right disc dislocation without reduction 
+pain_aggravating_factors: anterior open bite | left posterior cross bite | right posterior crossbite
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+patient_id: B371
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and medial displacement with significant deformation

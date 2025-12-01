@@ -1,0 +1,37 @@
+patient_id: B032
+patient_age: 49
+pain_onset_date: teenage years
+appliance_history: orthodontics from 12 to 16 years of age | head gear for 24 hours a day
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: 7
+headaches_location: frontal | temporal | posterior head | frontal 
+tmj_painrating: 5
+average_daily_pain level: 10
+jaw_function_score: 8
+diet_score
+----------------------------------------------------------------------------------------------------
+patient_id: B032
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc articular displacement 
+muscle_pain_score: moderate to high moderate 
+neck_tenderness_present : True
+backache_intensity: present
+sleep_disorder_type: sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B032
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc medially displaced but with a condyle positioned significantly forward in the fossa
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B5
+muscle_pain_score: advanced 
+appliance_history: orthodontics
+current_medications: cortisone therapy
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True 
+patient_id: B270
+pain_aggravating_factors: left posterior crossbite tendency | right posterior cross bite tendency

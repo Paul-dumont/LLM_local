@@ -1,0 +1,30 @@
+patient_id: B087
+patient_age: 51
+jaw_clicking: left TMJ | right TMJ
+sleep_disorder_type: snoring | daytime somnolence
+pain_onset_date: as long as he can remember even perhaps back in the teenage years
+appliance_history: none
+current_medications: none
+----------------------------------------------------------------------------------------------------
+patient_id: B087
+headache_intensity: 5
+pain_aggravating_factors: right posterior crossbite tendency | anterior open bite tendency
+tmj_pain_rating: 7
+maximum_opening: 65mm
+jaw_clicking: right TMJ
+muscle_tenderness_present: True
+joint_arthritis_location: left TMJ 
+current_medications: none
+appliance_history:
+----------------------------------------------------------------------------------------------------
+patient_id: B087
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocated without reduction | right disc dislocation with reduction
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea
+jaw_crepitus: TMJ 
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B087
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation without reduction | right disc anteriorly dislocation with early reduction

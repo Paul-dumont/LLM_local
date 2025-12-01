@@ -1,0 +1,34 @@
+patient_id: B368
+patient_age: 23
+pain_onset_date: 2 years ago
+onset_triggers: unknown
+appliance_history: 3 splints beginning in early last year with the third one being constructed late last year
+pain_relieving_factors: splints
+current_appliance: orthodontics in Last year
+current_medications: amitriptyline 
+headache_intensity: 5
+headache_location: left temporal | right temporal
+headache_frequency: continuous 
+tmj_pain_rating: 1
+average_daily_pain_intensity: 4
+jaw_function_score: 3
+diet_score: 1
+disability_rating: 5
+earache_present: False
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: False
+pain_aggravating_factors: clenching | anterior open bite
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea 
+sleep_apnea_diagnosed: True
+cpap_used: True
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B368
+disc_displacement: left disc anterior displacement | right disc anterior displacement
+pain_aggravating_factors: anterior open bite
+sleep_disorder_type: sleep apnea 
+sleep_apnea_diagnosed: True
+headache_frequency: continuous 

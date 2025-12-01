@@ -1,0 +1,21 @@
+patient_id: B225
+patient_age: 14-1/2
+pain_aggravating_factors: bruxism
+earache_present: False
+tmj_pain_rating: 0
+current_medications: none
+physical_therapy_status: no treatment since 3 years ago when horse kicked her in the chin
+muscle_tenderness_location: masseter | left medial pterygoid 
+neck_
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medially displaced | right disc medial displacement 
+maximum_opening: 28mm
+patient_id: B225
+current_appliance: orthodontics
+pain_aggravating_factors: clenching | anterior open arch
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medial and anterior displacement 
+pain_aggravating_factors: anterior bony cysts in the right condyle

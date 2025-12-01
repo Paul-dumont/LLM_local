@@ -1,0 +1,20 @@
+patient_id: B119
+patient_age: 31
+pain_onset_date: 28 years of age
+joint_pain_areas: jaw
+current_medications: Wellbutrin | Spironolactone | Ibuprofen | Levocet 
+headache_intensity: 5 but can escalate to 10
+migraine_history: every 3 or 4 months when she develops a severe migraine
+----------------------------------------------------------------------------------------------------
+patient_id: B119
+muscle_tenderness_present: True
+joint_pain_areas: medial pterygoid muscles | retromandibular area
+neck_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc anterior and medial displacement 
+jaw_clicking: left side 10mm | right side 15mm
+maximum_opening: 50mm
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc anterior and medial displacement with early reduction 
+patient_id: B5

@@ -1,0 +1,23 @@
+patient_id: B241
+patient_age: 22
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: present
+sleep_disorder_type: snoring | daytime somnolence
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+muscle_tenderness_location: masseters | temporalis
+maximum_opening: 30mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+patient_id: B241
+disc_displacement: left disc dislocation | right disc dislocated and severely degenerated 
+jaw_clicking: TMJ 
+tmj_pain_rating: present
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B241
+patient_age: 22
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction

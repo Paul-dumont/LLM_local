@@ -1,0 +1,46 @@
+patient_id: B352
+patient_age: 29
+pain_onset_date: 4 years ago
+onset_triggers: motor vehicle accident
+joint_pain_areas: left TMJ | right TMJ | neck | shoulders | upper back
+pain_aggravating_factors: clenching | bruxism
+current_appliance: splint since college
+physical_therapy_status: physical therapy for almost five years since her accident | acupuncture | hypnosis | electrical stimulation |radiofrequency treatment | ultrasonic treatment | HVG
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: True
+adverse_reactions: none
+headache_intensity: 8
+headache_location: through the head area
+headache_frequency: daily
+tmj_pain_rating: 9
+average_daily_pain_intensity: 7
+jaw_function_score: 6
+diet_score: 3
+disability_rating: 5
+current_medications: Kadian | THyroid | Celexa | Zanaflex | Ansaid | Advil | fluori-methane
+neck_pain_present: True
+back_pain_present: True
+sleep_disorder_type: snoring
+jaw_clicking: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: 5
+muscle_pain_location: styloid areas | masseters
+maximum_opening: 41mm
+maximum_opening_without_pain: 26mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: False
+patient_id: B352
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+tmj_pain_rating: severe
+joint_pain_areas: left TMJ 
+----------------------------------------------------------------------------------------------------
+patient_id: B352
+joint_arthritis_location: left TMJ | right TMJ

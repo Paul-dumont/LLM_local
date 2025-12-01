@@ -1,0 +1,21 @@
+patient_id: B201
+patient_age: 52
+pain_onset_date: 2 weeks ago
+joint_pain_areas: right TMJ
+current_medications: ibuprofen | Skelaxin | Aciphex | Cozaar | cozaar 
+headache_intensity: 7, frontal | temporal | occasionally in the back of the head | 7 in the frontal | 8 in the temporal
+headaches_frequency: daily
+tmj_average: 8
+average_daily
+----------------------------------------------------------------------------------------------------
+patient_id: B201
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc medial and anterior displacement with reduction 
+jaw_locking: True
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc anteriorly displaced without reduction 
+jaw_locking: True
+patient_id: B5

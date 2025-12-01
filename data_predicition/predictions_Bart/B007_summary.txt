@@ -1,0 +1,18 @@
+patient_id: B007
+patient_age: 23
+jaw_locking: True
+appliance_history: orthodontics from about the age of 9 through 12 | splint 2 years ago but stopped last year
+muscle_pain_score: right condylar resorption
+headache_frequency: 5 out of 7 days during the week at average level of 6
+headaches_location: temporal | posterior head
+tmj_painrating: 5
+maximum_opening:
+----------------------------------------------------------------------------------------------------
+patient_id: B007
+joint_arthritis_location: right TMJ
+disc_displacement: right disc dislocation with very late reduction
+airway_obstruction_present: True
+current_appliance: 3 x 3 retainer in the lower arch
+muscle_pain_score: temporalis | masseter 
+headache_intensity: present
+headaches_frequency: bilateral

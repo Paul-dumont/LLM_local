@@ -1,0 +1,20 @@
+patient_id: B058
+patient_age: 52
+pain_onset_date: 10 years ago
+onsets_triggers: unknown 
+current_appliance: bite splint or night guard for 10 years
+headache_intensity: 0
+migraine_frequency: used to occur at the same time every month, but has decreased significantly
+tmj_pain_rating: none
+jaw_function_score: 1
+diet_score
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+disc_displacement: left disc dislocation with early reduction | right disc dislocated with early reductio 
+patient_id: B4
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite
+patient_id: B195
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc displacement | right disc displacement

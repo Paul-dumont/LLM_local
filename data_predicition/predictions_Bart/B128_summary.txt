@@ -1,0 +1,28 @@
+patient_id: B128
+patient_age: 22
+jaw_clicking: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+sleep_disorder_type: daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B128
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+jaw_clicking: left TMJ 
+joint_pain_areas: right TMJ
+headache_intensity: 0
+tmj_function_score: 1
+diet_score : 0
+disability_rating: 4
+appliance_history: orthodontic appliances on for about a year and 9 months
+muscle_tenders
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B128
+pain_aggravating_factors: anterior open bite
+disc_displacement: left disc dislocation with reduction | right disc displacement with reduction
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: left posterior cross bite | right posterior crossbite
+patient_id: B4
+joint_pain_areas: left TMJ | right TMJ
+appliance_history: orthodontics
+disc_displacement: left disc repositioning | right disc displacement with Mitek anchor

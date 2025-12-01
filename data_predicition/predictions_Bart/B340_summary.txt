@@ -1,0 +1,28 @@
+patient_id: B340
+patient_age: 59
+joint_arthritis_location: left TMJ | right TMJ 
+current_medications: Premarin | Folic acid | Detrol LA | Celebrex | Plaquenil | Methotrexate | Methocarbamol | Darvocet 
+adverse_reactions: Iodine | penicillin | sulfa
+pain_onset_date: 20 years ago
+onsit
+----------------------------------------------------------------------------------------------------
+patient_id: B340
+maximum_opening: 38mm
+muscle_tenderness_present: True
+joint_pain_areas: right temporalis | right shoulder
+jaw_crepitus: right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B340
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+headache_intensity: present
+tmj_pain_rating: severe 
+earache_present: True
+tinnitus_diagnosed: True 
+vertigo_frequency: once every few days
+sleep_disorder_type: daytime somnolence
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc with difficulty identifying any discal tissue 
+patient_id: Bilateral total joint prostheses
+pain_aggravating_factors: possible left middle ear cholesteatoma

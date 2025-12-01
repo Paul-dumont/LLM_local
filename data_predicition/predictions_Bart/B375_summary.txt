@@ -1,0 +1,21 @@
+patient_id: B375
+patient_age: 12
+adverse_reactions: ADD
+current_medications: Adderall XR
+pain_onset_date: about one year ago
+onsets_triggers: unknown 
+headache_intensity: 5
+tmj_pain_rating: 0
+average_daily_t
+----------------------------------------------------------------------------------------------------
+patient_id: B375
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocations 
+sleep_disorder_type: snoring | sleep apnea_diagnosed: True
+headache_intensity: present
+tmj_pain_rating: severe
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B375
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement with reduction | right disc anteriorly and medially displaced with reduction

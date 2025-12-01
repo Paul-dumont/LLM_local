@@ -1,0 +1,24 @@
+patient_id: B475
+patient_age: 36
+pain_onset_date: unknown 
+jaw_clicking: left TMJ | right TMJ
+onsets_triggers: unknown
+appliance_history: orthodontics in high school for about 2 years
+headache_intensity: 0
+tmj_pain_rating: 0, average_daily_pain _intensity: 3
+joint_tenderness_present: True
+muscle_tenders
+----------------------------------------------------------------------------------------------------
+patient_id: B475
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocated with reduction 
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B475
+joint_arthritis_location: right TMJ
+disc_displacement: right disc anteriorly displaced | left disc laterally displaced 
+pain_aggravating_factors: orthodontics
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteromedial displacement with reduction | right disc anteriorly and laterally displaced with reduction 
+patient_id: B5

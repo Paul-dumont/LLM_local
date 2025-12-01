@@ -1,0 +1,37 @@
+patient_id: B335 
+patient_age: 16 
+pain_onset_date: year-and-a-half ago
+onset_triggers: unknown 
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics from the ages of 11 through 13 for 2.5 years
+current_appliance: retainers | mouth guard
+pain_aggravating_factors: clenching | bruxism
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+adverse_reactions: penicillin | pollen
+current_medications: Flonase | Zyrtec 
+headache_intensity: 0
+tmj_pain_rating: 0
+jaw_function_score: 3
+diet_score: 0
+disability_rating: 0
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True 
+sleep_disorder_type: snoring | tired during the day
+muscle_tenderness_present: False 
+jaw_clicking: left TMJ 
+maximum_opening: 39 mm
+----------------------------------------------------------------------------------------------------
+current_appliance: 3x3 retainer in the lower arch | 2x2 retainer in the upper arch
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction 
+pain_aggravating_factors: anterior open bite
+patient_id: B335 
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction 
+joint_arthritis_location: left TMJ | right TMJ

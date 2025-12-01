@@ -1,0 +1,16 @@
+patient_id: B449
+maximum_opening_without_pain: 25mm
+patient_age: 20
+maximum_opening: 57mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 3
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: left posterior cross bite | right posterior cross bite | right TMJ pain | right TMJ clicking | right TMJ popping | right TMJ crepitus | right TMJ pain | right TMJ clicking | right TMJ popping | right TMJ crepitus | right TMJ arthritis | right TMJ disc displacement posteriorly | right TMJ disc displacement anteriorly | right TMJ arthritis | right TMJ disc displacement posteriorly | right TMJ disc displacement anteriorly | right TMJ arthritis | right TMJ disc displacement posteriorly | right TMJ disc displacement anteriorly | right TMJ arthritis | right TMJ disc displacement posteriorly | right TMJ disc displacement anteriorly | right TMJ arthritis | right TMJ disc displacement posteriorly | right TMJ disc displacement anteriorly | right TMJ arthritis | right TMJ disc displacement posteriorly | right TMJ disc displacement anteriorly | right TMJ arthritis | right TMJ disc displacement posteriorly | right TMJ disc displacement anteriorly | right TMJ arthritis | right TMJ disc displacement posteriorly | right TMJ disc displacement anteriorly | right TMJ arthritis | right TMJ disc displacement posteriorly | right TMJ disc displacement anteriorly | right TMJ arthritis | right TMJ disc displacement posteriorly

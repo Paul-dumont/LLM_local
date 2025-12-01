@@ -1,0 +1,27 @@
+patient_id: B333
+patient_age: 37
+current_medications: none
+jaw_clicking: left TMJ | right TMJ
+joint_pain_areas: jaws
+appliance_history: splint therapy for bruxism for the past 5 years
+pain_aggravating_factors: bruxist | clenching |
+----------------------------------------------------------------------------------------------------
+patient_id: B333
+sleep_disorder_type: snoring | sleep apnea symptoms
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_location: styloid area
+neck_tendersness_present: False
+jaw_clicking: left jaw | right jaw
+maximum_opening: 53mm
+max_opening_without_pain: 40mm
+----------------------------------------------------------------------------------------------------
+patient_id: B333
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial dislocation | right disc anteriorly and medially dislocated 
+pain_aggravating_factors: right posterior crossbite tendency
+jaw_clicking: TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B333
+patient_age: 37
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc anterior displacement with reduction

@@ -1,0 +1,19 @@
+patient_id: B157
+patient_age: 14
+appliance_history: orthodontics 12 months ago | palatal expander | lip bumper
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: 0
+joint_pain_areas: TMJ
+muscle_tenderness_present: medial period | temporalis | shoulder
+jaw_clicking: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocated 
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite
+patient_id: B5
+----------------------------------------------------------------------------------------------------
+patient_id: B157
+patient_age: 14
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and lateral displacement with early reduction | right disc anteriorly and laterally displaced with late reduction

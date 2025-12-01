@@ -1,0 +1,37 @@
+patient_id: B366 
+patient_age: 30
+pain_onset_date: last year
+onset_triggers: motor vehicle accident
+headache_intensity: 8 but can escalate to 10
+headache_location: frontal | temporal | top of the head
+pain_aggravating_factors: Eating
+tmj_pain_rating: 8
+average_daily_pain_intensity: 10
+jaw_function_score: 8
+diet_score: 5
+disability_rating: 5
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: True
+joint_pain_areas: neck 
+neck_pain_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B366 
+maximum_opening: 32mm
+maximum_opening_without_pain: 20mm
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: high moderate
+muscle_pain_location: temporalis | masseters | posterior neck | styloid areas | SCMs | left medial pterygoid area
+neck_pain_present: True
+jaw_clicking: left TMJ
+airway_obstruction_present: False
+----------------------------------------------------------------------------------------------------
+patient_id: B366 
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and lateral displacement | right disc medial displacement
+joint_pain_areas: TMJ
+patient_age: 30
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medial displacement

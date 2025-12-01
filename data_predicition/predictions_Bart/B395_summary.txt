@@ -1,0 +1,17 @@
+patient_id: B395
+patient_age: 30
+current_medications: prenatal vitamins
+adverse_reactions: flu shot
+jaw_clicking: left TMJ | right TMJ
+pain_onset_date: 4 years ago
+appliance_history: splint made by Dr.
+----------------------------------------------------------------------------------------------------
+patient_id: B395
+muscle_tenderness_present: False
+joint_arthritis_location: left TMJ
+maximum_opening: 46mm
+max_opening_without_pain: 37mm
+appliance_history: orthodontics from 7 to 9 years ago
+physical_therapy_status: cryosurgery for treatment a year ago
+current_medications: none
+pain_aggravating_factors: clenching | bruxism

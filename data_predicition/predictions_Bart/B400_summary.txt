@@ -1,0 +1,37 @@
+patient_id: B400
+patient_age: 34
+current_medications: Ultram | Lexapro | Estratest | Fioricet
+adverse_reactions: penicillin | Ancef | codeine | hydrocodone
+pain_onset_date: as young as 5 to 6 years of age
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics | splint therapy
+physical_therapy_status: physical therapy
+earache
+----------------------------------------------------------------------------------------------------
+patient_id: B400
+muscle_tenderness_present: True
+joint_pain_areas: temporomandibular joints | styloid areas | temporalis masseters | SCMs | posterior neck 
+maximum_opening: 27mm
+average_opening_without_pain: 20mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B400
+airway_obstruction_present: True
+pain_aggravating_factors: endometriosis | frequent urinary tract infections from about the age of 4 to 10
+appliance_history: 1 pack of cigarettes per day for 16 years
+current_medications: smoking cessation
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+pain_aggravating_factors: clenching | bruxism
+sleep_disorder_type: daytime somnolence
+headache_intensity: present
+tmj_pain_rating: severe
+earache_frequency: occasional 
+jaw_clicking: True 
+appliance_history: orthodontics
+patient_id: B400
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc without identifiable disc | right disc with some discal tissue but highly degenerative 
+patient_id: B5

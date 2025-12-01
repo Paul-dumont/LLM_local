@@ -1,0 +1,40 @@
+patient_id: B423
+patient_age: 44
+jaw_clicking: left TMJ
+jaw_crepitus: right TMJ
+joint_pain_areas: left TMJ
+appliance_history: orthodontics from 13 to 15 years ago at the age of 16 | orthodontics from 14 to 12 years ago at the age of 28 | lingual appliances
+current_medications: none
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+joint_pain_areas: right knee | neck
+neck_pain_present: True
+physical_therapy_status: chiropractic treatment
+pain_aggravating_factors: clenching
+headache_intensity: 0
+tmj_pain_rating: 2 to 3
+average_daily_pain_intensity: 2
+jaw_function_score: 3
+diet_score: 2
+disability_rating: 2
+----------------------------------------------------------------------------------------------------
+patient_id: B423
+pain_aggravating_factors: right posterior crossbite tendency
+muscle_tenderness_present: False
+neck_pain_present: False
+jaw_clicking: left TMJ
+maximum_opening: 51mm
+----------------------------------------------------------------------------------------------------
+appliance_history: 3 x 3 retainer in the lower arc
+joint_arthritis_location: left TMJ 
+pain_aggravating_factors: left posterior crossbite | right posterior crossbite
+patient_id: B423
+----------------------------------------------------------------------------------------------------
+patient_id: B423
+patient_age: 43
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly dislocated without reduction | right disc medially displaced
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly and medially dislocated without reduction 

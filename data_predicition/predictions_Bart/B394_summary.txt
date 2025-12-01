@@ -1,0 +1,29 @@
+patient_id: B394
+patient_age: 14
+pain_onset_date: 10 years old
+headache_frequency: 3 times a week
+tmj_pain_rating: 1
+average_daily_intensity: 1 
+jaw_function_score: 4
+diet_score : 1
+disability_aggravating_factors: clenching | bruxism
+current_appliance: orthodontics 5 years ago with expanders | braces | head gear
+sleep_disorder_type: snoring | daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B394
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite | left posterior cross bite | right posterior crossbite
+muscle_pain_location: masseter | temporalis | retromandibular areas | right TMJ 
+joint_tenderness_areas: left TMJ | Right TMJ
+maximum_opening: 40mm
+----------------------------------------------------------------------------------------------------
+patient_id: B394
+airway_obstruction_present: True
+patient_age: 14
+disc_displacement: left disc anterior and medial displacement | right disc anterior displacement
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior displacement without reduction | right disc anterior dislocation without reduction 
+joint_pain_areas: left TMJ | right TMJ
+maximum_opening: 8mm
+patient_id: B5

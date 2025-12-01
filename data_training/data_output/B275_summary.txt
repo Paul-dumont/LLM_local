@@ -1,0 +1,40 @@
+patient_id: B275
+patient_age: 24
+current_medications: Toprol XL
+adverse_reactions: Bicillin
+earache_present: False
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: back | neck | knees
+neck_pain_present: True
+back_pain_present: True
+pain_aggravating_factors: clenching | bruxism
+pain_onset_date: age of 10
+onset_triggers: 3 years of age when fell on her jaw
+appliance_history: orthodontics from 8 to 13
+headache_intensity: 0
+tmj_pain_rating: 0
+jaw_function_score: 3
+diet_score: 2
+disability_rating: 0
+----------------------------------------------------------------------------------------------------
+patient_id: B275
+sleep_disorder_type: tired during the day
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: moderate
+muscle_pain_location: masseters | styloids | posterior neck area
+neck_pain_present: True
+muscle_tenderness_present: True
+maximum_opening: 70mm
+----------------------------------------------------------------------------------------------------
+patient_id: B275
+pain_aggravating_factors: anterior open bite
+disc_displacement: left disc dislocation | right disc dislocation
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B275
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc dislocation without reduction

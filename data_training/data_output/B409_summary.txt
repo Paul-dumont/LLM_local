@@ -1,0 +1,38 @@
+patient_id: B409
+patient_age: 29
+current_medications: allegra | albuterol inhaler | zetia | lexapro
+jaw_clicking: left TMJ | right TMJ
+joint_pain_areas: neck | Left wrist
+neck_pain_present: True
+anxiety_present: True
+earache_present: False
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: False
+adverse_reactions: environmental | cheap earring
+pain_aggravating_factors: clenching | anterior open bite | left posterior cross bite | right posterior cross bite
+headache_intensity: 4
+headache_location: posterior head area
+headache_frequency: two to three times per week
+tmj_pain_rating: 2
+average_daily_pain_intensity: 2
+jaw_function_score: 1
+diet_score: 2
+disability_rating: 1
+sleep_disorder_type: snoring
+appliance_history: orthodontics 
+----------------------------------------------------------------------------------------------------
+patient_id: B409
+muscle_tenderness_present: False
+jaw_clicking: TMJ
+maximum_opening: 46mm
+pain_onset_date: earlier this year
+onset_triggers: unknown, but had root canal procedure done about the same time on her left maxillary central incisor
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation 
+pain_aggravating_factors: anterior open bite
+----------------------------------------------------------------------------------------------------
+patient_id: B409
+patient_age: 29
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with early reduction | right disc anterior dislocation with early reduction

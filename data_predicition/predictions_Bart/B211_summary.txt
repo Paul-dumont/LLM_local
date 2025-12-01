@@ -1,0 +1,21 @@
+patient_id: B211
+patient_age: 16
+appliance_history: orthodontics from 4th grade to 10 years of age 9
+current_medications: none
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea 
+earache_present: False
+tmj_pain_rating: 0
+average_diet_score: 1
+physical_therapy_status: None
+
+----------------------------------------------------------------------------------------------------
+patient_id: B211
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite
+sleep_disorder_type: snoring | sleep apnea_diagnosed: True 
+patient_age: 16
+disc_displacement: right disc anterior displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with probable reduction | right disc anterior and medial displacement without reduction 
+patient_id: B5

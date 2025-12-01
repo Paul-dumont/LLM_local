@@ -1,0 +1,46 @@
+patient_id: B119
+maximum_opening_without_pain: unknown
+patient_age: 31
+maximum_opening: 50mm
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: penicillin | spironolactone
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: 3 to 5 days per week
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: true
+headache_location: temporal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: 5 | severe
+autoimmune_condition: unknown
+pain_onset_date: 28
+jaw_crepitus: unknown
+tmj_pain_rating: 0
+sleep_disorder_type: chronic fatigue | generalized achiness
+current_medications: wellbutrin | levocet | ibuprofen | spironolactone
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior displacement with early reduction | left disc anterior displacement | right disc anterior displacement
+muscle_pain_location: medial pterygoid muscles | retromandibular area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: hips | knees | 3 fingers on the right hand | left tmj | right tmj

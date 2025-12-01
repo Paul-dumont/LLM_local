@@ -1,0 +1,35 @@
+patient_id: B074
+patient_age: 19
+appliance_history: orthodontics 12 to 13 years old  | orthodontics from 15 to 17 years old | splint 2 year and 8 months ago | splint 2 years ago
+pain_onset_date: 15 years of age
+onset_triggers: after wisdom teeth removal
+jaw_locking: True
+jaw_clicking: TMJ
+headache_intensity: 5
+headache_frequency: daily
+headache_location: temporal | frontal
+tmj_pain_rating: 7
+average_daily_pain_intensity: 7
+jaw_function_score: 6
+diet_score: 5
+disability_rating: 4
+earache_present: False
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: False
+pain_aggravating_factors: clenching
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: mild 
+muscle_pain_location: masseters | retromandibular area
+jaw_crepitus: right TMJ | left TMJ
+maximum_opening: 55mm
+maximum_opening_without_pain: 34mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right TMJ articular disc displacement without reduction | left TMJ articular disc displacement without reduction
+patient_id: B074
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+disc_displacement: right TMJ articular disc anterior displacement without reduction | left TMJ articular disc anterior and lateral displacement without reduction

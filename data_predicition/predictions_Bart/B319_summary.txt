@@ -1,0 +1,25 @@
+patient_id: B319
+patient_age: 13
+current_medications: Zyrtec-D | multivitamins | sodium chloride | Proventil
+adverse_reactions: pollens | grass | cotton | mold | shellfish
+airway_obstruction_present: True
+appliance_history: orthodontic treatment at the age of 10 | bioblock treatment that was just recently finished earlier this year
+pain_aggravating_factors: clenching
+----------------------------------------------------------------------------------------------------
+patient_id: B319
+muscle_pain_score: high moderate 
+joint_tenderness_areas: temporalis | posterior neck | masseters | left TMJ | right TMJ
+musical_therapy_status: clenching for the bioblock therapy
+airway_obstruction_present: True
+maximum_opening: 57mm
+----------------------------------------------------------------------------------------------------
+patient_id: B319
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ | right TMJ
+current_appliance: orthodontics with bioblock therapy and retainers in the upper arch
+pain_aggravating_factors: anterior open bite
+disc_displacement: left disc anterior displacement | right disc posterior displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc anteriorly dislocated with reduction 
+patient_id: B5

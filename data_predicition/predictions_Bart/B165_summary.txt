@@ -1,0 +1,20 @@
+patient_id: B165
+patient_age: 21
+pain_onset_date: at least by the age of 15
+appliance_history: orthodontics for about a year and half from age of 13 to 15 | orthodonics beginning 3 months ago
+headache_frequency: once a month
+tmj_pain_rating: 4
+average_daily_intensity: 2
+jaw_function_score: 1
+diet_score
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B165
+sleep_disorder_type: sleep apnea 
+sleep disorder_diagnosed: Sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B165
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+appliance_history: orthodontics

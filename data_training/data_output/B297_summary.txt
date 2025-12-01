@@ -1,0 +1,52 @@
+patient_id: B297
+patient_age: 44
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc anterior and lateral displacement with reduction | left disc anterior and medial dislocation with early reduction
+----------------------------------------------------------------------------------------------------
+current_medications: Mobic | estratest 1 
+earache_present: True
+tinnitus_present: True
+vertigo_present: False
+joint_pain_areas: neck | back | left shoulder | left thumb | left knee
+neck_pain_present: True
+back_pain_present: True
+patient_id: B297
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: 8 to 9
+headache_location: temporal | posterior head area
+headache_frequency: once every 2 weeks
+current_appliance: splint | orthodontics since last year
+pain_relieving_factors: splint | chiropractic treatment
+tmj_pain_rating: 5
+average_daily_pain_intensity: 2
+jaw_function_score: 5
+diet_score: 4
+disability_rating: 3
+appliance_history: splint 10 years ago
+pain_onset_date: back in teenage years
+onset_triggers: unknown
+physical_therapy_status: chiropractic treatment for 6 months
+----------------------------------------------------------------------------------------------------
+patient_id: B297
+sleep_disorder_type: daytime somnolence | snoring 
+muscle_tenderness_present: True 
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: mild
+muscle_pain_location: styloid areas
+jaw_clicking: left TMJ | right TMJ
+jaw_crepitus: left TMJ
+maximum_opening: 50mm
+maximum_opening_without_pain: 35mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+patient_id: B297
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc anterior and lateral displacement with reduction | left disc anterior and medial dislocation with early reduction
+pain_aggravating_factors: clenching | bruxism | anterior open bite
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B297
+patient_age: 44
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc anterior and lateral displacement with reduction | left disc anterior and medial dislocation with early reduction

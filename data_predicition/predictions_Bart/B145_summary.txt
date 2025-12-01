@@ -1,0 +1,23 @@
+patient_id: B145
+patient_age: 20
+current_medications: none
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence
+appliance_history: orthodontics from 13 to 16 years of age | full banded orthodonics since last year
+pain_aggravating_factors: left posterior crossbite tendency | right posterior cross bite tendency
+----------------------------------------------------------------------------------------------------
+patient_id: B145
+airway_obstruction_present: True
+muscle_pain_score: decreased 
+adverse_reactions: lower lip | chin
+neck_tenderness_present : True
+jaw_crepitus: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B145
+disc_displacement: left disc medially displaced with about two-thirds of the condylar head dislocation | right disc dislocation 
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteromedial and medial displacement with reduction | right disc anteriorly and medially displaced with reduction 
+patient_id: B2

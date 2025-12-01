@@ -1,0 +1,19 @@
+patient_id: B109
+patient_age: 37
+pain_onset_date: 15 years of age
+appliance_history: orthodontics from about the age of 12 to 13 for about a year and then from about 16 to 18 | 5 splints for 15 years
+physical_therapy_status: physical therapy as a teenager | physical therapy last year
+headache_intensity: 6
+headaches_frequency: continuous
+tmj
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc lateral displacement | right disc dislocation 
+pain_aggravating_factors: posterior open bite
+patient_id: B109
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement with reduction | right disc anterior and laterally displaced articular discs with reduction 
+patient_id: B5

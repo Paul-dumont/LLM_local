@@ -1,0 +1,33 @@
+patient_id: B444
+patient_age: 22
+headache_intensity: severe
+tmj_pain_rating: Severe
+appliance_history: orthodontics for one year and splint for a while 5 years ago
+pain_onset_date: 15 years of age 
+onsets_triggers: unknown 
+jaw_clicking: left TMJ | right TMJ
+physical_therapy_status: physical therapy two times per week since then
+current_medications: Vicodin | Robaxin | Yaz (BCP)
+earache_present: True
+tinnitus_present:'
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring 
+muscle_pain_location: posterior neck | shoulders | right SCM | right masseter | right TMJ | bilateral temporalis | left masseter| left SCM
+jaw_crepitus_clicking: left TMJ 
+maximum_opening: 27mm
+maximal_opening_without_pain: 24mm
+musits_spasm_score:
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B444
+disc_displacement: left disc dislocation without reduction | right disc dislocated without reduction 
+airway_obstruction_present: True
+tmj_pain_rating: severe
+headache_intensity: severe 
+jaw_crepitus: TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B444
+patient_age: 21
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior dislocation without reduction

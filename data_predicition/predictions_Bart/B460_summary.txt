@@ -1,0 +1,31 @@
+patient_id: B460
+patient_age: 30
+current_medications: Lortab 
+adverse_reactions: Sulfa
+jaw_clicking: left TMJ | right TMJ
+onset_triggers: unknown
+pain_aggravating_factors: fell of her bicycle and broke nose each time at age of 7 | fell of bike and broken nose at 7
+appliance_history: orthodontics | splint therapy x4 | Bionater | orthotic type of an appliance
+physical_therapy_status:
+----------------------------------------------------------------------------------------------------
+patient_id: B460
+pain_aggravating_factors: left posterior crossbite | right posterior cross bite
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+joint_pain_areas: left TMJ
+muscle_tenders: left masseter | styloid areas | posterior neck | medial pterygoids | temporalis muscles | SCMs | shoulders
+maximum_opening: 28mm
+maximumimal_opening_without_pain: 14mm
+----------------------------------------------------------------------------------------------------
+patient_id: B460
+joint_pain_areas: TMJ
+headache_intensity: Severe 
+tmj_physical_therapy_status: True
+pain_aggravating_factors: right posterior crossbite
+disc_displacement: left disc medial displacement | right disc anterior displacement
+patient_age: 46
+----------------------------------------------------------------------------------------------------
+disc_displacement: right disc anterior displacement at the lateral aspect of the joint
+joint_pain_areas: left TMJ | right TMJ
+autoimmune_condition: none
+patient_id: B5

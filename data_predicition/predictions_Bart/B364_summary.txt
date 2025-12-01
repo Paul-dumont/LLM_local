@@ -1,0 +1,30 @@
+patient_id: B364
+patient_age: 30
+sleep_disorder_type: sleep apnea | snoring | daytime somnolence
+jaw_clicking: right TMJ
+current_medications: Propecia | Asmanex inhaler 
+pain_onset_date: age of 20
+appliance_history: CPAP
+headache_intensity: 0
+tmj_pain_rating: 2
+average_day
+----------------------------------------------------------------------------------------------------
+patient_id: B364
+muscle_tenderness_present: False
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 57mm
+joint_pain_areas: neck 
+neck_arthritis_location: right TMW | left TMW
+jostling_physical_therapy_status: none
+joke_clicks: right clicking and popping significantly louder and more predominant compared to the left side
+----------------------------------------------------------------------------------------------------
+patient_id: B364
+sleep_disorder_type: sleep apnea syndrome
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocations with reduction | right disc dislocation with reduction
+airway_obstruction_present: True
+patient_age: 30
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior and medial displacement with early reduction 
+patient_id: B5

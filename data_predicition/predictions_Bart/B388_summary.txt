@@ -1,0 +1,24 @@
+patient_id: B388
+patient_age: 11
+adverse_reactions: True
+current_medications: amoxicillin | hydroxyzine
+earache_present: False
+tmj_pain_rating: 8
+average_daily_intensity: 8, jaw function: 7
+diet_score: 6
+disability_aggravating_factors: clenching | grinding
+pain_onset_date: 1 year ago
+ons
+----------------------------------------------------------------------------------------------------
+patient_id: B388
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc dislocation 
+airway_obstruction_present: True
+headache_intensity: present
+tmj_pain_rating: severe
+sleep_disorder_type: daytime somnolence
+autoimmune_condition: chronic allergies
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with perhaps partial reduction | right disc anteriorly displaced with reduction 
+patient_id: B5

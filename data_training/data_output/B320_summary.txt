@@ -1,0 +1,39 @@
+patient_id: B320
+patient_age: 46
+current_medications: Advil 
+adverse_reactions: amoxicillin | erythromycin | clindamycin
+pain_onset_date: unknown 
+onset_triggers: unknown 
+sleep_disorder_type: snoring | tiredness during the day
+headache_intensity: 4
+headache_location: temporal | posterior head | top of head
+headache_frequency: daily
+pain_duration: in the morning
+tmj_pain_rating: 3
+average_daily_pain_intensity: 5
+jaw_function_score: 5
+diet_score: 5
+disability_rating: 4
+joint_pain_areas: lower jaw | neck | shoulder | back
+neck_pain_present: True
+back_pain_present: True
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+muscle_pain_score: high moderate
+muscle_pain_location: styloid areas | shoulders | posterior neck | temporalis | masseters | SCMs | medial pterygoid area
+joint_pain_areas: left TMJ | right TMJ
+jaw_clicking: none
+maximum_opening: 55mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction 
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+headache_intensity: present
+joint_pain_areas: TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B320
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction 

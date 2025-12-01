@@ -1,0 +1,31 @@
+patient_id: B413
+patient_age: 20
+pain_onset_date: 17
+onset_triggers: injury to his jaws and jaw joints
+appliance_history: orthodontics from 6 to 8 years ago | maxillary expander
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+tmj_pain_rating: 4
+average_daily_pain_intensity: 6
+jaw_function_score: 5
+diet_score: 0
+disability_rating: 2
+current_medications: Lexapro | Vyanse | Solodyne 
+pain_aggravating_factors: clenching | bruxism
+muscle_tenderness_present: True
+muscle_pain_score: mild 
+muscle_pain_location: masseter | posterior neck
+joint_pain_areas: left TMJ | right TMJ
+jaw_clicking: right TMJ
+current_appliance: 3 x 3 retainer in the lower anterior arch
+----------------------------------------------------------------------------------------------------
+current_appliance: 3 x 3 mandibular retainer
+airway_obstruction_present: False
+patient_id: B413
+disc_displacement: left disc dislocation | right disc dislocation 
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc medial dislocation | right disc medial dislocation 
+

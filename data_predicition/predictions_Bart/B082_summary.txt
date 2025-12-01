@@ -1,0 +1,25 @@
+patient_id: B082
+patient_age: 41
+joint_pain_areas: TMJ
+appliance_history: lower splint | upper splint at nighttime | orthodontics but he stopped that treatment
+pain_onset_date: two to three years ago
+onsets_triggers: unknown 
+current_appliances: splint for over two years
+physical_therapy_status: Prolo injections from age 39 to 40 | chiropractic treatment every 2 to 3 weeks
+current
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: open bite
+airway_obstruction_present: False
+muscle_pain_score: severe 
+muscular_tenderness_location: posterior neck | left temporalis | masseter | styloid | SCM | right shoulder
+jaw_crepitus: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+headache_intensity: Severe 
+maximum_opening: 43mm
+patient_id: B082
+----------------------------------------------------------------------------------------------------
+patient_id: B082
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and medial displacement with severe degeneration

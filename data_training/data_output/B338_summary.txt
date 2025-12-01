@@ -1,0 +1,29 @@
+patient_id: B338
+patient_age: 17
+pain_onset_date: three or four years ago
+onset_triggers: unknown 
+appliance_history: orthodontics 4 years ago and removed 2 years ago
+current_appliance: orthodontics three or four weeks ago
+pain_relieving_factors: orthodontics three or four weeks ago | physical therapy
+earache_present: False
+tinnitus_present: False
+vertigo_present: True
+physical_therapy_status: physical therapy
+joint_pain_areas: knees 
+pain_aggravating_factors: clenching | bruxism
+jaw_clicking: left TMJ 
+joint_pain_areas: left TMJ 
+muscle_tenderness_present: True 
+tmj_pain_rating: mild 
+maximum_opening: 60 mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc dislocation with early reduction
+joint_pain_areas: left TMJ 
+vertigo_present: True
+headache_intensity: present
+patient_id: B338
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc dislocation 
+

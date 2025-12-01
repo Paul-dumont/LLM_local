@@ -1,0 +1,28 @@
+patient_id: B272
+patient_age: 29
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and lateral displacement without reduction | right disc anterior dislocation without reduction 
+pain_onset_date: 12 years of age
+appliance_history: orthodontics from the age of 15 to 17
+current_appliances: retainers
+jaw_clicking: jaw
+----------------------------------------------------------------------------------------------------
+patient_id: B272
+headache_intensity: 0
+tmj_pain_rating: 3
+average_daily_medications_used: none
+diet_score: 5
+disability_rating : 5
+current_medication: none 
+earache_present: False
+tinnitus_present:" False
+vertigo_present "True
+hearing_loss_present": False
+pain_aggravating_factors: clenching | bruxism
+appliance_history: 2 splints since this year
+
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocated without reduction 
+pain_aggravating_factors: anterior open bite
+patient_id: B272

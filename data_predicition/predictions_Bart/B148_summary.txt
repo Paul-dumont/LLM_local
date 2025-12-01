@@ -1,0 +1,28 @@
+patient_id: B148
+patient_age: 47
+pain_onset_date: 15 years ago
+appliance_history: orthodontics from age 13 to 15 | retainers from around age 15 to 21 | mouth guard for 15 years 
+current_medications: Etodolac | Vicodin | multiple supplements
+physical_therapy_status: clenching | bruxism
+headache_frequency: once a month in the right frontal | perhaps the anterior aspect of the temple area
+tmj_pain_rating: 5
+average_daily_intensity: 1
+jaw_function_score
+----------------------------------------------------------------------------------------------------
+patient_id: B148
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ | right TMJ
+airway_obstruction_score: False 
+maximum_opening: 48mm
+maximal_opening_without_pain: 35mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B148
+airway_obstruction_present: False
+pain_aggravating_factors: anterior beaking | left posterior crossbite tendency | right posterior cross bite tendency
+muscle_pain_score: 7
+----------------------------------------------------------------------------------------------------
+patient_id: B148
+patient_age: 47
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction

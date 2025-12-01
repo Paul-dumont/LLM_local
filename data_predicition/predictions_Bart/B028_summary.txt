@@ -1,0 +1,24 @@
+patient_id: B028
+patient_age: 38
+joint_arthritis_location: right knee
+pain_onset_date: age of 3 years old
+autoimmune_condition: JRA
+sleep_disorder_type: snoring | sleep apnea 
+airway_obstruction_present: True
+current_appliance: orthodontic appliances
+muscle_pain_score: mild to moderate
+musits_crepitus: temporalis | temporalis muscles | retromandibular areas | shoulders | shoulders
+maximum_opening: 43mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: Juvenile rheumatoid arthritis
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite
+sleep_disorder_type: sleep apnea
+patient_id: B028
+jaw_crepitus: TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B028
+patient_age: 38
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc medial and posterior displacement

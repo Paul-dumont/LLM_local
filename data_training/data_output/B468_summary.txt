@@ -1,0 +1,25 @@
+patient_id: B468
+patient_age: 17
+appliance_history: orthodontics 10 years ago with a palatal expander finishing 3 years ago
+headache_intensity: 0
+tmj_pain_rating: 0
+jaw_function_score: 0
+diet_score: 0
+disability_rating: 0
+current_medications: none
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+pain_aggravating_factors: right posterior crossbite tendency
+muscle_tenderness_present: False
+neck_pain_present: False
+jaw_clicking: left TMJ  
+maximum_opening: 70mm
+----------------------------------------------------------------------------------------------------
+patient_id: B468
+pain_aggravating_factors: right posterior crossbite tendency | left posterior crossbite tendency
+----------------------------------------------------------------------------------------------------
+patient_id: B468
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction 

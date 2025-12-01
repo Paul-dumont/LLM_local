@@ -1,0 +1,18 @@
+patient_id: B484
+patient_age: 31
+pain_onset_date: 10 years ago when he was 22 years old
+joint_pain_areas: left TMJ | right TMJ
+appliance_history: orthodontic treatment 7 years ago and finished 4 years ago | splint 5 years ago, maxillary and mandibular osteotomies 3 years ago; splint 2 years ago
+current_medications: Skelaxin | amitriptyline | Valium | Botox injections last year | numerous medications including Ske
+----------------------------------------------------------------------------------------------------
+patient_id: B484
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc lateral and anteriorly displaced | right disc anteriorly and laterally displaced 
+headache_intensity: present
+tmj_pain_rating: 0
+patient_age: 31
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+disc_displacement: left disc anteriorly displaced with early reduction | right disc anterior dislocation with relatively early reduction 
+patient_id: B4
+jaw_locking: True

@@ -1,0 +1,22 @@
+patient_id: B338
+patient_age: 17
+pain_onset_date: 3 or 4 years ago
+appliance_history: orthodontics beginning toward the end of her seventh grade in about 4.5 years ago and then removed in 2 years ago | appliance 3 to 4 weeks ago
+earache_present: False
+tinnitus_present : False
+vertigo_present 
+joint_pain_areas: left TMJ
+neck_disorder_type: neck congenital neck deformity with a slipped disc in the neck that has been treated with physical therapy
+----------------------------------------------------------------------------------------------------
+patient_id: B338
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc dislocation with early reduction | right disc anterior and medial displacement 
+pain_aggravating_factors: left mandibular hyperplasia | right posterior crossbite | left third molars
+vertigo_present: True
+headache_intensity: present
+patient_age: 35
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc dislocation with reduction 
+patient_id: B4
+jaw_locking: True

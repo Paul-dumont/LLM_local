@@ -1,0 +1,21 @@
+patient_id: B115
+patient_age: 39
+appliance_history: orthodontics around 30 years ago from about the age of 11 to 13
+pain_onset_date: 11 years ago
+current_medications: Plaquenil | fluoxetine
+headache_frequency: once a week
+tmj_pain_rating: 1
+average_daily_intensity: 0
+jaw_function_score: 8
+diet_score
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: juvenile rheumatoid arthritis
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B115
+joint_arthritis_location: right TMJ 
+autoimmune_condition: JRA or RA
+disc_displacement: right disc anterior displacement with possible ankylosis

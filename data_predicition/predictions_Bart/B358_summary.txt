@@ -1,0 +1,43 @@
+patient_id: B358
+patient_age: 14
+pain_onset_date: 14 years of age
+appliance_history: headgear in 4th grade | distraction osteogenesis procedure on the right mandibular ramus 6 years ago
+earache_intensity: 0
+tinnitus_present: False
+vertigo_present : False
+hearing_disorder_type: True
+joint_pain_areas: left TMJ | right middle finger 
+adverse_reactions: none
+headache_frequency: at times they occur weekly, but then they don't occur every week
+----------------------------------------------------------------------------------------------------
+patient_id: B358
+pain_aggravating_factors: anterior open bite
+maximum_opening: 34mm
+jaw_clicking: left TMJ
+muscle_pain_score: moderate to milder 
+muscular_tenderness_present: True
+musical_therapy_status: temporalis | masseters | styloid areas
+joint_arthritis_location: right TMJ
+----------------------------------------------------------------------------------------------------
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ | right TMJ
+maximum_opening: 10mm
+muscle-spasm_location: nose and mouth
+airway_obstruction_score: present
+----------------------------------------------------------------------------------------------------
+patient_id: B358
+airway_obstruction_present: True
+jaw_crepitus: right TMJ | left TMJ
+maximum_opening: 10mm
+joint_pain_areas: right elbow | left elbow | right knee
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ
+disc_displacement: left disc dislocation with reduction
+airway_obstruction_present: True
+sleep_disorder_type: snoring | sleep apnea | daytime somnolence
+patient_id: B358
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc dislocation with reduction 
+patient_id: B4
+current_appliance: Mitek anchor

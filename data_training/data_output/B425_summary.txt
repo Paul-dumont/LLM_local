@@ -1,0 +1,32 @@
+patient_id: B425
+patient_age: 19
+pain_aggravating_factors: anterior open bite | clenching | bruxism | posterior crossbite on the left side | right posterior crossbite tendency
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics about 12 to 13 years of age | orthodontics again for about 6 months
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: right knee
+headache_intensity: 0
+tmj_pain_rating: 0
+jaw_function_score: 0
+diet_score: 0
+disability_rating: 0
+airway_obstruction_present: False
+sleep_disorder_type: daytime somnolence | snoring 
+muscle_tenderness_present: False
+neck_pain_present: False
+jaw_clicking: left TMJ 
+maximum_opening: 50mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B425
+pain_aggravating_factors: anterior open bite
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation 
+----------------------------------------------------------------------------------------------------
+patient_id: B425
+patient_age: 19
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with early reduction | right disc anteriorly dislocated with reduction

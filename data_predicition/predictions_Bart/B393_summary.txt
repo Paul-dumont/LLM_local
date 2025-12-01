@@ -1,0 +1,31 @@
+patient_id: B393
+patient_age: 58
+joint_arthritis_location: right knee
+current_medications: Inderal | Nexium | Crestal | Amitriptyline | Mobic | Imitrex
+pain_onset_date: at least 13 years ago or probably longer
+appliance_history: splint for 13 years | orthodontics done for one year
+physical_therapy_status: physical therapy for at least three to four years
+earache_present: True
+tinn
+----------------------------------------------------------------------------------------------------
+patient_id: B393
+sleep_disorder_type: snoring | daytime somnolence
+headache_intensity: 9
+headaches_location: frontal | temporal | posterior head | top of the head area
+tmj_pain_rating: 9 being greater on the left side than the right side
+average_daily_pain-intensity: 8
+jaw_function_score: 8 
+diet_score : 8
+disability_rating
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: False
+tmj_pain_rating: severe
+headache_intensity: severe 
+earache_present : True
+patient_id: B393
+disc_displacement: left disc medial or it could be a calcified body medial to the condyle
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction 
+patient_id: Bilateral total joint prostheses

@@ -1,0 +1,46 @@
+patient_id: B340
+patient_age: 59
+current_medications: Premarin | Folic acid | Detrol | Celebrex | Plaquenil | Methotrexate | Methocarbamol | Darvocet
+adverse_reactions: Iodine | penicillin | sulfa
+pain_onset_date: 20 years ago
+onset_triggers: unknown 
+appliance_history: splints for approximately 15 years
+current_appliance: current splint for about 3 years
+physical_therapy_status: previous TENS treatment
+pain_relieving_factors: splint
+earache_present: True
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: True
+joint_pain_areas: knees | neck | back | right shoulder | right elbow | wrists | hands | fingers | hips | left big toe
+neck_pain_present: True
+back_pain_present: True
+pain_aggravating_factors: clenching | bruxism | anterior open bite
+headache_intensity: 7
+headache_location: back of the head | up towards the top | up towards the temple area
+headache_frequency: 1 time per week
+tmj_pain_rating: 6
+average_daily_pain_intensity: 5
+jaw_function_score: 8
+diet_score: 7
+disability_rating: 5
+pain_duration: several days in a row
+sleep_disorder_type: snoring | tiredness during the day
+airway_obstruction_present: True 
+----------------------------------------------------------------------------------------------------
+patient_id: B340
+maximum_opening: 38 mm
+muscle_tenderness_present: True
+muscle_pain_score: mild
+muscle_pain_location: right temporalis | right shoulder
+jaw_crepitus: right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B340
+joint_pain_areas: TMJ
+headache_intensity: present
+pain_aggravating_factors: anterior open bite
+earache_present: True
+tinnitus_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ 

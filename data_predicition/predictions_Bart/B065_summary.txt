@@ -1,0 +1,20 @@
+patient_id: B065
+patient_age: 17
+appliance_history: orthodontics initially for 2 years from about the age of 7 to 8 until she was 9 to 10, 12 to 14 | retainers at night
+headache_frequency: two times a month
+pain_aggravating_factors: anterior cross bite tendency
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True
+neck_pain
+----------------------------------------------------------------------------------------------------
+patient_id: B065
+airway_obstruction_present: True 
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_score: 0
+jaw_crepitus: right posterior crossbite
+----------------------------------------------------------------------------------------------------
+patient_id: B065
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc lateral and anterior displacement | right disc medial and anterior dislocation 
+appliance_history: orthodontics
+pain_aggravating_factors: right posterior crossbite

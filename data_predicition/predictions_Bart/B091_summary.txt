@@ -1,0 +1,22 @@
+patient_id: B091
+patient_age: 35
+jaw_clicking: left TMJ | right TMJ
+airway_obstruction_present: True
+sleep_disorder_type: snoring | chronic mouth breathing
+pain_onset_date: 15 years of age
+appliance_history: orthodontics from 13 to 18 | retainers from 18 to 22
+earache_intensity: 0
+tinnitus_present 
+vertigo_present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B091
+disc_displacement: left disc anterior displacement | right disc dislocation 
+sleep_disorder_type: sleep apnea syndrome
+tmj_pain_rating: present
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction 
+pain_aggravating_factors: splint therapy

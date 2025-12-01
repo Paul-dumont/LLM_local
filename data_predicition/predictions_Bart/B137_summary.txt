@@ -1,0 +1,22 @@
+patient_id: B137
+patient_age: 37
+pain_onset_date: 14 years old
+appliance_history: orthodontics from 13 to 14 | splint therapy at 14 | orthodonics from 30 to 32 | physical therapy at ages 14, 29, and 30
+current_medications: Oxylux-E | Tazorac 
+joint_pain_areas: elbows | neck | left TMJ | right TMJ
+jaw_locking: True
+headache_intensity: 5 but can get up to 8.5
+----------------------------------------------------------------------------------------------------
+patient_id: B137
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: psoriatic arthritis
+airway_obstruction_present: True
+headache_intensity: present
+tmj_pain_rating: Constant 
+maximum_opening: 19 degrees
+airways_obstructed: True
+----------------------------------------------------------------------------------------------------
+patient_id: B137
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medially displaced | right disc medial and anterior displacement 
+jaw_locking: True

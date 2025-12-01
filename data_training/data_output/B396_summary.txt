@@ -1,0 +1,43 @@
+patient_id: B396
+patient_age: 23
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and lateral displacement | right disc anterior and lateral displacement
+----------------------------------------------------------------------------------------------------
+patient_id: B396
+patient_age: 23
+joint_pain_areas: TMJ
+headache_intensity: present
+tmj_pain_rating: Severe 
+current_medications: Birth control pills | Aleve | Nasonex | Claritin
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: False
+pain_aggravating_factors: clenching
+pain_onset_date: age of 10
+onset_triggers: unknown 
+jaw_clicking: left TMJ | right TMJ
+appliance_history: 8 splints | soft dental appliance to keep her from clenching
+current_appliance: splints since 8 years
+headache_intensity: 5
+headache_location: right temple | posterior head
+headache_frequency: 5 days per week
+tmj_pain_rating: 9
+average_daily_pain_intensity: 7
+jaw_function_score: 5
+diet_score: 9
+disability_rating: 8
+jaw_locking: True
+----------------------------------------------------------------------------------------------------
+sleep_disorder_type: daytime somnolence
+patient_id: B396
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: severe
+muscle_pain_location: styloid | shoulders | masseters |  SCMs | medial pterygoids
+maximum_opening: 50mm
+maximum_opening_without_pain: 17mm
+airway_obstruction_present: False
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+headache_intensity: present
+tmj_pain_rating: Severe 

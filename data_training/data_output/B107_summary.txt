@@ -1,0 +1,37 @@
+patient_id: B107
+patient_age: 62
+pain_onset_date: age 33
+onset_triggers: bicycle accident resulting in facial fractures at age 33 | left arthroplasty and disc plication at age 35 | at 36 left disentomb with temporal fascial muscle flap | at 42 left TMJ reconstruction with a rib graft | at 43 right TMJ diskectomy and temporal fascial flap | at 44 right rib graft
+sleep_apnea_diagnosed: True
+sleep_disorder_type: Severe sleep apnea, intolerable of CPAP or BiPAP
+cpap_used: True
+bipap_used: True
+headache_intensity: 6
+headache_frequency: daily
+headache_location: right frontal | right back of the head
+tmj_pain_rating: 6
+average_daily_pain_intensity: 6
+jaw_function_score: 7
+diet_score: 7
+disability_rating: 10
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+joint_pain_areas: right TMJ | left TMJ | wrists | hips | knees
+autoimmune_condition: Lupus | Sjogren's syndrome | inflammatory bowel disease
+current_medications: Lortab
+muscle_pain_location: most of head and neck area | temporalis
+muscle_pain_score: moderate to severe
+maximum_opening: 22mm
+maximum_opening_without_pain: 15mm
+----------------------------------------------------------------------------------------------------
+patient_id: B107
+airway_obstruction_present: True
+joint_pain_areas: right TMJ | left TMJ
+headache_intensity: present
+sleep_apnea_diagnosed: True
+sleep_disorder_type: sleep apnea
+autoimmune_condition: Lupus | Sjogren's syndrome
+----------------------------------------------------------------------------------------------------
+patient_id: B107
+patient_age: 62

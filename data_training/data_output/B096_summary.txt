@@ -1,0 +1,25 @@
+patient_id: B096
+patient_age: 18
+appliance_history: orthodontics from 10 to 13.5 years of age
+tmj_pain_rating: 0
+jaw_function_score: 0
+diet_score: 0
+disability_rating: 0
+current_medications: none
+earache_present: False
+tinnitus_present: False
+vertigo_present: True
+joint_pain_areas: hips
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_pain_areas: right TMJ | shoulders
+muscle_tenderness_present: True
+muscle_pain_location: left SCM | Right SCM 
+maximum_opening: 42mm
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B096
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B096
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc dislocation without reduction | left disc dislocation without reduction

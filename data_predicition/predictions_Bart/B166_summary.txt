@@ -1,0 +1,38 @@
+patient_id: B166
+patient_age: 40
+joint_pain_areas: left TMJ | left elbow | wrist
+appliance_history: orthodontics as a teenager | Orthodontic treatment at 34 years of age 
+headache_intensity: 6
+earache_present: True
+tinnitus_ present: False
+vertigo_present : True
+hearing_loss_present": True
+current_medications: Celebrex | Tramadol | Aleve | fish oil | flax seed oil
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+patient_id: B166
+pain_aggravating_factors: anterior open bite tendency
+jaw_clicking: left TMJ
+muscle_pain_location: masseter | retromandibular area | SCMs | posterior neck | shoulder 
+neck_tenderness_present: True
+maximum_opening: 45mm
+joint_arthritis_score: 4
+airway_obstruction_present : False
+sleep_disorder_type: daytime somnolence
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ 
+patient_id: B166
+disc_displacement: left disc dislocation with possible reduction on wide opening
+tmj_pain_rating: left-sided 
+headache_intensity: present
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B166
+patient_age: 40
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement without reduction | right disc anterior displacement with reduction
+----------------------------------------------------------------------------------------------------
+patient_id: B166
+patient_age: 40
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anterior and medial displacement

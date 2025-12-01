@@ -1,0 +1,13 @@
+patient_id: B049
+patient_age: 62
+muscle_tenderness_present: True
+joint_pain_areas: temporalis | masseter | styloid areas | TMJ | left knee | right knee
+neck_arthritis_location: right TMJ
+jaw_clicking: left TMJ 
+maximum_opening: 45mm
+sleep_disorder_type: sleep apnea symptoms
+disc_displacement: left disc dislocation with reduction | right disc medial displacement with reduction
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior and medial dislocation without reduction 
+patient_id: B5

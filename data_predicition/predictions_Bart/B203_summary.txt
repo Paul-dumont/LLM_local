@@ -1,0 +1,22 @@
+patient_id: B203
+patient_age: 51
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea
+pain_onset_date: unknown but orthodontics from age of 24 to mid 40s
+appliance_history: orthodonics at age of 36
+headache_intensity: 0
+tmj_pain_rating: 1
+average_daily_pain-intensity: 1, jaw function | diet | disability
+physical_therapy_status: none
+muscle_tenderness_present: False
+earache
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc displacement 
+pain_aggravating_factors: clenching | bruxism
+patient_id: B203
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B203
+patient_age: 51
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement with reduction | right disc anteriorly displaced with reduction

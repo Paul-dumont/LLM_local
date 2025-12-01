@@ -1,0 +1,44 @@
+patient_id: B015
+patient_age: 15
+pain_onset_date: age of 13 or even before
+onset_triggers: unknown
+appliance_history: occlusal splint 1 year and 4 months ago, with adjustments every 3 months
+pain_relieving_factors: splint 
+jaw_clicking: left TMJ | right TMJ
+earache_present: True
+headache_intensity: 4 but can escalate to 8 
+headache_location: frontal | temporal | posterior head
+headache_frequency: severe every 2 weeks
+pain_frequency: TMJ at least two times per week
+tmj_pain_rating: 3
+average_daily_pain_intensity: 2
+jaw_function_score: 4
+diet_score: 4
+disability_rating: 3
+earache_present: True
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: knees | right ankle
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+patient_id: B015
+pain_aggravating_factors: anterior open bite
+sleep_disorder_type: daytime somnolence | snoring 
+airway_obstruction_present: False
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ 
+neck_pain_present: False
+maximum_opening: 36mm
+maximum_opening_without_pain: 26mm
+----------------------------------------------------------------------------------------------------
+patient_id: B015
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B015
+patient_age: 15
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced without reduction

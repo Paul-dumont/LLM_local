@@ -1,0 +1,28 @@
+patient_id: B391
+patient_age: 39
+current_medications: Norvasc | Premarin | Lorcet
+joint_pain_areas: TMJ | right hip | right ankle
+headache_intensity: 7 but can escalate to 10
+headaches_frequency: getting much more common
+average_daily_reactions:
+----------------------------------------------------------------------------------------------------
+patient_id: B391
+airway_obstruction_present: True
+maximum_opening: 28mm
+maximal_opening_without_pain: 17mm
+muscle_pain_location: masseter | left medial pterygoid | right medial pterosome | left styloid area | temporalis | right styloid | SCMs | posterior neck | shoulder areas
+jaw_clicking: left TMJ | right TMJ
+neck
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea_diagnosed: True 
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: severe
+tmj_physical_therapy_status: TMJ physical therapy
+patient_id: B391
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: right posterior crosscurrents
+maximum_opening: 8mm
+patient_id: B4
+jaw_locking: True

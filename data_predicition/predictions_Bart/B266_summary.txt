@@ -1,0 +1,76 @@
+patient_id: B266
+joint_arthritis_location: right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation 
+patient_age: 17
+earache_present: True
+current_medications: inhaler
+headache_intensity: 6
+tmj_pain_rating: 9
+jaw_function_score: 8
+adverse_reactions:
+----------------------------------------------------------------------------------------------------
+patient_id: B266
+appliance_history: orthodontic treatment where she was in appliances for approximately six years
+current_medications: Omnicef 
+adverse_reactions: SULFA
+earache_present: True
+jaw_clicking: left TMJ | right TMJ
+joint_pain_areas: jaw joints
+headache_intensity: present
+sleep_disorder_type: snoring | daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B266
+airway_obstruction_present: True
+muscle_pain_score: moderate to very high moderate 
+joint_arthritis_location: left TMJ | right TMJ
+muscular_tenders: temporalis | masseters | styloid areas | medial pterygoids | shoulders | neck | back | shoulders 
+maximum_opening: 30mm
+maximal_opening_without_pain: 24mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+disc_displacement: left disc dislocation | right disc anterior displacement without reduction 
+airway_obstruction_present: True
+headache_intensity: present
+tmj_pain_rating: severe 
+earache_presenter: Earache_frequency: daily 
+tinnitus_present : True 
+vertigo symptoms: present 
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B270
+disc_displacement: left disc high condylectomy | right disc articular disc repositioning with Mitek anchor
+appliance_history: orthodontics
+pain_aggravating_factors: right posterior crossbite tendency
+----------------------------------------------------------------------------------------------------
+patient_id: B266
+sleep_disorder_type: sleep apnea
+headache_intensity: 6 but can escalate to 10
+tmj_pain_rating: 7, overall daily pain on the average at 5
+jaw_function_score: 8
+diet_scoring: 7
+disability_aggravating_factors: snoring
+airway_obstruction_present: True
+current_medications: Motrin | Prevacid
+
+----------------------------------------------------------------------------------------------------
+patient_id: B266
+joint_pain_areas: left TMJ | right TMJ
+airway_obstruction_present: False
+jaw_clicking: jaw joints 
+earache_location: right ear | left ear | right ear
+vertigo_diagnosed: True
+headache_intensity: present
+sleep_disorder_type: snoring | daytime somnolence 
+patient_age: 17
+appliance_history: orthodontic treatment since 9 years ago
+----------------------------------------------------------------------------------------------------
+patient_id: B266
+joint_arthritis_location: right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anterior displacement without reduction
+airway_obstruction_present: True
+headache_intensity: present
+tmj_pain_rating: severe
+earache_present : True
+tinnitus_present 
+vertigo_present
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms

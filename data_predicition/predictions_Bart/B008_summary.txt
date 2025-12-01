@@ -1,0 +1,18 @@
+patient_id: B008
+patient_age: 23
+headache_intensity: 5
+pain_onset_date: 1 year and 2 months ago
+appliance_history: 3 splints with the third one being constructed 7 months ago | orthodontics 6 months ago 
+current_medications: amitriptyline
+tmj_pain_rating: 1, average daily pain at 4, jaw function at 3, diet at 1, and disability at 5
+earache_present: False
+tinnitus
+----------------------------------------------------------------------------------------------------
+patient_id: B008
+disc_displacement: left disc dislocation | right disc medial displacement
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+sleep_disorder_type: Sleep apnea | sleep apnea_diagnosed: True 
+headache_intensity: continuous 
+tmj_pain_rating: mild
+joint_arthritis_location: left TMJ | right TMJ

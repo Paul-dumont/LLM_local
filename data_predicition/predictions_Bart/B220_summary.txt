@@ -1,0 +1,43 @@
+patient_id: B220
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior and medial displacement without reduction
+autoimmune_condition: Reiter's syndrome
+patient_age: 39
+----------------------------------------------------------------------------------------------------
+patient_id: B220
+pain_onset_date: 12 years ago
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics from 13 or 14 years old for two years
+headache_intensity: 9 on a weekly basis and sometimes a couple times a week at about a level of 9, occasionally will get headaches that affect the temporal, top of the head, and posterior head area at 5
+tmj_pain_rating: 2 with the right side worse than the left side occasionally an 8
+headaches_frequency: almost every week
+head headache_location: frontal 
+head
+----------------------------------------------------------------------------------------------------
+patient_id: B220 
+maximum_opening: 53mm
+max_opening_without_pain: 35mm
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_score: mild to moderate 
+neck_arthritis_location: left posterior crossbite | right posterior cross bite
+airway_obstruction_present: True
+jaw_clicking: Left TMJ
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B220
+disc_displacement: left disc anterior displacement | right disc anterior and posterior displacement 
+joint_arthritis_location: right TMJ
+pain_aggravating_factors: right posterior crossbite tendency
+----------------------------------------------------------------------------------------------------
+joint_pain_areas: neck | shoulders | hands | fingers | hips | knees | feet | toes | TMJ | left TMJ
+headache_intensity: present
+sleep_disorder_type: tiredness
+disc_displacement: right disc dislocation with questionable reduction | left disc anterior displacement with reduction
+patient_id: B220
+current_medications: lots of water to help minimize water
+----------------------------------------------------------------------------------------------------
+current_medications: none
+autoimmune_condition: Chlamydia | Mycoplasma 
+disc_displacement: left disc displacement | right disc displacement
+joint_pain_areas: left TMJ | right TMJ
+appliance_history: orthodontics

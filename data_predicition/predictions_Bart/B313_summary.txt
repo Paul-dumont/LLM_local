@@ -1,0 +1,16 @@
+patient_id: B313
+patient_age: 45
+pain_onset_date: 42 years old
+joint_pain_areas: left TMJ | right TMJ
+onsets_triggers: unknown 
+appliance_history: splint therapy during the past year when she found out that the joints are actually involved
+physical_therapy_status: deep massage therapy for 6 months last year | several injections into her neck and shoulders from last year
+current_medications: Levothyroxin | Lunesta | Amitriptyline | Flexeril 
+
+----------------------------------------------------------------------------------------------------
+patient_id: B313
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior and medial dislocation with immediate reduction
+muscle_pain_score: moderate to moderate over the masseter muscles | minimal over the temporalis muscles
+maximum_opening: 35mm
+average_opening_without_pain: 26mm

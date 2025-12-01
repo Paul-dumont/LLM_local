@@ -1,0 +1,38 @@
+patient_id: B020
+patient_age: 60
+pain_onset_date: age of 36
+onset_triggers: orthodontics and orthognathic surgery to advance her mandible
+appliance_history: orthodontics 27 years and 3 months ago, finishing 2 years later
+current_appliance: splint for 24 years
+tmj_pain_rating: 8
+average_daily_pain_intensity: 5
+jaw_function_score: 7
+diet_score: 7
+disability_rating: 7
+headache_intensity: 8
+headache_location: left frontal | temple
+earache_present: False
+tinnitus_present: False
+vertigo_present: True
+pain_aggravating_factors: clenching | bruxism
+sleep_disorder_type: snoring | daytime somnolence
+current_medications: Synthroid | Clonazepam | Maxalt | Menostar Patch | Aleve | Calcium | multivitamins | vitamin D
+previous_medications: Fosamax 
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: moderate 
+muscle_pain_location: masseter 
+jaw_crepitus: left TMJ | right TMJ
+maximum_opening: 38mm
+maximum_opening_without_pain: 18mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction 
+patient_id: B020
+joint_pain_areas: TMJ
+headache_intensity: present
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B020
+patient_age: 60
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior dislocation without reduction 

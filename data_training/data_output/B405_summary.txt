@@ -1,0 +1,41 @@
+patient_id: B405
+patient_age: 13
+autoimmune_condition: JRA
+onset_triggers: JRA
+joint_pain_areas: fingers | hands | wrists | hips | knees | feet | toes | neck | back | left TMJ | right TMJ
+neck_pain_present: True
+back_pain_present: True
+pain_onset_date: age of 6
+appliance_history: orthodontics 5 years ago | maxillary expander
+headache_intensity: 8 
+headache_location: frontal | temporal | bilateral
+headache_frequency: 2 to 3 times per week
+tmj_pain_rating: 7
+average_daily_pain_intensity: 7
+jaw_function_score: 9
+diet_score: 8
+disability_rating: 8
+earache_present: False 
+tinnitus_present: True
+vertigo_present: True
+pain_aggravating_factors: clenching | anterior open bite
+airway_obstruction_present: True
+current_medications: Hydrochloroquine | Nambumetone | Folic acid | Methotrexate | Tylenol 
+muscle_pain_score: moderate 
+muscle_pain_location: masseter | medial pterygoids | retromandibular area | shoulders
+muscle_tenderness_present: True
+maximum_opening: 44mm
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite
+patient_id: B405
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: juvenile rheumatoid arthritis
+airway_obstruction_present: True
+sleep_disorder_type: Sleep apnea
+sleep_apnea_diagnosed: True
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B405
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: juvenile rheumatoid arthritis

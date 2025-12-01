@@ -1,0 +1,27 @@
+patient_id: B267
+patient_age: 38
+adverse_reactions: cats | horses
+pain_onset_date: 2 years ago
+current_appliance: splint since last year
+headache_intensity: 0
+tmj_pain_rating: 0
+average_daily_pain_intensity: 0
+jaw_function_score: 0
+diet_score: 1
+disability_rating: 0
+current_medications: none
+appliance_history: orthodontics at age of 7
+----------------------------------------------------------------------------------------------------
+jaw_crepitus: right TMJ
+muscle_tenderness_present: False
+maximum_opening: 48mm
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite
+disc_displacement: left disc medial dislocation | right disc dislocation
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B267
+----------------------------------------------------------------------------------------------------
+patient_id: B267
+patient_age: 38
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial dislocation with reduction | right disc displacement with reduction

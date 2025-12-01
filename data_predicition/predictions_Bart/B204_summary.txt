@@ -1,0 +1,31 @@
+patient_id: B204
+patient_age: 48
+pain_onset_date: 28 years old
+joint_pain_areas: TMJ
+headache_intensity: present
+jaw_locking: True
+earache_present: False
+tinnitus_present : True
+vertigo_present 
+adverse_reactions: clenching
+physical_therapy_status: physical therapy | massage therapy | chiropractic treatment | physical therapy
+----------------------------------------------------------------------------------------------------
+patient_id: B204
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: False
+joint_pain_areas: left TMJ | right TMJ
+maximum_opening: 40mm
+maximum _opening_without_pain: 30mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B204
+autoimmune_condition: connective tissue autoimmune disease
+pain_aggravating_factors: anterior open bite
+headache_intensity: present
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B204
+patient_age: 48
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced | right disc anterior dislocation

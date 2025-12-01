@@ -1,0 +1,38 @@
+patient_id: B391 
+patient_age: 39
+pain_onset_date: 16 years ago
+onset_triggers: motor vehicle accident and sustained a whiplash injury
+appliance_history: splints
+earache_present: True
+tinnitus_present: False
+vertigo_present: True
+pain_duration: mornings with increased pain but then subsides some during the day
+headache_intensity: 7, can escalate to 10
+headache_location: frontal | temporal
+headache_frequency: constant
+tmj_pain_rating: 6
+average_daily_pain_intensity: 7
+jaw_function_score: 6
+diet_score: 4
+disability_rating: 6
+current_medications: Norvasc | Premarin | Lorcet 
+joint_pain_areas: TMJ
+sleep_disorder_type: snoring
+----------------------------------------------------------------------------------------------------
+patient_id: B391 
+airway_obstruction_present: rue
+maximum_opening: 28mm
+maximum_opening_without_pain: 17mm
+muscle_pain_score: severe 
+muscle_pain_location: masseter | left medial pterygoid | right medial pterygoid | left styloid | temporalis | right styloid | SCMs | posterior neck | shoulder
+joint_pain_areas: left TMJ | right TMJ
+neck_pain_present: True
+muscle_spasm_present: True
+----------------------------------------------------------------------------------------------------
+sleep_disorder_type: daytime somnolence | snoring 
+joint_pain_areas: left TMJ | right TMJ
+tmj_pain_rating: severe
+headache_intensity: severe
+patient_id: B391 
+----------------------------------------------------------------------------------------------------
+NoInfo

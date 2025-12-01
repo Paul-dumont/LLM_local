@@ -1,0 +1,20 @@
+patient_id: B187
+patient_age: 39
+current_medications: Ziac
+appliance_history: orthodontics
+joint_pain_areas: TMJ
+jaw_clicking: left TMJ | right TMJ 
+sleep_disorder_type: snoring
+pain_aggravating_factors: anterior and bilateral posterior crossbite
+muscle_tenders
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B187
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc anterior dislocation with reduction 
+sleep_disorder_type: sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B187
+patient_age: 39
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced with earl reduction | right disc anterior dislocation with partial reduction

@@ -1,0 +1,22 @@
+patient_id: B089
+patient_age: 53
+pain_onset_date: 6 years old
+physical_therapy_status: physical therapy from age 51 to 52 | ionophoresis treatment | orthodontics from 14 to 15 | 41 to 43 | splints from 3 over the past 3 years
+headache_intensity: 4 but can escalate up to 8
+tmj_pain_rating: 0
+jaw_function_score: 1
+diet_score
+----------------------------------------------------------------------------------------------------
+patient_id: B089
+pain_aggravating_factors: buccal cross bite on the right side
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 70mm
+muscle_pain_location: masseters | medial pterygoids | retromandibular area
+joint_arthritis_present: True
+disc_displacement: left disc lateral displacement | right disc anterior displacement
+----------------------------------------------------------------------------------------------------
+patient_id: B089
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc anterior dislocation with reduction 
+current_medications: antiinflammatory | Celebrex | Mobic | magnesium | Vitamin D | Klonopin | muscle relaxant
+pain_aggravating_factors: right posterior crossbite

@@ -1,0 +1,16 @@
+patient_id: B111
+patient_age: 34
+pain_onset_date: 14 years of age
+appliance_history: orthodontic treatment from the age of 11 to 13
+jaw_clicking: left TMJ | right TMJ
+headache_intensity: 0
+tmj_pain_rating: 5
+average_daily_pain-intensity: 5, with jaw function at 6
+diet_score: 6
+disability
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B111 
+jaw_crepitus: TMJ 
+pain_aggravating_factors: anterior open bite

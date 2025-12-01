@@ -1,0 +1,22 @@
+patient_id: B365
+patient_age: 29
+fibromyalgia_present: True
+pain_onset_date: 18 years old
+depression_history: likely initiated from stress she was under at that time
+current_appliance: 4 or 5 splints since the age of 22
+physical_therapy_status: chiropractic treatment | massage therapy | acupuncture |  physical therapy | psychologist
+airway_clicking: left TMJ
+jaw_function_score: 5
+average_daily_pain_intensity
+----------------------------------------------------------------------------------------------------
+patient_id: B365
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc dislocation with early reduction | right disc anterior and medial displacement
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea syndrome
+jaw_clicking: TMJ
+patient_age: 29
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc anterior dislocation with early reduction | right disc anteriorly dislocated with early reductio
+patient_id: B5

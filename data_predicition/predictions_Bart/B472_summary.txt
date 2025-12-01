@@ -1,0 +1,29 @@
+patient_id: B472
+patient_age: 18
+headache_intensity: present
+joint_pain_areas: left TMJ | right TMJ
+pain_onset_date: early teens
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea problems 
+appliance_history: orthodontic treatment when she was about 13-1/2 to about the age of 15
+current_medications: Adderall | Zoloft 
+adverse_reactions: ZITHROMAX
+earache_present: True
+tinnitus_Present: True
+----------------------------------------------------------------------------------------------------
+muscle_pain_score: moderate to mild
+muscle-pain_location: temporalis | styloid areas | right masseter | shoulders | left masseter
+jaw_clicking: right TMJ | left TMJ 
+maximum_opening: 50mm
+max_opening_without_pain: 18mm
+----------------------------------------------------------------------------------------------------
+current_appliance: 3 x 3 retainer
+airway_obstruction_present: True
+patient_id: B472
+disc_displacement: left disc dislocation with reduction | right disc displacement without reduction 
+joint_pain_areas: TMJ
+headache_intensity: present
+patient-age: 18
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc anterior dislocation without reduction 
+jaw_crepitus: right disc probable salvageable

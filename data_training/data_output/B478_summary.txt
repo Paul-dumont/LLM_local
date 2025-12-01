@@ -1,0 +1,37 @@
+patient_id: B478
+patient_age: 20
+pain_onset_date: 18
+onset_triggers: unknown 
+jaw_clicking: left TMJ | right TMJ
+jaw_locking: True
+headache_intensity: 2
+headache_location: temporal | top of the head
+tmj_pain_rating: 5
+average_daily_pain_intensity: 4
+jaw_function_score: 2
+diet_score: 3
+disability_rating: 1
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: True
+joint_pain_areas: lower back | left TMJ | right TMJ
+back_pain_present: True
+pain_aggravating_factors: clenching | bruxism | left posterior cross bite tendency
+current_medications: Dulara | Singulair | Albuterol | Iron | vitamin C | vitamin D
+airway_obstruction_present: True
+muscle_pain_score: milder 
+muscle_pain_location: retromandibular area | masseter
+jaw_crepitus: right TMJ
+jaw_clicking: right TMJ
+maximum_opening: 47mm
+----------------------------------------------------------------------------------------------------
+patient_id: B478
+disc_displacement: left disc medially displaced and perhaps somewhat anteriorly displaced without reduction | right disc laterally displaced with reduction 
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anteriorly displaced without reduction | right disc laterally displaced
+joint_arthritis_location: left TMJ
+
+

@@ -1,0 +1,25 @@
+patient_id: B330 
+patient_age: 17
+appliance_history: orthodontics from 5 years to 2 years ago
+current_medications: Nasonex | Allegra 
+pain_onset_date: 2 years ago
+onset_triggers: appliance coming off
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+muscle_pain_score: mild 
+muscle_tenderness_present: True
+muscle_pain_location: left masseter | left styloid
+joint_pain_areas: left TMJ | right TMJ
+maximum_opening: 34mm
+maximum_opening_without_pain: 20mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: False 
+patient_id: B330 
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction 
+joint_pain_areas: TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B330 
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction 
+joint_arthritis_location: left TMJ | right TMJ
+

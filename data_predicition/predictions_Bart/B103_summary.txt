@@ -1,0 +1,24 @@
+patient_id: B103
+patient_age: 34
+pain_onset_date: 14 years of age
+autoimmune_condition: AICR
+onsets_triggers: age of 7 on a diving board where she hit the underneath of her chin and damaged some of her primary teeth
+appliance_history: orthodontics from 11 to 12 | 14 to 15 | 20 to 30 splints
+headache_intensity: 7
+tmj_pain_rating: 8
+headaches_frequency: two times per day
+headset_
+----------------------------------------------------------------------------------------------------
+patient_id: B103
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea | sleep apnoea symptoms
+headache_intensity: present
+tmj_pain_rating: severe 
+patient_age: 51
+jaw_clicking: lower anterior arch | right posterior cross
+----------------------------------------------------------------------------------------------------
+patient_id: B103
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc anterior dislocation without reduction 
+maximum_opening: 5mm

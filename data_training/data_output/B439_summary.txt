@@ -1,0 +1,26 @@
+patient_id: B439
+patient_age: 16
+joint_pain_areas: wrist 
+current_medications: Zyrtec | Concerta
+adverse_reactions: pollens | grasses | farm animals | trees
+appliance_history: orthodontics
+airway_obstruction_present: True
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+headache_intensity: 0
+tmj_pain_rating: 0
+airway_obstruction_present: True
+muscle_tenderness_present: False
+neck_pain_present: False
+maximum_opening: 42mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B439
+disc_displacement: left disc medially displaced| right disc medially displaced
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medially displaced| right disc medially displaced
+airway_obstruction_present: True
+patient_id: B439

@@ -1,0 +1,22 @@
+patient_id: B125
+patient_age: 16
+pain_onset_date: 13 years of age
+appliance_history: 4 sets of orthodontics from 8 to 9, 9 to 10, 10 to 13, and current 4th set of braces since 2 years ago
+current_medications: none
+earache_present: False
+tinnitus_present%: False
+vertigo_present : False
+hearing_loss_score: 0
+joint_pain_areas: ankles
+headache_intensity
+----------------------------------------------------------------------------------------------------
+patient_id: B125
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: juvenile rheumatoid arthritis
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea
+----------------------------------------------------------------------------------------------------
+patient_id: B125
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: JRA or similar connective tissue autoimmune process
+disc_displacement: left disc anterior displacement | right disc anterior dislocation

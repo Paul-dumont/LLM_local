@@ -1,0 +1,15 @@
+patient_id: B090
+patient_age: 40
+pain_onset_date: 20 years ago but worsened after lower wisdom tooth and the ear bothered her
+joint_pain_areas: jaw joint | fingers | knees | elbows | right TMJ | right masseter | left SCM | posterior neck | left TMJ
+muscle_tenderness_present: True
+current_medications: Advil | Tylenol
+earache_frequency: right earache
+----------------------------------------------------------------------------------------------------
+patient_id: B090
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement | right disc medial and anterior displacement
+headache_intensity: present
+jaw_crepitus: right masseter | left SCM | left posterior neck
+neck_pain_present: True
+patient_age: 40

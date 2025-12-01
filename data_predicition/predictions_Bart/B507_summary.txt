@@ -1,0 +1,32 @@
+patient_id: B507
+patient_age: 13
+joint_pain_areas: TMJ
+headache_intensity: present
+vertigo_present: True
+hearing_loss_rating: 10% to 20%
+pain_onset_date: age of 3 years 
+appliance_history: motor vehicle accident and apparently hit the dashboard even though he was wearing his seatbelt
+physical_therapy_status: multiple midfacial fractures and probably a midline symphysis fracture
+----------------------------------------------------------------------------------------------------
+patient_id: B507
+muscle_tenderness_present: False
+maximum_opening: 38mm
+jaw_crepitus: left TMJ | right TMJ
+neck_pain_score: 0
+joint_arthritis_location: none
+jostle_frequency: none 
+onset_triggers: unknown at this time
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: right posterior crossbite tendency
+patient_id: B4
+disc_displacement: left disc anterior displacement
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: right disc possible dislocation
+----------------------------------------------------------------------------------------------------
+patient_id: B507
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with probable significant adhesions | right disc very difficult to identify with severe limiting adhesion

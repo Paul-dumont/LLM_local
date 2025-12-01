@@ -1,0 +1,36 @@
+patient_id: B153
+patient_age: 18
+joint_pain_areas: left TMJ | right TMJ
+headache_frequency: frequent
+appliance_history: orthodontics from the age of 9 to 12
+pain_onset_date: age of 16
+current_medications: Prevacid | Allegra 
+previously wore splint from ages 16 to 17
+headaches_intensity: 6 but can elevate to 9
+head
+----------------------------------------------------------------------------------------------------
+patient_id: B153
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+joint_pain_areas: right TMJ | left TMJ
+muscle_tenderness_location: right masseter | medial pterygoids | left retromandibular area
+jaw_clicking: left joint on excursion towards the right side
+maximum_opening: 36mm
+maximal_opening_without_pain: 19mm
+----------------------------------------------------------------------------------------------------
+patient_id: B153
+airway_obstruction_present: True
+joint_pain_areas: left TMJ | right TMJ
+autoimmune_condition: connective tissue autoimmune disease problem
+current_appliance: orthodontics
+patient_age: 21
+----------------------------------------------------------------------------------------------------
+patient_id: B153
+pain_aggravating_factors: anterior open bite
+joint_arthritis_location: left TMJ | right TMJ
+patient_age: 19
+disc_displacement: left disc lateral displacement | right disc medial displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement with reduction | right disc medial and anterior dislocation with reduction 
+patient_id: B5

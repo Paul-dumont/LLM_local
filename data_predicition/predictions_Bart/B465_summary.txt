@@ -1,0 +1,29 @@
+patient_id: B465
+patient_age: 29
+autoimmune_condition: juvenile rheumatoid arthritis
+appliance_history: Herbst appliance when she was about 12 years old to try and correct bite problem
+current_medications: Cymbalta | ibuprofen 
+headache_intensity: 8, but on the right side the pain level is closer to a 5 in the frontal and temporal areas
+tmj_pain_rating: 9
+----------------------------------------------------------------------------------------------------
+patient_id: B465
+jaw_clicking: left TMJ | right TMJ
+airway_obstruction_present: True
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea symptoms
+maximum_opening: 30mm
+muscle_tenderness_location: styloid areas | posterior neck | shoulder
+neck_pain_score: mild to moderate
+joint_arthritis_location
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: juvenile rheumatoid arthritis
+airway_obstruction_present: True 
+headache_intensity: present 
+tmj_pain_rating: present
+patient_id: B5
+----------------------------------------------------------------------------------------------------
+patient_id: B465
+patient_age: 29
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc anterior and medial displacement but reduction
+autoimmune_condition: rheumatoid arthritis

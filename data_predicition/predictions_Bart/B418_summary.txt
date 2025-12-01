@@ -1,0 +1,18 @@
+patient_id: B418
+patient_age: 19
+pain_onset_date: 15 years old
+joint_pain_areas: left TMJ | right TMJ 
+onsets_triggers: unknown 
+appliance_history: what sounds like a night guard 2 years ago that was not particularly effective | TMJ splint this year
+physical_therapy_status: chiropractic treatment including adjustments | ultrasound treatment
+headache_frequency: 5
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B418
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite tendency
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B418
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly and perhaps laterally displaced | right disc anterior dislocation with reduction

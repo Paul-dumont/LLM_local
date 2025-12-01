@@ -1,0 +1,44 @@
+patient_id: B032
+patient_age: 49
+joint_pain_areas: right TMJ | left TMJ
+pain_onset_date: since her teenage years
+onset_triggers: unknown
+appliance_history: orthodontics from the age of 12 to 16 which included head gear | orthodontic treatment 3 years and 5 months ago for mandibular advancement 
+current_appliance: orthodontic Class II elastics
+headache_intensity: 7
+headache_location: frontal | temporal | posterior head
+tmj_pain_rating: 5
+average_daily_pain_intensity: 10
+jaw_function_score: 8
+diet_score: 9
+disability_rating: 7
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+hearing_sensitivity_present: True
+current_medications: mixture of medications that caused her kidneys to shut down
+autoimmune_condition: Sjogren's syndrome
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+patient_id: B032
+pain_aggravating_factors: anterior open bite
+muscle_pain_score: moderate to high moderate
+muscle_pain_location: posterior neck | shoulder
+neck_pain_present: True
+maximum_opening: 29mm
+maximum_opening_without_pain: 14mm
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc medial dislocation 
+joint_pain_areas: TMJ
+headache_intensity: present
+sleep_disorder_type: Sleep apnea symptoms
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B032
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc medially displaced
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ 

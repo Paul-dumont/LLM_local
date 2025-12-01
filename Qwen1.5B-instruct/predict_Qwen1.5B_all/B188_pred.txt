@@ -1,0 +1,44 @@
+patient_id: B188
+maximum_opening_without_pain: 23mm
+patient_age: 50
+maximum_opening: 49mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 7
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | clenching | bruxism
+physical_therapy_status: physical therapy in her late 20s
+earache_present: false
+onset_triggers: falling off a roof and striking her face on a trampoline fracturing her nose and bruising her face | getting hit in the face with a softball
+adverse_reactions: iv iodine | demerol | codeine | sulfa
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: constant
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: high moderate
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: 9 | severe
+autoimmune_condition: unknown
+pain_onset_date: teenage | when she was in high school
+jaw_crepitus: unknown
+tmj_pain_rating: 0
+sleep_disorder_type: daytime somnolence | snoring
+current_medications: aspirin | levothroid | estrogens | progesterone | vitamin and mineral supplements | occasional ambien | occasional skelaxin | occasional fioricet | occasional migraine medication | occasional feldene | zomig nasal spray | maxalt
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation without reduction | right disc dislocation with early reduction
+muscle_pain_location: masseters | retromandibular areas | scms | medial pterygoids
+joint_arthritis_location: left tmj | right tm

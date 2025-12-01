@@ -1,0 +1,25 @@
+patient_id: B136
+patient_age: 43
+pain_onset_date: 27 years ago
+jaw_clicking: left TMJ | right TMJ
+disc_displacement: left disc displacement | right disc displacement
+current_medications: Lyrica | Celebrex | OxyContin | Baclofen | Axert | Amrix
+headache_intensity: 5, but can escalate to 8 to 9
+migraine_frequency: five to six times a week
+average_daily_pain_intensity
+----------------------------------------------------------------------------------------------------
+patient_id: B136
+joint_arthritis_location: right TMJ
+disc_displacement: right disc dislocation 
+maximum_opening: 30mm
+muscle_pain_score: severe  to high moderate 
+musical_tenderness_present: True 
+jaw_crepitus: left posterior neck | styloid areas | right masseter area
+muscular_pain _intensity: present 
+headache_frequency: present
+----------------------------------------------------------------------------------------------------
+patient_id: B136
+joint_arthritis_location: right TMJ
+disc_displacement: left disc anterior displacement | right disc dislocation 
+patient_age: 18
+jaw_locking: True

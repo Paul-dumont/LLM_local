@@ -1,0 +1,19 @@
+patient_id: B501
+patient_age: 29
+pain_onset_date: 4 years ago
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics for awhile | splints
+headache_intensity: present
+tmj_pain_rating: severe
+sleep_disorder_type: daytime somnolence
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with significantly deformation and nonreducing | right disc displacement with reduction 
+airway_obstruction_present: False
+headache_intensity: present
+patient_id: B398
+----------------------------------------------------------------------------------------------------
+patient_id: B501
+patient_age: 29
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior dislocation with reduction

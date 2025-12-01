@@ -1,0 +1,19 @@
+patient_id: B496
+patient_age: 13
+current_medications: Claritin 
+appliance_history: orthodontic treatment including a palatal expander when she was younger | headgear for almost two years
+jaw_clicking: left TMJ | right TMJ
+headache_intensity: 0
+tmj_pain_rating: 0.0
+average_daily_opening: 50mm
+muscle_tenderness_present: False
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: 12
+disc_displacement: right disc anterior displacement | left disc dislocation 
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B496
+patient_age: 14
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc medial and anterior displacement

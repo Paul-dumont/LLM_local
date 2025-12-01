@@ -1,0 +1,15 @@
+patient_id: B198
+patient_age: 15
+airway_obstruction_present: True
+muscle_tenderness_present: False
+jaw_crepitus: right TMJ
+maximum_opening: 28mm
+headache_intensity: 0
+tmj_pain_rating: 1
+average_daily_pain_intensity: 0
+jaw_function_score: 5
+diet_score: 0
+disability_rating: 0
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_pain_areas: right TMJ

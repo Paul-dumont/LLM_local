@@ -1,0 +1,12 @@
+patient_id: B189
+patient_age: 17
+appliance_history: orthodontics from the age of 10 to 13 | 2 x 2 retainer in the lower arch
+pain_onset_date: 14 years of age
+onsets_triggers: unknown
+physical_therapy_status: physical therapy that was initiated about 5 weeks ago
+headache_intensity: 6
+daily_pain_frequency:
+----------------------------------------------------------------------------------------------------
+patient_id: B189
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc lateral and anterior displacement with reduction | right disc laterally and anteriorly displaced with reduction

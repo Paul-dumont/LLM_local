@@ -1,0 +1,26 @@
+patient_id: B040
+current_medications: none
+appliance_history: orthodontic appliance from 10 to 14 years of age | palatal expander | Herbst appliance
+pain_onset_date: 6 years old
+onsets_triggers: mouthpiece from scuba equipment in her mouth and it was too big
+jaw_clicking: left TMJ | right TMJ
+earache_present: True
+tinn
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+muscle_pain_location: throughout the head and neck area
+jaw_crepitus: left TMJ | right TMJ
+maximum_opening: 33mm
+average_opening_without_pain: 20mm
+----------------------------------------------------------------------------------------------------
+patient_id: B040
+airway_obstruction_present: True
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_age: 16
+disc_displacement: left TMJ juvenile internal condylar resorption | right TMJ adolescent internal dislocation
+----------------------------------------------------------------------------------------------------
+patient_id: B040
+patient_age: 14
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior dislocation without reduction

@@ -1,0 +1,19 @@
+patient_id: B497
+patient_age: 14
+pain_onset_date: unknown but at age 14 when she was placed on orthodontic elastics
+appliance_history: Orthodontics 3 years and 4 months ago
+headache_frequency: two times a week 
+tmj_pain_rating: 6, average daily pain of 6, jaw function 2, diet 0, disability 0
+earache_present: False
+tinnitus_present:" False
+vertigo_present
+----------------------------------------------------------------------------------------------------
+patient_id: B497
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior and lateral displacement with reduction 
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_age: 14
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly dislocated without reduction | right disc anterior and lateral dislocation with reduction 
+patient_id: B5

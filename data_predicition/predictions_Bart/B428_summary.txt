@@ -1,0 +1,28 @@
+patient_id: B428
+patient_age: 22
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics from about of 6 to about the age of 14
+current_medications: Zoloft | birth control pills | Percodan | Tylenol | Naproxen | Ibuprofen
+headache_intensity: 8
+headaches_location: throughout the head and neck area
+tmj_pain_rating: 9
+average
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B428
+disc_displacement: left disc dislocations with reduction | right disc dislocation with reduction 
+jaw_locking: True 
+tmj_pain_rating: Severe 
+headache_intensity: severe 
+sleep_disorder_type: migraine
+----------------------------------------------------------------------------------------------------
+patient_id: B428
+patient_age: 22
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement with reduction | right disc anterior and lateral dislocation with reduction 
+jaw_crepitus: left joint posterior displacement | right joint anterior displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc anterior and medial dislocation with reduction 
+patient_id: B3

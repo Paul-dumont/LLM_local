@@ -1,0 +1,32 @@
+patient_id: B243
+patient_age: 47
+headache_intensity: present
+joint_pain_areas: TMJ
+pain_aggravating_factors: clenching | bruxism
+current_medications: Paxil | Synthroid | Depo Estrogen | Xanax | Flexeril | Hydrocodone 
+adverse_reactions: penicillin | erythromycin | sulfa antibiotics
+ons
+----------------------------------------------------------------------------------------------------
+patient_id: B243
+airway_obstruction_present: True
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_location: masseters | styloid areas | medial pterygoids | posterior neck | shoulder 
+muscular_healing_score: moderate to mild 
+maximum_opening: 37mm
+max_opening_without_pain: 20mm
+jaw_crepitus: joints 
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea
+
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B243
+disc_displacement: left disc dislocation without reduction | right disc dislocated without reduction 
+airway_obstruction_present: True
+sleep_disorder_type: snoring | sleep apnea symptoms
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+patient_id: B243
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc anterior and posterior displacement with likely adhesions to the articular eminence
+maximum_opening: 10mm

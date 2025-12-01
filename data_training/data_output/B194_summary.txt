@@ -1,0 +1,35 @@
+patient_id: B194
+patient_age: 27
+pain_onset_date: 20 years of age
+onset_triggers: bruxism
+headache_intensity: 6
+headache_location: throughout most of the head
+tmj_pain_rating: 6
+average_daily_pain_intensity: 6
+jaw_function_score: 3
+diet_score: 0
+disability_rating: 2
+current_medications: Yasmin | Flonase | multivitamins | calcium | magnesium | zinc | Flax oil supplement
+appliance_history: NIT | soft rubber splint | orthodontics from 9 to 11 | tongue guard from 13 to 14
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+pain_aggravating_factors: clenching | bruxism | anterior open bite
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_location: masseters | shoulders | posterior neck | styloid areas | temporalis area | SCMs
+muscle_pain_score: low severe, moderate, to mild
+muscle_tenderness_present: True
+maximum_opening: 47mm
+maximum_opening_without_pain: 15mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+disc_displacement: right disc medial and rotational displacement | left disc rotational displacement
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: clenching | bruxism | anterior open bite
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B194
+patient_age: 27
+disc_displacement: right disc medial and rotational displacement | left disc rotational anterior displacement
+joint_arthritis_location: left TMJ | right TMJ

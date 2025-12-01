@@ -1,0 +1,25 @@
+patient_id: B526
+patient_age: 49
+current_appliance: orthodontics
+pain_aggravating_factors: left posterior crossbite tendency | right posterior cross bite tendency
+earache_present: False
+tmj_pain_rating: 0
+jaw_clicking: left TMJ | right TMJ
+headache_intensity: 0, average daily
+----------------------------------------------------------------------------------------------------
+patient_id: B526
+muscle_pain_score: 0
+neck_tenderness_present: False
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 48mm
+current_medications: Maxair | Advair | Xanax | Mucinex | Claritin | Nasonex nasal spray | Vivelle patch | Synthroid
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+patient_id: B526
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc displacement with reduction
+----------------------------------------------------------------------------------------------------
+patient_id: B526
+patient_age: 49
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc anterior and medial displacement with early reduction

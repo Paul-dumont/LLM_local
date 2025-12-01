@@ -1,0 +1,46 @@
+patient_id: B175
+maximum_opening_without_pain: 25mm
+patient_age: 26
+maximum_opening: 60mm
+pain_relieving_factors: splint therapy
+diet_score: 5
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: true
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: tmj | left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: moderate to high moderate
+migraine_history: unknown
+headache_location: throughout the head bilaterally
+current_appliance: splint
+average_daily_pain_intensity: 5
+headache_intensity: 4 | present
+autoimmune_condition: unknown
+pain_onset_date: early teens
+jaw_crepitus: unknown
+tmj_pain_rating: 6
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms | snoring | daytime somnolence | sleep apnea symptoms | snoring | sleep apnea symptoms
+current_medications: lunesta | ibuprofen
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation with significant deformation and degenerative changes | right disc dislocation with significant deformation and degenerative changes
+muscle_pain_location: most of the head and neck areas including the tmjs
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from about the age 8 to 10 | splint therapy with dr. xxxx
+joint_pain_areas: tmj | hands | fingers | right hip | back at l3-l4 | left tmj | right tmj

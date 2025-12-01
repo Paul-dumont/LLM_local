@@ -1,0 +1,45 @@
+patient_id: B473
+maximum_opening_without_pain: 18mm
+patient_age: 32
+maximum_opening: 46mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 5 to 6
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: left posterior teeth only touch when she tries hard
+physical_therapy_status: physical therapy 2 years ago
+earache_present: unknown
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: behind the left eye and in the back of the head
+current_appliance: application of arch bars
+average_daily_pain_intensity: 7
+headache_intensity: 5 | present
+autoimmune_condition: unknown
+pain_onset_date: 15 years of unknown etiology
+jaw_crepitus: left tmj
+tmj_pain_rating: 9
+sleep_disorder_type: daytime tiredness | snoring | sleep apnea
+current_medications: advil | vicodin
+disc_displacement: left disc anteriorly dislocated without reduction | right disc anteriorly dislocated with reduction | left disc anteriorly dislocated without reduction and significant deformation | right disc anteriorly dislocated with reduction
+muscle_pain_location: left masseter | left masseteric hyperplasia | shoulders | temporalis | scms | posterior neck area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint 14-16 years ago | splint 1

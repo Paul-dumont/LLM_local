@@ -1,0 +1,21 @@
+patient_id: B210
+patient_age: 31
+pain_onset_date: one year and five months ago 
+appliance_history: orthodontics from 16 to 18 years old | splint since 1 year and 5 months ago
+headache_intensity: 10
+headaches_location: left side in the frontal and temporal area | left posterior head and neck area | top of the head
+tmj_pain_rating: 10, which is the severity that it reaches every day
+average_daily_pain level: 6
+jaw_function_score: 0
+diet_score
+----------------------------------------------------------------------------------------------------
+patient_id: B210
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement with reduction | right disc anteriorly displaced with reduction
+tmj_pain_rating: Severe 
+headache_intensity: severe
+patient_age: 30
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement with early reduction | right disc anteriorly and medially displaced with reduction 
+patient_id: B5

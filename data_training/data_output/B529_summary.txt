@@ -1,0 +1,39 @@
+patient_id: B529
+patient_age: 18
+appliance_history: orthodontic treatment at about the age of 11 and finished at the age of 13
+headache_intensity: 2
+headache_location: left temple
+headache_frequency: occasionally
+joint_pain_areas: left TMJ 
+tmj_pain_rating: 2
+average_daily_pain_intensity: 1
+jaw_function_score: 2
+diet_score: 1
+disability_rating: 1
+current_medications: none
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+----------------------------------------------------------------------------------------------------
+patient_id: B529
+sleep_disorder_type: daytime somnolence
+pain_aggravating_factors: right posterior cross bite tendency
+muscle_tenderness_present: False
+neck_pain_present: False
+jaw_clicking: right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced with reduction
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ
+airway_obstruction_present: True
+disc_displacement: left disc dislocation without reduction | right disc dislocation with reduction 
+patient_id: B529
+joint_pain_areas: TMJ
+headache_intensity: present
+headache_frequency: Occasional 
+----------------------------------------------------------------------------------------------------
+patient_id: B529
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteromedially displaced with reduction 
+
+

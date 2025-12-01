@@ -1,0 +1,20 @@
+patient_id: B106
+patient_age: 53
+current_medications: Angelique
+pain_onset_date: unknown
+jaw_crepitus: left TMJ | right TMJ
+headache_frequency: once every 2 weeks
+tmj_pain_rating: 3
+average_daily_painintensity: 0
+jawed_function_score: 3 
+diet_score
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: right TMJ
+disc_displacement: right disc dislocation with reduction 
+patient_id: B5
+jaw_locking: True
+----------------------------------------------------------------------------------------------------
+patient_id: B106
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc slightly medially displaced but reducing on opening | right disc slightly posteriorly displaced but good translation on opening

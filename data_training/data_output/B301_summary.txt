@@ -1,0 +1,42 @@
+patient_id: B301
+patient_age: 22
+current_medications: Seasonale birth control pill | Zoloft | Zyrtec | zantac
+adverse_reactions: penicillin | codeine | levaquin
+pain_onset_date: age of 14 or 15
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics at age of 7 o 8 | orthodontics at age of 12
+current_appliance: bite splint since last year
+pain_relieving_factors: bite splint
+earache_present: False
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: False
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: 4
+headache_frequency: frequent 
+tmj_pain_rating: 3
+average_daily_pain_intensity: 0
+jaw_function_score: 4
+diet_score: 3
+disability_rating: 1
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True 
+joint_pain_areas: shoulders |left TMJ
+muscle_pain_score: moderate to mild
+muscle_pain_location: masseters |  left styloid area | temporalis
+muscle_tenderness_present: True
+jaw_clicking: left TMJ | right TMJ
+jaw_crepitus: left TMJ 
+maximum_opening: 57mm
+maximum_opening_without_pain: 42mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B301
+joint_pain_areas: TMJ
+sleep_apnea_diagnosed: sleep apnea history
+sleep_disorder_type: sleep apnea history
+patient_age: 22
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc anterior displacement without reduction

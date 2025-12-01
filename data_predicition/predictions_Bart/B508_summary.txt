@@ -1,0 +1,23 @@
+patient_id: B508
+patient_age: 16
+current_medications: none
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: present
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring 
+maximum_opening: 49mm
+----------------------------------------------------------------------------------------------------
+patient_id: B508
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc dislocation | right disc dislocations 
+patient_age: 11
+onset_triggers: unknown 
+appliance_history: orthodontics
+----------------------------------------------------------------------------------------------------
+patient_id: B508
+patient_age: 16
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement without reduction | right disc anteriorly displaced without reduction

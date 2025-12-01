@@ -1,0 +1,52 @@
+patient_id: B283
+patient_age: 20
+current_medications: Ventolin | Lexapro | Yasmin | Atarax
+adverse_reactions: allergy | sinus 
+pain_aggravating_factors: Candida otitis externa
+joint_pain_areas: left TMJ | right TMJ
+onset_triggers: accident 4 years ago
+appliance_history: orthodontics around the age of 7 to 8 and 1 year later for 1 year
+physical_therapy_status:
+----------------------------------------------------------------------------------------------------
+joint_pain_areas: shoulders | risks | hands | fingers | knees | ankles | feet | toes | 
+earache_present: False
+tinnitus_present%: False
+vertigo_present : False
+hearing_loss_score: 0
+adverse_reactions: penicillin | dust mites | mildew | cats | dogs | horses | grasses | nickel 
+pain_aggravating_factors: nickel
+headache_location: frontal | temporal | posterior head | top of the head | left TMJ | right TMJ
+tmj_pain
+----------------------------------------------------------------------------------------------------
+patient_id: B283
+current_appliance: 3 x 3 retainer on the lower anterior arch
+pain_aggravating_factors: left posterior crossbite
+airway_obstruction_present: True
+joint_pain_areas: left TMJ | right TMJ
+muscle_painscore: moderate to mild
+neck_tenderness_present : True
+maximum_opening: 55mm
+----------------------------------------------------------------------------------------------------
+joint_pain_areas: shoulders | wrists | hands | fingers | knees | ankles | feet | toes | left TMJ | right TMJ
+pain_aggravating_factors: Yasmin
+onset_triggers: urinary tract infection few times during the 10th grade but not since then
+sleep_disorder_type: Nocturia | periods irregular | excessive pain
+current_medications: yasmin
+----------------------------------------------------------------------------------------------------
+patient_id: B283
+joint_arthritis_location: right TMJ
+current_appliance: 3 x 3 retainer
+airway_obstruction_present: True
+patient_age: 28
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+disc_displacement: left disc dislocation | right disc anterior displacement without reduction
+airway_obstruction_present: True
+sleep_disorder_type: snoring | daytime somnolence
+pain_aggravating_factors: clenching | bruxism 
+patient_id: B283
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc anterior displacement without reduction | left disc anterior dislocation without reduction 
+patient_id: B4
+pain_aggravating_factors: right posterior cross fracture

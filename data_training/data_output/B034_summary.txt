@@ -1,0 +1,38 @@
+patient_id: B034
+patient_age: 32
+pain_onset_date: 8 years ago at the age of 25
+onset_triggers: unknown
+jaw_clicking: right TMJ
+joint_pain_areas: right TMJ | neck | shoulder 
+neck_pain_present: True
+appliance_history: orthodontics 7 years ago lasting until 2 months ago | 2 splints beginning a month ago
+current_appliance: splint
+jaw_locking: True
+headache_intensity: 10
+headache_location: right frontal | temporal | posterior head
+tmj_pain_rating: 10
+average_daily_pain_intensity: 10
+jaw_function_score: 9
+diet_score: 9
+disability_rating: 10
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+current_medications: Vyvanse | Synthroid | Reglan | Fioricet  | Treximet | Xanax
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea 
+muscle_pain_score: moderate
+muscle_pain_location: right temporalis | right medial pterygoid | right retromandibular | right shoulder
+maximum_opening: 31mm
+maximum_opening_without_pain: 14mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B034
+jaw_clicking: left TMJ
+current_medications: thyroid medicine 
+joint_arthritis_present: left TMJ | right TMJ
+disc_displacement: left disc dislocation with early reduction | right disc dislocation without reduction
+joint_pain_areas: TMJ
+headache_intensity: Severe
+----------------------------------------------------------------------------------------------------
+joint_arthritis_present: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with early reduction | right disc anterior dislocation without reduction

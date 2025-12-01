@@ -1,0 +1,41 @@
+patient_id: B469
+patient_age: 35
+previous_medications: medications to treat flu
+adverse_reactions: PENICILLIN
+pain_onset_date: 25 years ago
+onset_triggers: physical abuse
+appliance_history: orthodontics 13 years ago | orthodontics 7 years ago | splin5
+physical_therapy_status: physical therapy from husband
+pain_aggravating_factors: ear candling | clenching | splint
+joint_pain_areas: TMJ
+headache_intensity: present
+muscle_pain_score: present
+current_medications: Wellbutrin XL | Advil | Advil Migraine
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B469
+sleep_disorder_type: snoring
+muscle_pain_score: high moderate
+muscle_pain_location: left temporalis | right styloid area | left SCM | left styloid area | bilateral masseters | right medial pterygoid | left SCM
+joint_pain_areas: left TMJ | right TMJ
+maximum_opening: 35mm
+maximum_opening_without_pain: 30mm
+headache_intensity: 4 but can escalate to 9
+headache_location: frontal | temporal | posterior head area
+tmj_pain_rating: 3
+average_daily_pain_intensity: 5 but it can escalate to 9
+jaw_function_score: 5
+diet_score: 5
+disability_rating: 6
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+earache_present: True
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_id: B469
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction 
+
+

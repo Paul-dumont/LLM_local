@@ -1,0 +1,29 @@
+patient_id: B525
+patient_age: 15
+earache_present: False
+tinnitus_present : False
+vertigo_present 
+hearing_loss_score: 0
+joint_pain_areas: left TMJ | right TMJ
+jaw_locking: True
+clicking_and_pops: jaw joints
+appliance_history: cheap earrings
+pain_aggravating_factors: clenching | bruxism
+onset_triggers: unknown
+
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_pain_areas: TMJ 
+headache_intensity: present
+patient_id: B284
+disc_displacement: left disc posterior displacement with slightly increased anterior space | right disc displacement with slight increase
+----------------------------------------------------------------------------------------------------
+patient_id: B525
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc possible dislocation 
+patient_age: 35
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior displacement with reduction
+pain_aggravating_factors: bilateral posterior crossbite
+patient_id: XXXX

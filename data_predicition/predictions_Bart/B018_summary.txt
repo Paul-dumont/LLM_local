@@ -1,0 +1,35 @@
+patient_id: B018
+patient_age: 52
+pain_onset_date: 21 years ago
+joint_pain_areas: left TMJ | right TMJ
+appliance_history: orthodontics at age 34 | sinus lift procedure and implants done three years ago | 15 splints since that time
+current_medications: Fentanyl patch | Percocet | Ambien | Xanax | Estrogen | Progesterone 
+headache_intensity: 5
+headaches_daily
+----------------------------------------------------------------------------------------------------
+patient_id: B018
+airway_obstruction_present: True
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenders: temporalis | masseters | styloids area | medial pterygoids | SCMs | posterior neck | shoulder 
+neck_arthritis_location: posterior neck and shoulder
+maximum_opening: 44mm
+current_appliance: 3-unit bridge to the second molar
+
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B018
+pain_aggravating_factors: Proplast Teflon
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B018
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms 
+headache_intensity: present
+patient_age: 52
+----------------------------------------------------------------------------------------------------
+disc_displacement: right disc anterior displacement with reduction
+joint_arthritis_location: left TMJ 
+patient_id: B2
+disc_pain_rating: 0
+maximum_opening: 8mm

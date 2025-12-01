@@ -1,0 +1,43 @@
+patient_id: B324
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction 
+patient_age: 32
+pain_aggravating_factors: right posterior crossbite
+----------------------------------------------------------------------------------------------------
+patient_id: B324
+pain_onset_date: as early as in elementary school
+jaw_locking: True
+appliance_history: orthodontics from age of 7 years to 10 years | many splints and at least four as a teenager | splint therapy for at least five years
+physical_therapy_status: physical therapy | massage therapy | TENS | ionophoresis
+current_medications: Concerta | Lexapro | Antivert | Advil | Tylenol 
+adverse_reactions: codeine | onions
+----------------------------------------------------------------------------------------------------
+patient_id: B324
+muscle_pain_score: high moderate 
+joint_arthritis_location: left TMJ | right TMJ
+musical_tenderness_present: temporalis | masseters | styloid areas | SCMs | left posterior crossbite tendency | right posterior cross bite tendency
+jaw_clicking: right joint
+maximum_opening: 34mm
+max_opening_without_pain: 20mm
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B324
+headache_intensity: Severe 
+tmj_pain_rating: severe 
+neck_tenderness_present : True
+muscle_spasm_score: through the jaw muscles
+jaw_clicking: jaw joints
+airways_obstructed: True 
+sleep_disorder_type: snoring
+pain_aggravating_factors: exercise
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+headache_intensity: Severe 
+tmj_pain_rating: severe 
+earache_score: present
+tinnitus_present : True
+vertigo_diagnosed: True 
+appliance_history: orthodontics to refine occlusion

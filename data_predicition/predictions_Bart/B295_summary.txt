@@ -1,0 +1,28 @@
+patient_id: B295
+patient_age: 24
+jaw_locking: True
+sleep_disorder_type: snoring
+current_medications: birth control pills
+earache_present: True 
+tinnitus_present : False
+vertigo_diagnosed: False
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: 0
+tmj_pain_rating: 3
+average_daily_appliance_history: orthodontics at the age of 12 years for about 1-1/2 years
+
+----------------------------------------------------------------------------------------------------
+patient_id: B295
+maximum_opening: 43mm
+airway_obstruction_present: True
+joint_pain_areas: left TMJ | right TMJ
+pain_aggravating_factors: left posterior cross bite tendency | right posterior crossbite tendency
+----------------------------------------------------------------------------------------------------
+patient_id: B295
+airway_obstruction_present: True
+disc_displacement: left disc medial and anterior displacement | right disc medially displaced and likely anteriorly displaced as well
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc displaced medially and slightly anteriorly with reduction | right disc medial and slight anterior displacement 
+pain_aggravating_factors: anterior beaking

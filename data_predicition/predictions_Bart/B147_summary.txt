@@ -1,0 +1,36 @@
+patient_id: B147
+patient_age: 16
+appliance_history: orthodontics
+headache_intensity: 5
+pain_aggravating_factors: clenching | grinding
+earache_present: True
+tinnitus_present but no tinnitus
+vertigo_diagnosed: False
+disc_displacement: possible displaced articular discs
+----------------------------------------------------------------------------------------------------
+patient_id: B147
+patient_age: 16
+pain_aggravating_factors: anterior open bite
+headache_intensity: 4
+tmj_pain_rating: 0
+headaches_frequency: once or twice a week
+current_medications: amitriptyline 
+back_to_life_history: Amitripties used to occur daily to a level of 8 to 9
+head headache_frequency decreased to once every two weeks
+tmJ_painRelative_
+----------------------------------------------------------------------------------------------------
+patient_id: B147
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite | bilateral posterior crossbite
+disc_displacement: left disc medial displacement | right disc possible dislocation
+----------------------------------------------------------------------------------------------------
+patient_id: B147
+pain_aggravating_factors: anterior open bite
+disc_displacement: left disc anterior displacement | right disc dislocation 
+headache_intensity: present
+neck_pain_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B147
+patient_age: 16
+disc_displacement: left disc medial displacement | right disc medial and anterior displacement
+joint_arthritis_location: left TMJ | right TMJ

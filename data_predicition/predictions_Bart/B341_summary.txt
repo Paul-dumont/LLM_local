@@ -1,0 +1,30 @@
+patient_id: B341
+patient_age: 18
+current_medications: BCPs
+jaw_clicking: left TMJ | right TMJ
+headache_intensity: present
+earache_present: True
+pain_onset_date: 6 years ago but exacerbated by the trauma sustained last year
+appliance_history: orthodontics with the work being done predominantly on the lower teeth
+back_pain_present
+----------------------------------------------------------------------------------------------------
+muscle_tenderness_present: True
+joint_pain_areas: right styloid
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 28mm 
+max_opening_without_pain: 10mm
+----------------------------------------------------------------------------------------------------
+patient_id: B341
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc medially displaced 
+headache_intensity: moderate to severe
+tmj_pain_rating: Severe 
+earache_present: True
+jaw_locking: True 
+appliance_history: orthodontics
+----------------------------------------------------------------------------------------------------
+patient_id: B341
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc medial displacement without reduction 
+pain_aggravating_factors: orthodontics to refine occlusion
+patient_age: 35

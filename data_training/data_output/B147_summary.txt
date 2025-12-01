@@ -1,0 +1,51 @@
+patient_id: B147
+patient_age: 16
+appliance_history: orthodontics
+headache_intensity: 5
+neck_pain_present: True
+joint_pain_areas: neck | soulders
+tmj_pain_rating: 0
+average_daily_pain_intensity: 2
+jaw_function_score: 4
+diet_score: 4
+disability_rating: 4
+pain_aggravating_factors: clenching | bruxism | bilateral posterior crossbite | anterior open bite
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+joint_pain_areas: none
+airway_obstruction_present: True
+disc_displacement: displaced discs
+patient_id: B147
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite
+patient_id: B147
+headache_intensity: 4
+headache_frequency: once or twice a week
+headache_location: frontal | temporal | posterior head
+pain_relieving_factors: amitriptyline
+current_medications: amitriptyline
+tmj_pain_rating: 0
+average_daily_pain_intensity: 4
+jaw_function_score: 5
+diet_score: 4
+disability_rating: 4
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: knees
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B147
+pain_aggravating_factors: anterior open bite | bilateral posterior crossbite
+airway_obstruction_present: True
+disc_displacement: right disc medial displacement | left disc medial displacement
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite 
+patient_id: B147
+disc_displacement: right disc anterior displacement 
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc posterior and medial displacement | right disc medial displacement
+patient_id: B147
+patient_age: 16

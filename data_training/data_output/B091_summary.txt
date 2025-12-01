@@ -1,0 +1,35 @@
+patient_id: B091
+patient_age: 35
+jaw_clicking: left TMJ | Right TMJ
+joint_pain_areas: left TMJ | right TMJ
+sleep_disorder_type: snoring | mouth breathing | inability to breathe through nose
+airway_obstruction_present: True
+pain_onset_date: when patient was 15 years of age
+onset_triggers: struck her chin when she was 16 playing basketball
+appliance_history: orthodontics from 13 to 18 | retainers from 18 to 22
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+tmj_pain_rating: 8
+average_daily_pain_intensity: 2
+jaw_function_score: 5
+diet_score: 2
+disability_rating: 1
+headache_intensity: 7
+headache_location: frontal | temporal | posterior head
+muscle_tenderness_present: False
+jaw_crepitus: left TMJ | right TMJ
+maximum_opening: 43mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea syndrome
+sleep_apnea_diagnosed: True
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: present
+patient_id: B091
+patient_age: 35
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction

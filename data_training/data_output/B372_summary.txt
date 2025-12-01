@@ -1,0 +1,48 @@
+patient_id: B372 
+patient_age: 40
+previous_medications: WELLBUTRIN 
+adverse_reactions: PENICILLIN
+pain_onset_date: 14 or 15 years of age
+onset_triggers: unknown
+current_appliance: splint
+pain_relieving_factors: splint | holding the lower jaw forward
+current_medications: Vicodin | aspirin | Excedrin
+headache_intensity: present
+migraine_history: True
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: True
+headache_frequency: wakes up with headaches at least 50% of the time
+pain_aggravating_factors: clenching | bruxism
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+maximum_opening: 48 mm
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: mild 
+muscle_pain_location: styloid areas
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B372 
+airway_obstruction_present: True
+headache_intensity: Severe 
+joint_pain_areas: TMJ 
+tmj_pain_rating: Severe
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B372 
+joint_pain_areas: hips | knees
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: True
+joint_arthritis_location: right TMJ
+disc_displacement: left disc anterior displacement | right disc anterior displacement without reduction
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction 
+
+

@@ -1,0 +1,30 @@
+patient_id: B191
+patient_age: 66
+pain_onset_date: 38 years old
+onset_triggers: unknown
+pain_aggravating_factors: biting on something hard that caused a pop
+headache_intensity: 5
+headache_location: right temporal
+tmj_pain_rating: 5
+average_daily_pain_intensity: 5
+jaw_function_score: 5
+diet_score: 7
+disability_rating: 1
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+joint_pain_areas: fingers | hands | right big toe | left wrist
+jaw_crepitus: right TMJ
+maximum_opening: 43mm
+maximum_opening_without_pain: 36mm
+jaw_clicking: left TMJ
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B191
+joint_arthritis_location: right TMJ | left TMJ
+joint_pain_areas: TMJ
+patient_age: 66
+disc_displacement: left disc medial and posterior displacement | right disc lateral displacement
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc medial displacement | right disc anterior displacement without reduction joint_arthritis_location: right TMJ | left TMJ

@@ -1,0 +1,30 @@
+patient_id: B230
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction 
+patient_age: 13
+current_medications: Zyrtec 
+pain_onset_date: summer two years ago
+appliance_history: orthodontic treatment for about 8 or 9 months to align the maxillary incisors and close some spacing | permanent retainer
+----------------------------------------------------------------------------------------------------
+patient_id: B230
+earache_present: False
+tmj_pain_rating: 7
+average_daily_medications_intensity: 1
+jaw_function_score: 4
+diet_scoring: 2
+disability_aggravating_factors: clenching | grinding
+adverse_reactions: seasonal allergies | pecans | jewelry
+headache_frequency: none
+headaches_intensity : 0
+maximum_opening: 48mm
+muscle_tenderness_present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc dislocation without reduction 
+airway_obstruction_present: True
+pain_aggravating_factors: right-sided open bite | buccal crossbite on the left side | right-side open bite on the right side
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite
+patient_id: B270
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc displacement | right disc displacement

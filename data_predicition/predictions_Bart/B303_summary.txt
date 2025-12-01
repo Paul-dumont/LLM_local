@@ -1,0 +1,12 @@
+patient_id: B303
+patient_age: 36
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc displacement with reduction 
+pain_aggravating_factors: anterior open bite
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc anterior and medial displacement with early reduction 
+patient_id: B303
+headache_intensity: present
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True

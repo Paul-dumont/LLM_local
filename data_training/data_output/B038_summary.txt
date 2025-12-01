@@ -1,0 +1,37 @@
+patient_id: B038
+patient_age: 56
+sleep_apnea_diagnosed: True
+sleep_disorder_type: snoring | sleep apnea
+pain_frequency: occasional
+onset_triggers: unknown
+headache_frequency: occasional
+headache_intensity: 6
+headache_location: frontal | temporal | behind her eyes
+tmj_pain_rating: 0
+average_daily_pain_intensity: 0
+jaw_function_score: 0
+diet_score: 0
+disability_rating: 0
+pain_onset_date: headaches for 30+ years
+earache_present: False
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: False
+back_pain_present: True
+pain_aggravating_factors: clenching
+current_medications: Cymbalta | Prevacid | Ceterizine | Vitamins | Caltrate plus D
+appliance_history: orthodontics at the age of 15
+current_appliance: Orthodontics were reinitiated on seven months ago
+muscle_pain_location: neck | shoulders 
+neck_pain_present: True
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+sleep_disorder_type: snoring | sleep apnea symptoms
+headache_intensity: severe
+pain_aggravating_factors: clenching
+disc_displacement: Slight anterior dislocation of the articular disc but medially the disc is in better position 
+----------------------------------------------------------------------------------------------------
+patient_id: B038
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with early reduction | right disc anterior dislocation with early reduction
+

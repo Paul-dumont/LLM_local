@@ -1,0 +1,25 @@
+patient_id: B288
+patient_age: 20
+joint_arthritis_location: right TMJ
+disc_displacement: left disc medial displacement with reduction | right disc dislocation with reduction
+current_appliance: orthodontics since last year
+headache_intensity: 7
+tmj_pain_rating: 1 but average daily pain of 4
+jaw_function_score: 4
+diet_score 0
+disability_rating
+----------------------------------------------------------------------------------------------------
+patient_id: B288
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+muscle_pain_score: mild to moderate 
+joint_tenderness_areas: left TMJ | right TMJ
+maximum_opening: 48mm
+----------------------------------------------------------------------------------------------------
+patient_id: B288
+airway_obstruction_present: True
+disc_displacement: left disc medial displacement | right disc medially displaced
+pain_aggravating_factors: left posterior crossbite | right posterior cross bite
+headache_intensity: present
+joint_pain_areas: TMJ
+patient_age: 28

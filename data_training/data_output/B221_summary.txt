@@ -1,0 +1,37 @@
+patient_id: B221
+patient_age: 28
+current_medications: Effexor XR, MiraLAX, advil
+joint_pain_areas: jaw joint
+headache_intensity: present
+pain_onset_date: 8 years ago
+appliance_history: orthodontics at age 20 for 2 years | 5 splints
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+pain_aggravating_factors: clenching
+headache_intensity: 7
+headache_frequency: once a week
+headache_location: frontal | temple | back of the head | behind eyes
+tmj_pain_rating: 5 but can escalate to 10
+average_daily_pain_intensity: 5
+jaw_function_score: 8
+diet_score: 5
+disability_rating: 4
+----------------------------------------------------------------------------------------------------
+patient_id: B221
+sleep_disorder_type: snoring
+jaw_crepitus: left TMJ | right TMJ
+maximum_opening: 45mm
+maximum_opening_without_pain: 38mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+joint_pain_areas: TMJ
+headache_intensity: present
+sleep_disorder_type: snoring | daytime somnolence
+patient_id: B221
+disc_displacement: left disc anterior displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation| right disc anterior displacement

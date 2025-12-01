@@ -1,0 +1,29 @@
+patient_id: B306
+patient_age: 17
+pain_onset_date: two years ago
+joint_pain_areas: left TMJ | right TMJ 
+onsets_triggers: unknown 
+appliance_history: orthodontics since a week ago
+current_medications: none
+earache_intensity: 0
+tinnitus_present: False
+vertigo_present : False
+hearing_loss_present                adverse_reactions: pollen
+headache_
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+pain_aggravating_factors: left posterior crossbite tendency | anterior open bite
+headache_intensity: present
+disc_displacement: left disc dislocation 
+joint_pain_areas: left TMJ
+patient_id: B5
+----------------------------------------------------------------------------------------------------
+patient_id: B306
+patient_age: 19
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc medial and anterior displacement
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior displacement with early reduction
+joint_arthritis_location: left TMJ | right TMJ 
+patient_id: B5
+pain_aggravating_factors: anteriorly displaced articular disc

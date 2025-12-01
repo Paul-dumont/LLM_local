@@ -1,0 +1,21 @@
+patient_id: B138
+patient_age: 17
+current_medications: none
+pain_onset_date: age of 16
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics from the age of 13 to 15 with a good bite relationship
+physical_therapy_status: steroid Dosepak | physical therapy | over-the-counter splint
+headache_intensity: 0
+tmj_pain_rating: 8
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: juvenile rheumatoid arthritis
+pain_aggravating_factors: anterior open bite
+patient_id: B138
+airway_obstruction_present: True 
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+patient_id: B138
+autoimmune_condition: connective tissue autoimmune process
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc narrow mediolaterally and has lost a lot of vertical volume | right disc medial and vertical displacement

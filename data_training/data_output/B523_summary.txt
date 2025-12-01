@@ -1,0 +1,34 @@
+patient_id: B523
+patient_age: 31
+pain_onset_date: 10 years old
+onset_triggers: unknown 
+current_appliance: splint from about 18 years ago through the present
+physical_therapy_status: previous physical therapy after each of her surgical procedures | Botox injections and PRP injections last month
+headache_intensity: 7
+headache_location: right frontotemporal area
+tmj_pain_rating: 9
+average_daily_pain_intensity: 7
+jaw_function_score: 4
+diet_score: 6
+disability_rating: 10
+earache_present: True
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: knees 
+adverse_reactions: erythromycin
+pain_aggravating_factors: clenching | bruxism
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: moderate 
+muscle_pain_location: right masseter | retromandibular area
+jaw_crepitus: left TMJ
+maximum_opening: 40mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ | right TMJ
+joint_pain_areas: TMJ
+headache_intensity: present
+headache_location: right side
+patient_id: B523
+----------------------------------------------------------------------------------------------------
+NoInfo

@@ -1,0 +1,19 @@
+patient_id: B490
+patient_age: 28
+pain_onset_date: 25 years old 7 years ago
+current_medications: birth control pills | Tylenol | ibuprofen | Naproxen
+physical_therapy_status: chiropractic visits with TENS unit | massages | oral splint
+headache_intensity: present
+earache_present: True
+tenderness_present 
+vertigo_present
+----------------------------------------------------------------------------------------------------
+patient_id: B490
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement with reduction | right disc dislocation with reduction 
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly and laterally displaced | right disc dislocated anteriorly with reduction 
+patient_id: B5

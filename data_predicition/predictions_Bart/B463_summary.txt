@@ -1,0 +1,25 @@
+patient_id: B463
+patient_age: 14
+joint_pain_areas: left TMJ | right TMJ
+current_medications: tramadol
+earache_present: False
+tinnitus_present%: False
+vertigo_present : False
+hearing_loss_score: 0
+jaw_locking: True
+headache_intensity: 7 to 8 but can get a 7 or 8 with the frontal area and maybe just a little bit in the anterior part of the temple area
+headaches_frequency: three to four times a month
+tmj
+----------------------------------------------------------------------------------------------------
+patient_id: B463
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc anterior displacement 
+pain_aggravating_factors: anterior open bite tendency
+airway_obstruction_present: True
+tmj_pain_rating: severe
+headache_intensity: present
+patient_age: 14
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation possibly nonreducing | right disc anteriorly displaced and may remain dislocated 
+patient_id: B5

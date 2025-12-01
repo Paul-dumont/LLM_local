@@ -1,0 +1,18 @@
+patient_id: B030
+patient_age: 49
+jaw_clicking: left TMJ | right TMJ
+pain_onset_date: 4 or 5 years ago
+joint_pain_areas: knees | hands
+appliance_history: night guard for about 3 years
+current_medications: Effexor XR | Singulair | Temazepam | Vivelle Dot patch | Valv
+----------------------------------------------------------------------------------------------------
+patient_id: B030
+joint_arthritis_location: right TMJ | left TMJ
+airway_obstruction_present: True
+patient_age: 49
+headache_intensity: present
+sleep_disorder_type: sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and lateral displacement with reduction | right disc anteriorly displaced and perhaps laterally displaced with reduction 
+patient_id: B5

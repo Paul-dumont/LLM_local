@@ -1,0 +1,32 @@
+patient_id: B515
+patient_age: 19
+pain_onset_date: around the age of 14
+appliance_history: orthodontics from 7 to 14 years of age
+headache_frequency: five times per week
+headaches_location: frontal | temporal | top of the head | bilateral
+tmj_pain_rating: 8
+average_daily_intensity: 8, jaw_function_score: 8 
+diet_score 4
+disability_rating 6
+hearing_loss_present: False
+earache_present
+----------------------------------------------------------------------------------------------------
+patient_id: B515
+pain_aggravating_factors: right posterior cross bite
+muscle_pain_score: high moderate to mild to moderate
+neck_tenderness_present: True
+maximum_opening: 63mm
+current_medications: ibuprofen
+----------------------------------------------------------------------------------------------------
+current_appliance: 3 x 3 retainer in the mandible
+disc_displacement: left disc anteriorly displaced | right disc possible dislocation
+pain_aggravating_factors: left posterior cross bite
+joint_pain_areas: TMJ
+headache_intensity: present
+earache_present: True
+tinnocent_patient_id: B515
+----------------------------------------------------------------------------------------------------
+patient_id: B515
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and posterior displacement with reduction 
+patient_age: 45

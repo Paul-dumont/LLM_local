@@ -1,0 +1,33 @@
+patient_id: B513
+patient_age: 17
+adverse_reactions: mild
+current_medications: Wellbutrin XL
+jaw_clicking: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+disc_displacement: left disc displaced | right disc displaced 
+earache_present: True
+tinnitus_present:'
+----------------------------------------------------------------------------------------------------
+patient_id: B513
+current_appliance: 3 x 3 retainer in the lower arch
+pain_aggravating_factors: anterior open bite
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ | right TMJ
+maximum_opening: 38mm
+max_opening_without_pain: 28mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B513
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocations without reduction | right disc dislocation without reduction 
+jaw_locking: True 
+tmj_pain_rating: present
+tinnitus_intensity: present 
+pain_aggravating_factors: anterior open bite
+----------------------------------------------------------------------------------------------------
+patient_id: B513
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced and is nonreducing | right disc anterior displacement without reduction
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteromedially displaced and nonreducing | right disc  anterior and medial dislocation without reduction with some reduction

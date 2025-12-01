@@ -1,0 +1,31 @@
+patient_id: B123
+patient_age: 15
+appliance_history: orthodontics at the age of 6 with a palatal expander | fixed appliances 8 months ago
+pain_onset_date: past two years
+onsets_triggers: unknown 
+earache_present: False
+tinnitus_present : False
+vertigo_Present: False 
+hearing_loss_score: 0
+adverse_reactions: none
+joint_pain_areas: fingers
+jaw_crepitus: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B123
+pain_aggravating_factors: anterior open bite
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True 
+jaw_clicking: right side
+maximum_opening: 63mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocations 
+pain_aggravating_factors: anterior open bite
+headache_intensity: present
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B123
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement | right disc medially and probably anteriorly displaced 
+autoimmune_condition: none
+pain_aggravating_factors: metal

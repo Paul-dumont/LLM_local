@@ -1,0 +1,22 @@
+patient_id: B470
+patient_age: 15
+current_medications: none
+adverse_reactions: erythromycin
+headache_intensity: 0
+tmj_pain_rating: 3
+average_daily_frequency: 3.5
+jaw_function_score: 2
+diet_score : 2
+disability_rating = 1
+pain_aggravating_factors: anterior open bite
+sleep_disorder_type: daytime somnolence
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B470
+disc_displacement: left disc anterior and medial displacement with reduction | right disc dislocation with reduction 
+pain_aggravating_factors: anterior open bite
+patient_age: 15
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly dislocated with some deformation, but reduces on late opening | right disc medially displaced with perhaps some slight anterior displacement at the lateral aspect

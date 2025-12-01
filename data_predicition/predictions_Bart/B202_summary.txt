@@ -1,0 +1,30 @@
+patient_id: B202
+patient_age: 52
+current_medications: chemotherapy | radiation therapy
+pain_onset_date: 21 years old
+appliance_history: orthodontics done 30 years ago for the surgery
+pain-relieving_factors: whitening trays 
+headache_intensity: present
+joint_pain_areas: left TMJ | right TMJ
+jaw_locking: True
+
+----------------------------------------------------------------------------------------------------
+patient_id: B202
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with questionable reduction | right disc medial displacement 
+headache_intensity: 6
+pain_aggravating_factors: clenching
+sleep_disorder_type: snoring
+current_medications: Estroven | vitamins | whitening trays
+muscle_tenderness_present: True
+neck_pain_present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced with possible partial reduction | right disc perhaps medially displaced with reduction 
+patient_id: B202
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: arthritis with the left side being worse than the right side
+airway_obstruction_present: True
+patient_id: B5

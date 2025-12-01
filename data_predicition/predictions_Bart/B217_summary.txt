@@ -1,0 +1,26 @@
+patient_id: B217
+patient_age: 52
+onset_triggers: motor vehicle accident where she was struck from behind and struck her head on the headrest
+jaw_displacement: True
+appliance_history: orthodontics last year
+current_medications: Celebrex | Premarin | TriCor | Ambien
+headache_intensity: 0
+tmj_pain_rating: 9
+average_daily_pain
+----------------------------------------------------------------------------------------------------
+patient_id: B217
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: False
+muscle_pain_location: retromandibular area | masseters | medial pterygoids | shoulders | shoulders 
+jaw_crepitus: left TMJ | right TMJ
+maximum_opening: 42mm
+maximal_opening_without_pain: 30mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite
+sleep_disorder_type: sleep apnea syndrome
+----------------------------------------------------------------------------------------------------
+patient_id: B217
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior and lateral displacement with early reduction

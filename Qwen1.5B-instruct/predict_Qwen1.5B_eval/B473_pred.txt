@@ -1,0 +1,45 @@
+patient_id: B473
+maximum_opening_without_pain: 18mm
+patient_age: 32
+maximum_opening: 46mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 5 to 6
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: grinding | splint
+physical_therapy_status: physical therapy 2 years ago | chiropractic treatment from 8 years ago until this year
+earache_present: unknown
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: tmj
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: behind the left eye | in the back of the head
+current_appliance: splint since last year
+average_daily_pain_intensity: 7
+headache_intensity: 5 | present
+autoimmune_condition: possible connective tissue autoimmune disease
+pain_onset_date: 15 years of age
+jaw_crepitus: yes
+tmj_pain_rating: 9
+sleep_disorder_type: daytime somnolence
+current_medications: advil | vicodin
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement with early reduction | left disc anterior displacement without reduction | right disc anterior displacement with reduction
+muscle_pain_location: masseters | styloid areas | shoulders | temporalis | scms | posterior neck area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint in 28 years ago | splint 14-16 years ago | removal of her wisdom teeth 12 years ago | splint in 17 years ago | biofeedback 2 years ago | physical therapy 2 years ago | chiropractic treatment from 8 years ago until this year | splint from last year until present |

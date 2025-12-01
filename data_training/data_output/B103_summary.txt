@@ -1,0 +1,35 @@
+patient_id: B103
+patient_age: 34
+pain_onset_date: age of 14
+current_appliance: orthodontics from 11 to 12 years of age and 14 to 15 years of age| 20 to 30 splints
+pain_aggravating_factors: open bite | clenching | bruxism
+headache_intensity: 7
+headache_frequency: two times per day
+headache_location: left temporal | right temporal
+tmj_pain_rating: 8
+average_daily_pain_intensity: 8
+jaw_function_score: 2
+diet_score: 3
+disability_rating: 7
+earache_present: True
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: left TMJ| right TMJ | wrists | neck
+neck_pain_present: True
+current_medications: Lexapro | Advil
+muscle_pain_location: temporalis | masseters | medial pterygoids | SCMs
+muscle_pain_score: mild
+muscle_tenderness_present: True
+maximum_opening: 47mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+sleep_disorder_type: sleep apnea
+airway_obstruction_present: True
+joint_pain_areas: left TMJ | right TMJ
+patient_id: B103
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B103
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction

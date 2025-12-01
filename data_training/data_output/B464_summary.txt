@@ -1,0 +1,39 @@
+patient_id: B464
+patient_age: 55
+current_medications: Doxycycline | Zetia | Effexor | Niaspan | Pravachol | Atacand | Prempro | ASA 
+pain_onset_date: at least 10 years but worsened last year
+onset_triggers: biting into a deli sandwich that her pain really became exacerbated
+jaw_clicking: left TMJ | right TMJ
+jaw_locking: True
+appliance_history: splint 
+pain_relieving_factors: splint 
+physical_therapy_status: physical therapy to the neck and shoulders | TENS
+previous_medications: Robaxin | Celebrex 
+headache_intensity: 3
+headache_location: left frontal | temporal
+tmj_pain_rating: 3 but may escalate to 7 to 8
+average_daily_pain_intensity: 3
+jaw_function_score: 3
+diet_score: 5
+disability_rating: 3
+pain_aggravating_factors: clenching | bruxism
+airway_obstruction_present: False
+muscle_pain_score: mild 
+muscle_pain_location: left styloid area
+muscle_tenderness_present: True
+joint_pain_areas: right TMJ
+jaw_crepitus: left TMJ 
+maximum_opening: 38mm
+maximum_opening_without_pain: 30mm
+----------------------------------------------------------------------------------------------------
+patient_id: B464
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc minimal medial displacement
+joint_pain_areas: left TMJ
+headache_intensity: present
+headache_location: left-side
+
+
+
+
+

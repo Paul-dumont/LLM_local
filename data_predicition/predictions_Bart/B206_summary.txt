@@ -1,0 +1,45 @@
+patient_id: B206
+patient_age: 54
+joint_pain_areas: TMJ
+headache_intensity: 0
+earache_present: False
+tinnitus_present : False
+vertigo_diagnosed: False 
+jaw_clicking: left TMJ | right knee | left hip | wrist | finger | joint pain
+headaches_frequency: once a month due to sinus congestion
+pain_aggravating_factors: anterior open bite
+previous_medications: none
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ 
+patient_id: B206
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite
+current_appliance: orthodontics | left TMJ | Right TMJ
+maximum_opening: 5mm
+----------------------------------------------------------------------------------------------------
+patient_id: B206
+pain_aggravating_factors: right-sided crossbite | anterior open bite
+muscle_tenderness_present: True
+joint_pain_areas: masseter | retromandibular area
+muscular_therapy_status: mild to mild 
+neck_crepitus: left TMJ | right TMJ
+maximum_opening: 56mm
+jaw_clicking: Left TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B206
+pain_aggravating_factors: anterior open bite
+maximum_opening: 3 to 4mm
+----------------------------------------------------------------------------------------------------
+patient_id: B206
+joint_arthritis_location: right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+patient_age: 54
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+disc_displacement: left disc medial and anterior displacement with reduction | right disc anteriorly dislocated without reduction 
+patient_id: B4
+jaw_crepitus: left TMJ

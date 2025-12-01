@@ -1,0 +1,21 @@
+patient_id: B336
+patient_age: 28
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement with probable early reduction | right disc anterior displacement with early reduction
+current_appliance: splint since earlier this year
+pain_aggravating_factors: clenching
+headache_intensity: present
+tmj_pain_rating: 1
+average_daily_pain _
+----------------------------------------------------------------------------------------------------
+patient_id: B336
+muscle_tenderness_present: True
+muscular_pain_location: masseter | shoulders
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 52mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B336
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocated with reduction 
+pain_aggravating_factors: right posterior crossbite tendency | right anterior open arch congestion

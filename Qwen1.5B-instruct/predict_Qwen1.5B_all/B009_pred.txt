@@ -1,0 +1,46 @@
+patient_id: B009
+maximum_opening_without_pain: 5mm
+patient_age: 33
+maximum_opening: 42mm
+pain_relieving_factors: unknown
+diet_score: 4
+pain_duration: unknown
+disability_rating: 6
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | holding lower jaw forward
+physical_therapy_status: physical therapy at the age of 19 for about 4 months
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: high moderate to moderate
+migraine_history: unknown
+headache_location: bilateral temporal areas
+current_appliance: unknown
+average_daily_pain_intensity: 7
+headache_intensity: 7 | present
+autoimmune_condition: psoriasis
+pain_onset_date: age of 19
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 7
+sleep_disorder_type: unknown
+current_medications: cyclosporin | birth control pills | adderall | sertraline | synthroid | advil
+disc_displacement: unknown
+muscle_pain_location: retromandibular area | temporalis | masseters | scms | shoulder areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics at the age of 11 through the age of 14 | splint since 29 years old
+joint_pain_areas: tmj | elbows | hips

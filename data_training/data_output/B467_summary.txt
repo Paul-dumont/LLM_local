@@ -1,0 +1,19 @@
+patient_id: B467
+patient_age: 62
+muscle_tenderness_present: True
+muscle_pain_score: mild 
+muscle_pain_location: temporalis | masseter | styloid areas
+joint_pain_areas: TMJ
+joint_pain_areas: left knee | 
+joint_arthritis_location: left knee | right TMJ | left TMJ
+jaw_crepitus: right TMJ
+jaw_clicking: right TMJ
+maximum_opening: 45mm
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+sleep_apnea_diagnosed: True
+sleep_disorder_type: sleep apnea 
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+
+

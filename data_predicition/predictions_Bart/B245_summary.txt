@@ -1,0 +1,21 @@
+patient_id: B245
+patient_age: 17
+adverse_reactions: Keflex
+pain_onset_date: 2 years ago at the age of 15
+jaw_clicking: left TMJ | right TMJ
+headache_frequency: two times a week
+tmj_pain_rating: 5
+average_daily_intensity: 6, jaw function: 7
+diet_score: 6
+disability_rating : 4
+physical_therapy_status: orthodontics from 12 to 13
+earache_present: True
+tinn
+----------------------------------------------------------------------------------------------------
+patient_id: B245
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation | right disc anterior and posterior displacement
+airway_obstruction_present: True
+headache_intensity: present
+patient_age: 18
+tmj_pain_rating: present

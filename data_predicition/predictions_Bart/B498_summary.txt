@@ -1,0 +1,23 @@
+patient_id: B498
+patient_age: 46
+jaw_clicking: left TMJ | right TMJ
+onset_triggers: unknown
+headache_intensity: 5
+tmj_pain_rating: 2, but can escalate to 9
+average_daily_pain-intensity: 7
+physical_therapy_status: hormone replacement | occasional pain medication
+earache_present: True
+tinnitus_ present: False
+vert
+----------------------------------------------------------------------------------------------------
+patient_id: B498
+airway_obstruction_present: True
+disc_displacement: left disc dislocation with early reduction
+joint_pain_areas: left TMJ
+headache_intensity: present
+sleep_disorder_type: sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B498
+patient_age: 46
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteromedially dislocated with reduction | right disc slightly anteriorly displaced at the lateral aspect of the joint and also slightly medially displaced

@@ -1,0 +1,13 @@
+patient_id: B464
+patient_age: 55
+current_medications: Doxycycline | Zetia | Effexor | Niaspan | Pravachol | Atacand | Prempro | ASA
+pain_onset_date: 10 years ago
+jaw_clicking: left TMJ | right TMJ
+physical_therapy_status: physical therapy to the neck and shoulders | TENS
+current-medications
+----------------------------------------------------------------------------------------------------
+patient_id: B464
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc medial displacement
+headache_intensity: present
+sleep_disorder_type: sleep disorder secondary to pain

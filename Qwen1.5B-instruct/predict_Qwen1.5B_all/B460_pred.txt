@@ -1,0 +1,46 @@
+patient_id: B460
+maximum_opening_without_pain: 14mm
+patient_age: 30
+maximum_opening: 28mm
+pain_relieving_factors: unknown
+diet_score: 5
+pain_duration: unknown
+disability_rating: 5
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: left posterior crossbite | right posterior crossbite
+physical_therapy_status: physical therapy | steroid injections times 6 or 7
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: sulfa
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: daily
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: severe
+migraine_history: unknown
+headache_location: frontal | temple
+current_appliance: unknown
+average_daily_pain_intensity: 7
+headache_intensity: 5 | present
+autoimmune_condition: unknown
+pain_onset_date: when she was 5 and again at 7
+jaw_crepitus: left tmj
+tmj_pain_rating: 8 but can escalate to 10
+sleep_disorder_type: daytime somnolence
+current_medications: lortab
+disc_displacement: left disc anterior displacement | right disc anterior displacement | left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | styloid areas | medial pterygoids | temporalis | scms | shoulders
+joint_arthritis_location: unknown
+appliance_history: orthodontics x4
+joint_pain_areas: tmj | left tmj | right tmj

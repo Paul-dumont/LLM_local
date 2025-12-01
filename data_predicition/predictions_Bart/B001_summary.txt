@@ -1,0 +1,19 @@
+patient_id: B001
+patient_age: 26
+pain_onset_date: 4 months ago
+motor vehicle_disorder_type: MVA 
+headache_intensity: 6, with particular problems with pain behind her eyes
+tmj_pain_rating: 6
+average_daily_medications_used: Tylenol
+earache_present: True
+tinnitus_frequency: frequent
+vertig
+----------------------------------------------------------------------------------------------------
+patient_id: B001
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior and medial displacement 
+muscle_spasm_present: True
+pain_aggravating_factors: muscle spasms
+headache_intensity: present
+tmj_pain_rating: 0
+sleep_disorder_type: daytime somnolence

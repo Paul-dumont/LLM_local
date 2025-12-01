@@ -1,0 +1,38 @@
+patient_id: B297
+patient_age: 44
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation anteriorly and medially with early reduction | right disc anterior and possibly laterally displaced with reduction
+----------------------------------------------------------------------------------------------------
+patient_id: B297
+current_medications: mobic | estratest 1 
+earache_present: True
+tinnitus_present : True
+vertigo_diagnosed: False
+joint_pain_areas: left TMJ | neck | back | left shoulder | left thumb | left knee | right knee
+jaw_clicking: jaw
+pain_onset_date: back in her teenage years and have been present she says as long as she can remember
+onsets_triggers: unknown
+physical_therapy_status: chiropractic treatment for about 6 months
+appliance_history:
+----------------------------------------------------------------------------------------------------
+patient_id: B297
+sleep_disorder_type: daytime somnolence | snoring 
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ | right TMJ
+musical_therapy_status: mild to styloid area 
+jaw_clicking: left jaw | right jaw
+maximum_opening: 50mm
+maximum _opening_without_pain: 35mm
+----------------------------------------------------------------------------------------------------
+patient_id: B297
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocated with reduction 
+pain_aggravating_factors: anterior open bite | right posterior open bite
+airway_obstruction_present: True
+tmj_pain_rating: 0
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B297
+patient_age: 44
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation anterior and medial with early reduction | right disc anterior and possibly lateral displacement with reduction

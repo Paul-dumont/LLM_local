@@ -1,0 +1,28 @@
+patient_id: B476
+patient_age: 45
+pain_onset_date: 18 years ago
+mj_pain_rating: 9 but can escalate to 10
+appliance_history: Chiropractic treatment since 16 years ago and currently still receiving that treatment
+physical_therapy_status: chiropractor | massage therapy | massage therapy | TENS | acupuncture | acupuncture | 
+----------------------------------------------------------------------------------------------------
+patient_id: B476
+airway_obstruction_present: False
+muscle_pain_location: SCMs | posterior neck | masseters | styloid areas | left medial pterygoid | behind the eyes
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 55mm
+joint_arthritis_score: 0
+appliance_history: orthodontics
+current_medications: none
+----------------------------------------------------------------------------------------------------
+patient_id: B476
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and lateral displacement with reduction | right disc dislocation with reduction 
+headache_intensity: severe
+tmj_pain_rating: Severe 
+jaw_clicking: TMJ 
+muscle_tenderness_present: True
+patient_age: 45
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and lateral dislocation with reduction | right disc anteriorly displaced at the lateral aspect of the joint 
+patient_id: B5

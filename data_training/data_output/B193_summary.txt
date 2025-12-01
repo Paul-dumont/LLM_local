@@ -1,0 +1,41 @@
+patient_id: B193
+patient_age: 40
+pain_onset_date: 30 years of age
+appliance_history: orthodontics from 13 to 16 years of age
+joint_pain_areas: right TMJ | left TMJ
+earache_present: True
+sleep_disorder_type: sleep apnea | snoring | daytime somnolence
+headache_intensity: 6
+headache_frequency: 2 per week
+headache_location: center | frontal | temporal
+tmj_pain_rating: 6
+average_daily_pain_intensity: 0
+jaw_function_score: 0
+diet_score: 0
+disability_rating: 0
+current_medications: none
+tinnitus_present: False
+vertigo_present: False
+sleep_apnea_diagnosed: True
+cpap_used: True
+airway_obstruction_present: False
+muscle_pain_location: retromandibular area | masseters | medila pterygoids | SCMs
+muscle_pain_score: moderate to mild
+muscle_tenderness_present: True
+maximum_opening: 49mm
+maximum_opening_without_pain: 30mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B193
+jaw_clicking: left TMJ | right TMJ
+airway_obstruction_present: True
+joint_pain_areas: right TMJ | left TMJ
+headache_intensity: present
+sleep_disorder_type: sleep apnea
+sleep_apnea_diagnosed: True
+earache_present: True
+patient_age: 40
+disc_displacement: left disc medial displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction

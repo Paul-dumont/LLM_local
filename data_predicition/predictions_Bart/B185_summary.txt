@@ -1,0 +1,14 @@
+patient_id: B185
+patient_age: 39
+sleep_apnea_diagnosed: True
+appliance_history: orthodontics done at the age of 18 with extraction of upper and lower first bicuspids and teeth retracted | orthodons at age of 30 to close up some residual space but this moves his teeth back even further
+current_medications: Clonazepam
+headache_intensity: 0.5 mg
+tmj_pain_rating: 0
+earache_present
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea 
+pain_aggravating_factors: anterior open bite
+patient_id: B376
+appliance_history: orthodontics 4 months ago

@@ -1,0 +1,36 @@
+patient_id: B440
+patient_age: 17
+appliance_history: orthodontics from the ages of 12 to 13 with a good result
+pain_onset_date: past two years 
+current_medications: Ranitidine | MiraLax | Albuterol | Flovent
+earache_present: False
+tinnitus_present:' False
+vertigo_present 'True
+joint_pain_areas: right hip | left knee | right shoulder
+
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+current_appliance: 3 x 3 retainer in the lower arch
+joint_arthritis_location: right TMJ
+pain_aggravating_factors: anterior open bite
+patient_id: B440
+sleep_disorder_type: trying to sleep on her back it is difficult for her to fall asleep
+----------------------------------------------------------------------------------------------------
+patient_id: B440
+patient_age: 17
+appliance_history: orthodontics to refine occlusion
+disc_displacement: left disc anterior displacement | right disc displacement
+airway_obstruction_present: True
+jaw_clicking: left TMJ
+pain_aggravating_factors: bite
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+patient_id: B440
+disc_displacement: left disc displacement | right disc displacement
+----------------------------------------------------------------------------------------------------
+patient_id: B440
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc medial and anterior displacement without reduction 
+patient_age: 44

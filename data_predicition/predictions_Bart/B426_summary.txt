@@ -1,0 +1,23 @@
+patient_id: B426
+patient_age: 38
+jaw_spasm_present: True
+current_medications: Levothyroxine | Yaz birth control | Effexor | Trileptal 
+pain_onset_date: 14 years of age
+appliance_history: orthodontic treatment 22 years ago, but then had a relapse after that
+headache_intensity: 0
+tmj_pain_rating: 7
+average_daily_pain
+----------------------------------------------------------------------------------------------------
+patient_id: B426
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+pain_aggravating_factors: silastic chin implant
+tmj_pain_rating: present
+patient_age: 26
+jaw_crepitus: TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B426
+patient_age: 38
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: connective tissue autoimmune disease versus previous failed surgery 
+jaw_locking: True

@@ -1,0 +1,42 @@
+patient_id: B367
+patient_age: 32
+current_medications: Advil | Claritin
+pain_onset_date: age of 11 or 12
+onset_triggers: dental work where they put clamps on his teeth
+appliance_history: orthodontics from the age of 14 to 16 | splint from about the age of 17 for about two years | three different splints
+pain_aggravating_factors: orthodontics
+sleep_disorder_type: snoring
+earache_present: True
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: False
+headache_intensity: 6
+headache_location: left temporal | right temporal
+headache_frequency: almost daily
+tmj_pain_rating: 7
+average_daily_pain_intensity: 6
+jaw_function_score: 6
+diet_score: 4
+disability_rating: 3
+adverse_reactions: cedar 
+jaw_clicking: left TMJ | right TMJ
+jaw_locking: True
+----------------------------------------------------------------------------------------------------
+patient_id: B367
+muscle_pain_score: moderate 
+muscle_pain_location: temporalis | masseter | styloid | SCMs
+joint_pain_areas: left TMJ | right TMJ
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 53mm
+pain_duration: gets worse in the afternoons and evenings and usually feels better in the morning
+----------------------------------------------------------------------------------------------------
+patient_id: B367
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc lateral displacement | right disc dislocation 
+headache_intensity: present
+joint_pain_areas: TMJ 
+earache_present: True
+sleep_disorder_type: snoring | Sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ  right TMJ
+disc_displacement: left disc lateral and maybe anterior displacement | right disc maybe lateral displacement

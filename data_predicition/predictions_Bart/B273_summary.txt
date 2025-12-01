@@ -1,0 +1,62 @@
+patient_id: B273
+patient_age: 28
+current_medications: Hydrocodone | Flexeril | Celebrex | Zyrtec
+jaw_pain_present: True
+pain_onset_date: 12 years of age
+appliance_history: orthodontics from the age of 12 to 14 for about 18 months
+joint_clicking: left TMJ | right TMJ
+headache_intensity: 6
+tmj
+----------------------------------------------------------------------------------------------------
+patient_id: B273 
+maximum_opening: 23mm
+max_opening_without_pain: 13mm
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True
+jaw_clicking: joints
+airway_displacement: right airway may have some mild or moderate destruction but not too significant
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc displacement without reduction | right disc dislocation without reduction 
+patient_id: B273 
+airway_obstruction_present: True
+tmj_pain_rating: severe 
+headache_intensity: present
+earache_frequency: Severe 
+tinnitus_diagnosed: True 
+vertigo_aggravating_factors: vertigo_present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc dislocation without reduction 
+patient_id: B273
+pain_aggravating_factors: left posterior crossbite | right posterior cross bite
+----------------------------------------------------------------------------------------------------
+patient_id: B273 
+airway_obstruction_present: False
+joint_pain_areas: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+current_appliance: orthodontics
+----------------------------------------------------------------------------------------------------
+patient_id: B273 
+pain_aggravating_factors: open bite in the right molars
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True
+maximum_opening: 41mm
+current_medications: Ultram | Bethanechol | Zyrtec
+adverse_reactions:
+----------------------------------------------------------------------------------------------------
+patient_id: B273
+maximum_opening: 38mm
+current_medications: Celebrex | Klonopin | Ambien
+muscle_pain_score: masseter | posterior neck muscles | temporalis | SCM's
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B273
+pain_onset_date: 1-1/2 months ago
+headache_intensity: present
+joint_pain_areas: left TMJ | right TMJ
+earache_present: True
+muscle_tenderness_location: left masseter | temporalis | masseters | SCMs | posterior neck | retromandibular and TMJ areas | left medial pterygoid | shoulders 
+musits_tendency_to_disorder: clenching
+current_medications: Celebrex | Klonopin | Advil | Hydrocodone | Ambien
+

@@ -1,0 +1,22 @@
+patient_id: B026
+patient_age: 53
+pain_onset_date: 23 years of age
+appliance_history: splint therapy about 30 years ago | various night guards through the years
+physical_therapy_status: several occlusal adjustments | physical therapy | chiropractic treatment | massage therapy
+sleep_disorder_type: snoring | sleep apnea 
+earache_present: True
+tinnitus_present : True
+vert
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B026
+pain_aggravating_factors: left posterior crossbite | right posterior cross bite
+tmj_pain_rating: Severe 
+headache_intensity: severe 
+jaw_clicking: TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B026
+patient_age: 53
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc anterior dislocation without reduction

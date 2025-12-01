@@ -1,0 +1,16 @@
+patient_id: B088
+patient_age: 7
+current_medications: Motrin | Klonopin 
+headache_intensity: present
+pain_onset_date: past 2 years but in the past year has gotten worse
+pain-aggravating_factors: clenching | bruxism
+appliance_history: Aqualizer splint for about 2 to 3 weeks
+physical_therapy_status: physical therapy last week
+earache_present: True
+tinn
+----------------------------------------------------------------------------------------------------
+patient_id: B088
+pain_aggravating_factors: clenching | bruxism
+joint_pain_areas: TMJ
+headache_intensity: present
+current_medications: Klonopin

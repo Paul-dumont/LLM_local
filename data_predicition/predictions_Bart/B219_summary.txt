@@ -1,0 +1,38 @@
+patient_id: B219
+patient_age: 27
+current_medications: none
+pain_onset_date: 19 months ago
+appliance_history: splint for 6 months
+physical_therapy_status: physical therapy with iontophoresis | cream ointment to apply to her face as well and to the jaw area
+earache_present: True
+tinnitus_intensity: False
+vertigo_present 
+hearing_loss_present
+joint_pain_areas: left TMJ | right TMJ
+jaw_crepitus
+----------------------------------------------------------------------------------------------------
+patient_id: B219
+appliance_history: orthodontics twice and headgear for part of that treatment time
+pain_aggravating_factors: bike accident
+airway_obstruction_present: False
+muscle_pain_score: high moderate to moderate
+joint_tenderness_areas: right TMJ | right masseter
+maximum_opening: 30mm
+maximal_opening_without_pain: 15mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+disc_displacement: left disc anteriorly displaced in vertical orientation with early reduction | right disc anterior displacement may be in a pre-click position 
+airway_obstruction_present: False
+----------------------------------------------------------------------------------------------------
+joint_pain_areas: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation with reduction 
+earache_frequency: continuous
+hearing_loss_present: True
+pain_aggravating_factors: clenching | bruxism
+adverse_reactions: gold | silver | perhaps even some other alloys | chocolate | caffeine | coke | peas | chocolate occasionally
+current_medications: Celebrex | Motrin | Antibiotics | Levaquin | Zithromax | Klonopin
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc anterior dislocation without reduction 
+patient_id: XXXX
+jaw_crepitus: left articular disc dislocation with early reduction | Right disc anterior and medial displacement without reduction

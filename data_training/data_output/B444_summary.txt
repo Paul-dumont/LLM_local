@@ -1,0 +1,41 @@
+patient_id: B444
+patient_age: 22
+headache_intensity: severe
+joint_pain_areas: TMJ
+pain_onset_date: 15 years old
+onset_triggers: unknown
+appliance_history: splint for a while 5 years ago 
+current_appliance: splint since 3 months ago | 3 x 3 retainer on the lower tarch
+physical_therapy_status: physical therapy two times per wee
+current_medications: vicodin | robaxin | yaz
+headache_intensity: 10
+headache_location: throughout her head
+tmj_pain_rating: 7
+average_daily_pain_intensity: 9
+jaw_function_score: 3
+diet_score: 5
+disability_rating: 9
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+----------------------------------------------------------------------------------------------------
+sleep_disorder_type: daytime somnolence
+airway_obstruction_present: False
+maximum_opening: 27mm
+maximum_opening_without_pain: 24mm
+muscle_pain_score: high moderate to severe | moderate
+muscle_pain_location: posterior neck | shoulders | right SCM | right masseter | bilateral temporalis | left masseter | left SCM
+joint_pain_areas: right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B444
+disc_displacement: left disc dislocation | right disc dislocation 
+joint_pain_areas: TMJ
+headache_intensity: severe
+tmj_pain_rating: severe
+patient_age: 21
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced without reduction
+
+

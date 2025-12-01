@@ -1,0 +1,25 @@
+patient_id: B035
+patient_age: 22
+current_medications: Clarinex
+joint_pain_areas: left TMJ | right TMJ
+jaw_clicking: jaw joints
+appliance_history: orthodontics at age of 6 | splint to the jaws | jaw surgery 11 years ago and also 4 years ago
+headache_intensity: 3
+heads
+----------------------------------------------------------------------------------------------------
+patient_id: B035
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+muscle_tenderness_location: masseter
+joint_pain_areas: left TMJ | right TMJ 
+maximum_opening: 41mm
+max_opening_without_pain: 35mm
+----------------------------------------------------------------------------------------------------
+patient_id: B035
+patient_age: 22
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc medial and anterior displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc medially displaced 
+pain_aggravating_factors: anterior displacement without reduction

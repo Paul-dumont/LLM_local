@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vue par Indicateur</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #1e1e1e;
+            color: #d4d4d4;
+            padding: 10px;
+            line-height: 1.3;
+        }
+
+        .header {
+            background: #252526;
+            padding: 8px 15px;
+            margin-bottom: 10px;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: nowrap;
+            gap: 15px;
+        }
+
+        .header h1 {
+            font-size: 16px;
+            color: #4fc3f7;
+            margin: 0;
+            white-space: nowrap;
+        }
+
+        .controls {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        select, button {
+            padding: 5px 10px;
+            font-size: 13px;
+            border: 1px solid #3c3c3c;
+            border-radius: 3px;
+            background: #2d2d30;
+            color: #cccccc;
+            cursor: pointer;
+            outline: none;
+        }
+
+        select {
+            min-width: 300px;
+        }
+
+        button {
+            background: #0e639c;
+            border-color: #0e639c;
+            color: white;
+            font-weight: 500;
+            transition: background 0.2s;
+        }
+
+        button:hover {
+            background: #1177bb;
+        }
+
+        button.secondary {
+            background: #0e7a0e;
+            border-color: #0e7a0e;
+            color: white;
+            font-weight: bold;
+            padding: 8px 16px;
+            font-size: 14px;
+            border-radius: 6px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+            transition: all 0.3s ease;
+        }
+
+        button.secondary:hover {
+            background: #118811;
+            border-color: #118811;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+        }
+
+        .stats {
+            background: #252526;
+            padding: 8px 15px;
+            margin-bottom: 10px;
+            border-radius: 4px;
+            display: flex;
+            gap: 20px;
+            font-size: 13px;
+        }
+
+        .stat-item {
+            display: flex;
+            gap: 5px;
+        }
+
+        .stat-label {
+            color: #858585;
+        }
+
+        .stat-value {
+            color: #4fc3f7;
+            font-weight: 600;
+        }
+
+        .table-container {
+            background: #252526;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 12px;
+        }
+
+        thead {
+            background: #2d2d30;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        th {
+            padding: 10px 12px;
+            text-align: left;
+            font-weight: 600;
+            color: #cccccc;
+            border-bottom: 2px solid #3c3c3c;
+        }
+
+        tbody tr {
+            border-bottom: 1px solid #3c3c3c;
+        }
+
+        tbody tr:hover {
+            background: #2d2d30;
+        }
+
+        td {
+            padding: 8px 12px;
+        }
+
+        .patient-id {
+            color: #4fc3f7;
+            font-weight: 600;
+        }
+
+        .value-original {
+            color: #ce9178;
+            font-family: 'Consolas', monospace;
+        }
+
+        .value-harmonized {
+            color: #4ec9b0;
+            font-family: 'Consolas', monospace;
+        }
+
+        .value-reference {
+            color: #4ec9b0;
+            font-family: 'Consolas', monospace;
+        }
+
+        .value-prediction {
+            color: #ce9178;
+            font-family: 'Consolas', monospace;
+        }
+
+        .value-unchanged {
+            color: #858585;
+        }
+
+        .value-match {
+            background: rgba(255, 193, 7, 0.08);
+        }
+
+        .value-changed {
+            background: rgba(76, 175, 80, 0.15);
+            color: #4CAF50;
+            font-weight: 600;
+        }
+
+        .value-unknown {
+            color: #f48771;
+            font-weight: 600;
+        }
+
+        .filter-row {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+
+        .filter-btn {
+            padding: 5px 12px;
+            font-size: 12px;
+        }
+
+        .filter-btn.active {
+            background: #0e639c;
+            border-color: #0e639c;
+            color: white;
+        }
+
+        .search-box {
+            flex: 1;
+            padding: 5px 12px;
+            font-size: 13px;
+            border: 1px solid #3c3c3c;
+            border-radius: 3px;
+            background: #2d2d30;
+            color: #cccccc;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 50px;
+            color: #858585;
+            font-size: 14px;
+        }
+
+        .no-data {
+            text-align: center;
+            padding: 50px;
+            color: #858585;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Vue par Indicateur - Comparaison 500 Patients</h1>
+        <div class="controls">
+            <select id="indicatorSelect">
+                <option value="">Sélectionner un indicateur...</option>
+            </select>
+                        <button onclick="window.location.href='compare_patients.html'" class="secondary">
+                ← Back to Patient by Patient
+            </button>
+        </div>
+    </div>
+
+    <div class="filter-row">
+        <button class="filter-btn active" id="filterAll" onclick="setFilter('all')">
+            Tous (<span id="countAll">0</span>)
+        </button>
+        <button class="filter-btn" id="filterChanged" onclick="setFilter('changed')">
+            Modifiés (<span id="countChanged">0</span>)
+        </button>
+        <button class="filter-btn" id="filterUnknown" onclick="setFilter('unknown')">
+            Unknown (<span id="countUnknown">0</span>)
+        </button>
+        <button class="filter-btn" id="filterWithoutUnknown" onclick="setFilter('without-unknown')">
+            Sans Unknown (<span id="countWithoutUnknown">0</span>)
+        </button>
+        <input type="text" class="search-box" id="searchBox" placeholder="Rechercher un patient (B001, B002, etc.)">
+    </div>
+
+    <div class="stats" id="stats" style="display: none;">
+        <div class="stat-item">
+            <span class="stat-label">Indicateur:</span>
+            <span class="stat-value" id="statIndicator">-</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-label">Total patients:</span>
+            <span class="stat-value" id="statTotal">0</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-label">Valeurs modifiées:</span>
+            <span class="stat-value" id="statChanged">0</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-label">Unknown (harmonisé):</span>
+            <span class="stat-value" id="statUnknown">0</span>
+        </div>
+    </div>
+
+    <div class="table-container">
+        <div class="loading" id="loading">
+            Sélectionnez un indicateur pour voir les données...
+        </div>
+        <table id="dataTable" style="display: none;">
+            <thead>
+                <tr>
+                    <th style="width: 120px;">Patient</th>
+                    <th style="width: 22%;">Data_output_12</th>
+                    <th style="width: 22%;">Predictions_12</th>
+                    <th style="width: 22%;">Reference (Harmonized)</th>
+                    <th style="width: 22%;">LLM Prediction</th>
+                </tr>
+            </thead>
+            <tbody id="tableBody">
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        let allData = [];
+        let currentIndicator = '';
+        let currentFilter = 'all';
+        let indicators = [];
+
+        // Charger les données de comparaison
+        async function loadData() {
+            try {
+                const response = await fetch('comparison_data.json');
+                const rawData = await response.json();
+                
+                console.log('✓ JSON chargé avec', Object.keys(rawData).length, 'fichiers');
+                
+                // Convertir le format {filename: {comparison: [...], stats: {...}}} 
+                // vers le format attendu
+                allData = [];
+                const indicatorSet = new Set();
+                
+                for (const [filename, fileData] of Object.entries(rawData)) {
+                    const fileEntry = {
+                        file: filename,
+                        data_output_12: {},
+                        predictions_12: {},
+                        reference: {},
+                        llm_prediction: {}
+                    };
+                    
+                    // Parser chaque ligne de comparaison
+                    fileData.comparison.forEach(item => {
+                        fileEntry.data_output_12[item.key] = item.data_output_12;
+                        fileEntry.predictions_12[item.key] = item.predictions_12;
+                        fileEntry.reference[item.key] = item.reference;
+                        fileEntry.llm_prediction[item.key] = item.llm_prediction;
+                        indicatorSet.add(item.key);
+                    });
+                    
+                    allData.push(fileEntry);
+                }
+                
+                // Extraire la liste des indicateurs
+                indicators = Array.from(indicatorSet).sort();
+                console.log('✓ Chargé ' + indicators.length + ' indicateurs');
+                console.log('Premiers indicateurs:', indicators.slice(0, 5));
+                
+                populateIndicatorSelect();
+                
+                // Vérifier que le select est bien rempli
+                const selectOptions = document.getElementById('indicatorSelect').querySelectorAll('option');
+                console.log('✓ Select rempli avec ' + selectOptions.length + ' options');
+                
+            } catch (error) {
+                console.error('❌ Erreur lors du chargement des données:', error);
+                document.getElementById('loading').textContent = '❌ Erreur: ' + error.message;
+            }
+        }
+
+        // Remplir le select avec les indicateurs
+        function populateIndicatorSelect() {
+            const select = document.getElementById('indicatorSelect');
+            select.innerHTML = '<option value="">Sélectionner un indicateur...</option>';
+            
+            indicators.forEach(indicator => {
+                const option = document.createElement('option');
+                option.value = indicator;
+                option.textContent = indicator.replace(/_/g, ' ');
+                select.appendChild(option);
+            });
+
+            // Ajouter le listener seulement si pas déjà ajouté
+            if (!select.hasListener) {
+                select.addEventListener('change', (e) => {
+                    if (e.target.value) {
+                        displayIndicatorData(e.target.value);
+                    } else {
+                        hideTable();
+                    }
+                });
+                select.hasListener = true;
+            }
+        }
+
+        // Afficher les données pour un indicateur
+        function displayIndicatorData(indicator) {
+            currentIndicator = indicator;
+            const tbody = document.getElementById('tableBody');
+            tbody.innerHTML = '';
+
+            // Collecter les données pour cet indicateur
+            const rows = [];
+            let matchCount = 0;
+            let mismatchCount = 0;
+
+            allData.forEach(file => {
+                const dataOut12Value = file.data_output_12[indicator] || '';
+                const predictions12Value = file.predictions_12[indicator] || '';
+                const referenceValue = file.reference[indicator] || '';
+                const llmValue = file.llm_prediction[indicator] || '';
+                
+                // Comparaisons
+                const data12MatchesPred12 = dataOut12Value === predictions12Value;
+                const refMatchesLlm = referenceValue === llmValue;
+
+                if (refMatchesLlm) matchCount++;
+                else mismatchCount++;
+
+                rows.push({
+                    patientId: file.file.replace('_pred.txt', ''),
+                    data_output_12: dataOut12Value,
+                    predictions_12: predictions12Value,
+                    reference: referenceValue,
+                    llm_prediction: llmValue,
+                    data12MatchesPred12: data12MatchesPred12,
+                    refMatchesLlm: refMatchesLlm
+                });
+            });
+
+            // Mettre à jour les statistiques
+            document.getElementById('statIndicator').textContent = indicator.replace(/_/g, ' ');
+            document.getElementById('statTotal').textContent = rows.length;
+            document.getElementById('statChanged').textContent = mismatchCount;
+            document.getElementById('statUnknown').textContent = (rows.filter(r => r.reference === 'unknown')).length;
+            document.getElementById('countAll').textContent = rows.length;
+            document.getElementById('countChanged').textContent = mismatchCount;
+            document.getElementById('countUnknown').textContent = (rows.filter(r => r.reference === 'unknown')).length;
+            document.getElementById('countWithoutUnknown').textContent = rows.filter(r => r.reference !== 'unknown').length;
+
+            // Stocker les lignes pour le filtrage
+            window.currentRows = rows;
+
+            // Afficher les données
+            renderTable(rows);
+
+            // Afficher la table et les stats
+            document.getElementById('loading').style.display = 'none';
+            document.getElementById('stats').style.display = 'flex';
+            document.getElementById('dataTable').style.display = 'table';
+        }
+
+        // Rendre la table
+        function renderTable(rows) {
+            const tbody = document.getElementById('tableBody');
+            tbody.innerHTML = '';
+            if (rows.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="4" class="no-data">Aucune donnée à afficher</td></tr>';
+                return;
+            }
+
+            rows.forEach(row => {
+                const tr = document.createElement('tr');
+                if (row.isChanged) {
+                    tr.classList.add('value-changed');
+                }
+
+                // Colonne Patient ID
+                const tdPatient = document.createElement('td');
+                tdPatient.className = 'patient-id';
+                tdPatient.textContent = row.patientId;
+                // Colonne Data_output_12 (Reference)
+                const tdDataOut12 = document.createElement('td');
+                tdDataOut12.className = 'value-reference';
+                if (row.data12MatchesPred12) {
+                    tdDataOut12.classList.add('value-match');
+                }
+                tdDataOut12.textContent = row.data_output_12 || '(vide)';
+
+                // Colonne Predictions_12 (Prediction)
+                const tdPredictions12 = document.createElement('td');
+                tdPredictions12.className = 'value-prediction';
+                if (row.data12MatchesPred12) {
+                    tdPredictions12.classList.add('value-match');
+                }
+                tdPredictions12.textContent = row.predictions_12 || '(vide)';
+
+                // Colonne Reference (Reference)
+                const tdReference = document.createElement('td');
+                tdReference.className = 'value-reference';
+                if (row.refMatchesLlm) {
+                    tdReference.classList.add('value-match');
+                }
+                tdReference.textContent = row.reference || '(vide)';
+
+                // Colonne LLM Prediction (Prediction)
+                const tdLLM = document.createElement('td');
+                tdLLM.className = 'value-prediction';
+                if (row.refMatchesLlm) {
+                    tdLLM.classList.add('value-match');
+                }
+                tdLLM.textContent = row.llm_prediction || '(vide)';
+
+                // Ajouter toutes les colonnes une seule fois
+                tr.appendChild(tdPatient);
+                tr.appendChild(tdDataOut12);
+                tr.appendChild(tdPredictions12);
+                tr.appendChild(tdReference);
+                tr.appendChild(tdLLM);
+                tbody.appendChild(tr);
+            });
+        }
+
+        // Filtrer les données
+        function setFilter(filter) {
+            currentFilter = filter;
+
+            // Mettre à jour les boutons actifs
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            
+            // Gérer le cas spécial "without-unknown"
+            const buttonId = filter === 'without-unknown' ? 'filterWithoutUnknown' : 
+                            'filter' + filter.charAt(0).toUpperCase() + filter.slice(1);
+            document.getElementById(buttonId).classList.add('active');
+
+            // Appliquer le filtre
+            applyFilters();
+        }
+
+        // Appliquer les filtres (filtre + recherche)
+        function applyFilters() {
+            if (!window.currentRows) return;
+
+            const searchTerm = document.getElementById('searchBox').value.toLowerCase();
+            let filteredRows = window.currentRows;
+
+            // Filtre par type
+            if (currentFilter === 'changed') {
+                filteredRows = filteredRows.filter(row => !row.predMatchesRef);
+            } else if (currentFilter === 'unknown') {
+                filteredRows = filteredRows.filter(row => row.reference === 'unknown');
+            } else if (currentFilter === 'without-unknown') {
+                filteredRows = filteredRows.filter(row => row.reference !== 'unknown');
+            }
+
+            // Filtre par recherche
+            if (searchTerm) {
+                filteredRows = filteredRows.filter(row => 
+                    row.patientId.toLowerCase().includes(searchTerm)
+                );
+            }
+
+            renderTable(filteredRows);
+        }
+
+        // Recherche en temps réel
+        document.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('searchBox').addEventListener('input', applyFilters);
+        });
+
+        // Masquer la table
+        function hideTable() {
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('loading').textContent = 'Sélectionnez un indicateur pour voir les données...';
+            document.getElementById('stats').style.display = 'none';
+            document.getElementById('dataTable').style.display = 'none';
+            currentIndicator = '';
+        }
+
+        // Charger les données au démarrage
+        loadData();
+    </script>
+</body>
+</html>

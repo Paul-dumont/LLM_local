@@ -1,0 +1,18 @@
+patient_id: B039
+patient_age: 46
+pain_onset_date: 15 years ago
+appliance_history: orthodontics from the age of 8 to 13 | "mouth guards" for at least the past 20 years
+headache_frequency: 3 times per week
+tmj_pain_rating: 7
+average_daily_intensity: 8
+jaw_function_score:
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+patient_id: B039
+disc_displacement: left disc anterior dislocation | right disc anterior and medial dislocation 
+tmj_pain_rating: present
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and posterior displacement with some mild changes of the head of the condyle
+patient_id: B195

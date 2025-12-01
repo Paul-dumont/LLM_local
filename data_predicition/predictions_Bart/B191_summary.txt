@@ -1,0 +1,24 @@
+patient_id: B191
+patient_age: 66
+pain_onset_date: 38 years old
+joint_pain_areas: right TMJ | fingers | hands | right big toe | left wrist | wrist 
+current_medications: medications on a list of medications
+headache_intensity: 5
+headaches_location: right temporal
+tmj_pain _rating: 5 and average daily pain level: 5, jaw function 5
+diet_score: 7
+disability_rating: 1
+earache_present: True
+
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B191
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medially displaced | right disc almost posteriorly displaced with significantly degenerated changes in the intermediate zone
+jaw_crepitus: right joint osteoporosis | left joint arthritis | right joint pain
+maximum_opening: 8mm
+patientage: 66
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc probable medial displacement | right disc anterior dislocation without reduction with severe deformation and perforation 
+patient_id: B5

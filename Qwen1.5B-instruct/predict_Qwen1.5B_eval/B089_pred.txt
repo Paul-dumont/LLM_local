@@ -1,0 +1,44 @@
+patient_id: B089
+maximum_opening_without_pain: unknown
+patient_age: 53
+maximum_opening: 70mm
+pain_relieving_factors: unknown
+diet_score: 0
+pain_duration: unknown
+disability_rating: 5
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | buccal crossbite on the right side
+physical_therapy_status: physical therapy from age 51 to 52
+earache_present: true
+onset_triggers: fall when she was age 6 down some stairs | major bicycle injury at the age of 30 when she fell off the bike and ended up fracturing her left clavicle and she hit her head | fall from a horse at age 35 | fall from a golf cart that hit a moving car so she was actually thrown out of the cart | ski accident where she landed on her back and struck her head on the ground
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: frontal | temporal
+current_appliance: unknown
+average_daily_pain_intensity: 6
+headache_intensity: 4 | present
+autoimmune_condition: unknown
+pain_onset_date: age 42
+jaw_crepitus: left tmj
+tmj_pain_rating: 0
+sleep_disorder_type: unknown
+current_medications: orthodontics from age 14 to 15 | orthodontics at age 41 | orthodontics at age 43 | ionophoresis treatment | splints, three of them over the past 3 years
+disc_displacement: left disc anterior displacement | right disc anterior displacement
+muscle_pain_location: masseters | medial pterygoids | retromandibular area
+joint_arthritis

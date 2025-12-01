@@ -1,0 +1,19 @@
+patient_id: B006
+patient_age: 55
+pain_onset_date: age of 51
+jaw_clicking: left TMJ
+joint_pain_areas: jaw | shoulders
+current_appliance: splint 2 years ago
+physical_therapy_status: physical therapy | pain medications
+headache_frequency: one to two times per week at a level of 3 in her frontal, temporal and posterior head area
+tmj
+----------------------------------------------------------------------------------------------------
+patient_id: B006
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: clenching
+headache_intensity: present
+airway_obstruction_present: True 
+tmj_pain_rating: 0
+jaw_locking: True
+disc_displacement: left disc medial displacement | right disc anterior displacement
+patient_age: 26

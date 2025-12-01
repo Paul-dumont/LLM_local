@@ -1,0 +1,46 @@
+patient_id: B480
+maximum_opening_without_pain: unknown
+patient_age: 27
+maximum_opening: 43mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 8 to 9
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching | splint
+physical_therapy_status: physical therapy including feldenkrais techniques and alexander techniques
+earache_present: unknown
+onset_triggers: orthodontics from 15 to 9 years ago with extraction of four first bicuspids | lost her orthodontic retainer and got extremely ill from a parasite that she contracted in vietnam
+adverse_reactions: environmental factors | glutens | casien | cheap earrings
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: almost daily
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: tmj | left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: temporalis | moderate
+migraine_history: true
+headache_location: frontal | posterior head | top of the head
+current_appliance: splint since 2 years ago
+average_daily_pain_intensity: 8
+headache_intensity: 8 | present
+autoimmune_condition: connective tissue autoimmune disease | rheumatoid arthritis | juvenile rheumatoid arthritis
+pain_onset_date: age of 10
+jaw_crepitus: unknown
+tmj_pain_rating: 5
+sleep_disorder_type: unknown
+current_medications: numerous
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 15 to 9 years ago with extraction of four first bicuspids
+joint_pain_areas: tmj | left tmj | right tmj | neck | left

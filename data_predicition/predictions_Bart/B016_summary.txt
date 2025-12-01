@@ -1,0 +1,21 @@
+patient_id: B016
+patient_age: 38
+current_medications: Lipitor | ASA
+adverse_reactions: penicillin
+pain_onset_date: 17 years old
+joint_pain_areas: left TMJ | right TMJ 
+appliance_history: orthodontics from 34 to 38 years of age
+headache_intensity: 4, with a level of 4 in the frontal and temporal area and on the top of the head
+headaches_frequency: every two weeks
+head ache
+----------------------------------------------------------------------------------------------------
+patient_id: B016
+patient_age: 38
+joint_arthritis_location: left TMJ
+disc_displacement: left disc medial dislocation with early reduction
+sleep_disorder_type: sleep apnea symptoms | sleep disorder symptoms | TMJ pain symptoms
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ 
+disc_displacement: left disc anteriorly displaced at the lateral aspect of the joint and medially displaced with reduction | right disc medial displacement with reduction
+patient_id: B5

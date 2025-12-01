@@ -1,0 +1,21 @@
+patient_id: B223
+patient_age: 21
+joint_pain_areas: left TMJ | right TMJ
+pain_aggravating_factors: grinding | clenching | bruxism
+current_medications: Amitriptyline | Yasmin | Spironolactone | nightguard since 7 years ago
+earache_present: True
+tinnitus_present:'True
+vertigo_present
+adverse_reactions: penicillin
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc anterior displacement
+airway_obstruction_present: True 
+patient_id: B223
+age: 21
+patient _age: 20
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction 
+patient_id: B157
+jaw_locking: True

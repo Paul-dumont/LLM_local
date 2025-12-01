@@ -1,0 +1,38 @@
+patient_id: B070
+patient_age: 31
+pain_onset_date: 22 years of age
+onset_triggers: unknown
+pain_aggravating_factors: grinding
+jaw_locking: True
+previous_medications: muscle relaxers
+headache_frequency: 2 to 3 times per week
+headache_location: frontal | temporal | top of head | bilateral
+headache_intensity: 5
+tmj_pain_rating: 2
+average_daily_pain_intensity: 1
+jaw_function_score: 3
+diet_score: 0
+disability_rating: 0
+earache_present: False
+tinnitus_present: False 
+vertigo_present: False
+joint_pain_areas: hips
+----------------------------------------------------------------------------------------------------
+patient_id: B070
+maximum_opening: 36mm
+maximum_opening_without_pain: 29mm
+neck_pain_present: False
+jaw_crepitus: Left TMJ
+airway_obstruction_present: False
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: left posterior open bite
+airway_obstruction_present: enlarged left 
+disc_displacement: right disc anterior inferior dislocation | left disc anterior inferior dislocation
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B070
+patient_age: 31
+joint_arthritis_location: right TMJ
+disc_displacement: left anterior inferior displacement of the articular disc | right articular disc anteriorly displaced without reduction
+

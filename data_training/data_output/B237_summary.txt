@@ -1,0 +1,38 @@
+patient_id: B237
+joint_arthritis_location: left TMJ
+disc_displacement: left disc anterior and medial dislocation | right disc anterior displacement
+patient_age: 28
+headache_intensity: severe
+jaw_clicking: jaw joints
+current_medications: Lortab 10 | Elavil | Depakote
+adverse_reactions: cleocin
+----------------------------------------------------------------------------------------------------
+patient_id: B237
+pain_duration: worse in the evening
+earache_present: False
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: left wrist | knees
+headache_intensity: 6 to 10
+headache_location: frontal | temporal
+tmj_pain_rating: 0
+average_daily_pain_intensity: 6
+jaw_function_score: 3
+diet_score: 2
+disability_rating: 9
+pain_onset_date: 5 years ago
+onset_triggers: motorcycle accident
+physical_therapy_status: acupuncture x six treatments | biofeedback x 30 treatments | chiropractic treatment | massage therapy | left and right occipital nerve blocks and facet blocks 
+previous_medications: Wellbutrin | Toradol | Paxil | beta blockers
+----------------------------------------------------------------------------------------------------
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_location: temporalis | styloid area | posterior neck | shoulders | masseters
+muscle_pain_score: moderate to mild
+muscle_tenderness_present: True
+neck_pain_present: True
+jaw_clicking: right TMJ 
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: severe

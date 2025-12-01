@@ -1,0 +1,31 @@
+patient_id: B343
+patient_age: 17
+current_medications: Singulair | Albuterol inhaler | Zyrtec | Advil | Tylenol | Aleve 
+headache_intensity: 2 but can escalate to 10
+tmj_pain_rating: 5
+earache_present: False
+tinnocence_score: 0
+vertigo_location: none
+hearing_loss_present : False
+adverse_reactions: hayfever | pollen | perhaps some allergies to animal dander
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_location: left posterior neck | right temporalis | left masseter | left styloid area | right masseter 
+neck_arthritis_score: mild
+maximum_opening: 57mm
+jaw_clicking: left side with 20mm pop | right side with 40mm pop
+----------------------------------------------------------------------------------------------------
+patient_id: B343
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc displacement with reduction 
+pain_aggravating_factors: right posterior cross bite | thumb sucking habit
+headache_intensity: present
+tmj_pain_rating: 0
+sleep_disorder_type: daytime somnolence
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B343
+patient_age: 17
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc anterior dislocation with late reduction | left disc in position with good translation

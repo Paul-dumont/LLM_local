@@ -1,0 +1,31 @@
+patient_id: B370
+patient_age: 31
+current_medications: none
+headache_intensity: severe
+migraine_frequency: severe 
+tmj_pain_rating: moderate to severe
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics as a teenager
+pain_onset_date: age of 10 or 11
+----------------------------------------------------------------------------------------------------
+patient_id: B370
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: False
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: 8
+headaches_frequency: two times per week, but there are times when they occur daily
+average_opening: 48mm
+jaw_clicking: right
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+headache_intensity: Severe 
+tmj_pain_rating: severe 
+patient_id: B5
+disc_displacement: left disc dislocation | right disc dislocated 
+joint pain_areas: TMJ 
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B370
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc dislocation with significant deformation and nonreducing

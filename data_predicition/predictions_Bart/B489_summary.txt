@@ -1,0 +1,18 @@
+patient_id: B489
+patient_age: 19
+pain_onset_date: unknown age but at least 5 to 6 years ago
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics done from about the age of 10 to 13 years
+current_medications: Advil for back | ibuprofen for knees | Advil 
+earache_present: True
+tinn
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B489
+disc_displacement: left disc dislocation | right disc anterior displacement 
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B489
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior and medial dislocation without reduction

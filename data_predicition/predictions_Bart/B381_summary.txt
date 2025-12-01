@@ -1,0 +1,21 @@
+patient_id: B381
+patient_age: 20
+autoimmune_condition: Hashimoto's disease | hypothyroidism
+appliance_history: orthodontics x2 with the first time being from about the age 12 to 14 and the second time from approximately the age of 15 to 16
+pain_onset_date: 5 years ago when she was 15 years old 
+joint_pain_areas: TMJ
+onset
+----------------------------------------------------------------------------------------------------
+patient_id: B381
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocated without reduction 
+headache_intensity: present
+tmj_pain_rating: 0
+patient_age: 42
+current_medications: Klonopin
+pain_aggravating_factors: clenching | bruxism
+appliance_history: orthodontics
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc anterior and medial displacement without reduction 
+patient_id: B5

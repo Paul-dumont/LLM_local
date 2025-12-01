@@ -1,0 +1,35 @@
+patient_id: B314
+patient_age: 12
+current_appliance: 6 x 6 anterior retainer
+tmj_pain_rating: 0
+muscle_tenderness_present: False
+maximum_opening: 54mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True 
+----------------------------------------------------------------------------------------------------
+patient_id: B314
+airway_obstruction_present: True 
+headache_intensity: 0
+tmj_pain_rating: 0
+jaw_clicking: left TMJ | right TMJ
+pain_aggravating_factors: left posterior cross bite | right posterior cross bite
+patient_age: 15.5
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+headache_intensity: 0
+tmj_pain_rating: 0
+current_appliance: 3 x 3 anterior retainer
+muscle_tenderness_present: False 
+maximum_opening: 59mm
+----------------------------------------------------------------------------------------------------
+current_appliance: 3 x 3 retainer in the lower anterior teeth
+disc_displacement: right disc anterior or medial displacement 
+----------------------------------------------------------------------------------------------------
+patient_id: B314
+headache_intensity: 0
+tmj_pain_rating: 0
+muscle_tenderness_present: False
+disc_displacement: right disc anterior and medial displacement with reduction
+joint_arthritis_location: right TMJ
+

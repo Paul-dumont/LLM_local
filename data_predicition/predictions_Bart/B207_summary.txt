@@ -1,0 +1,31 @@
+patient_id: B207
+patient_age: 55
+pain_onset_date: 9 months ago
+jaw_clicking: left TMJ | right TMJ
+appliance_history: splint since 5 months ago | chiropractic treatment for 20 weeks | massage therapy 3 months ago 
+current_medications: Synthroid | Lexapro | Klonopin | Flexeril | Glucosamine | Omega | CQ-10 | calcium | vitamin D
+sleep_disorder_type: snoring | daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B207
+pain_aggravating_factors: posterior open bite
+airway_obstruction_present: False
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_location: throughout most of the head and neck area
+musical_therapy_status: mild 
+jaw_crepitus: jaw joint
+maximum_opening: 3mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B207
+disc_displacement: left disc dislocation without reduction | right disc dislocated without reduction 
+pain_aggravating_factors: posterior open bite
+joint _pain_areas: TMJ 
+headache_intensity: present
+neck_pain_present : True
+jaw_crepitus: neck | knees | ankles | wrists | fingers |
+----------------------------------------------------------------------------------------------------
+patient_id: B207
+patient_age: 54
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement without reduction | right disc anteromedially displaced with reduction

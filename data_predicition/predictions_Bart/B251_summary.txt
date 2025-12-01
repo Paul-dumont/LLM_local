@@ -1,0 +1,28 @@
+patient_id: B251
+patient_age: 47
+disc_displacement: left disc displacement | right disc displacement
+appliance_history: orthodontics x2 | numerous splints since 9 years ago | physical therapy with several different physical therapists over the past 10 years | botox injection to the left temporalis muscle earlier this year
+current_medications: doxycycline 
+headache_intensity: 9
+tmj_pain_rating:
+----------------------------------------------------------------------------------------------------
+patient_id: B251
+airway_obstruction_present: False
+sleep_disorder_type: snoring | daytime somnolence | gasps for air
+muscle_pain_location: masseter | styloids | SCMs | posterior neck | shoulders | temporalis | medial pterygoids | left TMJ | right TMJ
+jaw_clicking: Left TMJ 
+maximum_opening: 30mm with effort | 20mm without significant pain
+----------------------------------------------------------------------------------------------------
+patient_id: B251
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc anterior and posterior displacement
+airway_obstruction_present: True
+tmj_pain_rating: severe 
+headache_intensity: Severe 
+sleep_disorder_type: sleep apnea
+patient_age: 45
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior displacement with early reduction
+patient_id: B251 
+jaw_locking: True

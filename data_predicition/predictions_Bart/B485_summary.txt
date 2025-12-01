@@ -1,0 +1,19 @@
+patient_id: B485
+patient_age: 50
+pain_onset_date: teenage years
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics in 29 to 31 years ago
+current_medications: naproxen | Vivadot | Prometrium | Prozac
+sleep_disorder_type: daytime somnolence | snoring | daytime sleep apnea
+----------------------------------------------------------------------------------------------------
+patient_id: B485
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocations 
+pain_aggravating_factors: anterior open bite
+headache_intensity: present
+tmj_pain_rating: severe
+sleep_disorder_type: sleep study | sleep apnea_diagnosed_
+----------------------------------------------------------------------------------------------------
+patient_id: B485
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced to a greater extent on the left side with reduction | right disc anterior displacement with reduction

@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graphiques des Patients</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .plot-container {
+            background-color: white;
+            margin: 20px auto;
+            padding: 20px;
+            max-width: 750px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            border-radius: 5px;
+        }
+        .plot-container img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        .plot-title {
+            text-align: center;
+            margin-top: 10px;
+            font-weight: bold;
+            color: #555;
+        }
+        #graph-count {
+            text-align: center;
+            margin: 8px 0 18px 0;
+            color: #333;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+       
+
+    <div id="graph-count">...</div>
+
+    <div class="plot-container">
+        <img src="static_plots/patient_age.png" alt="Patient Age">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/tmj_pain_rating.png" alt="TMJ Pain Rating">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/average_daily_pain_intensity.png" alt="Average Daily Pain Intensity">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/pain_frequency.png" alt="Pain Frequency">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/pain_duration.png" alt="Pain Duration">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/pain_onset_date_age_at_onset.png" alt="Pain Onset Date">
+    </div>
+
+    <div class="plot-container">
+        <img src="static_plots/pain_onset_date_years_ago.png" alt="Pain Onset Date">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/onset_triggers.png" alt="Onset Triggers">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/pain_aggravating_factors.png" alt="Pain Aggravating Factors">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/pain_relieving_factors.png" alt="Pain Relieving Factors">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/headache_frequency.png" alt="Headache Frequency">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/headache_intensity.png" alt="Headache Intensity">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/headache_location.png" alt="Headache Location">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/migraine_history.png" alt="Migraine History">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/jaw_clicking.png" alt="Jaw Clicking">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/jaw_crepitus.png" alt="Jaw Crepitus">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/jaw_locking.png" alt="Jaw Locking">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/maximum_opening.png" alt="Maximum Opening">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/maximum_opening_without_pain.png" alt="Maximum Opening Without Pain">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/jaw_function_score.png" alt="Jaw Function Score">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/muscle_symptoms_present.png" alt="Muscle Symptoms Present">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/muscle_pain_location.png" alt="Muscle Pain Location">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/muscle_pain_score.png" alt="Muscle Pain Score">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/joint_pain_areas.png" alt="Joint Pain Areas">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/disc_displacement.png" alt="Disc Displacement">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/joint_arthritis_location.png" alt="Joint Arthritis Location">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/earache_present.png" alt="Earache Present">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/tinnitus_present.png" alt="Tinnitus Present">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/hearing_loss_present.png" alt="Hearing Loss Present">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/vertigo_present.png" alt="Vertigo Present">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/neck_pain_present.png" alt="Neck Pain Present">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/back_pain_present.png" alt="Back Pain Present">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/sleep_apnea_diagnosed.png" alt="Sleep Apnea Diagnosed">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/sleep_disorder_type.png" alt="Sleep Disorder Type">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/airway_obstruction_present.png" alt="Airway Obstruction Present">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/autoimmune_condition.png" alt="Autoimmune Condition">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/fibromyalgia_present.png" alt="Fibromyalgia Present">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/depression_present.png" alt="Depression Present">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/current_medications.png" alt="Current Medications">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/previous_medications.png" alt="Previous Medications">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/adverse_reactions.png" alt="Adverse Reactions">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/physical_therapy_status.png" alt="Physical Therapy Status">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/appliance_history.png" alt="Appliance History">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/current_appliance.png" alt="Current Appliance">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/disability_rating.png" alt="Disability Rating">
+    </div>
+    
+    <div class="plot-container">
+        <img src="static_plots/diet_score.png" alt="Diet Score">
+    </div>
+    
+    <script>
+        // Count images that are loaded from static_plots/ and show the number
+        (function(){
+            function updateCount(){
+                var imgs = document.querySelectorAll('img[src^="static_plots/"]');
+                var count = imgs.length;
+                var el = document.getElementById('graph-count');
+                if(el){
+                    el.textContent = count;
+                }
+            }
+            // update once DOM is ready
+            if(document.readyState === 'loading'){
+                document.addEventListener('DOMContentLoaded', updateCount);
+            } else {
+                updateCount();
+            }
+        })();
+    </script>
+
+</body>
+</html>

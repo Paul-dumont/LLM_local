@@ -1,0 +1,26 @@
+patient_id: B117
+patient_age: 29
+pain_onset_date: 14 years of age
+appliance_history: orthodontics from 11 or 12 to 14 | splint from 18 to 19
+physical_therapy_status: speech therapy | swallowing therapy
+headache_intensity: 8
+headaches_location: temporal | posterior head | across the top of the head
+tmj_pain_rating: 7
+average_daily_pain
+----------------------------------------------------------------------------------------------------
+patient_id: B117
+pain_aggravating_factors: anterior open bite
+muscle_pain_location: right masseter | temporalis
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 43mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B117
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocations without reduction 
+pain_aggravating_factors: anterior open bite
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B117
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and medial displacement with perhaps partial reduction

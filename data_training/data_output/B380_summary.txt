@@ -1,0 +1,49 @@
+patient_id: B380 
+patient_age: 45
+current_medications: Ativan 
+adverse_reactions: tetanus | penicillin
+hearing_loss_present: True
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+joint_pain_areas: neck | back | left shoulder | elbows | fingers | right big toe | left TMJ | right TMJ
+neck_pain_present: True
+back_pain_present: True
+pain_aggravating_factors: clenching | bruxism | eating
+pain_onset_date: 3 years ag
+onset_triggers: new crown made in the lower right posterior quadrant
+appliance_history: orthodontics from the age of 14 to 15 | retainers 
+headache_intensity: 4
+headache_location: temple | top of her head
+headache_frequency: once a week
+tmj_pain_rating: 8
+average_daily_pain_intensity: 6
+jaw_function_score: 8
+diet_score: 8
+disability_rating: 3
+muscle_spasm_present: True
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+maximum_opening: 56mm
+maximum_opening_without_pain: 46mm
+jaw_clicking: left TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+patient_id: B380 
+pain_duration: worse in the morning
+----------------------------------------------------------------------------------------------------
+patient_id: B380 
+joint_pain_areas: neck | back | left shoulder | elbows | fingers | right big toe | left TMJ | right TMJ
+hearing_loss_present: True
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation 
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B380 
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteromedial dislocation with reduction | right disc anteromedial dislocation with reduction 
+
+

@@ -1,0 +1,38 @@
+patient_id: B233
+patient_age: 36
+pain_aggravating_factors: grinding | orthodontics | clenching
+current_medications: Benicar | albuterol inhaler | ibuprofen
+current_appliance: orthodontics
+pain_onset_date: unknown
+appliance_history: orthodontics from age of 13 to 14
+headache_intensity: 4
+headache_frequency: 4 times a week
+headache_location: left temporal | right temporal
+tmj_pain_rating: 1
+average_daily_pain_intensity: 3
+jaw_function_score: 7
+diet_score: 7
+disability_rating: 7
+earache_present: True
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: TMJ
+sleep_disorder_type: snoring | daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B233
+pain_aggravating_factors: anterior open bite | left posterior cross bite | right posterior cross bite
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: mild
+maximum_opening: 43mm
+----------------------------------------------------------------------------------------------------
+pain_aggravating_factors: anterior open bite | left posterior cross bite | right posterior cross bite
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc displacement | right disc displacement
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B233
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc anterior displacement with reduction

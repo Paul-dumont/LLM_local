@@ -1,0 +1,42 @@
+patient_id: B445
+patient_age: 21
+jaw_clicking: left TMJ | right TMJ
+neck_pain_present: True
+sleep_disorder_type: daytime somnolence | snoring | daytime tiredness | frequent lightheadedness | dizziness
+pain_onset_date: around sixth grade
+appliance_history: orthodontic treatment from the age of 12 to 15
+current_medications: none
+migraine_frequency: once or twice per month
+
+----------------------------------------------------------------------------------------------------
+patient_id: B445
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea 
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B445
+muscle_pain_score: moderate to milder 
+joint_arthritis_location: left TMJ | right TMJ
+maximum_opening: 35mm
+max_opening_without_pain: 26mm
+jaw_clicking: right side
+maximum opening_without-pain_rating: 25mm
+----------------------------------------------------------------------------------------------------
+patient_id: B445
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc dislocation | right disc displacement 
+airway_obstruction_present: True
+headache_intensity: present
+tmj_pain_rating: 0
+vertigo_diagnosed: False
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B445
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left articular disc medial displacement with moderate translation 
+pain_aggravating_factors: reactive pannus
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation in an anteromedial direction | right disc medial and anterior displacement
+patient_id: B445

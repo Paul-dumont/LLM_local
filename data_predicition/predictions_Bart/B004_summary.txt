@@ -1,0 +1,8 @@
+patient_id: B004
+current_appliance: splint
+headache_intensity: 3
+migraine_frequency: 2 to 3 hours
+muscle_pain_location: shoulders | posterior neck | styloid areas
+neck_tenderness_present: False
+earache_present:' False
+tinnitus_present '

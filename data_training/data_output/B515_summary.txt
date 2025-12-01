@@ -1,0 +1,41 @@
+patient_id: B515
+patient_age: 19
+pain_onset_date: around the age of 14 
+onset_triggers: unknown 
+appliance_history: orthodontics from the age of 7 to 14
+headache_intensity: 8
+headache_location: frontal | temporal | top of the head | bilateral
+headache_frequency: five times per week
+tmj_pain_rating: 8
+average_daily_pain_intensity: 8
+jaw_function_score: 8
+diet_score: 4
+disability_rating: 6
+earache_present: True
+tinnitus_present: False
+vertigo_present: True
+hearing_loss_present: False
+joint_pain_areas: shoulders | hips | knees | spine | wrists | ankle | TMJ
+current_medications: Norco | Diazepam | Adderrall | Ibuprofen | Soma 
+disc_displacement: left disc dislocation | right disc dislocation 
+----------------------------------------------------------------------------------------------------
+patient_id: B515
+muscle_pain_score: high moderate to mild to moderate
+muscle_pain_location: masseters | temporalis 
+maximum_opening: 63mm
+maximum_opening_without_pain: 39mm
+----------------------------------------------------------------------------------------------------
+current_appliance: 3 x 3 retainer in the mandible
+patient_id: B515
+disc_displacement: left disc anteriorly displaced | right disc possible dislocation 
+pain_aggravating_factors: left posterior cross bite
+joint_pain_areas: TMJ
+headache_intensity: present
+earache_present: True 
+vertigo_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced with reduction
+
+
+

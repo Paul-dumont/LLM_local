@@ -1,0 +1,74 @@
+patient_id: B274
+patient_age: 69
+current_appliance: dentures | splints
+earache_present: True
+headache_intensity: present
+current_medications: Cymbalta | Actonel | Nexium | senna soft gels | refresh celluvisc | calcium | alprazolam | myochrysine | fish oil | valium
+adverse_reactions: number of medications
+pain_onset_date: 64 years of age
+onset_triggers: teeth extraction
+headache_intensity: 10 but today is 2
+headache_frequency: last 2 to 3 weeks
+headache_location: left side
+tmj_pain_rating: 5
+average_daily_pain_intensity: 10 but today is 2
+jaw_function_score: 3
+diet_score: 4
+disability_rating: 8 but today is 2
+tinnitus_present: True
+vertigo_present: True
+joint_pain_areas: hips | back
+back_pain_present: True
+autoimmune_condition: rheumatoid arthritis
+sleep_disorder_type: snoring
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_location: styloid | masseter
+muscle_pain_score: moderate to mild
+----------------------------------------------------------------------------------------------------
+patient_id: B274
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with early reduction | right disc anterior dislocation with early reduction
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: present
+earache_present: True
+tinnitus_present:True 
+vertigo_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B274
+headache_intensity: 5
+pain_frequency: occasional
+joint_pain_areas: left TMJ | right TMJ | hips | back | elbow | wrists
+back_pain_present: True
+muscle_pain_location: moderate to minimal
+muscle_pain_score: left temporalis | left masseters
+muscle_tenderness_present: True
+earache_present: True
+tinnitus_present: True 
+vertigo_present: False
+current_medications: Cymbalta | Actonel | Nexium | gold shots | fish oil
+----------------------------------------------------------------------------------------------------
+patient_id: B274
+muscle_pain_location: left temporalis| masseter | left shoulder
+muscle_pain_score: minimal
+muscle_tenderness_present: True
+current_medications: Cymbalta | Actonel | Nexium | gold shots
+maximum_opening: 35mm
+----------------------------------------------------------------------------------------------------
+patient_id: B274
+maximum_opening: 33mm
+headache_intensity: 3
+headache_location: left frontal | left temporal
+tmj_pain_rating: 3
+average_daily_pain_intensity: 5
+jaw_function_score: 0
+diet_score: 4
+disability_rating: 3
+muscle_pain_location: temporalis
+muscle_pain_score: severe
+muscle_tenderness_present: True
+earache_present: False
+tinnitus_present: True 
+vertigo_present: True
+----------------------------------------------------------------------------------------------------
+current_medications: Prozac
+patient_id: B274

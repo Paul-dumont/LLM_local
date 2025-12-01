@@ -1,0 +1,33 @@
+patient_id: B217
+patient_age: 52
+pain_onset_date: 10 years ago
+onset_triggers: motor vehicle accident
+pain_relieving_factors: injections into back of head, neck and jaw area | orthodontics
+physical_therapy_status: acupressure | several years of physical therapy
+current_appliance: orthodontics since last year
+current_medications: Celebrex | Premarin | tricor | ambien
+headache_intensity: 0
+tmj_pain_rating: 9
+average_daily_pain_intensity: 7
+jaw_function_score: 8
+diet_score: 8
+disability_rating: 8
+muscle_spasm_present: True
+neck_pain_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B217
+pain_aggravating_factors: anterior open bite
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_location: retromandibular area | masseters | medial pterygoids | shoulders
+muscle_pain_score: mild to moderate
+maximum_opening: 42mm
+maximum_opening_without_pain: 30mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+pain_aggravating_factors: anterior open bite
+sleep_disorder_type: sleep apnea syndrome
+----------------------------------------------------------------------------------------------------
+patient_id: B217
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and lateral displacement | right disc dislocation

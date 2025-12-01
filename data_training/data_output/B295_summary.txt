@@ -1,0 +1,25 @@
+patient_id: B295
+patient_age: 24
+sleep_disorder_type: snoring 
+current_medications: birth control pills
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: True
+headache_intensity: 0
+tmj_pain_rating: 0
+jaw_function_score: 5
+diet_score: 2
+disability_rating: 5
+appliance_history: orthodontics from 12 years of age for 1.5 years, only in the upper arch
+----------------------------------------------------------------------------------------------------
+patient_id: B295
+maximum_opening: 43mm
+----------------------------------------------------------------------------------------------------
+patient_id: B295
+airway_obstruction_present: True
+disc_displacement: left disc medial and anterior displacement | right disc medial and anterior displacement
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+
+disc_displacement: left disc medial and anterior displacement with reduction | right disc medial and anterior displacement 

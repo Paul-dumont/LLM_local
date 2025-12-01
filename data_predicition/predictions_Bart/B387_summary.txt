@@ -1,0 +1,20 @@
+patient_id: B387
+patient_age: 45
+adverse_reactions: CODEINE | SULFA
+pain_onset_date: three years ago
+joint_pain_areas: left TMJ | neck | back | hips | left knee | left posterior crossbreed | left temporalis | left masseter | left medial pterygoid | styloid | right styloid 
+earache_present: True
+tinn
+----------------------------------------------------------------------------------------------------
+patient_id: B387
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocated medially | right disc dislocation medially 
+earache_present: True
+pain_aggravating_factors: clenching | bruxism 
+headache_intensity: Severe 
+tmj_pain_rating: severe 
+migraine_history: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and probably anterior articular dislocation | right disc probable medial dislocation 
+patient_id: B2

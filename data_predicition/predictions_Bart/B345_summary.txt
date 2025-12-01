@@ -1,0 +1,18 @@
+patient_id: B345
+patient_age: 62
+current_medications: numerous medications
+back_pain_present: True
+muscle_twitching: True 
+jaw_clicking: left TMJ | right TMJ
+joint_arthritis_location: back | shoulders | elbows | wrists | hands | fingers | hips | knees | left ankle occasionally | toes
+appliance_history: bite splint
+physical_therapy_status:
+----------------------------------------------------------------------------------------------------
+ineffective_factors: clenching
+patient_id: B345
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: psoriatic polyarthritis
+headache_intensity: present
+earache_present: True
+tinnitus_present : True
+vertigo_diagnosed: True

@@ -1,0 +1,17 @@
+patient_id: B198
+patient_age: 15
+joint_pain_areas: left TMJ | right TMJ
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea 
+muscle_tenderness_score: 0
+headache_location: none
+maximum_opening: 28mm
+maximum _opening_without_pain: 8mm
+
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_pain_areas: right TMJ
+patient_id: B3
+jaw_crepitus: left TMJ | right TM J
+muscle_tension_score: present
+maximum_opening: 5mm

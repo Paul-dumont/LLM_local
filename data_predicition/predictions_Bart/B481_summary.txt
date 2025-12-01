@@ -1,0 +1,26 @@
+patient_id: B481
+patient_age: 54
+current_medications: Neurotin | nortriptyline 
+pain_onset_date: 18 years ago but real problems began 8 years ago
+jaw_clicking: left TMJ | right TMJ
+appliance_history: splint from 7 to 2 years ago until recent change
+earache_present: True
+tinnitus_present:'
+----------------------------------------------------------------------------------------------------
+current_medications: Actonel | Synthroid | Neurontin | Nortriptyline
+adverse_reactions: DEMEROL | HYDROCODONE
+patient_id: B481
+maximum_opening: 57mm
+muscle_pain_location: left medial pterygoid | milder  over the left SCM
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+disc_displacement: left disc dislocation in a medial direction
+pain_aggravating_factors: clenching | bruxism
+earache_location: left side
+joint_pain_areas: left TMJ
+patient_id: B5
+----------------------------------------------------------------------------------------------------
+patient_id: B481
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medially displaced 
+patient_age: 48

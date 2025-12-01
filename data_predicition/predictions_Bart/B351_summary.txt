@@ -1,0 +1,29 @@
+patient_id: B351
+patient_age: 57
+pain_onset_date: last year
+neck_pain_present: True
+appliance_history: left TMJ | right TMJ
+current_medications: Clindamycin | Zoloft | Omeprazole | Estradiol | Hyaluronic acid | Vitalitin | Biotene | fish oil | calcium | vitamin D | Vitamin D 
+advil | Tylenol 
+muscle_t
+----------------------------------------------------------------------------------------------------
+patient_id: B351
+headache_intensity: 0
+tmj_pain_rating: 0 but can escalate to 7
+average_daily_medications: ibuprofen 
+jaw_function_score: 4
+diet_score : 4
+physical_therapy_status: flossing | good oral hygiene
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+airway_obstruction_present: True
+muscle_tenderness_location: temporalis | masseters | right styloid area | right
+----------------------------------------------------------------------------------------------------
+patient_id: B351
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medial and anterior displacement
+maximum_opening: 17mm
+autoimmune_condition: elevated ANA
+patient_age: 57
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement with reduction | right disc medially and anteriorly displaced at the lateral aspect of the joint with the left side worse than the right side

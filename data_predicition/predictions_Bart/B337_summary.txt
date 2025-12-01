@@ -1,0 +1,32 @@
+patient_id: B337
+patient_age: 25
+current_medications: Yasmin | Doxycycline
+adverse_reactions: minocycline
+jaw_locking: True
+pain_onset_date: 4 to 5 years ago
+appliance_history: Invisalign orthodontic treatment 5. years ago that took about 9 months | splints x2
+disc_displacement: left disc displaced
+earache_present: False
+tinnitus_present
+----------------------------------------------------------------------------------------------------
+muscle_pain_score: high moderate
+muscle-pain_location: masseters | shoulders | temporalis | styloid area
+joint_arthritis_present: left TMJ | right TMJ
+maximum_opening: 28mm
+max_opening_without_pain: 20mm
+pain_aggravating_factors: anterior open bite
+patient_id: B5
+----------------------------------------------------------------------------------------------------
+patient_id: B337
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocated with early reduction 
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+jaw_clicking: jaw muscles
+headache_intensity: present
+sleep_disorder_type: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+patient_id: B337
+patient_age: 25
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with probable closed lock | right disc anterior displacement with reduction

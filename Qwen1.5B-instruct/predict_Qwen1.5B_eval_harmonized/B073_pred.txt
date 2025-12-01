@@ -1,0 +1,46 @@
+patient_id: B073
+maximum_opening_without_pain: 19mm
+patient_age: 18
+maximum_opening: 29mm
+pain_relieving_factors: unknown
+diet_score: 5
+pain_duration: unknown
+disability_rating: 5
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: physical therapy
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: 3 a week
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left and right TMJ
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: temporal | frontal
+current_appliance: unknown
+average_daily_pain_intensity: 8
+headache_intensity: 4
+autoimmune_condition: unknown
+pain_onset_date: 12 years of age
+jaw_crepitus: unknown
+tmj_pain_rating: 9
+sleep_disorder_type: unknown
+current_medications: estrostep fe
+disc_displacement: left disc dislocation | right disc dislocation | without reduction
+muscle_pain_location: unknown
+joint_arthritis_location: left TMJ | right TMJ
+appliance_history: orthodontics
+joint_pain_areas: unknown

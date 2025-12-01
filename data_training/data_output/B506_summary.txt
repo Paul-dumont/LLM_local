@@ -1,0 +1,55 @@
+patient_id: B506
+patient_age: 26
+current_medications: Midrin | hydrocodone 
+pain_onset_date: age of 16
+onset_triggers: double-jaw surgery at the age of 16
+physical_therapy_status: steroid injections to muscles x 2 | iontophoresis | physical therapy | massage therapy
+pain_relieving_factors: iontophoresis | injections 
+appliance_history: splints 
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: True
+joint_pain_areas: back | knees  
+back_pain_present: True
+adverse_reactions: PENICILLIN | DOGS | CATS | HORSES
+pain_aggravating_factors: clenching 
+headache_intensity: 8
+headache_location: all over her head beginning usually around the ear and the temporal areas and then spreading either forward | up over the top | around the back
+headache_frequency: daily 
+tmj_pain_rating: 9
+average_daily_pain_intensity: 7
+jaw_function_score: 4
+diet_score: 5
+disability_rating: 7
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: severe
+muscle_pain_location: styloid areas | masseters | posterior neck area
+neck_pain_present: True
+maximum_opening: 51mm
+maximum_opening_without_pain: 32mm
+----------------------------------------------------------------------------------------------------
+headache_intensity: present
+headache_location: Bilateral 
+earache_present: True
+joint_pain_areas: TMJ
+patient_id: B506
+----------------------------------------------------------------------------------------------------
+patient_id: B506
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation anteriorly with late reduction | right disc medial displacement with early reduction
+joint_pain_areas: TMJ
+headache_intensity: Severe 
+tmj_pain_rating: Severe 
+pain_aggravating_factors: clenching
+sleep_disorder_type: snoring | sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B506
+patient_age: 26
+disc_displacement: left disc anteriorly displaced | right disc anteriorly displaced without reductio
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc  dislocation without reduction | right disc medially displaced
+patient_id: B506
+
+

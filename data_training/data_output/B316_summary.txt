@@ -1,0 +1,33 @@
+patient_id: B316
+patient_age: 37
+current_medications: birth control | Excedrin | ibuprofen
+jaw_clicking: left TMJ | right TMJ
+headache_intensity: 4 but can escalate to 10
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+pain_aggravating_factors: clenching | bruxism
+tmj_pain_rating: 2 but can escalate to 10
+average_daily_pain_intensity: 2 but can escalate to 10
+jaw_function_score: 2
+diet_score: 6
+disability_rating: 1
+headache_location: frontal | temple | posterior head
+sleep_disorder_type: snoring 
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: styloid areas
+muscle_pain_location: mild
+maximum_opening: 46mm
+maximum_opening_without_pain: 25mm
+----------------------------------------------------------------------------------------------------
+patient_id: B316
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement with reduction | right disc medial displacement with reduction
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_age: 37
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior displacement with early reduction
+joint_arthritis_location: left TMJ | right TMJ

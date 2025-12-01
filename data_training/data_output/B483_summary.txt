@@ -1,0 +1,37 @@
+patient_id: B483
+patient_age: 38
+jaw_clicking: left TMJ | right TMJ
+onset_triggers: unknown 
+pain_onset_date: past four or five months
+current_appliance: splint for approximately five months
+migraine_history: True
+headache_intensity: 7
+headache_location: right frontal | temporal
+tmj_pain_rating: 4
+average_daily_pain_intensity: 6
+jaw_function_score: 4
+diet_score: 4
+disability_rating: 4
+pain_relieving_factors: splint 
+adverse_reactions: environmental stuff | dust | pollen | LIDOCAINE | cheap earrings
+joint_pain_areas: left TMJ
+earache_present: True
+current_medications: Parafon | Darvocet | Celexa | Imitrex 
+muscle_tenderness_present: True
+muscle_pain_score: mild 
+muscle_pain_location: masseter | left styloid area
+maximum_opening: 50mm
+maximum_opening_without_pain: 20mm
+----------------------------------------------------------------------------------------------------
+appliance_history: splint 
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc laterally and anteriorly displaced with late reductions | right disc medially displaced with late reductions 
+jaw_clicking: left TMJ | right TMJ
+joint_pain_areas: TMJ
+headache_intensity: present
+earache_present: True
+patient_id: B483
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced and perhaps medially displaced without reduction | right disc anteriorly displaced without reduction
+

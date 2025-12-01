@@ -1,0 +1,25 @@
+patient_id: B512
+patient_age: 20
+jaw_clicking: left TMJ | right TMJ
+pain_onset_date: 1 to 2 years ago
+joint_pain_areas: jaw joints
+appliance_history: headgear or facemask apparatus placed to try to pull the upper jaw forward in about the 4th grade
+current_medications: none
+earache_present: False
+tinn
+----------------------------------------------------------------------------------------------------
+patient_id: B512
+pain_aggravating_factors: anterior open bite | left posterior cross bite | right posterior crossbite
+muscle_tenderness_present: False
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 57mm
+----------------------------------------------------------------------------------------------------
+patient_id: B512
+disc_displacement: right disc dislocation
+pain_aggravating_factors: left posterior cross bite | right posterior crossbite
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right-sided anterior disc displacement 
+patient_id: B4
+pain_aggravating_factors: anterior beaking

@@ -1,0 +1,20 @@
+patient_id: B104
+patient_age: 20
+pain_onset_date: 14 years of age
+onsets_triggers: unknown 
+appliance_history: orthodontics beginning about the age of 8 with various appliances for palatal expansion | orthognathic surgery in 3 years and 2 months ago to include maxillary osteotomies and a bony chin augmentation | retainers | splint for the past 8 months
+headache_frequency: 3 times per week
+tmj_pain_rating: 10
+average_daily_intensity: 7
+jaw_function_score: 5
+diet_score
+----------------------------------------------------------------------------------------------------
+patient_id: B104
+joint_arthritis_location: left TMJ | right TMJ
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B104
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement without reduction | right disc anterior displacement with non-reducing

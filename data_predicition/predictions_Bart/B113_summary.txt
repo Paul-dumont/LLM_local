@@ -1,0 +1,13 @@
+patient_id: B113
+patient_age: 58
+joint_pain_areas: shoulders | elbows | right wrist | right hip | left TMJ | back | left lung
+autoimmune_condition: COPD | emphysema | aspergillus
+sleep_disorder_type: sleep apnea_diagnosed: True
+current_medications: 15 medications 
+headache_intensity: 4, with 4 in the left frontal and temporal area and behind the eye
+headaches_frequency: daytime
+
+----------------------------------------------------------------------------------------------------
+patient_id: B113
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with non-reducing | right disc dislocated with limited reduction

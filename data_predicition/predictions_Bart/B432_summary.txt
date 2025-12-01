@@ -1,0 +1,19 @@
+patient_id: B432
+patient_age: 42
+autoimmune_condition: rheumatoid arthritis
+current_medications: Methotrexate | Lamictal | Lexapro | Ambien | Advil | Lyrica | hydrocodone | oxycodone
+joint_pain_areas: TMJ
+headache_intensity: present
+pain_aggravating_factors: left posterior crossbite
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: rheumatoid arthritis
+airway_obstruction_present: True
+patient_id: B432
+age: 42
+disc_displacement: left disc anterior displacement without reduction
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocated without reduction 
+patient_id: B5774
+maximum_opening: 10mm

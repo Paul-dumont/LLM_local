@@ -1,0 +1,80 @@
+patient_id: B260
+patient_age: 39
+appliance_history: orthodontics at least two to three rounds
+headache_intensity: 0
+neck_pain_present: True
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+patient_id: B260
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc anterior and medial displacement 
+patient_age: 40
+pain_onset_date: 12 years ago
+appliance_history: orthodontics x2, 3 years as a teenager and 2 years in her 20s | bite splints since teen years | chiropractic treatment from 19 to 21 years ago
+----------------------------------------------------------------------------------------------------
+current_medications: Klonopin | Vitamins | Motrin | Advil 
+earache_present: True
+tinnitus_intensity: present
+vertigo_frequency: 2 times per week
+joint_pain_areas: neck
+adverse_reactions: penicillin
+pain_aggravating_factors: clenching | left posterior cross bite tendency
+headache_location: throughout the head and neck area
+tmj_pain _rating: 7
+average_daily_pain level: 5
+jaw_function_score: 2
+diet_score
+----------------------------------------------------------------------------------------------------
+patient_id: B260
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with early reduction | right disc displacement 
+pain_aggravating_factors: anterior open bite
+headache_intensity: present
+patient_age: 35
+tmj_pain_rating: 0
+current_appliance: orthodontics
+----------------------------------------------------------------------------------------------------
+patient_id: B260 
+joint_pain_areas: left TMJ | right TMJ
+airway_obstruction_present: True
+current_medications: Zofran | Phenergan | Lomotil | Darvocet-N
+headache_intensity: present
+adverse_reactions_type: food poisoning
+----------------------------------------------------------------------------------------------------
+patient_id: B260 
+current_medications: Levaquin antibiotic | Cleocin 
+headache_intensity: 0
+tmj_pain_rating: False
+sleep_disorder_type: sleep apnea_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B260
+headache_intensity: 0
+tmj_pain_rating: 0 
+maximum_opening: 30mm
+current_medications: Xanax
+pain_aggravating_factors: clenching
+muscle_tenderness_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B260 
+pain_aggravating_factors: nosebleeds
+current_appliance: orthodontics
+maximum_opening: 35mm
+muscle_pain_location: left masseter | left medial pterygoid | left styloid area
+muscular_tenderness_present: True
+joint_arthritis_score: none
+musits_tenders
+----------------------------------------------------------------------------------------------------
+patient_id: B260 
+muscle_tenderness_present: True
+pain_aggravating_factors: left posterior crossbite tendency | clenching
+joint_pain_areas: left TMJ
+headache_intensity: 0
+maximum_opening: 10mm
+current_medications: antibiotics
+----------------------------------------------------------------------------------------------------
+patient_id: B260 
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True
+current_medications: Lortab
+pain_relieving_factors: stretching out medication
+appliance_history: lortab

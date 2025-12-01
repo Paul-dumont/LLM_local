@@ -1,0 +1,31 @@
+patient_id: B442
+patient_age: 21
+pain_onset_date: 19 years of age
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics beginning in the 6th grade and she finally got them off somewhere around the 11th grade
+headache_intensity: present
+tmj_pain_rating: 0
+sleep_disorder_type: daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B442
+pain_aggravating_factors: anterior open bite
+joint_pain_areas: right masseter | right styloid area | right SCM | shoulders 
+muscle_tenderness_present: True
+neck_crepitus: left TMJ | right TMJ
+jaw_clicking: right TM J
+maximum_opening: 45mm
+current_medications: none
+headache_intensity: 7
+----------------------------------------------------------------------------------------------------
+patient_id: B442
+joint_arthritis_location: right TMJ
+disc_displacement: right disc medial and anterior displacement with reduction | left disc dislocation with reduction
+pain_aggravating_factors: anterior open bite tendency
+sleep_disorder_type: snoring | sleep apnea_diagnosed: True
+headache_intensity: present
+tmj_pain_rating: right-sided
+patient_age: 21
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation in an anterior rotational position | right disc anteriorly dislocated 
+patient_id: B5

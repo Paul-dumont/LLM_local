@@ -1,0 +1,14 @@
+patient_id: B094
+patient_age: 16
+pain_onset_date: April 2010
+jaw_locking: True
+appliance_history: orthodontics 4 times with the first beginning about the age of 6 with a palatal expander
+physical_therapy_status: physical therapy started 3 months ago and significantly reduced symptoms
+headache_frequency: once a week at a level of 3 in the frontal and probably the temporal areas as well
+tmj_pain_rating: 0
+average_
+----------------------------------------------------------------------------------------------------
+patient_id: B094
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement | right disc anterior and medial displacement 
+airway_obstruction_present: True

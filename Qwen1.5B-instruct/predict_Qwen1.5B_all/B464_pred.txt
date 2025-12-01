@@ -1,0 +1,46 @@
+patient_id: B464
+maximum_opening_without_pain: 30mm
+patient_age: 55
+maximum_opening: 38mm
+pain_relieving_factors: splint therapy | physical therapy to the neck and shoulders | tens
+diet_score: 5
+pain_duration: unknown
+disability_rating: 3
+sleep_apnea_diagnosed: false
+jaw_function_score: 3
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: physical therapy to the neck and shoulders | tns
+earache_present: unknown
+onset_triggers: biting into a deli sandwich
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: doxycycline | zetia | effexor | niaspan | pravachol | atacand | prempro | asa
+muscle_pain_score: mild
+migraine_history: unknown
+headache_location: left frontal | temporal
+current_appliance: splint
+average_daily_pain_intensity: 3
+headache_intensity: 3 | present
+autoimmune_condition: unknown
+pain_onset_date: 10 years ago
+jaw_crepitus: left tmj
+tmj_pain_rating: 3
+sleep_disorder_type: sleep disorder secondary to pain
+current_medications: doxycycline | zetia | effexor | niaspan | pravachol | atacand | prempro | asa
+disc_displacement: left disc dislocation | right disc medial displacement
+muscle_pain_location: right styloid area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: tmj

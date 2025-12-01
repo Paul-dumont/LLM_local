@@ -1,0 +1,16 @@
+patient_id: B479
+patient_age: 15
+current_medications: Advair | albuterol 
+jaw_clicking: left TMJ | right TMJ
+earache_present: False
+tinnitus_present : False
+vertigo_diagnosed: False 
+hearing_loss_score: 0
+joint_pain_areas: ankles | knees | wrists | hips | shoulders | shoulders 
+headache_frequency: 3 times a week
+tmj
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anterior displacement with early reduction 
+patient_id: B479
+headache_intensity: present

@@ -1,0 +1,43 @@
+patient_id: B134
+patient_age: 47
+onset_triggers: skiing accident striking the chest and subluxated the manible
+pain_onset_date: 4 years ago
+jaw_clicking: left TMJ | right TMJ
+appliance_history: splint
+physical_therapy_status: physical therapy | electo-rhizotomy  to kill the nerve in the right TMJ | lavage of right TMJ
+current_medications: Clonidine | Gabapentin | Seroquel | Effexor | Prilosec | Zofran | Visteril | Zantac | Doxepin | Advair inhaler
+joint_pain_areas: right TMJ worse | left TMJ
+headache_intensity: 7
+headache_location: right temporal
+tmj_pain_rating: 10
+average_daily_pain_intensity: 10
+jaw_function_score: 7
+diet_score: 8
+disability_rating: 10
+earache_present: True
+tinnitus_present: False
+vertigo_present: True
+hearing_loss_present: False
+pain_aggravating_factors: clenching | bruxism
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea
+sleep_apnea_diagnosed: True
+----------------------------------------------------------------------------------------------------
+patient_id: B134
+cpap_used: True
+muscle_pain_location: right temporalis | right medial pterygoid | right masseter
+joint_pain_areas: right TMJ
+muscle_pain_score: severe
+maximum_opening: 27mm
+----------------------------------------------------------------------------------------------------
+patient_id: B134
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc medial dislocation
+airway_obstruction_present: True
+tmj_pain_rating: severe
+headache_intensity: severe
+sleep_disorder_type: sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B134
+patient_age: 47
+disc_displacement: left disc medial dislocation
+joint_arthritis_location: right TMJ 

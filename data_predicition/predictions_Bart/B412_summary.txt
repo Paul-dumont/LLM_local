@@ -1,0 +1,22 @@
+patient_id: B412
+patient_age: 11
+current_medications: Naproxen 
+pain_onset_date: about a year to a year-and-a-half ago | past May
+joint_pain_areas: left TMJ | neck | frontal | temporal 
+earache_frequency: occasional
+tinnitus_present: False
+vertigo_present : False
+hearing_loss_score: 0
+jaw_clicking: none
+headache_intensity: 5
+----------------------------------------------------------------------------------------------------
+patient_id: B412
+airway_obstruction_present: True
+disc_displacement: left disc dislocation without reduction | right disc dislocations without reduction 
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_age: 46
+----------------------------------------------------------------------------------------------------
+patient_id: B412
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior and medial dislocation with moderate degenerative changes

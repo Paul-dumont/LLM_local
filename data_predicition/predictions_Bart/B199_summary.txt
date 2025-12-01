@@ -1,0 +1,31 @@
+patient_id: B199
+patient_age: 25
+pain_onset_date: 10 years old
+headache_intensity: 6 but can exacerbate to a level of 8 to 9
+tmj_pain_rating: 7
+headaches_present: True
+current_appliance: upper and lower jaw splints for 1 year | 4 additional splints since 22 | Acupuncture last year for a few months | chiropractic treatment at age 21 | physical therapy for the past year
+physical_therapy_status: physical therapy
+----------------------------------------------------------------------------------------------------
+patient_id: B199
+pain_aggravating_factors: anterior open bite
+joint_pain_areas: left TMJ | right TMJ
+muscle_tenderness_present: True
+jaw_clicking: right joint 
+jostle_frequency: 30mm
+maximum_opening: 15mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B199
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocated without reduction 
+pain_aggravating_factors: anterior open bite
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B199
+patient_age: 25
+disc_displacement: left disc anterior displacement | right disc anterior and lateral displacement without reduction
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced with significant deformation and nonreducing | right disc may be laterally displaced but otherwise appears to be in position, although somewhat degenerated

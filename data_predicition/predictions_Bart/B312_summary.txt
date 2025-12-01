@@ -1,0 +1,22 @@
+patient_id: B312
+patient_age: 19
+airway_obstruction_present: True
+current_medications: Clariflu | Zinnat
+headache_intensity: none
+tmj_pain_rating: 0
+earache_present : False
+tinnitus_present 
+vertigo_diagnosed: False
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 20mm
+----------------------------------------------------------------------------------------------------
+current_appliance: 3 x 3 retainer on the lower anterior teeth
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocated
+----------------------------------------------------------------------------------------------------
+patient_id: B312
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc dislocation with reduction 
+pain_aggravating_factors: acid reflux | gallstones
+patient_age: 35

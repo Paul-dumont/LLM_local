@@ -1,0 +1,26 @@
+patient_id: B286
+patient_age: 45
+current_medications: allergy | nasal stuffiness
+pain_aggravating_factors: clenching | bruxism 
+migraine_history: True
+headache_frequency: 2 times per month
+tmj_pain_rating: 4 but can escalate to 8
+average_daily_intensity: 2
+jaw_function_score: 5
+diet_score
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+current_appliance: 3 x 3 retainer
+patient_id: B286
+disc_displacement: left disc medially displaced with possible perforation through the left disc
+maximum_opening: 28mm
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+patient_id: B286
+patient_age: 45
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement | right disc medially and anteriorly displaced
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medially displaced 
+jaw_crepitus: left dislocation | right dislocation

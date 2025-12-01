@@ -1,0 +1,31 @@
+patient_id: B504
+patient_age: 49
+pain_onset_date: 11 months ago
+muscle_spasm_present: True 
+onsets_triggers: unknown 
+physical_therapy_status: Novocain injections to the right TMJ x3 with only temporary relief | Acupuncture | Chiropractic treatment | Splint therapy
+appliance_history: splint but splint broke secondary to clenching
+headache_frequency: 3 times per week
+tmj_pain_rating: 7
+average_daily_intensity: 5
+jaw_function_score: 9
+diet_score
+----------------------------------------------------------------------------------------------------
+patient_id: B504
+pain_aggravating_factors: anterior deep bite
+jaw_clicking: right TMJ
+neck_pain_present: True
+muscle_strain_location: down through neck and into shoulder area
+maximum_opening: 12mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B504
+joint_arthritis_location: right TMJ
+disc_displacement: right disc anteriorly dislocated with a closed lock situation
+pain_aggravating_factors: anterior deep bite
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B504
+patient_age: 49
+joint_arthritis_location: right TMJ
+disc_displacement: left disc anterior and medial displacement | right disc anteriorly and medially displaced with significantly limited translation

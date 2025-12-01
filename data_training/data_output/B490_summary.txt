@@ -1,0 +1,42 @@
+patient_id: B490
+patient_age: 28
+pain_onset_date: 25 years old 7 years ago
+onset_triggers: motor vehicle accident
+current_medications: birth control pills | Tylenol, ibuprofen | Naproxen
+physical_therapy_status: chiropractic visits | TENS | massages 
+appliance_history: oral splint (Pivot.)
+headache_intensity: present
+neck_pain_present: True
+earache_present: True
+jaw_clicking: left TMJ | right TMJ
+jaw_locking: True
+pain_aggravating_factors: eating | talking | laughing | weather changes | upper respiratory infection
+muscle_tenderness_present: False
+vertigo_present: True
+hearing_loss_present: False
+joint_pain_areas: wrists | left knee
+pain_aggravating_factors: clenching | bruxism
+pain_relieving_factors: chiropractic visits | TENS | massages | oral splint (Pivot.)
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: False
+sleep_disorder_type: daytime somnolence | snoring 
+muscle_tenderness_present: True
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: mild
+muscle_pain_location: masseters | medial pterygoids | styloid areas | SCMs | posterior neck | shoulder areas
+neck_pain_present: True
+maximum_opening: 50mm
+maximum_opening_without_pain: 29mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+appliance_history: splint 
+patient_id: B490
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly and laterally displaced with reduction | right disc anteriorly and laterally displaced with reduction 
+pain_aggravating_factors: anterior open bite
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly and laterally displaced | right disc anteriorly and laterally displaced with reduction 
+

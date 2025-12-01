@@ -1,0 +1,21 @@
+patient_id: B197
+patient_age: 24
+pain_aggravating_factors: clenching | grinding
+appliance_history: orthodontics from 13 to 16 years of age
+current_medications: Novolog insulin | Synthroid
+headache_intensity: 0
+tmj_pain_rating: 0 
+maximum_opening: 49mm
+earache_present: True
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B197
+disc_displacement: left disc medial displacement | right disc medial and lateral displacement
+current_appliance: 3 x 3 retainer in the lower anterior arch
+patient_age: 24
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medial and lateral displacement 
+patient_id: B2A1
+pain_aggravating_factors: anterior open disk posterior displacement

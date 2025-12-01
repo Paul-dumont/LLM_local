@@ -1,0 +1,28 @@
+patient_id: B307
+patient_age: 16
+appliance_history: orthodontics 7 to 8 years ago with maxillary Schwarz appliance | Bionator rapid palatal expander | bite plane | lip bumper | fixed appliance | retainers
+jaw_clicking: left TMJ | right TMJ
+pain_onset_date: 12 years of age
+onsets_triggers: unknown
+headache_frequency: one time per week
+tmj_pain_rating: 4
+average
+----------------------------------------------------------------------------------------------------
+muscle_tenderness_present: True
+neck_pain_score: mild to mild
+joint_arthritis_location: left TMJ | right TMJ
+maximum_opening: 56mm
+muscle-pain_aggravating_factors: left posterior crossbite | right posterior cross bite
+----------------------------------------------------------------------------------------------------
+patient_id: B307
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: left disc dislocation | right disc dislocations
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea_diagnosed: True 
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior dislocation without reduction 
+patient_id: B3
+jaw_locking: True

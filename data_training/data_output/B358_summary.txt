@@ -1,0 +1,40 @@
+patient_id: B358 
+patient_age: 14
+appliance_history: maxillary expansion | headgear
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: True
+joint_pain_areas: right middle finger | right TMJ
+adverse_reactions: none
+headache_intensity: 3
+headache_location: frontal | temporal 
+headache_frequency: every week
+tmj_pain_rating: 0
+average_daily_pain_intensity: 4
+jaw_function_score: 4
+diet_score: 4
+disability_rating: 2
+sleep_disorder_type: snoring | sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B358 
+pain_aggravating_factors: anterior open bite | right posterior crossbite
+maximum_opening: 34mm
+jaw_clicking: left TMJ
+muscle_pain_score: moderate to mild
+muscle_pain_location: temporalis | masseters | styloid areas
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+NoInfo
+----------------------------------------------------------------------------------------------------
+patient_id: B358 
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ
+disc_displacement: left disc anterior dislocation with reduction
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea 
+patient_id: B358 
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc posterior dislocation with reduction 
+

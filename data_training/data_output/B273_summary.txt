@@ -1,0 +1,62 @@
+patient_id: B273
+patient_age: 28
+current_medications: hydrocodone | Flexeril | Celebrex | zyrtec
+pain_duration: continual
+pain_onset_date: 12 years of age
+appliance_history: orthodontics from 12 to 14
+jaw_clicking: left TMJ | right TMJ
+onset_triggers: unknown
+headache_intensity: 6
+headache_location: temporal | posterior head
+tmj_pain_rating: 9
+average_daily_pain_intensity: 8
+jaw_function_score: 8
+diet_score: 7
+disability_rating: 8
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+pain_aggravating_factors: clench | brux
+sleep_disorder_type: snoring | daytime somnolence | sleep disorder
+----------------------------------------------------------------------------------------------------
+patient_id: B273
+maximum_opening: 23mm
+maximum_opening_without_pain: 13mm
+jaw_crepitus: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc displacement | right disc displacement without reduction
+patient_id: B273
+joint_pain_areas: left TMJ | right TMJ
+tmj_pain_rating: severe
+headache_intensity: present
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc displacement | right disc displacement without reduction
+patient_id: B273
+----------------------------------------------------------------------------------------------------
+patient_id: B273
+----------------------------------------------------------------------------------------------------
+patient_id: B273
+maximum_opening: 38mm
+current_medications: ambien
+previous_medications: klonopin
+pain_aggravating_factors: clenching | bruxism
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_location: posterior neck | temporalis | SCMs
+muscle_pain_score: significant
+neck_pain_present: True
+current_appliance: occlusal coverage splint
+----------------------------------------------------------------------------------------------------
+patient_id: B273
+current_medications: Celebrex | klonopin | advil | hydrocodone | ambien
+----------------------------------------------------------------------------------------------------
+patient_id: B273
+muscle_tenderness_present: True
+muscle_pain_location: masseter | temporalis | SCMs | posterior neck | retromanibular areas
+joint_pain_areas: left TMJ | right TMJ
+neck_pain_present: True
+muscle_pain_score: extremely high

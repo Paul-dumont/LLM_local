@@ -1,0 +1,31 @@
+patient_id: B235
+patient_age: 55
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: severe arthritis with foreign material, perhaps silastic, that is fragmented within the joint
+----------------------------------------------------------------------------------------------------
+patient_id: B235
+patient_age: 55
+pain_onset_date: 26 years old
+appliance_history: splint therapy from 26 through 35 years of age
+joint_pain_areas: left TMJ | right TMJ
+disc_displacement: right disc dislocation 21 years ago to try to put articular disc back in place 20 years ago, the right disc was removed and left disc removed 17-18 years ago
+physical_therapy_status: masseteric Botox injections at that time
+current_medications: Demerol | PMS-hydromorphone | Baclofen | PMs-clonazepam |
+----------------------------------------------------------------------------------------------------
+patient_id: B235
+current_medications: rotating anti-inflammatories
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea
+headache_intensity: 10
+headaches_location: frontal | temporal | posterior head
+tmj_pain_rating: 10 with average daily pain at 10
+jaw_function_score: 10 
+diet_score
+----------------------------------------------------------------------------------------------------
+patient_id: B235
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea 
+tmj_pain_rating: Severe 
+headache_intensity: severe 
+migraine_aggravating_factors: clenching | multiple vascular clamps
+patient_age: 25

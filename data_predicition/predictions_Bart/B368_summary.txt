@@ -1,0 +1,18 @@
+patient_id: B368
+patient_age: 23
+pain_onset_date: 2 years ago
+appliance_history: 3 splints beginning in early last year with the third one being constructed late last year
+headache_frequency: continuous
+current_medications: amitriptyline 
+tmj_pain_rating: 1
+average_daily_painintensity: 4
+jaw_function_score: 3
+diet_score
+----------------------------------------------------------------------------------------------------
+patient_id: B368
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc anterior and medial displacement
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea | snoring | sleep disorder symptoms
+headache_intensity: present

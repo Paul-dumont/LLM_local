@@ -1,0 +1,31 @@
+patient_id: B367
+patient_age: 32
+current_medications: Advil | Claritin
+pain_onset_date: 16 or 17 years old
+joint_pain_areas: left TMJ | right TMJ
+appliance_history: orthodontics from 14 to 16 | splint from about the age of 17 for about two years and had three different splints made
+earache_present: True
+tinnitus_present 
+vertigo_present
+hearing_loss_present
+----------------------------------------------------------------------------------------------------
+patient_id: B367
+muscle_pain_score: moderate to milder 
+joint_arthritis_location: left TMJ | right TMJ
+musical_tenderness_present: True
+jaw_clicking: Left TMJ 10 to 15mm of opening | Right TMJ 5 to 10mm of closing
+maximum_opening: 53mm
+pain_duration: gets worse in the afternoons and evenings and usually feels better in the morning
+sleep_disorder_type: snoring
+----------------------------------------------------------------------------------------------------
+patient_id: B367
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc lateral displacement | right disc dislocation 
+headache_intensity: present
+tmj_pain_rating: 0
+earache_present: True
+sleep_disorder_type: snoring | sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc lateral and anterior displacement | right disc lateral displacement 
+pain_aggravating_factors: splint

@@ -1,0 +1,19 @@
+patient_id: B419
+patient_age: 21
+pain_onset_date: 15 years old
+appliance_history: orthodontics from the age of 11 to 14 | splint a few months ago
+headache_intensity: 7
+headaches_location: temples | posterior head area
+tmj_pain_rating: 7, average daily pain at 6, jaw function at 7, diet at 8, disability at 7
+jaw_clicking: left TMJ | right TMJ
+hearing_loss_present: False
+earache_present
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B419
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocated
+----------------------------------------------------------------------------------------------------
+patient_id: B419
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteriorly displaced, partially reduced and degenerated | right disc medial and anterior displacement

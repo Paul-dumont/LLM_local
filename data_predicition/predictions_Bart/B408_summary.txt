@@ -1,0 +1,31 @@
+patient_id: B408
+patient_age: 25
+pain_onset_date: last year
+appliance_history: 4 different splints from the age of 10 to 20 years of age | orthodontics 2 years ago for 1 year
+current_medications: Singulair | Flonase | Zoloft | Allegra | Valium | Robaxin 
+physical_therapy_status: local anesthetic on the right side apparently through her masseter muscle for a week and did give her some relief, but then the pain returned
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B408
+muscle_pain_location: right masseter | temporalis | right styloid area | right SCMs
+jaw_clicking: right TMJ | left TMJ
+current_medications: Flonase for about six years 
+muscular_tenderness_present: True
+jostle_score: high moderate to low severe
+joint_pain _areas: Right TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc dislocation 
+headache_intensity: severe 
+tmj_pain_rating: Severe 
+earache_present: True 
+vertigo_diagnosed: True
+patient_id: B408 
+jaw_clicking: jaw
+pain_aggravating_factors: clenching | bruxism
+current_medications: Klonopin | Neurontin | Valium
+appliance_history: orthodontics
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior and medial dislocation with early reductions 
+patient_id: B5

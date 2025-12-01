@@ -1,0 +1,22 @@
+patient_id: B194
+patient_age: 27
+adverse_reactions: gluten 
+pain_onset_date: 20 years of age
+onsets_triggers: bruxism
+headache_intensity: 6
+headaches_location: throughout most of the head
+tmj_pain_rating: 6, average daily pain at 6, jaw function at 3, diet 0, disability at 2
+current_medications: Yasmin | Flonase | multivitamins | calcium | magnesium | zinc | flax oil supplements
+appliance_history: bite appliances including NTI | soft rubber splint
+
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc rotational displacement
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B194
+patient_age: 27
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and rotational displacement | right disc rotational dislocation

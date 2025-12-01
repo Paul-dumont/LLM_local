@@ -1,0 +1,30 @@
+patient_id: B192
+patient_age: 25
+pain_onset_date: age of 22
+appliance_history: splint therapy for about 2 to 2-1/2 years
+joint_arthritis_location: left TMJ | right TMJ
+autoimmune_condition: unknown, but it has been suspected she could have Sjogren's or rheumatoid arthritis
+headache_intensity: 8
+headaches_frequency: 3 to 5 times per week
+tmj_pain_rating: 7
+----------------------------------------------------------------------------------------------------
+patient_id: B192
+pain_aggravating_factors: anterior open bite
+sleep_disorder_type: daytime somnolence | snoring 
+airway_obstruction_present: False
+muscle_pain_location: most of the head and neck area with a little bit milder in the temporalis and posterior neck area
+neck_tenderness_present : True
+maximum_opening: 43mm
+maximal_opening_without_pain: 28mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B192
+pain_aggravating_factors: anterior open bite
+headache_intensity: present
+tmj_pain_rating: present
+----------------------------------------------------------------------------------------------------
+patient_id: B192
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and medial dislocation without reduction 
+patient_age: 22

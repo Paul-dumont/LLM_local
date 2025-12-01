@@ -1,0 +1,29 @@
+patient_id: B012
+patient_age: 17
+current_appliance: orthodontics
+pain_onset_date: 4 to 5 years ago
+migraine_history: True
+jaw_clicking: False
+appliance_history: orthodontic treatment age of 10 through 16
+airway_obstruction_present: True
+muscle_tenderness_present: False
+neck_pain_present: False
+headache_intensity: 7
+headache_location: frontal | anterior temporal
+joint_pain_areas: none
+tmj_pain_rating: 0
+average_daily_pain_intensity: 5
+jaw_function_score: 0
+diet_score: 0
+disability_rating: 0
+maximum_opening: 50mm
+----------------------------------------------------------------------------------------------------
+patient_id: B012
+joint_arthritis_location: left TMJ | right TMJ
+headache_intensity: present
+sleep_disorder_type: sleep apnea symptoms
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior dislocation without reduction 
+

@@ -1,0 +1,26 @@
+patient_id: B431
+patient_age: 29
+pain_onset_date: 13 years of age
+joint_pain_areas: left TMJ | right TMJ
+appliance_history: orthodontics from about the age of 12 through 15
+headache_intensity: 3
+headaches_frequency: once every 2 weeks
+headset_location: right side in the temporal area and up towards the top of the head
+tmj.pain_rating: 0
+average_daily_pain level: 1
+jaw_function_score: 2
+diet_score
+----------------------------------------------------------------------------------------------------
+patient_id: B431
+airway_obstruction_present: True
+headache_intensity: present
+pain_aggravating_factors: clenching | bruxism
+patient_age: 41
+disc_displacement: left disc anterior displacement without dislocation | right disc dislocation
+joint_arthritis_location: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+disc_displacement: right disc anterior displacement with early reduction
+joint_arthritis_location: left TMJ 
+disc_pain_rating: 0
+patient_id: B2
+disc _displacements: right articular disc

@@ -1,0 +1,38 @@
+patient_id: B005
+patient_age: 48
+sleep_apnea_diagnosed: True
+depression_present: True
+airway_obstruction_present: True
+current_medications: Amitriptyline | Amitriptyline CDP | Ativan
+bipap_used: True
+current_appliance: BiPAP
+sleep_disorder_type: insomnia | sleep apnea
+jaw_clicking: True
+pain_onset_date: 40 
+onset_triggers: unknown
+headache_intensity: 2 but can escalate to 8 or 9
+headache_location: temporal | posterior head
+tmj_pain_rating: 2
+average_daily_pain_intensity: 2
+jaw_function_score: 1
+diet_score: 0
+disability_rating: 0
+earache_present: False
+tinnitus_present: True
+vertigo_present: True
+pain_aggravating_factors: clenching
+----------------------------------------------------------------------------------------------------
+patient_id: B005
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea
+bipap_used: True
+current_appliance: BiPAP
+----------------------------------------------------------------------------------------------------
+patient_id: B005
+airway_obstruction_present: True
+muscle_pain_score: excruciating
+muscle_pain_location: anterior band of the masseter
+neck_pain_present: False
+sleep_apnea_diagnosed: True
+sleep_disorder_type: sleep apnea
+----------------------------------------------------------------------------------------------------
+NoInfo

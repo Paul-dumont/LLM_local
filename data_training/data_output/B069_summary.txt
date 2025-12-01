@@ -1,0 +1,32 @@
+patient_id: B069
+patient_age: 22
+pain_onset_date: 10 or 11 years of age
+jaw_clicking: left TMJ | right TMJ
+onset_triggers: unknown
+appliance_history: orthodontics 10 to 14 years of age | splint for 5 to 6 years
+current_medications: Levoxyl | Portia | Excedrin
+tmj_pain_rating: 7
+average_daily_pain_intensity: 7
+jaw_function_score: 7
+diet_score: 6
+disability_rating: 8
+headache_frequency: constant
+headache_intensity: 7 but almost always hit a level of 9 during the day
+headache_location: frontal | temporal | posterior
+earache_present: Ture
+tinnitus_present: False
+vertigo_present: True
+joint_pain_areas: left shoulder | left hip | right shoulder
+pain_aggravating_factors: clenching
+----------------------------------------------------------------------------------------------------
+patient_id: B069
+sleep_disorder_type: daytime somnolence
+sleep_apnea_diagnosed: False
+anxiety_present: True
+muscle_pain_score: masseters | temporalis | posterior neck | shoulder areas
+joint_pain_areas: left TMJ | right TMJ
+jaw_clicking: left TMJ | right TMJ
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right TMJ articular disc dislocation | left TMJ articular disc dislocation
+headache_intensity: present
+

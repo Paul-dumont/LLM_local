@@ -1,0 +1,37 @@
+patient_id: B246
+patient_age: 13
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc dislocation without reduction
+current_medications: Allegra-D | ibuprofen 
+pain_onset_date: 3 to 4 years of unknown etiology
+appliance_history:
+----------------------------------------------------------------------------------------------------
+patient_id: B246
+sleep_disorder_type: daytime somnolence | snoring 
+muscle_tenderness_present: False
+jaw_clicking: left TMJ 
+maximum_opening: 55mm
+muscular_pain_location: left SCM
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ
+airway_obstruction_present: True
+patient_id: B246
+headache_intensity: present
+tmj_pain_areas: TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B246
+patient_age: 13
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with very early reduction | right disc dislocation with probably late reduction
+----------------------------------------------------------------------------------------------------
+patient_id: B246
+maximum_opening: 42mm
+headache_intensity: 3
+pain_aggravating_factors: clenching | clenching at night
+current_medications: Klonopin | Medrol 
+earache_present: False
+tinnitus_present:"True
+vertigo_present": False
+hearing_loss_present : False
+joint_pain_areas: left TMJ
+muscle_tenderness_present

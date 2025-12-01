@@ -1,0 +1,18 @@
+patient_id: B019
+patient_age: 22
+pain_onset_date: 18 years of age
+appliance_history: orthodontic treatment from the age of 12 to 15 including head gear
+jaw_clicking: left TMJ | right TMJ
+headache_intensity: 0
+tmj_pain_rating: 4
+average_daily_medications: none
+physical_therapy_status: no medications
+
+----------------------------------------------------------------------------------------------------
+patient_id: B019
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocated with reduction 
+airway_obstruction_present: True
+sleep_disorder_type: sleep apnea symptoms including snoring | daytime somnolence | sleep disorder symptoms 
+jaw_crepitus: TMJ 
+pain_aggravating_factors: orthodontics

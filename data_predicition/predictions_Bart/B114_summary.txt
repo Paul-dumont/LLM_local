@@ -1,0 +1,17 @@
+patient_id: B114
+patient_age: 37
+current_medications: Celexa 
+headache_intensity: 4
+headaches_frequency: once or twice a month
+tmj_pain_rating: 6 with the right side worse than the left side | 5 average daily
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B114
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: right disc dislocation 
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+patient_id: B114
+patient_age: 37
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc anterior displacement with reduction

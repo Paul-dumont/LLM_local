@@ -1,0 +1,31 @@
+patient_id: B017
+patient_age: 28
+appliance_history: orthodontics done when he was a teenager
+pain_onset_date: 5 years and 5 months ago
+jaw_clicking: left TMJ | right TMJ
+apples_crepitus: right posterior head | right frontal | posterior head
+tmj_pain_rating: 7
+average_daily_painintensity: 8
+diet_score: 3
+disability_rating
+----------------------------------------------------------------------------------------------------
+patient_id: B017
+pain_aggravating_factors: left posterior cross bite tendency | right posterior crossbite tendency
+airway_obstruction_present: False
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea 
+joint_pain_areas: left TMJ | right TMJ
+maximum_opening: 44mm
+maximum _opening_without_pain: 35mm
+----------------------------------------------------------------------------------------------------
+patient_id: B017
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medial and anterior displacement 
+pain_aggravating_factors: left posterior cross bite tendency | right posterior crossbite tendency
+headache_intensity: present
+tmj_pain_rating: 0
+sleep_disorder_type: daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B017
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc medially displaced 
+pain_aggravating_factors: orthodontics
