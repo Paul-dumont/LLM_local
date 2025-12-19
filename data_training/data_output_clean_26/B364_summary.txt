@@ -1,0 +1,26 @@
+patient_id: B364
+patient_age: 30
+maximum_opening: 57mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+pain_aggravating_factors: unknown
+earache_present: unknown
+airway_obstruction_present: true
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | right tmj | right tmj
+muscle_pain_score: unknown
+headache_location: unknown
+average_daily_pain_intensity: 0
+headache_intensity: 0
+pain_onset_date: about age of 20
+tmj_pain_rating: 2
+current_medications: propecia | asmanex inhaler
+disc_displacement: left disc anteriorl dislocation with reduction | right disc anterior dislocation with early reduction muscle_tenderness_present: false | left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: unknown

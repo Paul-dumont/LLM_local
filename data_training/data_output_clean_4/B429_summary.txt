@@ -1,0 +1,4 @@
+headache_frequency: daily | continuous
+migraine_history: unknown
+headache_location: top of the head toward the posterior aspect of the top
+headache_intensity: 5, at 10 when bad headache occurs | severe

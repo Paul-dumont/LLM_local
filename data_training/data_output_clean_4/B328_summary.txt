@@ -1,0 +1,4 @@
+headache_frequency: unknown
+migraine_history: unknown
+headache_location: right frontal | right temporal | right posterior head
+headache_intensity: 5 can escalate to 8

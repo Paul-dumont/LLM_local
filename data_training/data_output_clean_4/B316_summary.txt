@@ -1,0 +1,4 @@
+headache_frequency: unknown
+migraine_history: unknown
+headache_location: frontal | temple | posterior head
+headache_intensity: 4 but can escalate to 10 | present

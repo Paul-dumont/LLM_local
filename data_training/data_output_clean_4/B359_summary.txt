@@ -1,0 +1,4 @@
+headache_frequency: three times a week
+migraine_history: unknown
+headache_location: left frontal | right frontal | left temporal | right temporal
+headache_intensity: 9 | severe

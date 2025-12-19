@@ -1,0 +1,4 @@
+headache_frequency: wakes up with headaches at least 50% of the time
+migraine_history: true
+headache_location: unknown
+headache_intensity: severe | present

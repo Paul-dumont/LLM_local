@@ -1,0 +1,14 @@
+patient_id: B413
+patient_age: 20
+maximum_opening: unknown
+diet_score: 0
+disability_rating: 2
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: present
+tmj_pain_rating: 4
+disc_displacement: left disc dislocation | right disc dislocation | left disc medial dislocation | right disc medial dislocation
+joint_arthritis_location: unknown
+joint_pain_areas: tmj | left tmj | right tmj

@@ -1,0 +1,14 @@
+patient_id: B462
+patient_age: 25
+maximum_opening: 45mm
+diet_score: 1
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+headache_intensity: temple
+tmj_pain_rating: 5
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj

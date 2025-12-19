@@ -1,0 +1,14 @@
+patient_id: B463
+patient_age: 14
+maximum_opening: 21mm
+diet_score: 9
+disability_rating: 8
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 7 or 8 | present
+tmj_pain_rating: 9
+disc_displacement: left disc dislocation possibly nonreducing | right disc dislocation possibly nonreducing | left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj | foot | ankle | hips

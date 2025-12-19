@@ -1,0 +1,26 @@
+patient_id: B025
+patient_age: 13
+maximum_opening: 51mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: standing up | getting up | lying down
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: left tmj
+muscle_pain_score: unknown
+headache_location: frontal | temporal
+average_daily_pain_intensity: unknown
+headache_intensity: 3
+pain_onset_date: unknown
+tmj_pain_rating: 0
+current_medications: unknown
+disc_displacement: left disc anteriorly displaced | left disc anteriorly displaced with reduction | right disc anteriorly displaced with early reduction
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics second grade through the fifth grade | head gear for 1-1/2 years
+joint_pain_areas: none

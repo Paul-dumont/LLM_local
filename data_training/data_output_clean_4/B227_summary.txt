@@ -1,0 +1,4 @@
+headache_frequency: couple times a month
+migraine_history: unknown
+headache_location: frontal
+headache_intensity: present

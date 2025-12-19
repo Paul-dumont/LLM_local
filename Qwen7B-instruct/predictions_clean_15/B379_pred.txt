@@ -1,0 +1,14 @@
+patient_id: B379
+patient_age: 20
+maximum_opening: 49mm
+diet_score: 2
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 4 | present
+tmj_pain_rating: 3
+disc_displacement: left disc anteromedially dislocated | right disc anteriorly dislocated without reduction | left disc anteriorly displaced with early reduction | right disc anteriorly dislocated without reduction
+joint_arthritis_location: right tmj
+joint_pain_areas: tmj

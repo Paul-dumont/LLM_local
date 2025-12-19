@@ -1,0 +1,26 @@
+patient_id: B260
+patient_age: 39
+maximum_opening: 30mm | 35mm | 43mm
+diet_score: 3
+disability_rating: 1
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: clenching | clenching | bruxism
+earache_present: true
+airway_obstruction_present: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+muscle_pain_score: moderate, high moderate to low severe
+headache_location: unknown
+average_daily_pain_intensity: 5
+headache_intensity: 0 | 9 | present
+pain_onset_date: 12 years ago
+tmj_pain_rating: 0 | 7
+current_medications: klonopin | vitamins | motrin | advil | lortab | zofran | darvocet-n | phenergan | lomotil | cipro | none
+disc_displacement: left disc anterior displacement | right disc anterior displacement | left disc dislocation with early reduction | right disc dislocation with early reduction
+muscle_pain_location: left cheek | left styloid area | left masseter | left medial pterygoid | styloid areas | posterior neck | temporalis | masseters | medial pterygoids | scms | shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: at least two to three previous rounds of orthodontics
+joint_pain_areas: tmj | left tmj | right tmj | neck

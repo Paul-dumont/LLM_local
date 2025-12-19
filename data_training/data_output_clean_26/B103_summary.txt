@@ -1,0 +1,26 @@
+patient_id: B103
+patient_age: 34
+maximum_opening: 47mm
+diet_score: 3
+disability_rating: 7
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: open bite | clenching | bruxism
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: unknown
+muscle_pain_score: unknown
+headache_location: left temporal | right temporal
+average_daily_pain_intensity: 8
+headache_intensity: 7 | present
+pain_onset_date: age of 14
+tmj_pain_rating: 8
+current_medications: lexapro | advil
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reductionmuscle_pain_score: mild
+muscle_pain_location: temporalis | masseters | medial pterygoids | scms
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: left tmj | right tmj | left tmj| right tmj | wrists | neck

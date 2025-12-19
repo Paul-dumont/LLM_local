@@ -1,0 +1,14 @@
+patient_id: B475
+patient_age: 36
+maximum_opening: 49mm
+diet_score: 0
+disability_rating: 1
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: false
+earache_present: false
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: left disc anteromedially displaced with reduction | right disc anterolaterally displaced with reduction | left disc dislocation with reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | finger | left tmj | right tmj

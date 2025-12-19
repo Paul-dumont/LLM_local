@@ -1,0 +1,26 @@
+patient_id: B073
+patient_age: 18
+maximum_opening: 29mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: unknown
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: unknown
+headache_location: temporal | frontal
+average_daily_pain_intensity: 8
+headache_intensity: 4 | present
+pain_onset_date: 12 years of age
+tmj_pain_rating: 9
+current_medications: estronest fe
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: unknown
+joint_arthritis_location: unknown
+appliance_history: orthodontics from the age of 11 to 13
+joint_pain_areas: tmj | left tmj | right tmj

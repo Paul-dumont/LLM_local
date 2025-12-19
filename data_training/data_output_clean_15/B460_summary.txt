@@ -1,0 +1,14 @@
+patient_id: B460
+patient_age: 30
+maximum_opening: 28mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+headache_intensity: 5 | severe
+tmj_pain_rating: 8 but can escalate to 10 | severe
+disc_displacement: left disc dislocation | right disc dislocation | left disc displaced at the lateral aspect of the joint but in a more normal position medially | right disc anteriorly displaced at the lateral aspect of the joint
+joint_arthritis_location: unknown
+joint_pain_areas: tmj | left tmj | left tmj | right tmj

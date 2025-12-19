@@ -1,0 +1,4 @@
+headache_frequency: unknown
+migraine_history: unknown
+headache_location: unknown
+headache_intensity: 8 on the left and 6 on the right | severe

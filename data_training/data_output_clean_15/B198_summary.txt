@@ -1,0 +1,14 @@
+patient_id: B198
+patient_age: 15
+maximum_opening: 28mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 5
+tinnitus_present: unknown
+vertigo_present: unknown
+earache_present: unknown
+headache_intensity: 0
+tmj_pain_rating: 1
+disc_displacement: unknown
+joint_arthritis_location: unknown
+joint_pain_areas: right tmj

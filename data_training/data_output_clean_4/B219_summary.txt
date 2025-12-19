@@ -1,0 +1,4 @@
+headache_frequency: 2 or 3 times per week
+migraine_history: unknown
+headache_location: posterior head area
+headache_intensity: 5

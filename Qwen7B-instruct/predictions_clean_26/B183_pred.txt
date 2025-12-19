@@ -1,0 +1,26 @@
+patient_id: B183
+patient_age: 57
+maximum_opening: 45mm
+diet_score: 8
+disability_rating: 8
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+airway_obstruction_present: false
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: very high moderate to low severe
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 8
+headache_intensity: 8 | present
+pain_onset_date: unknown
+tmj_pain_rating: 8
+current_medications: synthroid | zocor | singulair | motrin | ambien
+disc_displacement: left disc anterior displacement | right disc dislocation | right disc may be in reasonable position
+muscle_pain_location: temporalis | masseters | scms | posterior neck | shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics at age 51 | orthognathic surgery 5 years ago
+joint_pain_areas: tmj | left tmj | right tmj

@@ -1,0 +1,26 @@
+patient_id: B412
+patient_age: 11
+maximum_opening: 42mm
+diet_score: unknown
+disability_rating: unknown
+jaw_function_score: unknown
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: unknown
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: unknown
+muscle_pain_score: mild
+headache_location: frontal | temporal
+average_daily_pain_intensity: 3 but it can escalate to 7
+headache_intensity: 5 | present
+pain_onset_date: about a year to a year-and-a-half ago
+tmj_pain_rating: 0
+current_medications: naproxen
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: masseters | medial pterygoid areas
+joint_arthritis_location: unknown
+appliance_history: unknown
+joint_pain_areas: tmj | left tmj

@@ -1,0 +1,14 @@
+patient_id: B377
+patient_age: 15
+maximum_opening: unknown
+diet_score: 6
+disability_rating: 4
+jaw_function_score: 4
+tinnitus_present: unknown
+vertigo_present: unknown
+earache_present: unknown
+headache_intensity: 5 | present
+tmj_pain_rating: 7
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement | left disc dislocation without reduction | left disc dislocation without reduction muscle_pain_score: moderate to high moderate
+joint_arthritis_location: left tmj | left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj | left ankle

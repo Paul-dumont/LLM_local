@@ -1,0 +1,14 @@
+patient_id: B200
+patient_age: 26
+maximum_opening: 42mm
+diet_score: 6
+disability_rating: 4
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+earache_present: unknown
+headache_intensity: 5
+tmj_pain_rating: 4
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction | left disc medial and anterior displacement without reduction | right disc medial and anterior displacement without reduction
+joint_arthritis_location: left tmj | right tmj | left tmj | right tmjearache_present: true
+joint_pain_areas: right tmj

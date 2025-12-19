@@ -1,0 +1,26 @@
+patient_id: B285
+patient_age: 18
+maximum_opening: 54mm
+diet_score: 3
+disability_rating: 3 can be 8 with severe headache
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: anterior open bite | clenching | bruxism | left posterior cross bite | right posterior cross bite | anterior open bite
+earache_present: unknown
+airway_obstruction_present: true
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: unknown
+headache_location: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: 5 daily or 9 several times a month | present
+pain_onset_date: 3 years ago
+tmj_pain_rating: 2
+current_medications: excedrin | motrin
+disc_displacement: left disc dislocation with early reduction | right disc dislocation with early reduction | left disc medial and anterior displacement with reduction | right disc medial and anterior and posterior  displacement with reduction | left disc posterior displacement | right disc posterior displacement
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj | left tmj | right tmjearache_present: false | right tmj
+appliance_history: orthodontics from 11 to 12 for 2 years
+joint_pain_areas: tmj | hips

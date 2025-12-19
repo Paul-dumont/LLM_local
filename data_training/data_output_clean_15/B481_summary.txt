@@ -1,0 +1,14 @@
+patient_id: B481
+patient_age: 54
+maximum_opening: 57mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+earache_present: true
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: left disc dislocation in medial direction | left disc displaced medially
+joint_arthritis_location: left tmj
+joint_pain_areas: cervical vertebrae | thumbs | left hip

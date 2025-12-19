@@ -1,0 +1,14 @@
+patient_id: B070
+patient_age: 31
+maximum_opening: 36mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 5 | present
+tmj_pain_rating: 2
+disc_displacement: left anterior inferior displacement of the articular disc | right articular disc anteriorly displaced without reduction | right disc anterior inferior dislocation | left disc anterior inferior dislocation
+joint_arthritis_location: right tmj
+joint_pain_areas: tmj | hips

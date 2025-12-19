@@ -1,0 +1,14 @@
+patient_id: 21 | B416
+patient_age: unknown
+maximum_opening: 28mm
+diet_score: 6
+disability_rating: 8
+jaw_function_score: 8
+tinnitus_present: unknown
+vertigo_present: true
+earache_present: true
+headache_intensity: 0
+tmj_pain_rating: 2
+disc_displacement: left disc possible medial displacement | right disc dislocation without reduction | right articular disc dislocation without reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: right tmj

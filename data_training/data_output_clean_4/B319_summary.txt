@@ -1,0 +1,4 @@
+headache_frequency: periodic
+migraine_history: unknown
+headache_location: temporal
+headache_intensity: 8

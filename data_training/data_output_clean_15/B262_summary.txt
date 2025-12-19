@@ -1,0 +1,14 @@
+patient_id: B262
+patient_age: 29
+maximum_opening: 19mm
+diet_score: 6
+disability_rating: 7
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 8 in the left, 5 in the right | severe
+tmj_pain_rating: 9 | severe
+disc_displacement: left disc dislocation with closed lock | right disc dislocation with closed lock | left disc vertical dislocation with early reduction | right disc dislocation with early reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: shoulders jaw joints | back | neck | elbows | wrists | fingers | hips | knees | ankles |feet | toes

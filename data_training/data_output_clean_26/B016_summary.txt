@@ -1,0 +1,26 @@
+patient_id: B016
+patient_age: 38
+maximum_opening: 53mm
+diet_score: 0
+disability_rating: 3
+jaw_function_score: 1
+tinnitus_present: unknown
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: left posterior crossbite
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+muscle_pain_score: minimal
+headache_location: frontal | temporal | top of the head
+average_daily_pain_intensity: 1
+headache_intensity: 4 | present
+pain_onset_date: 17 years old
+tmj_pain_rating: 2
+current_medications: lipitor | asa
+disc_displacement: left disc anterior dislocation with early reduction | left disc dislocation with early reduction
+muscle_pain_location: masseter | styloid areas
+joint_arthritis_location: unknown
+appliance_history: orthodontics ages 34 to 38
+joint_pain_areas: tmj | back | neck

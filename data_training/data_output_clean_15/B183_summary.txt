@@ -1,0 +1,14 @@
+patient_id: B183
+patient_age: 57
+maximum_opening: 45mm
+diet_score: 8
+disability_rating: 8
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 8 | present
+tmj_pain_rating: 8
+disc_displacement: left disc posterior displacementmuscle_pain_score: high moderate to low severe
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

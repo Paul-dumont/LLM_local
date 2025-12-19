@@ -1,0 +1,14 @@
+patient_id: B130
+patient_age: 26
+maximum_opening: 56mm
+diet_score: 5
+disability_rating: 3
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 8 | present
+tmj_pain_rating: 5
+disc_displacement: left disc anteromedial dislocation with early reduction | right disc anterior dislocation with early reduction | left disc dislocation with early reduction | right disc dislocation with early reduction
+joint_arthritis_location: unknown
+joint_pain_areas: tmj | back | left tmj

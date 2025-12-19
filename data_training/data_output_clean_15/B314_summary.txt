@@ -1,0 +1,14 @@
+patient_id: B314
+patient_age: 12
+maximum_opening: 54mm | 59mm
+diet_score: unknown
+disability_rating: unknown
+jaw_function_score: unknown
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: right disc anterior and medial displacement with reduction | right disc anterior or medial displacement
+joint_arthritis_location: right tmj
+joint_pain_areas: unknown

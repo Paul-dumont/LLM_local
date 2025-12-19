@@ -1,0 +1,14 @@
+patient_id: B499
+patient_age: 60
+maximum_opening: unknown
+diet_score: 5
+disability_rating: 9
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 8
+tmj_pain_rating: 8
+disc_displacement: left disc anteriorly and laterally displaced | right disc anteriorly and laterally displaced | left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | left tmj | right tmj
+joint_pain_areas: left tmj | right tmj | left leg | left side of her foot | right shoulder | hip

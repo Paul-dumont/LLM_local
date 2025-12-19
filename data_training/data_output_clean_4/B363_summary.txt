@@ -1,0 +1,4 @@
+headache_frequency: 2 to 3 times per month
+migraine_history: unknown
+headache_location: frontal | temporal
+headache_intensity: 4 | present

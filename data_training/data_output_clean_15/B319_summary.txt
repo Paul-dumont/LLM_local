@@ -1,0 +1,14 @@
+patient_id: B319
+patient_age: 12
+maximum_opening: 57mm
+diet_score: 1
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: unknown
+vertigo_present: unknown
+earache_present: unknown
+headache_intensity: 8
+tmj_pain_rating: 0
+disc_displacement: right disc anterior dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: unknown

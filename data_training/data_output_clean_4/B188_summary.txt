@@ -1,0 +1,4 @@
+headache_frequency: constant and progress during the day
+migraine_history: unknown
+headache_location: left | temporal | frontal | posterior head
+headache_intensity: 9 | present | severe

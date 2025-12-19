@@ -1,0 +1,26 @@
+patient_id: B015
+patient_age: 15
+maximum_opening: 36mm
+diet_score: 4
+disability_rating: 3
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: anterior open bite | clenching | bruxism
+earache_present: true
+airway_obstruction_present: false | true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: unknown
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 2
+headache_intensity: 4 but can escalate to 8
+pain_onset_date: age of 13 or even before
+tmj_pain_rating: 3
+current_medications: unknown
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced without reduction | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: occlusal splint 1 year and 4 months ago, with adjustments every 3 months
+joint_pain_areas: knees | right ankle | left tmj

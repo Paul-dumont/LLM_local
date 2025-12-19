@@ -1,0 +1,14 @@
+patient_id: B083
+patient_age: 20
+maximum_opening: 48mm
+diet_score: 6
+disability_rating: 5
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 9 | present
+tmj_pain_rating: 6
+disc_displacement: left disc dislocation without reduction | right disc anteriorly displaced with partial reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: ankles | back | right tmj

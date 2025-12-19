@@ -1,0 +1,4 @@
+headache_frequency: daily
+migraine_history: unknown
+headache_location: temporal
+headache_intensity: 6 | present

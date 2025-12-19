@@ -1,0 +1,26 @@
+patient_id: B476
+patient_age: 45
+maximum_opening: unknown
+diet_score: 2
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: unknown
+pain_aggravating_factors: clenching
+earache_present: true
+airway_obstruction_present: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontotemporal | posterior head
+average_daily_pain_intensity: 8
+headache_intensity: 9 frequently to 10
+pain_onset_date: 18 years ag
+tmj_pain_rating: 8
+current_medications: esterase | estratest hs | lunesta | vicodin
+disc_displacement: left disc anteriorly and laterally dislocated with reduction | right disc anteriorly displaced at the lateral aspect of the joint | left disc dislocation with reduction | right disc medially and anteriorly displaced with reduction
+muscle_pain_location: scms | posterior neck | left medial pterygoid | masseters | styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint therapy since 15 years ago by four different doctors
+joint_pain_areas: knees | her hips | left tmj | right tmj

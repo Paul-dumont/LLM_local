@@ -1,0 +1,14 @@
+patient_id: B367
+patient_age: 32
+maximum_opening: 53mm
+diet_score: 4
+disability_rating: 3
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: false
+earache_present: true
+headache_intensity: 6 | present
+tmj_pain_rating: 7
+disc_displacement: left disc lateral displacement with medial aspect of the disc being almost over the center of the condyle | right disc lateral displacement | left disc lateral displacement | right disc lateral displacement
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

@@ -1,0 +1,14 @@
+patient_id: B459
+patient_age: 17
+maximum_opening: 38mm
+diet_score: 7
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: left disc dislocation with reduction | left disc dislocation with reduction
+joint_arthritis_location: unknown
+joint_pain_areas: unknown

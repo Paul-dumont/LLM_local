@@ -1,0 +1,26 @@
+patient_id: B491
+patient_age: 14
+maximum_opening: 42mm
+diet_score: 2
+disability_rating: 3 | 8 relative to playing sports
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: eating | exercise
+earache_present: false
+airway_obstruction_present: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: moderate
+headache_location: unknown
+average_daily_pain_intensity: 6 but can escalate to 9
+headache_intensity: 0
+pain_onset_date: last year
+tmj_pain_rating: 6 but can escalate to 9
+current_medications: fish oil | folic acid | cilantro | aleve | zanaflex | spironolactone | doxycycline | topical mask wash
+disc_displacement: unknown
+muscle_pain_location: masseters | right retromandibular area | left retromandibular area
+joint_arthritis_location: unknown
+appliance_history: orthodontics in the third grade and seventh grade | orthodontics following the accident beginning last year
+joint_pain_areas: left tmj | right tmj | right tmj

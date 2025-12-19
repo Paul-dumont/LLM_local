@@ -1,0 +1,4 @@
+headache_frequency: unknown
+migraine_history: unknown
+headache_location: frontal
+headache_intensity: 2 but can escalate to 7 | present

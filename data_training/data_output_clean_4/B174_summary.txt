@@ -1,0 +1,4 @@
+headache_frequency: one to two times a month | twice a month
+migraine_history: unknown
+headache_location: right temporal | back of head | right temporal | back of the head
+headache_intensity: 5 | present

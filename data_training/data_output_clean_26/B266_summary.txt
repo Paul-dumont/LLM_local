@@ -1,0 +1,26 @@
+patient_id: B266
+patient_age: 17
+maximum_opening: 30mm
+diet_score: 6 | 7
+disability_rating: 6 | 7
+jaw_function_score: 8
+tinnitus_present: false | true
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: unknown
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: unknown
+muscle_pain_score: moderate to low severe | moderate to very high moderate
+headache_location: frontal | temporal | temporal | frontal
+average_daily_pain_intensity: 5 | 9
+headache_intensity: 6 | 6, can escalate to 10 | present
+pain_onset_date: unknown
+tmj_pain_rating: 7 | 8
+current_medications: omnicef | motrin | prevacid
+disc_displacement: left disc dislocation without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc anterior displacement without reduction
+muscle_pain_location: temporalis | masseters | medial pterygoids | styloid areas | scms | posterior neck | shoulder | temporalis | masseters | styloid areas | medial pterygoids | shoulders
+joint_arthritis_location: left tmj | right tmj | right tmj
+appliance_history: orthodontics 9 years ago until last year
+joint_pain_areas: tmj | left tmj | right tmj | left tmj | right tmj | knees | ankles | shoulders | ankles | feet | neck

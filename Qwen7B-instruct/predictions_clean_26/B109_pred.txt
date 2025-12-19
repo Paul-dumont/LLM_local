@@ -1,0 +1,26 @@
+patient_id: B109
+patient_age: 37
+maximum_opening: 45mm
+diet_score: 3
+disability_rating: 4
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: anterior cross bite | right lateral incisor and cuspid
+earache_present: true
+airway_obstruction_present: false | true
+muscle_symptoms_present: true
+jaw_clicking: unknown
+muscle_pain_score: high moderate to moderate
+headache_location: throughout her head
+average_daily_pain_intensity: 7
+headache_intensity: 6 | present
+pain_onset_date: 15 years of age
+tmj_pain_rating: 6
+current_medications: synthroid | t3 | flonase | lunesta | hydrocortisone
+disc_displacement: left disc medial displacement with reduction | right disc anterior and laterally displaced with reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: most of the head and neck area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from about the age of 12 to 13 for about a year and then from about 16 to 18 | 5 splints
+joint_pain_areas: tmj | hands | fingers | toes | feet | knees | wrists | neck | left tmj | right tmj

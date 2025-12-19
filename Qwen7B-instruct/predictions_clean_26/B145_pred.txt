@@ -1,0 +1,26 @@
+patient_id: B145
+patient_age: 20
+maximum_opening: unknown
+diet_score: unknown
+disability_rating: unknown
+jaw_function_score: unknown
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+pain_aggravating_factors: unknown
+earache_present: unknown
+airway_obstruction_present: true
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: unknown
+headache_location: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: 0
+pain_onset_date: unknown
+tmj_pain_rating: 0
+current_medications: none
+disc_displacement: left disc anteromedial displacement with reduction | right disc anteromedial displacement with reduction
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 13 to 16
+joint_pain_areas: unknown

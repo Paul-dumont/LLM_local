@@ -1,0 +1,14 @@
+patient_id: B208
+patient_age: 43
+maximum_opening: 43mm
+diet_score: 3
+disability_rating: 6
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 7 | present
+tmj_pain_rating: 7
+disc_displacement: left disc anteriorly and laterally displaced with reduction | right disc anteriorly displaced, nonreducing and significantly deformed and degenerated
+joint_arthritis_location: right tmj | left tmj | right tmj
+joint_pain_areas: left tmj | right tmj | left tmj | right tmj | left knee | right ankle | right shoulder | wrists

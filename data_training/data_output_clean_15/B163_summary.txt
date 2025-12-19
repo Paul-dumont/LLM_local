@@ -1,0 +1,14 @@
+patient_id: B163
+patient_age: 15
+maximum_opening: 35mm
+diet_score: 0
+disability_rating: 7
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 8 | present
+tmj_pain_rating: 6 | 8
+disc_displacement: unknown
+joint_arthritis_location: right disc dislocation with reduction | left disc dislocation without reduction | right disc medial dislocation with reduction | left disc posterior dislocation without reduction
+joint_pain_areas: tmj | left tmj | right tmj

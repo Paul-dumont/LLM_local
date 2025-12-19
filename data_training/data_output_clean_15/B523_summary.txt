@@ -1,0 +1,14 @@
+patient_id: B523
+patient_age: 31
+maximum_opening: 40mm
+diet_score: 6
+disability_rating: 10
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: false
+earache_present: true
+headache_intensity: 7 | present
+tmj_pain_rating: 9
+disc_displacement: unknown
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | knees | left tmj | right tmj

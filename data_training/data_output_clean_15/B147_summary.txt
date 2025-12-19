@@ -1,0 +1,14 @@
+patient_id: B147
+patient_age: 16
+maximum_opening: unknown
+diet_score: 4
+disability_rating: 4
+jaw_function_score: 4 | 5
+tinnitus_present: false
+vertigo_present: false
+earache_present: false | true
+headache_intensity: 4 | 5
+tmj_pain_rating: 0
+disc_displacement: displaced discs | left disc posterior and medial displacement | right disc medial displacement | right disc anterior displacement | right disc medial displacement | left disc medial displacement
+joint_arthritis_location: unknown
+joint_pain_areas: knees | neck | soulders | none

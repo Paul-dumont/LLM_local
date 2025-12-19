@@ -1,0 +1,4 @@
+headache_frequency: every two weeks every two weeks
+migraine_history: unknown
+headache_location: frontal | temporal
+headache_intensity: level of 4 and on the left side at a level of 3 | present

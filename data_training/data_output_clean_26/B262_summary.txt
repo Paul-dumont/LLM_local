@@ -1,0 +1,26 @@
+patient_id: B262
+patient_age: 29
+maximum_opening: 19mm
+diet_score: 6
+disability_rating: 7
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: splint therapy
+earache_present: true
+airway_obstruction_present: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: jaw joints
+muscle_pain_score: severe
+headache_location: frontal |  temporal | posterior head
+average_daily_pain_intensity: 8
+headache_intensity: 8 in the left, 5 in the right | severe
+pain_onset_date: unknown
+tmj_pain_rating: 9 | severe
+current_medications: unknown
+disc_displacement: left disc dislocation with closed lock | right disc dislocation with closed lock | left disc vertical dislocation with early reduction | right disc dislocation with early reduction
+muscle_pain_location: temples
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics as a teenager | splint treatment | splint treatment x 4
+joint_pain_areas: shoulders jaw joints | back | neck | elbows | wrists | fingers | hips | knees | ankles |feet | toes

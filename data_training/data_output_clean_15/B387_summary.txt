@@ -1,0 +1,14 @@
+patient_id: B387
+patient_age: 45
+maximum_opening: 43mm
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 5 but this can escalate to 8
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 8 | severe
+tmj_pain_rating: 9 | severe
+disc_displacement: left disc anterior dislocation | right disc medial dislocation | left disc medial dislocation | right disc medial dislocation
+joint_arthritis_location: left tmj | left tmj | right tmj
+joint_pain_areas: tmj | neck | back | hips | left knee

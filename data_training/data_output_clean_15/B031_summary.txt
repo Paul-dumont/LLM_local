@@ -1,0 +1,14 @@
+patient_id: B031
+patient_age: 49
+maximum_opening: 25mm
+diet_score: 2
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 0
+tmj_pain_rating: 4
+disc_displacement: left disc medial dislocation | right disc medial dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: knees

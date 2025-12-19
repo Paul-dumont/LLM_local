@@ -1,0 +1,14 @@
+patient_id: B234
+patient_age: 37
+maximum_opening: 58mm
+diet_score: 5
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+earache_present: true
+headache_intensity: 3 | present
+tmj_pain_rating: 8
+disc_displacement: right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | knees | tmj

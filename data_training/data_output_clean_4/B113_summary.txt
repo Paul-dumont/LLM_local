@@ -1,0 +1,4 @@
+headache_frequency: unknown
+migraine_history: unknown
+headache_location: frontal | temporal | behind the eyes
+headache_intensity: 4

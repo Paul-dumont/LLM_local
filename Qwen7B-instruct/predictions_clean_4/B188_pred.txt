@@ -1,0 +1,4 @@
+headache_frequency: constant | morning | during the day
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head area
+headache_intensity: 9 | severe

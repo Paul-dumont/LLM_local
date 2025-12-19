@@ -1,0 +1,4 @@
+headache_frequency: one time per week
+migraine_history: unknown
+headache_location: behind the eyes | temporal
+headache_intensity: 8 | present

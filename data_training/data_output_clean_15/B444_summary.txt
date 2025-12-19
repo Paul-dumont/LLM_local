@@ -1,0 +1,14 @@
+patient_id: B444
+patient_age: 21
+maximum_opening: 27mm
+diet_score: 5
+disability_rating: 9
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 10 | severe
+tmj_pain_rating: 7 | severe
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced without reduction | left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | right tmj

@@ -1,0 +1,4 @@
+headache_frequency: one to two times per week
+migraine_history: true
+headache_location: frontal | temporal
+headache_intensity: present | range from 3 to 8 | severe

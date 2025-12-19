@@ -1,0 +1,14 @@
+patient_id: B391
+patient_age: 39
+maximum_opening: 28mm
+diet_score: 4
+disability_rating: 6
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: true
+earache_present: true
+headache_intensity: 7, can escalate to 10 | severe
+tmj_pain_rating: 6 | severe
+disc_displacement: unknown
+joint_arthritis_location: unknown
+joint_pain_areas: tmj | left tmj | right tmj

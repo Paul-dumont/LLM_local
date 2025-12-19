@@ -1,0 +1,26 @@
+patient_id: B170
+patient_age: 48
+maximum_opening: 50mm
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: unknown
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: unknown
+headache_location: temple area
+average_daily_pain_intensity: 4
+headache_intensity: 3 | present
+pain_onset_date: 11 years ago | 40 years ago
+tmj_pain_rating: 3
+current_medications: clarinex | zyrtec | singular | multivitamins | osteobiflex triple | bromelain | l-lysine
+disc_displacement: left disc anterior displacement with reduction | right disc anterior and medial displacement with reduction | left disc anterior displacement with reduction | right disc anterior displacement with reductionmuscle_pain_score: mild
+muscle_pain_location: left masseter | right masseter | styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: left tmj | right tmj | right shoulder | right knee

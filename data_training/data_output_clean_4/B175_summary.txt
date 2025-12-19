@@ -1,0 +1,4 @@
+headache_frequency: unknown
+migraine_history: unknown
+headache_location: throughout the head bilaterally
+headache_intensity: 4 | present

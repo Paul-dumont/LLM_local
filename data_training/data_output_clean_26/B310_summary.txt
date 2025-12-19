@@ -1,0 +1,26 @@
+patient_id: B310 | B310PATIENT_AGE: 14
+patient_age: 14
+maximum_opening: 42mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: unknown
+pain_aggravating_factors: left posterior cross bite | right posterior cross bite
+earache_present: false
+airway_obstruction_present: false | true
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: unknown
+headache_location: temple | posterior head
+average_daily_pain_intensity: unknown
+headache_intensity: 3
+pain_onset_date: at birth
+tmj_pain_rating: 0
+current_medications: none
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: palatal expander
+joint_pain_areas: unknown

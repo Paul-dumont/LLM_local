@@ -1,0 +1,26 @@
+patient_id: B381
+patient_age: 20
+maximum_opening: 42mm
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 8
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+pain_aggravating_factors: clenching | bruxism
+earache_present: unknown
+airway_obstruction_present: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: unknown
+headache_location: temporal
+average_daily_pain_intensity: 8
+headache_intensity: 6 | present
+pain_onset_date: 15 years old
+tmj_pain_rating: 8
+current_medications: femcon | lexapro | levothyroxine | singulair | zyrtec | minocycline
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction joint_pain_areas: tmj | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics x2 with the first time being from about the age 12 to 14 and the second time from approximately the age of 15 to 16
+joint_pain_areas: unknown

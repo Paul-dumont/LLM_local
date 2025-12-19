@@ -1,0 +1,26 @@
+patient_id: B192
+patient_age: 25
+maximum_opening: 43mm
+diet_score: 6
+disability_rating: 4
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: anterior open bite | clenching | bruxism
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: unknown
+muscle_pain_score: unknown
+headache_location: left temple area | right temple area
+average_daily_pain_intensity: 7
+headache_intensity: 8 | present
+pain_onset_date: age of 22
+tmj_pain_rating: 7
+current_medications: naproxen | excedrin | ibuprofen | yaz
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reductionmuscle_pain_score: moderate to mild
+muscle_pain_location: most of the head and neck | temporalis | posterior neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint therapy for 2 to 2.5 years
+joint_pain_areas: tmj | knees

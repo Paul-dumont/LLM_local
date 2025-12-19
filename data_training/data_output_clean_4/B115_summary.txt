@@ -1,0 +1,4 @@
+headache_frequency: once a week
+migraine_history: unknown
+headache_location: left temporal | left orbital | left frontal
+headache_intensity: 10 | present

@@ -1,0 +1,35 @@
+patient_id: B082
+maximum_opening_without_pain: unknown
+patient_age: 41
+maximum_opening: 43mm
+diet_score: 0
+disability_rating: unknown
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | right posterior cross bite | left posterior cross bite | anterior open bite | right posterior cross bite | left posterior cross bite | clenching
+physical_therapy_status: prolo injections from age 39 to 40 | physical therapy | chiropractic treatment about every two to three weeks
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+airway_obstruction_present: false
+headache_frequency: two times per week
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: severe to moderate
+headache_location: frontal | posterior head | sometimes in the temple areas
+current_appliance: splint for over two years
+average_daily_pain_intensity: 9
+headache_intensity: 9 | present
+pain_onset_date: two to three years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 5
+sleep_disorder_type: snoring
+current_medications: none
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation
+muscle_pain_location: posterior neck | left temporalis | masseter | styloid | scm | right shoulder
+joint_arthritis_location: left tmj | right tmj
+appliance_history: lower splint | upper splint | orthodontics for about 6 or 7 months last year
+joint_pain_areas: tmj | back | fingers | left tmj | right tmj

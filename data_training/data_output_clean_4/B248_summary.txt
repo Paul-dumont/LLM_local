@@ -1,0 +1,4 @@
+headache_frequency: 2 to 3 times a week
+migraine_history: unknown
+headache_location: frontal | temple | posterior head
+headache_intensity: 7; sometimes 10 with nausea | present

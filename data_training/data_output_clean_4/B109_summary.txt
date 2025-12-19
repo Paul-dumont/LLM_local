@@ -1,0 +1,4 @@
+headache_frequency: continuous
+migraine_history: unknown
+headache_location: throughout head
+headache_intensity: 6 | present

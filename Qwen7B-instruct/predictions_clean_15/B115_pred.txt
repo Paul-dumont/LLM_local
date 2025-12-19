@@ -1,0 +1,14 @@
+patient_id: B115
+patient_age: 39
+maximum_opening: unknown
+diet_score: 8
+disability_rating: 8
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+headache_intensity: 10 | present
+tmj_pain_rating: 1
+disc_displacement: unknown
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: knees | right elbow | left tmj | right tmj

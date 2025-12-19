@@ -1,0 +1,14 @@
+patient_id: B468
+patient_age: 17
+maximum_opening: 70mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: left disc anteriorly displaced without reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: unknown

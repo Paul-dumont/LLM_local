@@ -1,0 +1,4 @@
+headache_frequency: unknown
+migraine_history: unknown
+headache_location: temporal | posterior head
+headache_intensity: 2, can escalate up to 8 or 9

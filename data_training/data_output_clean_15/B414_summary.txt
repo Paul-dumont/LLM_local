@@ -1,0 +1,14 @@
+patient_id: B414
+patient_age: unknown
+maximum_opening: 36mm
+diet_score: 2
+disability_rating: 2
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 6
+tmj_pain_rating: 4
+disc_displacement: left disc anteriorly displaced with reduction| right disc anteriorly displaced with reduction | left disc anteriorly displaced with relatively early reduction| right disc anteriorly displaced with relatively early reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: knees | neck | back

@@ -1,0 +1,26 @@
+patient_id: B182
+patient_age: 47
+maximum_opening: 53mm
+diet_score: 5
+disability_rating: 7
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: moderate
+headache_location: left frontal | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 9 | present
+pain_onset_date: 40 years of age but worsened 3 years ago
+tmj_pain_rating: 7
+current_medications: prozac | headache medicine that the name is not available today
+disc_displacement: left disc anterior displacement with early reduction | right disc medial displacement with reduction | right disc medial displacement | left disc dislocation
+muscle_pain_location: temporalis | masseters | retromandibulars | scms | shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: 2 splints over past 6 years
+joint_pain_areas: left tmj | right tmj | lumbar spine | cervical spine

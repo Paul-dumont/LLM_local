@@ -1,0 +1,14 @@
+patient_id: B003
+patient_age: 28
+maximum_opening: 45mm
+diet_score: 6
+disability_rating: 3
+jaw_function_score: 9
+tinnitus_present: false
+vertigo_present: true
+earache_present: true
+headache_intensity: 7 | present
+tmj_pain_rating: 5
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | elbows | wrists | left tmj | right tmj

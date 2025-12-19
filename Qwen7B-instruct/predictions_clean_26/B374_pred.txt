@@ -1,0 +1,26 @@
+patient_id: B374
+patient_age: 38
+maximum_opening: 43mm
+diet_score: 3
+disability_rating: 9
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: clenching | anterior open bite | left posterior cross bite | right posterior cross bite | anterior cross bite tendency
+earache_present: true
+airway_obstruction_present: false
+muscle_symptoms_present: true
+jaw_clicking: unknown
+muscle_pain_score: unknown
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 10
+headache_intensity: 7 | present
+pain_onset_date: 16 years ago
+tmj_pain_rating: 9
+current_medications: amrix
+disc_displacement: left disc medial displacement | right disc anterior displacement without reduction | left disc medial displacement | right disc anterior displacement without reduction | right disc dislocation without reduction
+muscle_pain_location: shoulders | shoulder blades | abdomen | legs
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics at the age of 15 | orthodontics from 14 to 16 years ago | splints
+joint_pain_areas: tmj | left tmj | right tmj

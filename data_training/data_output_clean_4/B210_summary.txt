@@ -1,0 +1,4 @@
+headache_frequency: unknown
+migraine_history: unknown
+headache_location: left frontal | left temporal | posterior head and neck | top of head
+headache_intensity: 10 | severe

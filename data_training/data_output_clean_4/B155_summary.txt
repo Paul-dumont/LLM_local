@@ -1,0 +1,4 @@
+headache_frequency: constant
+migraine_history: unknown
+headache_location: throughout the head area
+headache_intensity: 7 | present

@@ -1,0 +1,14 @@
+patient_id: B171
+patient_age: 18
+maximum_opening: 66mm
+diet_score: 6
+disability_rating: 9
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: severe
+tmj_pain_rating: 10 | severe
+disc_displacement: right disc medial displacement | right disc medial displacement
+joint_arthritis_location: unknown
+joint_pain_areas: knees | spine | feet | left tmj | right tmj

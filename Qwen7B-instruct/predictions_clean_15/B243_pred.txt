@@ -1,0 +1,13 @@
+patient_id: B243
+patient_age: 47
+maximum_opening: 37mm
+diet_score: 4
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: false
+earache_present: true
+headache_intensity: 7 | present
+tmj_pain_rating: 9
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reductionmuscle_pain_score: moderate | right disc dislocation without reduction | left disc dislocation without reductionjoint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | right shoulder | right elbow | wrist | hand | finger | right tmj

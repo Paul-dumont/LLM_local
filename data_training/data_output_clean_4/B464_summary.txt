@@ -1,0 +1,4 @@
+headache_frequency: unknown
+migraine_history: unknown
+headache_location: left frontal | temporal | left-side
+headache_intensity: 3 | present

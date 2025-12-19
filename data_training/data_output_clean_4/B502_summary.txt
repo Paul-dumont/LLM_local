@@ -1,0 +1,4 @@
+headache_frequency: daily basis
+migraine_history: unknown
+headache_location: left frontal | left temple
+headache_intensity: 7 | present

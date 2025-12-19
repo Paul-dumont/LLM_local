@@ -1,0 +1,4 @@
+headache_frequency: unknown
+migraine_history: true
+headache_location: frontal | temporal | posterior head
+headache_intensity: 8 on the left side and 7 on the right side | present

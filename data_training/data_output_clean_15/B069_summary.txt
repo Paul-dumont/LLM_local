@@ -1,0 +1,14 @@
+patient_id: B069
+patient_age: 22
+maximum_opening: unknown
+diet_score: 6
+disability_rating: 8
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+earache_present: ture
+headache_intensity: 7 but almost always hit a level of 9 during the day | present
+tmj_pain_rating: 7
+disc_displacement: right tmj articular disc dislocation | left tmj articular disc dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: left tmj | right tmj | left shoulder | left hip | right shoulder

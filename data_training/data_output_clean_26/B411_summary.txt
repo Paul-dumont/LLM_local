@@ -1,0 +1,26 @@
+patient_id: B411
+patient_age: 14
+maximum_opening: 59mm
+diet_score: 1
+disability_rating: 1
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: anterior open bite | clenching
+earache_present: true
+airway_obstruction_present: false | true
+muscle_symptoms_present: true
+jaw_clicking: unknown
+muscle_pain_score: mild
+headache_location: frontal | temporal
+average_daily_pain_intensity: 5
+headache_intensity: 6
+pain_onset_date: unknown
+tmj_pain_rating: 5 but can escalate to 8
+current_medications: zyrtec | strattera
+disc_displacement: left disc medial dislocation | right disc anterior and medial displacement | left disc medial displacement
+muscle_pain_location: styloid areas
+joint_arthritis_location: unknown
+appliance_history: unknown
+joint_pain_areas: tmj | neck | elbows | left tmj | right tmj

@@ -1,0 +1,4 @@
+headache_frequency: continuous | continuous headache_location: left temporal | right temporal
+migraine_history: unknown
+headache_location: unknown
+headache_intensity: 5

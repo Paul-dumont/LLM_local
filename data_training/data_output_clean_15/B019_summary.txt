@@ -1,0 +1,14 @@
+patient_id: B019
+patient_age: 22
+maximum_opening: 56mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: unknown
+tmj_pain_rating: 4
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | foot

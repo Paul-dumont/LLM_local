@@ -4,8 +4,8 @@ from pathlib import Path
 import os, re, time, json, random
 import torch
 from datasets import Dataset, DatasetDict
-from transformers import AutoTokenizer, AutoModelForCausalLM
-from trl import SFTTrainer, SFTConfig
+from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments
+from trl import SFTTrainer
 
 # ==================== PARAMS ====================
 MODEL_ID    = "Qwen/Qwen2.5-7B-Instruct"
@@ -39,7 +39,7 @@ if torch.cuda.is_available():
 BASE_DIR     = Path(__file__).parent.parent  # /home/luciacev/Desktop/LLM
 TRAINING_DIR = BASE_DIR / "data_training"
 DATA_INPUT   = TRAINING_DIR / "data_input"
-DATA_OUTPUT  = TRAINING_DIR / "data_output_clean"
+DATA_OUTPUT  = TRAINING_DIR / "data_output_clean_4"
 MODEL_DIR    = Path(__file__).parent / "model"  # Sauvegarde dans Qwen2.5-7B-instruct/model
 MODEL_DIR.mkdir(parents=True, exist_ok=True)
 RUN_DIR      = MODEL_DIR / f"{MODEL_SHORT}_{time.strftime('%Y%m%d_%H%M%S')}_{os.getenv('SLURM_JOB_ID', 'local')}"
@@ -144,7 +144,7 @@ def load_model(tok):
 
 def sft_config():
     report_to = ["wandb"] if USE_WANDB else []
-    return SFTConfig(
+    return TrainingArguments(
         output_dir=str(RUN_DIR),
         logging_dir=str(RUN_DIR / "logs"),
         num_train_epochs=NUM_EPOCHS,
@@ -156,27 +156,22 @@ def sft_config():
         warmup_ratio=WARMUP_RATIO,
         lr_scheduler_type="cosine",
         max_grad_norm=1.0,
-        eval_strategy="steps",     # <- corrige "eval_strategy"
+        eval_strategy="steps",
         eval_steps=EVAL_STEPS,
         logging_strategy="steps",
         logging_steps=LOG_STEPS,
         save_strategy="steps",
         save_steps=SAVE_STEPS,
         save_total_limit=1,
-        load_best_model_at_end=False,    # évite un 2e chargement en mémoire
+        load_best_model_at_end=False,
         fp16=False,
-        bf16=True,                       # A100/L40S : OK
+        bf16=True,
         gradient_checkpointing=True,
         dataloader_pin_memory=True,
         dataloader_num_workers=0,
-        max_seq_length=MAX_SEQ_LEN,
-        packing=False,
-        dataset_text_field="text",
         report_to=report_to,
         run_name=f"{MODEL_SHORT}_{int(time.time())}" if USE_WANDB else None,
-        # Optimiseur VRAM-friendly: adafactor économise mémoire sans dépendre de bitsandbytes
         optim="adafactor",
-        adam_epsilon=1e-8,
     )
 
 def train_and_eval(model, tok, dset, cfg):
@@ -187,6 +182,9 @@ def train_and_eval(model, tok, dset, cfg):
         train_dataset=dset["train"],
         eval_dataset=dset["eval"],
         tokenizer=tok,
+        max_seq_length=MAX_SEQ_LEN,
+        packing=False,
+        dataset_text_field="text",
     )
     tr = trainer.train()
     print("✅ Training finished")

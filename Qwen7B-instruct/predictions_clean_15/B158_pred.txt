@@ -1,0 +1,14 @@
+patient_id: B158
+patient_age: 12
+maximum_opening: 32mm
+diet_score: 0
+disability_rating: 4
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: unknown
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: right wrist | right tmj | fingers | right tmj

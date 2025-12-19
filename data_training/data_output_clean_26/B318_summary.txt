@@ -1,0 +1,26 @@
+patient_id: B318
+patient_age: 14
+maximum_opening: 45mm
+diet_score: 4
+disability_rating: 1
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: left posterior crossbite tendency | right posterior crossbite tendency
+earache_present: false
+airway_obstruction_present: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+muscle_pain_score: mild
+headache_location: frontal | temple
+average_daily_pain_intensity: 3
+headache_intensity: 5 | present
+pain_onset_date: 4.5 years ago
+tmj_pain_rating: 5
+current_medications: advair | nasonex | doxycycl hyc | loratadine (claritin) | phenylephrine | ibuprofen | tylenol
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction | right disc medial and anterior displacement without reduction | left disc anterior displacement without reduction
+muscle_pain_location: styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics stage i 3 to 4 years ago for 18 months consisting of herbst appliance and palatal expander
+joint_pain_areas: tmj | left tmj | right tmj | right wrist

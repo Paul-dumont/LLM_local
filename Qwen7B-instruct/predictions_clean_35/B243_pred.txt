@@ -1,0 +1,35 @@
+patient_id: B243
+maximum_opening_without_pain: 20mm
+patient_age: 47
+maximum_opening: 37mm
+diet_score: 4
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: massage therapy
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: jewelry | medications
+airway_obstruction_present: true
+headache_frequency: daily
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: moderate
+headache_location: frontal | behind the eyes | temple
+current_appliance: orthodontics since 2 years ago
+average_daily_pain_intensity: 5
+headache_intensity: 7 | present
+pain_onset_date: 5 years ago
+jaw_crepitus: tmj
+tmj_pain_rating: 9
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea symptoms
+current_medications: paxil | synthroid | depo estrogen | xanax | flexeril | hydrocodone
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: masseters | styloid areas | medial pterygoids | posterior neck | shoulder areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: tmj | right shoulder | right elbow | wrists | hands | fingers

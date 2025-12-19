@@ -1,0 +1,4 @@
+headache_frequency: three to four times a month
+migraine_history: unknown
+headache_location: frontal | anterior part of the temple
+headache_intensity: 7 or 8 | present

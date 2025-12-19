@@ -1,0 +1,14 @@
+patient_id: B503
+patient_age: 30
+maximum_opening: 27mm
+diet_score: unknown
+disability_rating: unknown
+jaw_function_score: unknown
+tinnitus_present: unknown
+vertigo_present: unknown
+earache_present: true
+headache_intensity: present
+tmj_pain_rating: unknown
+disc_displacement: left disc anteriorly dislocated with early reduction | right disc anteriorly dislocated with early reduction | left disc anteriorly displaced | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj

@@ -1,0 +1,4 @@
+headache_frequency: almost on a daily basis
+migraine_history: unknown
+headache_location: frontal behind the eyes | temple
+headache_intensity: 7 | present

@@ -1,0 +1,4 @@
+headache_frequency: once a week
+migraine_history: unknown
+headache_location: behind right eye | frontal | temporal
+headache_intensity: present

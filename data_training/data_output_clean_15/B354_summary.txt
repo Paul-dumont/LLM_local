@@ -1,0 +1,14 @@
+patient_id: B354
+patient_age: 54
+maximum_opening: 35mm
+diet_score: 7
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 6 | present
+tmj_pain_rating: 6
+disc_displacement: unknown
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | back around l5 area | left shoulder | elbows | fingers | left foot | left great toe

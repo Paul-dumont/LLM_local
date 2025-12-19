@@ -1,0 +1,26 @@
+patient_id: B340
+patient_age: 59
+maximum_opening: 38 mm
+diet_score: 7
+disability_rating: 5
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+pain_aggravating_factors: anterior open bite | clenching | bruxism | anterior open bite
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: unknown
+muscle_pain_score: mild
+headache_location: back of the head | up towards the top | up towards the temple area
+average_daily_pain_intensity: 5
+headache_intensity: 7 | present
+pain_onset_date: 20 years ago
+tmj_pain_rating: 6
+current_medications: premarin | folic acid | detrol | celebrex | plaquenil | methotrexate | methocarbamol | darvocet
+disc_displacement: unknown
+muscle_pain_location: right temporalis | right shoulder
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splints for approximately 15 years
+joint_pain_areas: tmj | knees | neck | back | right shoulder | right elbow | wrists | hands | fingers | hips | left big toe

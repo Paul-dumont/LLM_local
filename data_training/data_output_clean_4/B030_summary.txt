@@ -1,0 +1,4 @@
+headache_frequency: unknown
+migraine_history: unknown
+headache_location: right side frontal | temporal | posterior head |tmj_pain_rating: 10
+headache_intensity: 9 | present

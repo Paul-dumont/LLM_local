@@ -1,0 +1,14 @@
+patient_id: B030
+patient_age: 49
+maximum_opening: 32mm
+diet_score: 9
+disability_rating: 9
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 9 | present
+tmj_pain_rating: unknown
+disc_displacement: left disc medial dislocation with reduction | right disc lateral and anterior dislocation with reduction
+joint_arthritis_location: unknown
+joint_pain_areas: tmj | knees | hands | right tmj

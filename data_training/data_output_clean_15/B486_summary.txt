@@ -1,0 +1,14 @@
+patient_id: B486
+patient_age: 35
+maximum_opening: 30mm
+diet_score: 10
+disability_rating: 9
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 8 | severe
+tmj_pain_rating: 10 | severe
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction | left disc nonreducing
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | right tmj | l3 and l4

@@ -1,0 +1,14 @@
+patient_id: B327
+patient_age: 12
+maximum_opening: 33mm
+diet_score: 5
+disability_rating: 6
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: present | range from 3 to 8 | severe
+tmj_pain_rating: 7
+disc_displacement: possible left disc lateral displacement | possible right disc lateral displacement
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: left tmj | right tmj | thumbs | left tmj | right tmj

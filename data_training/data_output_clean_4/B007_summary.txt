@@ -1,0 +1,4 @@
+headache_frequency: 5 out of 7 days
+migraine_history: unknown
+headache_location: temporal | posterior head
+headache_intensity: 6 | present

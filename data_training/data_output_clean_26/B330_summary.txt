@@ -1,0 +1,26 @@
+patient_id: B330
+patient_age: 17
+maximum_opening: 34mm
+diet_score: unknown
+disability_rating: unknown
+jaw_function_score: unknown
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+pain_aggravating_factors: unknown
+earache_present: unknown
+airway_obstruction_present: false
+muscle_symptoms_present: true
+jaw_clicking: unknown
+muscle_pain_score: mild
+headache_location: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: unknown
+pain_onset_date: 2 years ago
+tmj_pain_rating: unknown
+current_medications: nasonex | allegra
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: left masseter | left styloid
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 5 years to 2 years ago
+joint_pain_areas: tmj | left tmj | right tmj

@@ -1,0 +1,14 @@
+patient_id: B015
+patient_age: 15
+maximum_opening: 36mm
+diet_score: 4
+disability_rating: 3
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: false
+earache_present: true
+headache_intensity: 4 but can escalate to 8
+tmj_pain_rating: 3
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced without reduction | left disc dislocation without reduction | right disc dislocation without reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: knees | right ankle | left tmj

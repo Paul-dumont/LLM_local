@@ -1,0 +1,4 @@
+headache_frequency: last 2 to 3 weeks
+migraine_history: unknown
+headache_location: left frontal | left temporal | left side
+headache_intensity: 10 but today is 2 | 3 | 5 | present

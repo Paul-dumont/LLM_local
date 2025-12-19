@@ -1,0 +1,14 @@
+patient_id: B469
+patient_age: 35
+maximum_opening: 35mm
+diet_score: 5
+disability_rating: 6
+jaw_function_score: 5
+tinnitus_present: unknown
+vertigo_present: unknown
+earache_present: true
+headache_intensity: 4 but can escalate to 9 | present
+tmj_pain_rating: 3
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

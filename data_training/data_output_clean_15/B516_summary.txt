@@ -1,0 +1,14 @@
+patient_id: B516
+patient_age: 57
+maximum_opening: unknown
+diet_score: 4
+disability_rating: 7
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 7 | present
+tmj_pain_rating: 8
+disc_displacement: left disc anterior and medially displaced with early reduction | right disc anterior and medially displaced with early reduction | left disc dislocation with reduction | right disc anteriorly displaced with reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj | neck | left elbow | wrist | back  | knees  | ankles

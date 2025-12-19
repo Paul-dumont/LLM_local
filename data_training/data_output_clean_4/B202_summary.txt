@@ -1,0 +1,4 @@
+headache_frequency: every 4 or days and may go for a time without getting any
+migraine_history: unknown
+headache_location: frontal | temporal | top of head
+headache_intensity: 6

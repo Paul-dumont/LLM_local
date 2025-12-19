@@ -1,0 +1,26 @@
+patient_id: B296
+patient_age: 15
+maximum_opening: 43mm
+diet_score: unknown
+disability_rating: unknown
+jaw_function_score: unknown
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+pain_aggravating_factors: left posterior cross bite | right posterior cross bite
+earache_present: unknown
+airway_obstruction_present: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+muscle_pain_score: unknown
+headache_location: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: unknown
+pain_onset_date: unknown
+tmj_pain_rating: unknown
+current_medications: unknown
+disc_displacement: left disc anterior and medial dislocation with reduction | right disc dislocation with reduction muscle_pain_score: slight | left disc medial displacement
+muscle_pain_location: masseter muscles
+joint_arthritis_location: unknown
+appliance_history: orthodontics around 4th grade | orthodontics at age of 8 to 9 with class iii elastics
+joint_pain_areas: unknown

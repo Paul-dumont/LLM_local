@@ -1,0 +1,14 @@
+patient_id: B393
+patient_age: 58
+maximum_opening: 41mm
+diet_score: 8
+disability_rating: 5
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 9 | severe
+tmj_pain_rating: 9 | severe
+disc_displacement: right disc anterior dislocation without reduction
+joint_arthritis_location: left tmj | right tmj | right knee
+joint_pain_areas: tmj | left tmj | right tmj | neck | lumbar area of back | right elbow | right knee

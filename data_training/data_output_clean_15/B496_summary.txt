@@ -1,0 +1,14 @@
+patient_id: B496
+patient_age: 13
+maximum_opening: 50mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: left disc anterior displacement without reduction | right disc medial displacement
+joint_arthritis_location: left tmj
+joint_pain_areas: none

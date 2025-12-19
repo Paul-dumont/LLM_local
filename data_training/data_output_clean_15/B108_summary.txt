@@ -1,0 +1,14 @@
+patient_id: B108
+patient_age: 46
+maximum_opening: unknown
+diet_score: 3
+disability_rating: 0
+jaw_function_score: 3
+tinnitus_present: unknown
+vertigo_present: unknown
+earache_present: unknown
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: left disc anterior displacement | right disc anterior displacement | right disc anterior displacement
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: unknown

@@ -1,0 +1,26 @@
+patient_id: B469
+patient_age: 35
+maximum_opening: 35mm
+diet_score: 5
+disability_rating: 6
+jaw_function_score: 5
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+pain_aggravating_factors: ear candling | clenching | splint
+earache_present: true
+airway_obstruction_present: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: high moderate | present
+headache_location: frontal | temporal | posterior head area
+average_daily_pain_intensity: 5 but it can escalate to 9
+headache_intensity: 4 but can escalate to 9 | present
+pain_onset_date: 25 years ago
+tmj_pain_rating: 3
+current_medications: wellbutrin xl | advil | advil migraine
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: left temporalis | right styloid area | left scm | left styloid area | bilateral masseters | right medial pterygoid | left scm
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics 13 years ago | orthodontics 7 years ago | splin5
+joint_pain_areas: tmj | left tmj | right tmj

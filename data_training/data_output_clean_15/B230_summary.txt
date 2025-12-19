@@ -1,0 +1,14 @@
+patient_id: B230
+patient_age: 13
+maximum_opening: 48mm
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 0
+tmj_pain_rating: 7
+disc_displacement: left disc dislocation without reduction | left disc medial and anterior displacement without reduction
+joint_arthritis_location: left tmj | left tmj | right tmj
+joint_pain_areas: tmjpain_aggravating_factors: right posterior crossbite tendency

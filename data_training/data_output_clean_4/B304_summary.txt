@@ -1,0 +1,4 @@
+headache_frequency: unknown
+migraine_history: unknown
+headache_location: temporal | posterior head area
+headache_intensity: 9 | severe

@@ -1,0 +1,26 @@
+patient_id: B289
+patient_age: 13
+maximum_opening: 45mm
+diet_score: 1
+disability_rating: 1
+jaw_function_score: 3
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+pain_aggravating_factors: left posterior cross bite
+earache_present: unknown
+airway_obstruction_present: unknown
+muscle_symptoms_present: false
+jaw_clicking: unknown
+muscle_pain_score: unknown
+headache_location: frontal
+average_daily_pain_intensity: 1
+headache_intensity: 5
+pain_onset_date: unknown
+tmj_pain_rating: 3
+current_medications: adderall
+disc_displacement: right disc may be displaced
+muscle_pain_location: unknown
+joint_arthritis_location: right tmj
+appliance_history: maxillary expander | retainers
+joint_pain_areas: unknown

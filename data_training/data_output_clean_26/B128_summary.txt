@@ -1,0 +1,26 @@
+patient_id: B128
+patient_age: 22
+maximum_opening: unknown
+diet_score: 0
+disability_rating: 4
+jaw_function_score: 1
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+pain_aggravating_factors: anterior open bite | posterior buccal crossbite | anterior open bite
+earache_present: unknown
+airway_obstruction_present: true
+muscle_symptoms_present: unknown
+jaw_clicking: right tmj | left tmj
+muscle_pain_score: unknown
+headache_location: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: unknown
+pain_onset_date: unknown
+tmj_pain_rating: 0
+current_medications: unknown
+disc_displacement: left disc dislocation with reduction
+muscle_pain_location: unknown
+joint_arthritis_location: unknown
+appliance_history: orthodontics with expansion for 1 year and 9 months
+joint_pain_areas: unknown

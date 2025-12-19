@@ -1,0 +1,4 @@
+headache_frequency: daily | twice a week
+migraine_history: true
+headache_location: frontal |  temporal | posterior head
+headache_intensity: 8 in the left, 5 in the right | severe

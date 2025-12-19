@@ -1,0 +1,26 @@
+patient_id: B434
+patient_age: 30
+maximum_opening: 37mm | 40mm
+diet_score: 3
+disability_rating: 1
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: true
+airway_obstruction_present: false
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: moderate
+headache_location: temporal | frontal
+average_daily_pain_intensity: 5
+headache_intensity: 3 | present
+pain_onset_date: last year
+tmj_pain_rating: 5
+current_medications: celebrex | wellbutrin | yaz | klonopin | aleve
+disc_displacement: right disc anterior and posterior displacement
+muscle_pain_location: temporalis | posterior neck | masseters | medial pterygoids | styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: tmj | left tmj | right tmj | right knee | lower leg | left elbow, | right foot | back | finger

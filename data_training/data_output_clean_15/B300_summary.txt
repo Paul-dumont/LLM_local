@@ -1,0 +1,14 @@
+patient_id: B300
+patient_age: 34
+maximum_opening: 38mm
+diet_score: unknown
+disability_rating: unknown
+jaw_function_score: unknown
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: present
+tmj_pain_rating: unknown
+disc_displacement: left disc anterior displacement | right disc anterior displacement | left disc dislocation in vertical direction | right disc disloation with reductionmuscle_pain_score: severe
+joint_arthritis_location: joint_arthritis_location: | left tmj | right tmj
+joint_pain_areas: tmj | knees | left tmj | right tmj

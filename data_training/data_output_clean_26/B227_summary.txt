@@ -1,0 +1,26 @@
+patient_id: B227
+patient_age: 42
+maximum_opening: 35mm
+diet_score: 4
+disability_rating: 2
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: bruxism | orthodontic treatment at age of 33
+earache_present: true
+airway_obstruction_present: unknown
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+muscle_pain_score: mild
+headache_location: frontal
+average_daily_pain_intensity: unknown
+headache_intensity: present
+pain_onset_date: since 14 year of age
+tmj_pain_rating: 6, can escalate to 10 | severe
+current_medications: none
+disc_displacement: left disc dislocation | right disc dislocation | left disc dislocation | right disc dislocation without reduction
+muscle_pain_location: right styloid
+joint_arthritis_location: right tmj | left tmj
+appliance_history: orthodontics from age of 9 | appliance to wear at night at age of 22 | orthodontics at age of 33 for a year
+joint_pain_areas: tmj

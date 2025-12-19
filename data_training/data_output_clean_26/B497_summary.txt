@@ -1,0 +1,26 @@
+patient_id: B497
+patient_age: 14
+maximum_opening: 58mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+airway_obstruction_present: unknown
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: unknown
+headache_location: frontal | temporal | bilateral
+average_daily_pain_intensity: 6
+headache_intensity: 6 | present
+pain_onset_date: unknown
+tmj_pain_rating: 6
+current_medications: unknown
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior and lateral dislocation with reduction | left disc anteriorly dislocated without reduction | right disc anteriorly and laterally with reduction
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontic treatment 3 years and 4 months ago
+joint_pain_areas: tmj

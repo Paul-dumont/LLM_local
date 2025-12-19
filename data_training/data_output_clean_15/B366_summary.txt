@@ -1,0 +1,14 @@
+patient_id: B366
+patient_age: 30
+maximum_opening: 32mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+earache_present: true
+headache_intensity: 8 but can escalate to 10
+tmj_pain_rating: 8
+disc_displacement: left disc medial and lateral displacement | right disc medial displacement | left disc medial displacement | right disc medial displacementmuscle_pain_score: high moderate
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj | neck

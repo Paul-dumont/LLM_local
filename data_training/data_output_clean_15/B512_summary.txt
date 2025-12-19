@@ -1,0 +1,14 @@
+patient_id: B512
+patient_age: 20
+maximum_opening: 35mm
+diet_score: 6
+disability_rating: 2
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: false
+earache_present: false
+headache_intensity: 0
+tmj_pain_rating: 5
+disc_displacement: right disc anterior displacement | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: knees | ankles | right 4th finger | left tmj | right tmj

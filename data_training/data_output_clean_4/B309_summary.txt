@@ -1,0 +1,4 @@
+headache_frequency: one time per week
+migraine_history: unknown
+headache_location: temple | frontal | behind the eyes
+headache_intensity: 8

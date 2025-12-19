@@ -1,0 +1,14 @@
+patient_id: B494
+patient_age: unknown
+maximum_opening: 38mm
+diet_score: 4
+disability_rating: 8
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+earache_present: true
+headache_intensity: 8 | present
+tmj_pain_rating: 6
+disc_displacement: unknown
+joint_arthritis_location: true | left tmj | right tmj
+joint_pain_areas: tmj | knees | toes | fingers | neck

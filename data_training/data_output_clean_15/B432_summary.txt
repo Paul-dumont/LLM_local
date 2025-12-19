@@ -1,0 +1,14 @@
+patient_id: B432
+patient_age: 42
+maximum_opening: 37mm
+diet_score: 8
+disability_rating: 8
+jaw_function_score: 9
+tinnitus_present: unknown
+vertigo_present: unknown
+earache_present: unknown
+headache_intensity: 7
+tmj_pain_rating: 8
+disc_displacement: left disc anteriorly displaced without reduction  | right disc anterior dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: unknown

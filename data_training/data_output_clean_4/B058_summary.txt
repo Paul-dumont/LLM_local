@@ -1,0 +1,4 @@
+headache_frequency: unknown | used to occur at the same time every month, but has decreased significantly
+migraine_history: true
+headache_location: unknown
+headache_intensity: none

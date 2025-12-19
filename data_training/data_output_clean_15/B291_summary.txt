@@ -1,0 +1,14 @@
+patient_id: B291
+patient_age: 17
+maximum_opening: 54mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: unknown
+vertigo_present: unknown
+earache_present: unknown
+headache_intensity: 6 to 7 | 7 | present
+tmj_pain_rating: 0
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction | left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

@@ -1,0 +1,14 @@
+patient_id: B141
+patient_age: 33
+maximum_opening: 41mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: false
+earache_present: false
+headache_intensity: 2 | present
+tmj_pain_rating: 2
+disc_displacement: unknown
+joint_arthritis_location: right tmj | left tmj
+joint_pain_areas: tmj | shoulders | right ankle

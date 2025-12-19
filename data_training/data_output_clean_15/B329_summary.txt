@@ -1,0 +1,14 @@
+patient_id: B329
+patient_age: 52
+maximum_opening: unknown
+diet_score: unknown
+disability_rating: unknown
+jaw_function_score: unknown
+tinnitus_present: unknown
+vertigo_present: unknown
+earache_present: unknown
+headache_intensity: severe | present
+tmj_pain_rating: severe
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced without reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

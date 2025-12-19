@@ -1,0 +1,14 @@
+patient_id: B134
+patient_age: 47
+maximum_opening: 27mm
+diet_score: 8
+disability_rating: 10
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+earache_present: unknown
+headache_intensity: 7 | severe
+tmj_pain_rating: 10 | severe
+disc_displacement: left disc medial dislocation
+joint_arthritis_location: right tmj earache_present: true | right tmj | left tmj
+joint_pain_areas: right tmj | right tmj worse | left tmj

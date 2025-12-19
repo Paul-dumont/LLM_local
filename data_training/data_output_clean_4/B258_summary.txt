@@ -1,0 +1,4 @@
+headache_frequency: constant
+migraine_history: unknown
+headache_location: left side | left side of the face from temple and downward | left temple
+headache_intensity: severe | severe, 10

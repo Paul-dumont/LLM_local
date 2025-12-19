@@ -1,0 +1,26 @@
+patient_id: B458
+patient_age: 16
+maximum_opening: unknown
+diet_score: unknown
+disability_rating: unknown
+jaw_function_score: unknown
+tinnitus_present: unknown
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: right posterior crossbite
+earache_present: unknown
+airway_obstruction_present: true
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj
+muscle_pain_score: unknown
+headache_location: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: present
+pain_onset_date: unknown
+tmj_pain_rating: unknown
+current_medications: minocycline
+disc_displacement: left articular disc anterior dislocation without reduction | left disc dislocation in anterior medial direction without reduction | right articular disc dislocation
+muscle_pain_location: unknown
+joint_arthritis_location: right tmj | left tmj
+appliance_history: unknown
+joint_pain_areas: unknown

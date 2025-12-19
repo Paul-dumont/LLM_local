@@ -1,0 +1,4 @@
+headache_frequency: continuous
+migraine_history: unknown
+headache_location: temporal areas
+headache_intensity: 5 | present

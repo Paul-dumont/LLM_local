@@ -1,0 +1,14 @@
+patient_id: B148
+patient_age: 47
+maximum_opening: 48mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+headache_intensity: 5
+tmj_pain_rating: 5
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reductionmuscle_pain_location: temporalis
+joint_arthritis_location: right tmj | left tmj
+joint_pain_areas: knees | right hips | thumbs | right tmj | left tmj

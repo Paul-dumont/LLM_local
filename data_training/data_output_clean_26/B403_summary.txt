@@ -1,0 +1,26 @@
+patient_id: B403
+patient_age: 48
+maximum_opening: 45mm
+diet_score: 3
+disability_rating: 2
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: clenching | bruxism
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 5
+headache_intensity: 5 | present
+pain_onset_date: mid-80s
+tmj_pain_rating: 5
+current_medications: ambien | elavil | flexeril
+disc_displacement: left disc medial displacement | right disc dislocation | left disc medial displacement | right disc medial displacement
+muscle_pain_location: back | neck | elbow | thigh | tmj | masseter | styloid
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontic treatment as a child from 31 to 35 years ago | orthodontics with removable appliances | splint therapy from approximately 17 to 22 years ago
+joint_pain_areas: tmj | left tmj | right tmj

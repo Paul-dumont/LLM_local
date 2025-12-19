@@ -1,0 +1,4 @@
+headache_frequency: once every 2 weeks
+migraine_history: unknown
+headache_location: frontal | temple
+headache_intensity: 3 | 4 | present

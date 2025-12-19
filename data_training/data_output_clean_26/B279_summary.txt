@@ -1,0 +1,26 @@
+patient_id: B279
+patient_age: 48
+maximum_opening: 60mm
+diet_score: 1
+disability_rating: 1
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: clenching | bruxism | clenching | bruxism | splint
+earache_present: true
+airway_obstruction_present: false
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: frontal | temple
+average_daily_pain_intensity: 3
+headache_intensity: present
+pain_onset_date: unknown
+tmj_pain_rating: 3
+current_medications: allegra | zestoretic | lipitor | nasonex | aranelle
+disc_displacement: left disc anterior dislocation with early reduction | right disc anterior dislocation with early reduction | left disc anteriorly dislocated with early reduction | right disc anteriorly dislocated with early reduction
+muscle_pain_location: styloid | right masseter | posterior neck area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: knees | toes | left wrist | left tmj | right tmj

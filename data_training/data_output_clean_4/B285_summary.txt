@@ -1,0 +1,4 @@
+headache_frequency: daily
+migraine_history: unknown
+headache_location: unknown
+headache_intensity: 5 daily or 9 several times a month | present

@@ -1,0 +1,4 @@
+headache_frequency: continuous
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head
+headache_intensity: 6 on right and 4 on left side | present

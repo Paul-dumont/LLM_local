@@ -1,0 +1,14 @@
+patient_id: B140
+patient_age: 28
+maximum_opening: 43mm
+diet_score: 3
+disability_rating: 4
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 0
+tmj_pain_rating: 2
+disc_displacement: left disc displacement | right disc displacement
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: right tmj | left tmj

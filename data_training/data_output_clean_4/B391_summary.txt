@@ -1,0 +1,4 @@
+headache_frequency: constant
+migraine_history: unknown
+headache_location: frontal | temporal
+headache_intensity: 7, can escalate to 10 | severe

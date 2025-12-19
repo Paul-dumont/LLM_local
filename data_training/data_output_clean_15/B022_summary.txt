@@ -1,0 +1,14 @@
+patient_id: B022
+patient_age: 22
+maximum_opening: 47mm
+diet_score: 4
+disability_rating: 5
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 6 | present
+tmj_pain_rating: 6
+disc_displacement: left disc medial dislocation with reduction | right disc medial dislocation with reduction | left disc medial dislocation | right disc medial dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

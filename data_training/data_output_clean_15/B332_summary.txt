@@ -1,0 +1,14 @@
+patient_id: B332
+patient_age: 35
+maximum_opening: 46mm
+diet_score: 2
+disability_rating: 6
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+headache_intensity: 9 on the right | 8 on the left | present
+tmj_pain_rating: 6 | 8
+disc_displacement: left disc medial and anterior displacement with reduction with early reduction | right disc anterior displacement without reduction | left disc medial displacement | left disc medial displacement with reduction | right disc dislocation
+joint_arthritis_location: left tmj  | right tmj | right tmj
+joint_pain_areas: tmj | single foot joint

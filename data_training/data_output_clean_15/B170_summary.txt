@@ -1,0 +1,14 @@
+patient_id: B170
+patient_age: 48
+maximum_opening: 50mm
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 3 | present
+tmj_pain_rating: 3
+disc_displacement: left disc anterior displacement with reduction | right disc anterior and medial displacement with reduction | left disc anterior displacement with reduction | right disc anterior displacement with reductionmuscle_pain_score: mild
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: left tmj | right tmj | right shoulder | right knee

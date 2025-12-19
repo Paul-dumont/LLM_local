@@ -1,0 +1,14 @@
+patient_id: B431
+patient_age: 29
+maximum_opening: 68mm
+diet_score: 1
+disability_rating: 1
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+headache_intensity: 3 | present
+tmj_pain_rating: 1
+disc_displacement: right disc anteriorly displaced with early reduction
+joint_arthritis_location: unknown
+joint_pain_areas: left tmj | right tmj | left knee

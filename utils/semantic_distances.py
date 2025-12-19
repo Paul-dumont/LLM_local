@@ -28,65 +28,18 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 
 # Model configuration (short name used in prediction folder names)
 # Set `model` to the short model name (example: 'DeepSeek7B', 'Qwen1.5B', 'Mistral7B')
-model = 'Llama3-8B'
-model_folder = f"{model}-instruct"
+model = 'qwen'
+model_folder = 'Qwen7B-instruct'
 
 # Reference and prediction folders (repo-relative)
 REF_FOLDER = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
-PRED_FOLDER = str(REPO_ROOT / model_folder / 'predictions_clean')
+PRED_FOLDER = str(REPO_ROOT / model_folder / 'predictions_clean_4')
 
-# Define the 46 criteria - sorted by representation rate (highest to lowest)
-CRITERIA = [
-    "fibromyalgia_present",           # 97.60%
-    "pain_duration",                  # 94.80%
-    "depression_present",             # 93.40%
-    "pain_frequency",                 # 92.20%
-    "previous_medications",           # 87.80%
-    "pain_relieving_factors",         # 86.60%
-    "current_medications",            # 85.80%
-    "pain_aggravating_factors",       # 84.60%
-    "headache_frequency",             # 81.60%
-    "patient_age",                    # 81.20%
-    "headache_intensity",             # 79.80%
-    "onset_triggers",                 # 78.80%
-    "headache_location",              # 78.40%
-    "back_pain_present",              # 77.20%
-    "neck_pain_present",              # 75.60%
-    "average_daily_pain_intensity",   # 75.20%
-    "migraine_history",               # 72.80%
-    "jaw_locking",                    # 72.20%
-    "adverse_reactions",              # 70.40%
-    "muscle_pain_score",              # 68.80%
-    "sleep_disorder_type",            # 68.40%
-    "jaw_clicking",                   # 68.00%
-    "muscle_symptoms_present",        # 66.80%
-    "tmj_pain_rating",                # 65.60%
-    "tinnitus_present",               # 63.80%
-    "vertigo_present",                # 62.80%
-    "disc_displacement",              # 61.60%
-    "physical_therapy_status",        # 59.00%
-    "current_appliance",              # 58.60%
-    "appliance_history",              # 58.20%
-    "hearing_loss_present",           # 57.60%
-    "joint_pain_areas",               # 55.80%
-    "muscle_pain_location",           # 54.80%
-    "joint_arthritis_location",       # 53.20%
-    "earache_present",                # 50.40%
-    "jaw_crepitus",                   # 48.60%
-    "disability_rating",              # 47.80%
-    "jaw_function_score",             # 45.60%
-    "sleep_apnea_diagnosed",          # 45.00%
-    "airway_obstruction_present",     # 42.40%
-    "diet_score",                     # 39.40%
-    "maximum_opening",                # 25.00%
-    "maximum_opening_without_pain",   # 20.20%
-    "pain_onset_date",                # 11.00%
-    "autoimmune_condition",           # 8.20%
-    "patient_id"                      # 0.00%
-]
+# Will be dynamically extracted from data files
+CRITERIA = []
 
-# Optional: explicit ordering by semantic representation/rate (highest → lowest)
-SEMANTIC_ORDER = [
+# Preferred semantic order (highest → lowest representation)
+DEFINED_SEMANTIC_ORDER = [
     "patient_id",
     "patient_age",
     "headache_intensity",
@@ -135,7 +88,44 @@ SEMANTIC_ORDER = [
     "fibromyalgia_present",
 ]
 
+SEMANTIC_ORDER = []
+
 UNKNOWN_VARIATIONS = ["unknown", "unknow", "n/a", "na", "not available", "not provided", "none", ""]
+
+
+def extract_all_criteria(pred_folder):
+    """
+    Dynamically extract all criteria from prediction files.
+    Returns a list of criteria in the preferred semantic order, with any additional criteria at the end.
+    """
+    criteria_set = set()
+    
+    pred_path = Path(pred_folder)
+    
+    # Scan prediction files only
+    for pred_file in pred_path.glob("*_pred.txt"):
+        try:
+            with open(pred_file, 'r', encoding='utf-8') as f:
+                for line in f:
+                    if ':' in line:
+                        key = line.split(':', 1)[0].strip()
+                        if key:
+                            criteria_set.add(key)
+        except Exception as e:
+            print(f"⚠️  Error reading {pred_file}: {e}")
+    
+    # Sort by preferred semantic order
+    ordered_criteria = []
+    for criterion in DEFINED_SEMANTIC_ORDER:
+        if criterion in criteria_set:
+            ordered_criteria.append(criterion)
+            criteria_set.remove(criterion)
+    
+    # Add any remaining criteria not in DEFINED_SEMANTIC_ORDER (sorted alphabetically)
+    if criteria_set:
+        ordered_criteria.extend(sorted(list(criteria_set)))
+    
+    return ordered_criteria
 
 
 def is_unknown(value):
@@ -169,15 +159,18 @@ def semantic_similarity_distance(text1, text2):
         return 1.0 if text1.lower().strip() == text2.lower().strip() else 0.0
 
 
-def extract_criterion_from_file(filepath):
+def extract_criterion_from_file(filepath, criteria_list=None):
     """Extract criterion values from a prediction/reference file"""
     if not os.path.exists(filepath):
         return {}
     
+    if criteria_list is None:
+        criteria_list = CRITERIA
+    
     values = {}
     
     # Initialize all criteria with empty strings
-    for criterion in CRITERIA:
+    for criterion in criteria_list:
         values[criterion] = ""
     
     try:
@@ -191,8 +184,8 @@ def extract_criterion_from_file(filepath):
                 key, value = line.split(':', 1)
                 key = key.strip()
                 value = value.strip()
-                # Only store if it's a known criterion
-                if key in CRITERIA:
+                # Store any key found in the file
+                if key:
                     values[key] = value
     except Exception as e:
         print(f"Error reading {filepath}: {e}")
@@ -255,6 +248,8 @@ def compare_folders(ref_folder, pred_folder, filter_unknown=False):
 
 
 def main():
+    global CRITERIA, SEMANTIC_ORDER
+    
     # Continue even if semantic model not available (fallback to exact match)
     if not SEMANTIC_AVAILABLE:
         print("⚠️  Semantic model not available - using exact match fallback")
@@ -281,6 +276,12 @@ def main():
     
     print(f"\n📁 References: {ref_folder}")
     print(f"📁 Predictions: {pred_folder}\n")
+    
+    # Dynamically extract criteria from prediction files
+    print("🔍 Extracting criteria from prediction files...")
+    CRITERIA = extract_all_criteria(pred_folder)
+    SEMANTIC_ORDER = CRITERIA  # Ordered by preferred semantic representation
+    print(f"✅ Found {len(CRITERIA)} criteria\n")
     
     # ===== MODE 1: With unknowns =====
     

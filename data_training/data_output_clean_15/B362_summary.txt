@@ -1,0 +1,14 @@
+patient_id: B362
+patient_age: 41
+maximum_opening: 38mm
+diet_score: 6
+disability_rating: 8
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 7 in the right fronto-temporal area and a 4 in the left fronto-temporal | present
+tmj_pain_rating: severe | right side is at a 7, on the left side at 4
+disc_displacement: left disc anterior displacement | right disc anterior displacement | left disc dislocation | right disc anterior displacement
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

@@ -1,0 +1,4 @@
+headache_frequency: daily continuous
+migraine_history: unknown
+headache_location: throughout her head
+headache_intensity: 7 | present

@@ -1,0 +1,26 @@
+patient_id: B419
+patient_age: 21
+maximum_opening: 27mm
+diet_score: 8
+disability_rating: 7
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: splint | clenching | left posterior crossbite tendency
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: unknown
+jaw_clicking: tmj
+muscle_pain_score: unknown
+headache_location: temples | posterior head
+average_daily_pain_intensity: 6
+headache_intensity: 7
+pain_onset_date: 15
+tmj_pain_rating: 7
+current_medications: prozac | tylenol
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from the age of 11 to 14 | splint few months ago
+joint_pain_areas: unknown

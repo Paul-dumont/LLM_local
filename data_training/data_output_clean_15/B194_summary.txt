@@ -1,0 +1,14 @@
+patient_id: B194
+patient_age: 27
+maximum_opening: 47mm
+diet_score: 0
+disability_rating: 2
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 6 | present
+tmj_pain_rating: 6
+disc_displacement: right disc medial and rotational displacement | left disc rotational anterior displacement | right disc medial and rotational displacement | left disc rotational displacement
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: left tmj | right tmj

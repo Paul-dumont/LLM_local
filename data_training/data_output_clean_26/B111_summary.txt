@@ -1,0 +1,26 @@
+patient_id: B111
+patient_age: 34
+maximum_opening: 50mm
+diet_score: 6
+disability_rating: 5
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: clenching | bruxing
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: right tmj | left tmj
+muscle_pain_score: 5
+headache_location: unknown
+average_daily_pain_intensity: 5
+headache_intensity: 0
+pain_onset_date: 14 years of age
+tmj_pain_rating: 5
+current_medications: ibuprofen | zyrtec
+disc_displacement: unknown
+muscle_pain_location: temporalis
+joint_arthritis_location: unknown
+appliance_history: 11 to 13 years of age
+joint_pain_areas: tmjjoint_arthritis_location: right tmj | left tmj | shoulders | hips | wrists | fingers | tmj

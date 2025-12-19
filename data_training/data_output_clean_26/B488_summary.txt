@@ -1,0 +1,26 @@
+patient_id: B488
+patient_age: 40
+maximum_opening: 47mm
+diet_score: 6
+disability_rating: 9
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: 
+pain_aggravating_factors: clenching
+earache_present: true
+airway_obstruction_present: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: high moderate to low severe
+headache_location: right frontal | right temporal | posterior head area
+average_daily_pain_intensity: 8
+headache_intensity: 8 | present
+pain_onset_date: 39 years old
+tmj_pain_rating: 8
+current_medications: unknown
+disc_displacement: left disc dislocation with reduction | right disc laterally displaced with reduction | left disc medially displaced with reduction | right disc medially displaced with reduction
+muscle_pain_location: retromandibular area | right shoulder | masseter | right medial pterygoid | right scm | left medial pterygoid | left scm | left shoulder | right temporalis
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: tmj | left tmj | right tmj | right shoulder | right elbow | right wrist | right hip | right ankle | neck | back

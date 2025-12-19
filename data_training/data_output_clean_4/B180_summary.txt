@@ -1,0 +1,4 @@
+headache_frequency: increased frequency
+migraine_history: unknown
+headache_location: temporal | posterior head
+headache_intensity: 4 | present

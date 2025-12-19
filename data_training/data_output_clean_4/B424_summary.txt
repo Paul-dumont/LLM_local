@@ -1,0 +1,4 @@
+headache_frequency: very couple of months
+migraine_history: unknown
+headache_location: frontal | temple
+headache_intensity: 5

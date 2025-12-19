@@ -1,0 +1,35 @@
+patient_id: B244
+maximum_opening_without_pain: 30mm
+patient_age: 45
+maximum_opening: 44mm
+diet_score: unknown
+disability_rating: unknown
+jaw_function_score: unknown
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: physical therapy at least twice
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: penicillin
+airway_obstruction_present: false
+headache_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: high moderate
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: severe
+pain_onset_date: 4 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: severe
+sleep_disorder_type: unknown
+current_medications: amerge | yasmin
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction
+muscle_pain_location: shoulders
+joint_arthritis_location: left tmj | right tmj | left tmj | right tmj | shoulders
+appliance_history: 7 to 8 splints since 4 years ago
+joint_pain_areas: jaw joints | shoulders | elbows | right wrist | right hip | ankles

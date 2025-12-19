@@ -1,0 +1,26 @@
+patient_id: B531
+patient_age: 22
+maximum_opening: 35mm
+diet_score: 5
+disability_rating: 6
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: anterior open bite
+earache_present: true
+airway_obstruction_present: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: moderate to low severe to moderate
+headache_location: frontal | temple | posterior head
+average_daily_pain_intensity: 8
+headache_intensity: 8 | present
+pain_onset_date: age of 17 to 18
+tmj_pain_rating: 7
+current_medications: glutamine | vitamin e | acidophilus | broad spectrum enzyme | magnesium malate | multiple vitamins  | minerals | slippery elm
+disc_displacement: left disc dislocation without reduction | left disc dislocation without reduction | right disc medial displacement | left disc dislocation without reduction | right disc medial displacement with reduction
+muscle_pain_location: styloid areas | scms | posterior neck | shoulders | medial pterygoids | masseters | temporalis muscles
+joint_arthritis_location: left tmj | left tmj | right tmj
+appliance_history: splints | removable orthodontic appliances
+joint_pain_areas: tmj | left tmj | right tmj | shoulder | neck | back | wrists | fingers | ankles | feet | toes

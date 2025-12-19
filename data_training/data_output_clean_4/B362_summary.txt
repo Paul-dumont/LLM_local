@@ -1,0 +1,4 @@
+headache_frequency: two times a week
+migraine_history: unknown
+headache_location: right fronto-temporal | left fronto-temporal
+headache_intensity: 7 in the right fronto-temporal area and a 4 in the left fronto-temporal | present

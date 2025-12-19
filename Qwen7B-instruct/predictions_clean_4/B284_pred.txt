@@ -1,0 +1,4 @@
+headache_frequency: unknown
+migraine_history: true
+headache_location: left side | left side when left side is severe
+headache_intensity: 5 but can escalate to 10 | present

@@ -1,0 +1,4 @@
+headache_frequency: 5
+migraine_history: unknown
+headache_location: two to three times a week
+headache_intensity: temple

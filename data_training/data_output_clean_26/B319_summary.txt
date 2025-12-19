@@ -1,0 +1,26 @@
+patient_id: B319
+patient_age: 12
+maximum_opening: 57mm
+diet_score: 1
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+pain_aggravating_factors: clenching
+earache_present: unknown
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: unknown
+muscle_pain_score: high moderate to moderate to minor
+headache_location: temporal
+average_daily_pain_intensity: 0
+headache_intensity: 8
+pain_onset_date: unknown
+tmj_pain_rating: 0
+current_medications: zyrtec-d | multivitamins | sodium chloride | proventil
+disc_displacement: right disc anterior dislocation with reduction
+muscle_pain_location: temporalis | temporalis | posterior neck | masseters
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics at the age of 10 with bioblock treatment and expansion that was just recently finished earlier this year
+joint_pain_areas: unknown

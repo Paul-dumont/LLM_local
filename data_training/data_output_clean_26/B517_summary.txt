@@ -1,0 +1,26 @@
+patient_id: B517
+patient_age: 32
+maximum_opening: 36mm
+diet_score: unknown
+disability_rating: unknown
+jaw_function_score: unknown
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+pain_aggravating_factors: unknown
+earache_present: unknown
+airway_obstruction_present: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild to moderate
+headache_location: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: present
+pain_onset_date: unknown
+tmj_pain_rating: unknown
+current_medications: antidepressants | pain medications | muscle relaxants
+disc_displacement: left disc dislocation with reduction | right disc dislocation
+muscle_pain_location: right temporalis | right masseter | right styloid | right scm | right posterior neck area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics 15 years ago | nightguard | true splints
+joint_pain_areas: tmj | right tmj

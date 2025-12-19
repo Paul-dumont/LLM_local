@@ -1,0 +1,14 @@
+patient_id: B122
+patient_age: 56
+maximum_opening: 36mm
+diet_score: 7
+disability_rating: 9
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+headache_intensity: 10 | severe
+tmj_pain_rating: 6 | severe
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reductionmuscle_tenderness_present: true
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | right hip | left knee | neck

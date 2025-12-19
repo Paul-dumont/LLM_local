@@ -1,0 +1,14 @@
+patient_id: B520
+patient_age: 17
+maximum_opening: 44mm
+diet_score: 5
+disability_rating: 6
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 0
+tmj_pain_rating: 8
+disc_displacement: left disc anteriorly displaced | right disc anteriorly displaced
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: left tmj | right tmj | right hip

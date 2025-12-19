@@ -1,0 +1,26 @@
+patient_id: B093
+patient_age: 15
+maximum_opening: 40mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: unknown
+vertigo_present: false
+hearing_loss_present: unknown
+pain_aggravating_factors: anterior open bite
+earache_present: unknown
+airway_obstruction_present: true
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: unknown
+headache_location: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: none
+pain_onset_date: 7 to 8 years of age
+tmj_pain_rating: 0
+current_medications: enbrel | motrin
+disc_displacement: right disc dislocation without reduction | left disc dislocation without reductionmuscle_tenderness_present: true
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: expander at 8 | retainer from 8 to 13
+joint_pain_areas: all except spine

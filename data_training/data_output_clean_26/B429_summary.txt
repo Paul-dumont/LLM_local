@@ -1,0 +1,26 @@
+patient_id: B429
+patient_age: 8
+maximum_opening: 48mm
+diet_score: 0
+disability_rating: unknown
+jaw_function_score: unknown
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: unknown
+pain_aggravating_factors: left posterior crossbite | right posterior crossbite
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+muscle_pain_score: mild to moderate
+headache_location: top of the head toward the posterior aspect of the top
+average_daily_pain_intensity: 5
+headache_intensity: 5, at 10 when bad headache occurs | severe
+pain_onset_date: unknown
+tmj_pain_rating: 0
+current_medications: motrin
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced without reduction | left disc dislocation without reduction | right disc dislocation without reduction | left disc nonreducing
+muscle_pain_location: temporalis | styloid area | masseters | medial pterygoids | scms | posterior neck | shoulders
+joint_arthritis_location: unknown
+appliance_history: unknown
+joint_pain_areas: tmj | left tmj | right tmj

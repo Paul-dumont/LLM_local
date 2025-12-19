@@ -1,0 +1,26 @@
+patient_id: B511
+patient_age: 20
+maximum_opening: unknown
+diet_score: 7
+disability_rating: 4
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: unknown
+earache_present: true
+airway_obstruction_present: false
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: 50mm | very high moderate to moderate
+headache_location: right temporal | right frontal
+average_daily_pain_intensity: 7
+headache_intensity: 8 | present
+pain_onset_date: 5 years old
+tmj_pain_rating: 8
+current_medications: unknown
+disc_displacement: left disc anteriorly displaced with very early reduction | right disc anteriorly positioned  with early reduction | left disc medially displaced
+muscle_pain_location: 34mm | right masseter | right temporalis | right styloid area, and right posterior neck | right side
+joint_arthritis_location: unknown
+appliance_history: orthodontics 5 years ago for 2 years
+joint_pain_areas: right tmj

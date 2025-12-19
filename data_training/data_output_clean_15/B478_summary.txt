@@ -1,0 +1,14 @@
+patient_id: B478
+patient_age: 20
+maximum_opening: 47mm
+diet_score: 3
+disability_rating: 1
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+earache_present: true
+headache_intensity: 2 | present
+tmj_pain_rating: 5
+disc_displacement: left disc anteriorly displaced without reduction | right disc laterally displaced | left disc medially displaced and perhaps somewhat anteriorly displaced without reduction | right disc laterally displaced with reduction
+joint_arthritis_location: left tmj
+joint_pain_areas: tmj | lower back | left tmj | right tmj

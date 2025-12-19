@@ -1,0 +1,4 @@
+headache_frequency: daily | in the morning and then they tend to subside but they return later in the day
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head area
+headache_intensity: 8 | severe

@@ -1,0 +1,14 @@
+patient_id: B121
+patient_age: 58
+maximum_opening: 55mm
+diet_score: 4
+disability_rating: 5
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: false
+earache_present: true
+headache_intensity: 5 | present
+tmj_pain_rating: 5
+disc_displacement: right disc anterior displacement with early reductionmuscle_tenderness_present: true | right disc dislocation with reduction
+joint_arthritis_location: right tmj | left tmj | left tmj | right tmj
+joint_pain_areas: tmj | right tmj

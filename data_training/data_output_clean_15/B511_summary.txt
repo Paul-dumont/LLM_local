@@ -1,0 +1,14 @@
+patient_id: B511
+patient_age: 20
+maximum_opening: unknown
+diet_score: 7
+disability_rating: 4
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 8 | present
+tmj_pain_rating: 8
+disc_displacement: left disc anteriorly displaced with very early reduction | right disc anteriorly positioned  with early reduction | left disc medially displaced
+joint_arthritis_location: unknown
+joint_pain_areas: right tmj

@@ -1,0 +1,4 @@
+headache_frequency: once or twice a week
+migraine_history: unknown
+headache_location: left frontal area | temple area behind her eye
+headache_intensity: 6 | present

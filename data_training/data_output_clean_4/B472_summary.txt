@@ -1,0 +1,4 @@
+headache_frequency: five days per week
+migraine_history: unknown
+headache_location: temple
+headache_intensity: 7 | present

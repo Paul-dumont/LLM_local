@@ -1,0 +1,4 @@
+headache_frequency: 2-3 times a month
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head area
+headache_intensity: 9, but daily wakes up frequently with headaches in the morning that are at about a level of 5 that subsides

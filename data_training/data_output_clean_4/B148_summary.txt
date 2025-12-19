@@ -1,0 +1,4 @@
+headache_frequency: once a month
+migraine_history: unknown
+headache_location: right frontal | anterior temple
+headache_intensity: 5

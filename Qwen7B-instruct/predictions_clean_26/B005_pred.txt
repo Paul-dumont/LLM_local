@@ -1,0 +1,26 @@
+patient_id: B005
+patient_age: 48
+maximum_opening: unknown
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: clenching
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: unknown
+jaw_clicking: tmj | right tmj
+muscle_pain_score: unknown
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 2
+headache_intensity: 2 but can escalate up to 8 or 9 | present
+pain_onset_date: age of 40
+tmj_pain_rating: 2
+current_medications: amitriptyline | amitriptyline cdp | ativan
+disc_displacement: unknown
+muscle_pain_location: unknown
+joint_arthritis_location: unknown
+appliance_history: unknown
+joint_pain_areas: tmj | right tmj

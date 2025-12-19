@@ -1,0 +1,14 @@
+patient_id: B239
+patient_age: 32
+maximum_opening: 48mm
+diet_score: 0
+disability_rating: 7
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: false
+earache_present: unknown
+headache_intensity: 0
+tmj_pain_rating: 5
+disc_displacement: left disc anterior displacement | right disc lateral and anterior displacement | right disc lateral displacement
+joint_arthritis_location: right tmj | right tmjearache_present: false
+joint_pain_areas: tmj

@@ -1,0 +1,14 @@
+patient_id: B449
+patient_age: 20
+maximum_opening: 57mm
+diet_score: 2
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: false
+earache_present: false
+headache_intensity: 7 | present
+tmj_pain_rating: 0
+disc_displacement: left disc posterior displacement | right disc posterior displacement | left disc posterior displacement | right disc posterior displacement
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: right tmj | right tmj | left tmj

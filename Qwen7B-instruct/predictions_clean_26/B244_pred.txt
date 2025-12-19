@@ -1,0 +1,26 @@
+patient_id: B244
+patient_age: 45
+maximum_opening: 44mm
+diet_score: unknown
+disability_rating: unknown
+jaw_function_score: unknown
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: true
+airway_obstruction_present: false
+muscle_symptoms_present: true
+jaw_clicking: unknown
+muscle_pain_score: high moderate
+headache_location: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: severe
+pain_onset_date: 4 years ago
+tmj_pain_rating: severe
+current_medications: amerge | yasmin
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction
+muscle_pain_location: shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: 7 to 8 splints
+joint_pain_areas: tmj | shoulders | elbows | right wrist | right hip | ankles

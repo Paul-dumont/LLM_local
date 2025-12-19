@@ -1,0 +1,14 @@
+patient_id: B066
+patient_age: 37
+maximum_opening: 52mm
+diet_score: 1
+disability_rating: 5
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+headache_intensity: 9, but daily wakes up frequently with headaches in the morning that are at about a level of 5 that subsides
+tmj_pain_rating: 1
+disc_displacement: left disc medial displacement | right disc medial displacement
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: left tmj

@@ -1,0 +1,14 @@
+patient_id: B504
+patient_age: 49
+maximum_opening: unknown
+diet_score: 7
+disability_rating: 9
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 7 | present
+tmj_pain_rating: 7
+disc_displacement: left disc anteriorly and medially displaced with reduction | right disc anteriorly and medially displaced | right disc anteriorly dislocated
+joint_arthritis_location: right tmj
+joint_pain_areas: tmj

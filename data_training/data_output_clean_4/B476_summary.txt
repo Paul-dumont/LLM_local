@@ -1,0 +1,4 @@
+headache_frequency: daily | worse in the mornings and may get a little bit better in the afternoon but then get worse again at night
+migraine_history: unknown
+headache_location: frontotemporal | posterior head
+headache_intensity: 9 frequently to 10

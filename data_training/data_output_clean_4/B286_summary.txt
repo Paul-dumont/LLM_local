@@ -1,0 +1,4 @@
+headache_frequency: 2 times per month | 2 times per month
+migraine_history: true
+headache_location: left frontal | temporal
+headache_intensity: 9

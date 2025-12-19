@@ -1,0 +1,14 @@
+patient_id: B181
+patient_age: 20
+maximum_opening: 42mm
+diet_score: 8
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+earache_present: true
+headache_intensity: 7 | present
+tmj_pain_rating: 8 | severe
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and medial displacement with reduction | left disc without reduction | right disc with reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: shoulders | wrists

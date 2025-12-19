@@ -1,0 +1,14 @@
+patient_id: B360
+patient_age: 64
+maximum_opening: 35mm
+diet_score: 9
+disability_rating: 8
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 8 on the left side and probably a level of 7 on the right side | present
+tmj_pain_rating: 5 but can escalate easily to 9 | severe
+disc_displacement: left disc dislocation with severe deformation and nonsalvageable disc | right disc dislocation medially
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj | neck | lower back | occasionally her shoulders | her wrists | her knuckles | her hips | knees | feet | toes | right tmj | left tmj

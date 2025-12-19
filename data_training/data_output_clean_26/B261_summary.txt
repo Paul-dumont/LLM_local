@@ -1,0 +1,26 @@
+patient_id: B261
+patient_age: 60
+maximum_opening: unknown
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+pain_aggravating_factors: clenching | open bite | right side crossbite
+earache_present: unknown
+airway_obstruction_present: false
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: unknown
+headache_location: unknown
+average_daily_pain_intensity: 8
+headache_intensity: 0
+pain_onset_date: unknown
+tmj_pain_rating: 5, can escalate to 8
+current_medications: levothyroxine | detrol la | estrace | zestoretic | asacol
+disc_displacement: right disc posterior displacementjoint_arthritis_location: right tmj | left tmj
+muscle_pain_location: unknown
+joint_arthritis_location: right tmj | left tmj
+appliance_history: unknown
+joint_pain_areas: unknown

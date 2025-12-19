@@ -1,0 +1,35 @@
+patient_id: B282
+maximum_opening_without_pain: unknown
+patient_age: 43
+maximum_opening: 47mm
+diet_score: unknown
+disability_rating: unknown
+jaw_function_score: unknown
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: electrical stimulation | physical therapy
+earache_present: true
+onset_triggers: motor vehicle accident
+adverse_reactions: unknown
+airway_obstruction_present: false
+headache_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: present
+pain_onset_date: 15 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: severe
+sleep_disorder_type: snoring | sleep apnea symptoms | daytime somnolence
+current_medications: synthroid | wellbutrin
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: styloid areas | masseters | temporalis
+joint_arthritis_location: left tmj | right tmj
+appliance_history: bite splints
+joint_pain_areas: tmj | hips

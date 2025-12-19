@@ -1,0 +1,26 @@
+patient_id: B459
+patient_age: 17
+maximum_opening: 38mm
+diet_score: 7
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: unknown
+earache_present: false
+airway_obstruction_present: false
+muscle_symptoms_present: true
+jaw_clicking: unknown
+muscle_pain_score: unknown
+headache_location: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: 0
+pain_onset_date: this year
+tmj_pain_rating: 0
+current_medications: bcp's
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: masseter
+joint_arthritis_location: unknown
+appliance_history: unknown
+joint_pain_areas: unknown

@@ -1,0 +1,14 @@
+patient_id: B059
+patient_age: 48
+maximum_opening: 43mm
+diet_score: 3
+disability_rating: 0
+jaw_function_score: 3 but can be 6 at worst
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+headache_intensity: 4
+tmj_pain_rating: 0
+disc_displacement: left disc anteriorly displaced with early reductio | right disc anteriorly displaced with early reductio | left disc with probable medial dislocation
+joint_arthritis_location: left tmj | left tmj | right tmj
+joint_pain_areas: tmj | left tmj

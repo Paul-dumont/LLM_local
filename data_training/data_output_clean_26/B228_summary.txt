@@ -1,0 +1,26 @@
+patient_id: B228
+patient_age: 15
+maximum_opening: 21mm
+diet_score: 3
+disability_rating: 2
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: true
+pain_aggravating_factors: anterior open bite
+earache_present: false
+airway_obstruction_present: 
+muscle_symptoms_present: true
+jaw_clicking: unknown
+muscle_pain_score: mild
+headache_location: temple
+average_daily_pain_intensity: 3
+headache_intensity: 3
+pain_onset_date: 12 or 13
+tmj_pain_rating: 3
+current_medications: lexapro | tylenol | ibuprofen
+disc_displacement: left disc anterior displacement | right disc anterior displacement without reduction | left disc anterior dislocation without reduction
+muscle_pain_location: temporalis | masseters | styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 11 to 12
+joint_pain_areas: tmj | left tmj | right tmj

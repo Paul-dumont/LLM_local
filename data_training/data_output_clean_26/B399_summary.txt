@@ -1,0 +1,26 @@
+patient_id: B399
+patient_age: 60
+maximum_opening: 37mm
+diet_score: unknown
+disability_rating: 0
+jaw_function_score: 6
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+pain_aggravating_factors: unknown
+earache_present: unknown
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: unknown
+muscle_pain_score: unknown
+headache_location: left side
+average_daily_pain_intensity: 7
+headache_intensity: 3 | present
+pain_onset_date: 2-3 months ago
+tmj_pain_rating: 6
+current_medications: lipitor | motrin | lisinopril | hyzaar
+disc_displacement: left disc anterior displacement without reduction | right disc medial displacement without reduction | left disc dislocation without reduction
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: tmj | left tmj | right tmj

@@ -1,0 +1,4 @@
+headache_frequency: 3  to 5 days a week | once every 3 to 4 months
+migraine_history: true
+headache_location: temporal | posterior head
+headache_intensity: 5, but can escalate to 10 once every 3-4 months | present

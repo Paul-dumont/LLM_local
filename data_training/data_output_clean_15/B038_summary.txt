@@ -1,0 +1,14 @@
+patient_id: B038
+patient_age: 56
+maximum_opening: unknown
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+headache_intensity: 6 | severe
+tmj_pain_rating: 0
+disc_displacement: slight anterior dislocation of the articular disc but medially the disc is in better position | left disc anterior dislocation with early reduction | right disc anterior dislocation with early reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: unknown

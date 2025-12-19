@@ -1,0 +1,4 @@
+headache_frequency: 5 days per week
+migraine_history: unknown
+headache_location: right temple | posterior head
+headache_intensity: 5 | present

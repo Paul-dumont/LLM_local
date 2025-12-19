@@ -1,0 +1,4 @@
+headache_frequency: constant
+migraine_history: unknown
+headache_location: left frontal | left temporal | left posterior head
+headache_intensity: 7

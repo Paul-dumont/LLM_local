@@ -1,0 +1,14 @@
+patient_id: B477
+patient_age: 43
+maximum_opening: 27mm
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: false
+earache_present: false
+headache_intensity: 0
+tmj_pain_rating: 8 | severe
+disc_displacement: left disc anterior displacement with reduction | right disc dislocated at the lateral aspect of the joint with reduction | left disc dislocation with early  reduction | right disc anterior displacement | left disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | finger | left tmj

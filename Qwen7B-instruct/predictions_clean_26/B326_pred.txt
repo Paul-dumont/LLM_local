@@ -1,0 +1,26 @@
+patient_id: B326
+patient_age: 42
+maximum_opening: 26mm
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: moderate to severe
+headache_location: temporal
+average_daily_pain_intensity: 3
+headache_intensity: 8
+pain_onset_date: third or fourth grade
+tmj_pain_rating: 3 but can escalate to 10
+current_medications: orthocept | vioxx | hydrocodone | glucosamine / chondroitin | multivitamins | extra vitamin e | vitamin c
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseters | styloid area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics 5 years ago, completed 2 years ago
+joint_pain_areas: tmj | left tmj | right tmj

@@ -1,0 +1,4 @@
+headache_frequency: daily | 6 to 7 days a month
+migraine_history: true
+headache_location: frontal | temporal | behind the eye
+headache_intensity: 6

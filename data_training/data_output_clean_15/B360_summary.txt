@@ -1,0 +1,14 @@
+patient_id: B360
+patient_age: 64
+maximum_opening: 35mm
+diet_score: 9
+disability_rating: 8
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 8 on the left side and 7 on the right side | present
+tmj_pain_rating: 5 but can escalate easily to 9
+disc_displacement: left disc dislocation | right disc medial dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | shoulder | neck | back | left tmj | right tmj | lower back | neck | shoulders | wrists |  knuckles | hips | knees | feet | toes

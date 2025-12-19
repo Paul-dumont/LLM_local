@@ -1,0 +1,14 @@
+patient_id: B246
+patient_age: 13
+maximum_opening: 55mm
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+earache_present: false | true
+headache_intensity: 3 | 4 | present
+tmj_pain_rating: 3
+disc_displacement: left disc anterior dislocation | right disc anterior displacement without reduction | left disc anterior displacement with probable early reduction | right disc anterior displacement with probably late reduction
+joint_arthritis_location: left tmj | right tmj | right tmj | right tmj | left tmj
+joint_pain_areas: jaw joints | jaw joints | knees | left tmj

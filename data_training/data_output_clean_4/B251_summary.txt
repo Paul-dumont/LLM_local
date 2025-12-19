@@ -1,0 +1,4 @@
+headache_frequency: constant
+migraine_history: unknown
+headache_location: frontotemporal | posterior head | top of the head area
+headache_intensity: escalates to 9 | severe

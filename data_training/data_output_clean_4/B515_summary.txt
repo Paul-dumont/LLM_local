@@ -1,0 +1,4 @@
+headache_frequency: five times per week
+migraine_history: unknown
+headache_location: frontal | temporal | top of the head | bilateral
+headache_intensity: 8 | present

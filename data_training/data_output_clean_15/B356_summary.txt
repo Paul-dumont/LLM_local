@@ -1,0 +1,14 @@
+patient_id: B356
+patient_age: 16
+maximum_opening: 40mm
+diet_score: 5
+disability_rating: 7
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 8 on the left and 6 on the right | severe
+tmj_pain_rating: 8 and it does get to a 10 | severe
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

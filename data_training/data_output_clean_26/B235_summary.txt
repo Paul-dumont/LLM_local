@@ -1,0 +1,26 @@
+patient_id: B235
+patient_age: 55
+maximum_opening: 26mm
+diet_score: 10
+disability_rating: 10
+jaw_function_score: 10
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+pain_aggravating_factors: unknown
+earache_present: unknown
+airway_obstruction_present: true
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: extreme
+headache_location: frontal | temporal | posterior head area
+average_daily_pain_intensity: 10
+headache_intensity: 10 | severe
+pain_onset_date: 26 years of age
+tmj_pain_rating: 10
+current_medications: demerol | pms-hydromorphone | pms-clonazepam | pennsaid | emla cream | pantoloc | imitrex nasal spray | proxigel-lyrica | prednisone  | celebrex | motrin
+disc_displacement: unknown
+muscle_pain_location: temporalis
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: left tmj | right tmj

@@ -1,0 +1,4 @@
+headache_frequency: once a week
+migraine_history: unknown
+headache_location: temple | top of her head
+headache_intensity: 4 | present

@@ -1,0 +1,4 @@
+headache_frequency: two to three times per week
+migraine_history: unknown
+headache_location: frontal | temporal | temporal | frontal
+headache_intensity: 6 | 6, can escalate to 10 | present

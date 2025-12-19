@@ -1,0 +1,14 @@
+patient_id: B398
+patient_age: 29
+maximum_opening: 44mm
+diet_score: 0
+disability_rating: 1
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 0
+tmj_pain_rating: 6
+disc_displacement: left disc anterior dislocation | right disc anterior dislocation without reduction | left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | back

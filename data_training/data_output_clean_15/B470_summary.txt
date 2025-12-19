@@ -1,0 +1,14 @@
+patient_id: B470
+patient_age: 15
+maximum_opening: 61mm
+diet_score: 2
+disability_rating: 1
+jaw_function_score: 2
+tinnitus_present: unknown
+vertigo_present: unknown
+earache_present: unknown
+headache_intensity: 0
+tmj_pain_rating: 3
+disc_displacement: left disc anteriorly dislocated with reduction | right disc medially displaced with perhaps some slight anterior displacement | left disc anteriorly displaced with reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: unknown

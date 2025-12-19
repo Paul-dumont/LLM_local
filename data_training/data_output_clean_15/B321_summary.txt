@@ -1,0 +1,14 @@
+patient_id: B321
+patient_age: 49
+maximum_opening: 51mm
+diet_score: 4
+disability_rating: 4
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: unknown
+earache_present: unknown
+headache_intensity: 8 | present
+tmj_pain_rating: 0
+disc_displacement: left disc anterior displacement | right disc anterior displacement | left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | right shoulder | knees | left ankle

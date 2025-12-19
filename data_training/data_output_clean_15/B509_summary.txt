@@ -1,0 +1,14 @@
+patient_id: B509
+patient_age: 21
+maximum_opening: 46mm
+diet_score: 3
+disability_rating: 3
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+earache_present: true
+headache_intensity: 7 | present
+tmj_pain_rating: 4
+disc_displacement: left disc anteriorly dislocated without reduction | right disc dislocation with early reduction | left disc anteriorly dislocated without reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj

@@ -1,0 +1,14 @@
+patient_id: B073
+patient_age: 18
+maximum_opening: 29mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+headache_intensity: 4 | present
+tmj_pain_rating: 9
+disc_displacement: right disc dislocation without reduction | left disc dislocation without reduction
+joint_arthritis_location: unknown
+joint_pain_areas: tmj | left tmj | right tmj

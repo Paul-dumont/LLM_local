@@ -1,0 +1,26 @@
+patient_id: B243
+patient_age: 47
+maximum_opening: 37mm
+diet_score: 4
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: motor vehicle accident 3 years ago | clenching | bruxism
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: moderate
+headache_location: frontal behind the eyes | temple
+average_daily_pain_intensity: 5
+headache_intensity: 7 | present
+pain_onset_date: 5 years ago
+tmj_pain_rating: 9
+current_medications: paxil | synthroid | dep estrogen | xanax | flexeril | hydrocodone
+disc_displacement: left disc anterior displacement | right disc anterior displacement | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: masseters | styloid areas | medial pterygoids | posterior neck | shoulder
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics 2 years ago
+joint_pain_areas: tmj | left tmj | right tmj | right shoulder | right elbow | left wrist | right wrist | hands | fingers

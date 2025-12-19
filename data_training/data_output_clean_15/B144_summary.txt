@@ -1,0 +1,14 @@
+patient_id: B144
+patient_age: 48
+maximum_opening: 52mm
+diet_score: 5
+disability_rating: 2
+jaw_function_score: 0
+tinnitus_present: unknown
+vertigo_present: unknown
+earache_present: unknown
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: right disc anterior and medial displacement with very early reduction | left disc anterior displacement with very early reductionjoint_arthritis_location: left tmj | right tmj | right disc displacement with early reduction | left disc displacement with early reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: unknown

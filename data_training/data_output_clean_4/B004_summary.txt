@@ -1,0 +1,4 @@
+headache_frequency: 2 to 3 hours without splint | after a day without splint
+migraine_history: true
+headache_location: unknown
+headache_intensity: 0with splint | 3 without splint for 2 to 3 hours

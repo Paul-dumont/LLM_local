@@ -1,0 +1,14 @@
+patient_id: B269
+patient_age: 46
+maximum_opening: 22mm
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 0
+tmj_pain_rating: 4
+disc_displacement: left disc anterior dislocation | right disc anterio displacement | left disc anterior dislocation | right disc anterio displacementmuscle_pain_location: right masseter | left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | left tmj | right tmj
+joint_pain_areas: unknown

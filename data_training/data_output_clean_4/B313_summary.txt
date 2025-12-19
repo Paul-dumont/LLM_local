@@ -1,0 +1,4 @@
+headache_frequency: unknown
+migraine_history: unknown
+headache_location: temple | posterior part of the head
+headache_intensity: 8

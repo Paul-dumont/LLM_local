@@ -1,0 +1,14 @@
+patient_id: B221
+patient_age: 28
+maximum_opening: 45mm
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 7 | present
+tmj_pain_rating: 5 but can escalate to 10
+disc_displacement: left disc anterior displacement | right disc anterior displacement
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

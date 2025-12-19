@@ -1,0 +1,14 @@
+patient_id: B161
+patient_age: 13
+maximum_opening: 40mm
+diet_score: 1 on left and 6 on right
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+earache_present: true
+headache_intensity: 0
+tmj_pain_rating: 4, escalates to 7
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior dislocation without reduction | left disc anterior dislocation with reduction | right disc anterior displacement without reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | right tmj

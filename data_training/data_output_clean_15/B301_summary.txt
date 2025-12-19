@@ -1,0 +1,14 @@
+patient_id: B301
+patient_age: 22
+maximum_opening: 57mm
+diet_score: 3
+disability_rating: 1
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+headache_intensity: 4
+tmj_pain_rating: 3
+disc_displacement: left disc anterior displacement | right disc anterior displacement without reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | shoulders |left tmj

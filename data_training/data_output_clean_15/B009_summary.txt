@@ -1,0 +1,14 @@
+patient_id: B009
+patient_age: 33
+maximum_opening: 42mm
+diet_score: 4
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+earache_present: true
+headache_intensity: 7 | present
+tmj_pain_rating: 7
+disc_displacement: unknown
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | right tmj | left tmj | right tmj | left tmj | elbows | hip

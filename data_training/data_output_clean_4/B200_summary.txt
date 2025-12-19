@@ -1,0 +1,4 @@
+headache_frequency: once a week
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head | top of the head
+headache_intensity: 5

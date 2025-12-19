@@ -1,0 +1,26 @@
+patient_id: B360
+patient_age: 64
+maximum_opening: 35mm
+diet_score: 9
+disability_rating: 8
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+pain_aggravating_factors: clenching | bruxism
+earache_present: true
+airway_obstruction_present: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 8 on the left side and 7 on the right side | present
+pain_onset_date: unknown
+tmj_pain_rating: 5 but can escalate easily to 9
+current_medications: fiorinal #3 with codeine | diazepam | ultram  | lortab | armour thyroid | paxil | glucosamine/chondroitin | imitrex | amitriptyline
+disc_displacement: left disc dislocation | right disc medial dislocation
+muscle_pain_location: temporalis | right scm | right posterior neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: tmj | shoulder | neck | back | left tmj | right tmj | lower back | neck | shoulders | wrists |  knuckles | hips | knees | feet | toes

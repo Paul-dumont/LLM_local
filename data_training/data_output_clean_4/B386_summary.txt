@@ -1,0 +1,4 @@
+headache_frequency: 1 to 2 times per day and usually develop after she has eaten
+migraine_history: unknown
+headache_location: temporal
+headache_intensity: 4 on the right side and 2 on the left side | severe

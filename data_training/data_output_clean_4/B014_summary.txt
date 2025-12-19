@@ -1,0 +1,4 @@
+headache_frequency: daily
+migraine_history: unknown
+headache_location: right frontal | temporal | top of the head | right side
+headache_intensity: 6

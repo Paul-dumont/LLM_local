@@ -1,0 +1,26 @@
+patient_id: B158
+patient_age: 12
+maximum_opening: 32mm
+diet_score: 0
+disability_rating: 4
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: anterior open bite
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: unknown
+headache_location: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: 0
+pain_onset_date: unknown
+tmj_pain_rating: 0
+current_medications: methotrexate | folic acid | naproxen | pepcid
+disc_displacement: unknown
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: right wrist | right tmj | left tmj

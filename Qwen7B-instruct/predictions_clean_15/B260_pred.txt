@@ -1,0 +1,14 @@
+patient_id: B260
+patient_age: 39
+maximum_opening: 43mm
+diet_score: 3
+disability_rating: 1
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 6 | 9
+tmj_pain_rating: 7
+disc_displacement: left disc dislocation with early reduction | right disc dislocation with early reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

@@ -1,0 +1,14 @@
+patient_id: B434
+patient_age: 30
+maximum_opening: 37mm | 40mm
+diet_score: 3
+disability_rating: 1
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+earache_present: true
+headache_intensity: 3 | present
+tmj_pain_rating: 5
+disc_displacement: right disc anterior and posterior displacement
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj | right knee | lower leg | left elbow, | right foot | back | finger

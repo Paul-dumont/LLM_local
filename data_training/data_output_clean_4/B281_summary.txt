@@ -1,0 +1,4 @@
+headache_frequency: unknown
+migraine_history: unknown
+headache_location: left frontal | left temple | left posterior head | right frontal | right temple | right posterior head
+headache_intensity: 8 | present

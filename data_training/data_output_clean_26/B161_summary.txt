@@ -1,0 +1,26 @@
+patient_id: B161
+patient_age: 13
+maximum_opening: 40mm
+diet_score: 1 on left and 6 on right
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: unknown
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: unknown
+headache_location: unknown
+average_daily_pain_intensity: 5
+headache_intensity: 0
+pain_onset_date: 1-1.5 years ago
+tmj_pain_rating: 4, escalates to 7
+current_medications: growth hormone, synthroid
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior dislocation without reduction | left disc anterior dislocation with reduction | right disc anterior displacement without reduction
+muscle_pain_location: jaw | right styloid
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: tmj | right tmj

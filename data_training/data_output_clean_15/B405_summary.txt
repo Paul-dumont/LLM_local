@@ -1,0 +1,14 @@
+patient_id: B405
+patient_age: 13
+maximum_opening: 44mm
+diet_score: 8
+disability_rating: 8
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+headache_intensity: 8 | present
+tmj_pain_rating: 7
+disc_displacement: unknown
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | fingers | hands | wrists | hips | knees | feet | toes | neck | back | left tmj | right tmj

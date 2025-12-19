@@ -1,0 +1,14 @@
+patient_id: B403
+patient_age: 48
+maximum_opening: 45mm
+diet_score: 3
+disability_rating: 2
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_intensity: 5 | present
+tmj_pain_rating: 5
+disc_displacement: left disc medial displacement | right disc dislocation | left disc medial displacement | right disc medial displacement
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

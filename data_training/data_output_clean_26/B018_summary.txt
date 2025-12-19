@@ -1,0 +1,26 @@
+patient_id: B018
+patient_age: 52
+maximum_opening: 44mm
+diet_score: 7
+disability_rating: 9
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: unknown
+pain_aggravating_factors: clenching | bruxism
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+muscle_pain_score: high moderate to low severe | temporalis | masseters | styloid area | medial pterygoids | scms | posterior neck | shoulder
+headache_location: frontal | temporal | posterior head | top of the head
+average_daily_pain_intensity: 5
+headache_intensity: 5 | present
+pain_onset_date: 21 years ago
+tmj_pain_rating: 5
+current_medications: fentanyl patch | percocet | ambien | xanax | estrogen | progesterone
+disc_displacement: right disc anteriorly dislocation with reduction
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | left tmj | right tmj
+appliance_history: orthodontics at age 34 | tmj splints 21 years ago and at least 15 splints since that time
+joint_pain_areas: tmj | left tmj | right tmj

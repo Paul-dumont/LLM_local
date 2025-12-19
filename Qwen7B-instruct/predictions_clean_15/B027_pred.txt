@@ -1,0 +1,14 @@
+patient_id: B027
+patient_age: 52
+maximum_opening: 45mm
+diet_score: unknown
+disability_rating: unknown
+jaw_function_score: unknown
+tinnitus_present: unknown
+vertigo_present: unknown
+earache_present: true
+headache_intensity: unknown
+tmj_pain_rating: unknown
+disc_displacement: right disc medial and possible anterior displacement | right disc medial displacement
+joint_arthritis_location: right tmj
+joint_pain_areas: right tmj | right ear

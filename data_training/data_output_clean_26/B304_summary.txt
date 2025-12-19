@@ -1,0 +1,26 @@
+patient_id: B304
+patient_age: 48
+maximum_opening: 31mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 9
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism | orthodontics including headgear | orthotic
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: none
+muscle_pain_score: unknown
+headache_location: temporal | posterior head area
+average_daily_pain_intensity: 9
+headache_intensity: 9 | severe
+pain_onset_date: all of her life as long as she can remember
+tmj_pain_rating: 9 | severe
+current_medications: lipitor | nortriptyline | tylenol | advil | excedrin
+disc_displacement: left disc anterior dislocation | right disc anterior dislocation without reductionmuscle_pain_score: moderate to high moderate | left disc anterior displacement | right disc anterior displacement | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: temporalis | right masseter | right medial pterygoid | left styloid | right styloid
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics including headgear | orthotic | splint
+joint_pain_areas: neck | right shoulder

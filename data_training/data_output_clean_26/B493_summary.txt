@@ -1,0 +1,26 @@
+patient_id: B493
+patient_age: 53
+maximum_opening: 41mm
+diet_score: 2
+disability_rating: 5
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+pain_aggravating_factors: clenching
+earache_present: false
+airway_obstruction_present: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: unknown
+headache_location: right side | temporal towards the front | back of the head
+average_daily_pain_intensity: 5
+headache_intensity: 7 | present
+pain_onset_date: unknown
+tmj_pain_rating: 4
+current_medications: cenestin
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction | left disc medial displacement with reduction | right disc medial displacement with reduction
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: tmj | left tmj | right tmj | right shoulder

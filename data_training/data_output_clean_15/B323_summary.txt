@@ -1,0 +1,14 @@
+patient_id: B323
+patient_age: 13
+maximum_opening: 47mm
+diet_score: 0
+disability_rating: 1
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: left disc posterior displacement | right disc anterior displacement with reduction | right disc dislocation
+joint_arthritis_location: right tmj
+joint_pain_areas: tmj | left hip | knees | ankle | right tmj

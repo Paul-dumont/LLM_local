@@ -1,0 +1,14 @@
+patient_id: B237
+patient_age: 28
+maximum_opening: unknown
+diet_score: 2
+disability_rating: 9
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: false
+earache_present: false
+headache_intensity: 6 to 10 | severe | severeheadache_location: frontal | temporal
+tmj_pain_rating: 0
+disc_displacement: left disc anterior and medial dislocation | right disc anterior displacement | left disc dislocation with reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | left tmj | right tmj
+joint_pain_areas: left tmj | right tmj | left wrist | knees
