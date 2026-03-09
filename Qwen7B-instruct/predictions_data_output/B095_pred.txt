@@ -1,0 +1,27 @@
+patient_id: B095
+patient_age: 11
+pain_onset_date: 3 years ago
+current_appliance: adenoidectomy
+headache_intensity: 0
+tmj_pain_rating: 0
+maximum_opening: 43mm
+----------------------------------------------------------------------------------------------------
+patient_id: B095
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea 
+muscle_tenderness_present: False
+joint_pain_areas: none
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+current_medications: none
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+patient_id: B095
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+----------------------------------------------------------------------------------------------------
+patient_id: B095
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and medial displacement with late reduction | right disc anterior and medial displacement without reduction

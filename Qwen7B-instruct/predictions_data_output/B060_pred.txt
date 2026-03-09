@@ -1,0 +1,23 @@
+patient_id: B060
+patient_age: 40
+current_medications: Effexor | Tegretol XR 
+pain_onset_date: birth
+appliance_history: 17 orthopedic surgeries to date
+headache_intensity: 4
+headache_location: top of head
+tmj_pain_rating: 1
+average_daily_pain_intensity: 0
+jaw_function_score: 9
+diet_score: 8
+disability_rating: 8
+sleep_disorder_type: snoring | daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B060
+muscle_tenderness_present: False
+maximum_opening: 13mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+patient_id: B060
+autoimmune_condition: connective tissue autoimmune disease
+disc_displacement: left disc medial displacement | right disc displacement

@@ -1,0 +1,29 @@
+patient_id: B189
+patient_age: 17
+pain_onset_date: 14
+onset_triggers: unknown 
+physical_therapy_status: physical therapy 5 weeks ago
+headache_intensity: 6
+headache_frequency: daily
+headache_location: frontal | temporal
+tmj_pain_rating: 2
+average_daily_pain_intensity: 4
+jaw_function_score: 2
+diet_score: 1
+disability_rating: 1
+current_medications: Synthroid | Solodyn | Singulair | Nasonex
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: TMJ
+pain_aggravating_factors: left posterior cross bite tendency
+----------------------------------------------------------------------------------------------------
+patient_id: B189
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc lateral displacement | right disc lateral displacement
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc lateral displacement | right disc lateral displacement

@@ -32,8 +32,16 @@ model = 'qwen'
 model_folder = 'Qwen7B-instruct'
 
 # Reference and prediction folders (repo-relative)
-REF_FOLDER = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
-PRED_FOLDER = str(REPO_ROOT / model_folder / 'predictions_clean_4')
+# REF_FOLDER = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
+REF_FOLDER = str(REPO_ROOT / 'data_training' / 'data_output_clean_46')
+PRED_FOLDER = str(REPO_ROOT / model_folder / 'predictions_clean_46')
+
+# manual_folder = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
+# # manual_folder = str(REPO_ROOT / 'data_training' / 'data_output_clean_46')
+
+# # llm_folder is derived from the top-level `model` and `model_folder` variables
+# # Use the predictions_clean_46 folder for Qwen7B
+# llm_folder = str(REPO_ROOT / model_folder / "save_data_before_reduce_features" / "predict_Qwen7B_eval_harmonized")
 
 # Will be dynamically extracted from data files
 CRITERIA = []
@@ -255,7 +263,8 @@ def main():
         print("⚠️  Semantic model not available - using exact match fallback")
     
     # Use ONLY the harmonized data_output as the manual/reference folder
-    manual_folder = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
+    # manual_folder = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
+    manual_folder =  str(REPO_ROOT / 'data_training' / 'data_output_clean_46')
 
     # llm_folder is derived from the top-level `model` and `model_folder` variables
     # Use PRED_FOLDER configured at the top

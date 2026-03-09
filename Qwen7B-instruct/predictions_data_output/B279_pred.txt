@@ -1,0 +1,33 @@
+patient_id: B279
+patient_age: 48
+jaw_clicking: left TMJ | right TMJ
+pain_onset_date: unknown
+onset_triggers: unknown
+current_medications: Allegra | Zestoretic | Lipitor | Nasonex | Aranelle
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: 3
+headache_location: frontal | temple
+headache_frequency: once a week
+tmj_pain_rating: 3
+average_daily_pain_intensity: 3
+jaw_function_score: 5
+diet_score: 1
+disability_rating: 1
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+joint_pain_areas: knees | toes | left wrist
+muscle_tenderness_present: True
+muscle_pain_score: mild
+muscle_pain_location: styloid areas | right masseter | posterior neck area
+neck_pain_present: True
+maximum_opening: 60mm
+----------------------------------------------------------------------------------------------------
+patient_id: B279
+disc_displacement: left disc dislocation with early reduction | right disc dislocation with early reduction
+joint_arthritis_location: left TMJ | right TMJ
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior dislocation with reduction

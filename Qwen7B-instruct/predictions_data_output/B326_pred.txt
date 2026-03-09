@@ -1,0 +1,37 @@
+patient_id: B326
+patient_age: 42
+adverse_reactions: mosquitos | nickel
+pain_onset_date: third or fourth grade
+onset_triggers: unknown
+appliance_history: orthodontics 5 years ago, completed 2 years ago
+current_appliance: orthodontics
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: 8
+headache_location: temporal
+headache_frequency: once a month
+tmj_pain_rating: 3 but can escalate to 10
+average_daily_pain_intensity: 3
+jaw_function_score: 7
+diet_score: 7
+disability_rating: 7
+current_medications: Orthocept | Vioxx | Hydrocodone | Glucosamine | chondroitin | multivitamins | extra vitamin E | vitamin C
+----------------------------------------------------------------------------------------------------
+patient_id: B326
+muscle_pain_score: severe at 10 | moderate at 5 | minimal at 6
+muscle_pain_location: temporalis | masseters | styloid area
+joint_pain_areas: left TMJ | right TMJ
+neck_pain_present: False
+jaw_clicking: none
+maximum_opening: 26mm
+maximum_opening_without_pain: 18mm
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation
+joint_pain_areas: TMJ
+headache_intensity: Severe
+sleep_disorder_type: daytime somnolence | snoring
+----------------------------------------------------------------------------------------------------
+patient_id: B326
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction

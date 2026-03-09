@@ -1,0 +1,36 @@
+patient_id: B449
+patient_age: 20
+pain_onset_date: two years ago
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics from sixth grade to eighth grade
+earache_present: False
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: False
+pain_aggravating_factors: clenching | right-sided jaw pain | right TMJ pain | difficulties eating and chewing | tooth size discrepancy
+headache_intensity: 7
+headache_location: frontal | temporal | posterior head
+tmj_pain_rating: 0
+average_daily_pain_intensity: 6
+jaw_function_score: 5
+diet_score: 2
+disability_rating: 3
+current_medications: Alprazolam | Temazepam | Bextra | Ortho Erva | Fluvoxamine
+adverse_reactions: PENICILLIN
+airway_obstruction_present: False
+muscle_tenderness_present: True
+muscle_pain_score: moderate to mild
+muscle_pain_location: right masseter | right styloid area | left masseter | right medial pterygoid | left styloid area
+joint_pain_areas: right TMJ
+maximum_opening: 57mm
+maximum_opening_without_pain: 25mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc posterior displacement | right disc posterior displacement
+joint_pain_areas: TMJ
+headache_intensity: present
+tinnitus_present: True
+patient_id: B449
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc posterior displacement | right disc posterior displacement

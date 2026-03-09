@@ -1,0 +1,37 @@
+patient_id: B221
+patient_age: 28
+current_medications: effexor | miralax | advil 
+headache_intensity: present
+jaw_clicking: left TMJ | right TMJ
+appliance_history: orthodontics 2 years 8 years ago
+physical_therapy_status: physical therapy x2 rounds
+pain_onset_date: 8 years ago
+onset_triggers: unknown
+jaw_crepitus: left TMJ | right TMJ
+headache_frequency: once a week
+headache_location: frontal | temple | behind eyes
+tmj_pain_rating: 5 but can escalate to 10
+average_daily_pain_intensity: 5
+jaw_function_score: 8
+diet_score: 5
+disability_rating: 4
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+pain_aggravating_factors: clenching
+airway_obstruction_present: True
+muscle_pain_location: none
+muscle_pain_score: 0
+maximum_opening: 45mm
+maximum_opening_without_pain: 38mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring
+patient_id: B221
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc anterior displacement

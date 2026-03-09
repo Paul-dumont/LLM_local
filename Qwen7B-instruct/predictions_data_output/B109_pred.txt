@@ -1,0 +1,38 @@
+patient_id: B109
+patient_age: 37
+pain_onset_date: 15 years of age
+onset_triggers: unknown 
+appliance_history: orthodontics from about the age of 12 to 13 for about a year | orthodontics from about 16 to 18
+current_appliance: 5 splints since 15 years ago
+physical_therapy_status: physical therapy as a teenager | reinitiated last year
+headache_intensity: 6
+headache_location: throughout her head
+headache_frequency: continuous
+tmj_pain_rating: 6
+average_daily_pain_intensity: 7
+jaw_function_score: 6
+diet_score: 3
+disability_rating: 4
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+joint_pain_areas: hands | fingers | toes | feet | knees | wrists | neck
+autoimmune_condition: fibromyalgia | low level autoimmune disease process that has yet to be identified
+adverse_reactions: Synthroid | T3 | Flonase | Lunesta | Hydrocortisone
+airway_obstruction_present: False
+muscle_pain_score: high moderate to moderate
+muscle_pain_location: most of the head and neck area
+neck_pain_present: True
+maximum_opening: 45mm
+maximum_opening_without_pain: 26mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation
+joint_pain_areas: multiple joints
+headache_intensity: present
+tmj_pain_rating: present
+patient_id: B109
+patient_age: 37
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial displacement with reduction | right disc anterior and laterally displaced with reduction

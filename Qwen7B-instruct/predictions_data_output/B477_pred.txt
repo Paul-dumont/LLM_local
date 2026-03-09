@@ -1,0 +1,36 @@
+patient_id: B477
+patient_age: 43
+current_medications: Zocor | Zoloft | Aldactazide | Lamictal | Seroquel | Cenestin
+adverse_reactions: PENICILLIN | cheap earrings
+pain_onset_date: 8 years ago
+onset_triggers: unknown
+jaw_locking: False
+appliance_history: splint for 2 years
+headache_intensity: 0
+tmj_pain_rating: 8
+average_daily_pain_intensity: 8
+jaw_function_score: 8
+diet_score: 5
+disability_rating: 4
+----------------------------------------------------------------------------------------------------
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: left temporalis | left posterior neck | left masseter
+muscle_pain_location: left temporalis | left posterior neck | left masseter
+neck_pain_present: True
+maximum_opening: 27mm
+maximum_opening_without_pain: 20mm
+----------------------------------------------------------------------------------------------------
+patient_id: B477
+joint_arthritis_location: left TMJ
+disc_displacement: left disc dislocation with reduction
+airway_obstruction_present: False
+sleep_disorder_type: sleep disorder
+----------------------------------------------------------------------------------------------------
+patient_id: B477
+joint_arthritis_location: left TMJ
+disc_displacement: left disc dislocation with early reduction
+----------------------------------------------------------------------------------------------------
+patient_id: B477
+patient_age: 45
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior and lateral displacement with reduction | right disc dislocation

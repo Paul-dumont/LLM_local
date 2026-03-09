@@ -1,0 +1,28 @@
+patient_id: B054
+patient_age: 27
+pain_onset_date: 26 years of age
+onset_triggers: yawned
+jaw_locking: True
+jaw_clicking: left TMJ | right TMJ
+physical_therapy_status: physical therapy
+current_appliance: splint for two years
+current_medications: Percocet | Uptagin
+headache_intensity: 0
+tmj_pain_rating: 9
+average_daily_pain_intensity: 9
+jaw_function_score: 8
+diet_score: 10
+disability_rating: 5
+ear_fullness: left ear
+hearing_loss_present: True
+tinnitus_present: False
+vertigo_present: False
+joint_pain_areas: knees | hips
+----------------------------------------------------------------------------------------------------
+patient_id: B054
+joint_arthritis_location: left TMJ
+disc_displacement: left disc medial displacement
+joint_pain_areas: left TMJ
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc medial and anterior displacement with early reduction | right disc anterior and medial displacement with early reduction

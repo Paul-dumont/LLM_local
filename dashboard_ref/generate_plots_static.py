@@ -16,6 +16,12 @@ import seaborn as sns
 # Tokens to treat as missing/unknown (lowercase)
 UNKNOWN_TOKENS = {"", "unknown", "unknow", "na", "n/a", "none", "missing"}
 
+# Global font sizes for plots
+FONT_TITLE = 16
+FONT_LABEL = 13
+FONT_ANNOT = 12
+FONT_TICKS = 11
+
 
 def is_unknown(value) -> bool:
     """Check if a value should be treated as unknown/missing."""
@@ -126,10 +132,11 @@ def setup_numeric_plot_axes(ax, bin_edges, title: str, mean_value: float,
     ax.grid(axis='y', alpha=0.3)
     ax.axvline(mean_value, color='orange', linestyle='--', 
                lw=1.2, label=f'mean {mean_value:.2f}')
-    ax.set_xlabel('value')
-    ax.set_ylabel('count')
-    ax.set_title(f"{title} — {present}/{total} patients", fontsize=14)
-    ax.legend(frameon=False)
+    ax.set_xlabel('value', fontsize=FONT_LABEL)
+    ax.set_ylabel('count', fontsize=FONT_LABEL)
+    ax.set_title(f"{title} — {present}/{total} patients", fontsize=FONT_TITLE)
+    ax.legend(frameon=False, fontsize=FONT_ANNOT)
+    ax.tick_params(axis='both', labelsize=FONT_TICKS)
 
 
 def is_max_opening(title: str) -> bool:
@@ -210,10 +217,11 @@ def plot_numeric(series: pd.Series, out_path: Path, title: str):
     mean = num.mean()
     ax.axvline(mean, color='orange', linestyle='--', 
                lw=1.2, label=f'mean {mean:.2f}')
-    ax.set_xlabel('value')
-    ax.set_ylabel('count')
-    ax.set_title(f"{title} — {present}/{total} patients", fontsize=14)
-    ax.legend(frameon=False)
+    ax.set_xlabel('value', fontsize=FONT_LABEL)
+    ax.set_ylabel('count', fontsize=FONT_LABEL)
+    ax.set_title(f"{title} — {present}/{total} patients", fontsize=FONT_TITLE)
+    ax.legend(frameon=False, fontsize=FONT_ANNOT)
+    ax.tick_params(axis='both', labelsize=FONT_TICKS)
     fig.tight_layout()
     fig.savefig(out_path)
     plt.close(fig)
@@ -222,9 +230,9 @@ def plot_numeric(series: pd.Series, out_path: Path, title: str):
 def _plot_empty_data(out_path: Path, title: str, total: int, message: str):
     """Create an empty plot with a message when no data is available."""
     fig, ax = plt.subplots(figsize=(8, 6))
-    ax.text(0.5, 0.5, message, ha='center', va='center')
+    ax.text(0.5, 0.5, message, ha='center', va='center', fontsize=FONT_ANNOT)
     ax.axis('off')
-    fig.suptitle(f"{title} — 0/{total} patients", fontsize=14)
+    fig.suptitle(f"{title} — 0/{total} patients", fontsize=FONT_TITLE)
     fig.tight_layout()
     fig.savefig(out_path)
     plt.close(fig)
@@ -257,8 +265,9 @@ def plot_boolean(series: pd.Series, out_path: Path, title: str):
         return
     
     palette = sns.color_palette('viridis', n_colors=max(2, len(counts)))
+    palette = palette[::-1]  # Reverse palette so True gets warmer color
     labels = [f"{lab} ({int(counts[lab])})" for lab in counts.index]
-    ax.pie(
+    wedges, texts, autotexts = ax.pie(
         counts.values,
         labels=labels,
         autopct='%1.1f%%',
@@ -267,8 +276,15 @@ def plot_boolean(series: pd.Series, out_path: Path, title: str):
         counterclock=False,
         wedgeprops={'edgecolor': 'white'}
     )
+    # Increase font sizes for pie labels and percentage texts
+    for t in (texts or []) + (autotexts or []):
+        try:
+            t.set_fontsize(FONT_ANNOT)
+        except Exception:
+            pass
     ax.axis('equal')
-    ax.set_title(f"{title} — {present}/{total} patients", fontsize=14)
+    ax.set_title(f"{title} — {present}/{total} patients", fontsize=FONT_TITLE)
+    ax.tick_params(axis='both', labelsize=FONT_TICKS)
     fig.tight_layout()
     fig.savefig(out_path)
     plt.close(fig)
@@ -299,7 +315,7 @@ def annotate_bars(ax, maxw: float):
         w = bar.get_width()
         y = bar.get_y() + bar.get_height() / 2
         ax.text(w + max(0.5, maxw * 0.01), y, f"{int(round(w))}", 
-                va='center', ha='left', fontsize=9)
+                va='center', ha='left', fontsize=FONT_ANNOT)
 
 
 def plot_categorical(series: pd.Series, out_path: Path, title: str, top_n: int = 30):
@@ -317,8 +333,9 @@ def plot_categorical(series: pd.Series, out_path: Path, title: str, top_n: int =
     # Plot in reversed order so most common category appears at top
     ax.barh(counts.index[::-1], counts.values[::-1], 
             color=colors[::-1], edgecolor='white')
-    ax.set_xlabel('count')
-    ax.set_title(f"{title} — {present}/{total} patients", fontsize=14)
+    ax.set_xlabel('count', fontsize=FONT_LABEL)
+    ax.set_title(f"{title} — {present}/{total} patients", fontsize=FONT_TITLE)
+    ax.tick_params(axis='both', labelsize=FONT_TICKS)
     
     # Annotate bars with counts
     try:
@@ -369,10 +386,12 @@ def extract_years_ago_from_onset(series: pd.Series, patient_age_series: pd.Serie
 
 
 def plot_time_histogram(data: list, out_path: Path, title: str, xlabel: str, 
-                        total: int, bin_size: int, color):
+                        present: int, bin_size: int, color, total: int = None):
     """Create a histogram plot for time-based data."""
     fig, ax = plt.subplots(figsize=(8, 6))
     count = len(data)
+    if total is None:
+        total = present
     
     if count > 0:
         bins = np.arange(0, max(data) + bin_size + 1, bin_size)
@@ -407,16 +426,18 @@ def plot_pain_onset_dual(series: pd.Series, patient_age_series: pd.Series,
     years_ago, age_at_onset = extract_years_ago_from_onset(series, patient_age_series)
     colors = sns.color_palette('viridis', n_colors=2)
 
+
     # Plot 1: Years ago
     out_path_ago = out_path.with_name(out_path.stem + '_years_ago' + out_path.suffix)
+    
     plot_time_histogram(years_ago, out_path_ago, title, 'Years Ago', 
-                       len(years_ago), 5, colors[0])
+                       present, 5, colors[0], total)
 
     # Plot 2: Age at onset
     out_path_age = out_path.with_name(out_path.stem + '_age_at_onset' + out_path.suffix)
-    other_non_unknown = max(0, present - len(years_ago))
+    
     plot_time_histogram(age_at_onset, out_path_age, title, 'Age at Onset (years)', 
-                       other_non_unknown, 5, colors[1])
+                       present, 5, colors[1], total)
 
 
 def should_skip_column(column_name: str) -> bool:

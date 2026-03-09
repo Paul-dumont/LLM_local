@@ -1,0 +1,38 @@
+patient_id: B367
+patient_age: 32
+adverse_reactions: cedar | Advil | claritin
+pain_onset_date: 16 or 17 years of age
+onset_triggers: unknown
+appliance_history: orthodontics from 14 to 16 | splint from 17 to 19
+current_appliance: none
+sleep_disorder_type: snoring | sleep apnea symptoms | daytime somnolence
+earache_present: True
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: False
+headache_intensity: 6
+headache_location: temporal
+tmj_pain_rating: 7
+average_daily_pain_intensity: 6
+jaw_function_score: 6
+diet_score: 4
+disability_rating: 3
+joint_pain_areas: TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B367
+airway_obstruction_present: True
+muscle_pain_score: moderate to mild
+muscle_pain_location: temporalis | masseter | styloid | SCMs
+joint_pain_areas: left TMJ | right TMJ
+neck_pain_present: True
+maximum_opening: 53mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation
+joint_pain_areas: TMJ
+earache_present: True
+sleep_disorder_type: snoring | sleep apnea symptoms
+----------------------------------------------------------------------------------------------------
+patient_id: B367
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc lateral displacement | right disc lateral displacement

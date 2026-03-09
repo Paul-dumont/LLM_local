@@ -1,0 +1,41 @@
+patient_id: B417
+patient_age: 26
+current_medications: Yasmin | Topamax | Aleve
+earache_present: True
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: left ankle | right ankle | left knee | right knee | wrists
+pain_onset_date: 18 years of age
+onset_triggers: motor vehicle accident
+appliance_history: lower splint for about 1 year | upper splint for about 8 months
+physical_therapy_status: chiropractic treatment for one year | physical therapy
+pain_aggravating_factors: splint
+headache_intensity: 5 but can escalate to 7
+headache_location: frontal | temple | posterior head
+headache_frequency: daily
+tmj_pain_rating: 4
+average_daily_pain_intensity: 5
+jaw_function_score: 6
+diet_score: 4
+disability_rating: 3
+----------------------------------------------------------------------------------------------------
+patient_id: B417
+airway_obstruction_present: False
+sleep_disorder_type: daytime somnolence | snoring
+muscle_tenderness_present: True
+muscle_pain_score: mild to moderate
+muscle_pain_location: left TMJ | right TMJ
+jaw_clicking: left TMJ | right TMJ
+maximum_opening: 48mm
+maximum_opening_without_pain: 37mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with early reduction | right disc dislocation with late reduction
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_id: B417
+patient_age: 26
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced with reduction

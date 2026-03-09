@@ -1,0 +1,61 @@
+patient_id: B453
+patient_age: 10
+pain_aggravating_factors: posterior crossbite | anterior open bite
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+headache_intensity: None
+tmj_pain_rating: None
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B453
+current_appliance: orthodontics 2 years
+airway_obstruction_present: True
+joint_pain_areas: none
+muscle_pain_location: none
+muscle_tenderness_present: False
+maximum_opening: 35mm
+----------------------------------------------------------------------------------------------------
+patient_id: B453
+patient_age: 14
+joint_pain_areas: none
+muscle_pain_location: none
+maximum_opening: 35mm
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B453
+joint_pain_areas: none
+muscle_pain_location: none
+maximum_opening: 5mm
+----------------------------------------------------------------------------------------------------
+patient_id: B453
+patient_age: 10
+joint_pain_areas: none
+muscle_pain_location: none
+maximum_opening: 43mm
+----------------------------------------------------------------------------------------------------
+patient_id: B453
+joint_pain_areas: none
+muscle_pain_location: none
+maximum_opening: 8mm
+----------------------------------------------------------------------------------------------------
+patient_id: B453
+patient_age: 14
+patient_age: 10
+airway_obstruction_present: True
+joint_pain_areas: none
+muscle_pain_location: none
+maximum_opening: 5mm
+----------------------------------------------------------------------------------------------------
+patient_id: B453
+joint_pain_areas: none
+muscle_pain_location: none
+maximum_opening: 35mm
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+joint_pain_areas: none
+disc_displacement: left disc anterior displacement | right disc medial displacement
+----------------------------------------------------------------------------------------------------
+patient_id: B453
+joint_pain_areas: none
+disc_displacement: left disc anterior and medial displacement | right disc medial displacement

@@ -6,7 +6,7 @@ from pathlib import Path
 # === Configuration (top-level) ===
 # Set the model short name and derive the model folder automatically
 # Convention: model_folder = f"{model}-instruct"
-model = 'Mistral7B'
+model = 'Qwen7B'
 model_folder = f"{model}-instruct"
 REPO_ROOT = Path(__file__).resolve().parents[1]
 
@@ -79,10 +79,15 @@ def parse_summary_file(file_path):
     return data
 
 def calculate_metrics(manual_data, llm_data, exclude_unknown=False):
-    """Return raw TP, FP, FN counts per field.
+    """Return raw TP, FP, FN counts per field (standard approach).
     
     Args:
         exclude_unknown: If True, only count cases where reference is NOT 'unknown'
+    
+    Standard approach:
+    - TP: manual_value == llm_value (both match)
+    - FP: llm_value exists but manual_value is None/missing
+    - FN: manual_value exists but llm_value is None/missing or they don't match
     """
     metrics = {criterion: {'TP': 0, 'FP': 0, 'FN': 0} for criterion in CRITERIA}
     
@@ -98,11 +103,13 @@ def calculate_metrics(manual_data, llm_data, exclude_unknown=False):
             if manual_value == llm_value:
                 metrics[criterion]['TP'] += 1
             else:
-                metrics[criterion]['FP'] += 1
+                # Mismatch: count as FN (we failed to extract the correct value)
                 metrics[criterion]['FN'] += 1
-        elif manual_value is not None:
+        elif manual_value is not None and llm_value is None:
+            # Manual exists but LLM didn't extract it
             metrics[criterion]['FN'] += 1
-        elif llm_value is not None:
+        elif manual_value is None and llm_value is not None:
+            # LLM extracted something but there's no ground truth
             metrics[criterion]['FP'] += 1
     
     return metrics
@@ -172,12 +179,12 @@ def evaluate_folders(manual_folder, llm_folder, exclude_unknown=False):
 if __name__ == "__main__":
     # Use ONLY the harmonized data_output as the manual/reference folder
     manual_folder = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
+    # manual_folder = str(REPO_ROOT / 'data_training' / 'data_output_clean_46')
 
     # llm_folder is derived from the top-level `model` and `model_folder` variables
-    # Use the harmonized predictions folder (suffix `_harmonized`) so we compare
-    # predictions that were harmonized to the reference harmonized outputs.
-    llm_folder = str(REPO_ROOT / model_folder / f"predict_{model}_eval_harmonized")
-    
+    # Use the predictions_clean_46 folder for Qwen7B
+    llm_folder = str(REPO_ROOT / model_folder / "save_data_before_reduce_features" / "predict_Qwen7B_eval_harmonized")
+    llm_folder = str(REPO_ROOT / model_folder / "predictions_clean_46")
     if not os.path.exists(manual_folder) or not os.path.exists(llm_folder):
         print("Error: Folders not found.")
     else:
@@ -195,49 +202,68 @@ if __name__ == "__main__":
 
         
         # Calculate and print F1 statistics for BOTH
-
+        # Filter out criteria with presence 0/100
         
-        f1_scores = [v['F1'] for v in avg_metrics.values()]
-        f1_scores_no_unk = [v['F1'] for v in avg_metrics_no_unknown.values()]
+        def extract_presence_count(presence_str):
+            """Extract the numerator from 'X/Y' format"""
+            try:
+                return int(presence_str.split('/')[0])
+            except:
+                return 0
+        
+        # Filter criteria with at least 1 presence
+        filtered_metrics = {}
+        filtered_metrics_no_unk = {}
+        
+        for criterion in CRITERIA:
+            presence_str = avg_metrics.get(criterion, {}).get('Presence', '0/0')
+            presence_count = extract_presence_count(presence_str)
+            
+            if presence_count > 0:  # Only include if present at least once
+                filtered_metrics[criterion] = avg_metrics[criterion]
+                filtered_metrics_no_unk[criterion] = avg_metrics_no_unknown[criterion]
+        
+        f1_scores = [v['F1'] for v in filtered_metrics.values()]
+        f1_scores_no_unk = [v['F1'] for v in filtered_metrics_no_unk.values()]
+        precision_scores = [v['Precision'] for v in filtered_metrics.values()]
+        precision_scores_no_unk = [v['Precision'] for v in filtered_metrics_no_unk.values()]
+        recall_scores = [v['Recall'] for v in filtered_metrics.values()]
+        recall_scores_no_unk = [v['Recall'] for v in filtered_metrics_no_unk.values()]
         
         if f1_scores and f1_scores_no_unk:
             avg_f1 = sum(f1_scores) / len(f1_scores)
             avg_f1_no_unk = sum(f1_scores_no_unk) / len(f1_scores_no_unk)
-            
-            sorted_f1 = sorted(f1_scores)
-            median_f1 = (sorted_f1[len(f1_scores)//2 - 1] + sorted_f1[len(f1_scores)//2]) / 2 if len(f1_scores) % 2 == 0 else sorted_f1[len(f1_scores)//2]
-            
-            sorted_f1_no_unk = sorted(f1_scores_no_unk)
-            median_f1_no_unk = (sorted_f1_no_unk[len(f1_scores_no_unk)//2 - 1] + sorted_f1_no_unk[len(f1_scores_no_unk)//2]) / 2 if len(f1_scores_no_unk) % 2 == 0 else sorted_f1_no_unk[len(f1_scores_no_unk)//2]
-            
-            min_f1 = min(f1_scores)
-            max_f1 = max(f1_scores)
-            min_f1_no_unk = min(f1_scores_no_unk)
-            max_f1_no_unk = max(f1_scores_no_unk)
+            avg_precision = sum(precision_scores) / len(precision_scores)
+            avg_precision_no_unk = sum(precision_scores_no_unk) / len(precision_scores_no_unk)
+            avg_recall = sum(recall_scores) / len(recall_scores)
+            avg_recall_no_unk = sum(recall_scores_no_unk) / len(recall_scores_no_unk)
             
             std_f1 = (sum((x - avg_f1)**2 for x in f1_scores) / len(f1_scores))**0.5
             std_f1_no_unk = (sum((x - avg_f1_no_unk)**2 for x in f1_scores_no_unk) / len(f1_scores_no_unk))**0.5
+            std_precision = (sum((x - avg_precision)**2 for x in precision_scores) / len(precision_scores))**0.5
+            std_precision_no_unk = (sum((x - avg_precision_no_unk)**2 for x in precision_scores_no_unk) / len(precision_scores_no_unk))**0.5
+            std_recall = (sum((x - avg_recall)**2 for x in recall_scores) / len(recall_scores))**0.5
+            std_recall_no_unk = (sum((x - avg_recall_no_unk)**2 for x in recall_scores_no_unk) / len(recall_scores_no_unk))**0.5
             
-            print(f"\n{'Metric':<20} {'WITH unknown':<20} {'WITHOUT unknown':<20}")
+            print(f"\n{'Metric':<25} {'WITH unknown':<20} {'WITHOUT unknown':<20}")
             print("-" * 75)
-            print(f"{'Average F1':<20} {avg_f1:<20.4f} {avg_f1_no_unk:<20.4f} ")
-
+            print(f"{'Average Precision':<25} {avg_precision:<20.4f} {avg_precision_no_unk:<20.4f}")
+            print(f"{'Average Recall':<25} {avg_recall:<20.4f} {avg_recall_no_unk:<20.4f}")
+            print(f"{'Average F1 (filtered)':<25} {avg_f1:<20.4f} {avg_f1_no_unk:<20.4f}")
+            print(f"{'Criteria count':<25} {len(f1_scores):<20} {len(f1_scores_no_unk):<20}")
             
-            
-            # Detailed per-criterion comparison
-            
+            # Detailed per-criterion comparison (only for criteria with presence > 0)
             print(f"\n{'Criterion':<40} {'Presence':<12} {'WITH unknown':<18} {'WITHOUT unknown':<18}")
             print("-" * 100)
             
             # Print in the user-requested feature order (CRITERIA list)
-            ordered_criteria = [(c, avg_metrics.get(c, {'Presence': '0/0', 'F1': 0.0})) for c in CRITERIA]
-
-            for criterion, metrics_with in ordered_criteria:
-                presence = metrics_with.get('Presence', 'N/A')
-                f1_with = metrics_with.get('F1', 0.0)
-                f1_without = avg_metrics_no_unknown.get(criterion, {}).get('F1', 0.0)
-
-                print(f"{criterion:<40} {presence:<12} {f1_with:<18.4f} {f1_without:<18.4f}")
+            for criterion in CRITERIA:
+                if criterion in filtered_metrics:
+                    metrics_with = filtered_metrics[criterion]
+                    presence = metrics_with.get('Presence', 'N/A')
+                    f1_with = metrics_with.get('F1', 0.0)
+                    f1_without = filtered_metrics_no_unk[criterion].get('F1', 0.0)
+                    print(f"{criterion:<40} {presence:<12} {f1_with:<18.4f} {f1_without:<18.4f}")
             
             print("=" * 100 + "\n")
         else:

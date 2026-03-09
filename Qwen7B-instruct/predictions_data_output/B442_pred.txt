@@ -1,0 +1,35 @@
+patient_id: B442
+patient_age: 21
+pain_onset_date: 19 years of age
+onset_triggers: unknown 
+jaw_clicking: right TMJ | left TMJ
+appliance_history: splint since last year
+current_appliance: splint
+headache_intensity: present
+muscle_pain_location: right masseter | right styloid area | right SCM | shoulders
+muscle_pain_score: moderate
+joint_pain_areas: right TMJ
+tmj_pain_rating: 7
+average_daily_pain_intensity: 6
+jaw_function_score: 4
+diet_score: 5
+disability_rating: 3
+headache_intensity: 7
+headache_location: right temporal | posterior head
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: right shoulder
+----------------------------------------------------------------------------------------------------
+patient_id: B442
+airway_obstruction_present: True
+joint_arthritis_location: right TMJ
+disc_displacement: right disc dislocation with reduction | left disc dislocation 
+headache_intensity: present
+headache_frequency: right-sided
+joint_pain_areas: right TMJ
+patient_age: 21
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: right TMJ | left TMJ
+disc_displacement: right disc anterior dislocation with reduction | left disc dislocation

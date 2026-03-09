@@ -1,0 +1,35 @@
+patient_id: B196
+patient_age: 26
+pain_onset_date: 20 years old
+onset_triggers: infected tooth that was infected for some time and was on antibiotics long term and ended up having root canals done twice on it
+jaw_clicking: left TMJ | right TMJ
+muscle_tenderness_present: True
+headache_intensity: 2
+headache_location: posterior head
+headache_frequency: 4 times a week
+tmj_pain_rating: 7
+average_daily_pain_intensity: 5
+jaw_function_score: 6
+diet_score: 5
+disability_rating: 7
+current_medications: Tylenol 
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: left shoulder | knees | feet
+adverse_reactions: environmental things
+pain_aggravating_factors: anterior cross bite
+airway_obstruction_present: False
+muscle_pain_score: mild to moderate
+muscle_pain_location: masseters | SCMs | shoulders | left retromandibular area | posterior neck | temporalis
+neck_pain_present: True
+maximum_opening: 53mm
+----------------------------------------------------------------------------------------------------
+disc_displacement: left disc medial displacement | right disc medial and posterior displacement
+airway_obstruction_present: True
+patient_id: B196
+joint_pain_areas: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+joint_pain_areas: left TMJ | right TMJ
+disc_displacement: left disc medial displacement | right disc posterior displacement

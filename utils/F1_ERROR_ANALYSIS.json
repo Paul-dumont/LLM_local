@@ -1,0 +1,1893 @@
+{
+  "patient_id": {
+    "F1": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "TP": 100,
+    "FP": 0,
+    "FN": 0,
+    "presence": 100,
+    "total_samples": 100,
+    "error_types": {},
+    "sample_errors": []
+  },
+  "patient_age": {
+    "F1": 0.97,
+    "Precision": 0.97,
+    "Recall": 0.97,
+    "TP": 97,
+    "FP": 3,
+    "FN": 3,
+    "presence": 100,
+    "total_samples": 100,
+    "error_types": {
+      "wrong_value": 3
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B049",
+        "expected": "63",
+        "predicted": "62",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B392",
+        "expected": "4",
+        "predicted": "41",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B095",
+        "expected": "14",
+        "predicted": "11",
+        "type": "wrong_value"
+      }
+    ]
+  },
+  "headache_intensity": {
+    "F1": 0.9184,
+    "Precision": 0.9375,
+    "Recall": 0.9,
+    "TP": 90,
+    "FP": 6,
+    "FN": 10,
+    "presence": 83,
+    "total_samples": 100,
+    "error_types": {
+      "missing": 4,
+      "hallucination": 3,
+      "missed_field": 1,
+      "wrong_value": 2
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B279",
+        "expected": "unknown",
+        "predicted": "3",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B260",
+        "expected": "4",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B476",
+        "expected": "10",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B453",
+        "expected": "0",
+        "predicted": "MISSING",
+        "type": "missing"
+      }
+    ]
+  },
+  "tmj_pain_rating": {
+    "F1": 0.8776,
+    "Precision": 0.8958,
+    "Recall": 0.86,
+    "TP": 86,
+    "FP": 10,
+    "FN": 14,
+    "presence": 90,
+    "total_samples": 100,
+    "error_types": {
+      "missing": 4,
+      "hallucination": 5,
+      "wrong_value": 4,
+      "missed_field": 1
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B437",
+        "expected": "6",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B089",
+        "expected": "unknown",
+        "predicted": "0",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B278",
+        "expected": "unknown",
+        "predicted": "0",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B260",
+        "expected": "4",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B453",
+        "expected": "0",
+        "predicted": "MISSING",
+        "type": "missing"
+      }
+    ]
+  },
+  "disc_displacement": {
+    "F1": 0.7282,
+    "Precision": 0.7474,
+    "Recall": 0.71,
+    "TP": 71,
+    "FP": 24,
+    "FN": 29,
+    "presence": 93,
+    "total_samples": 100,
+    "error_types": {
+      "wrong_value": 23,
+      "missing": 5,
+      "hallucination": 1
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B082",
+        "expected": "without reduction",
+        "predicted": "left disc dislocation | right disc dislocation | without reduction",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B437",
+        "expected": "left disc dislocation | right disc dislocation | with reduction",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B022",
+        "expected": "left disc dislocation | right disc dislocation | with reduction",
+        "predicted": "left disc dislocation | right disc dislocation",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B183",
+        "expected": "left disc dislocation",
+        "predicted": "left disc dislocation | right disc dislocation",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B261",
+        "expected": "right disc dislocation | left disc dislocation",
+        "predicted": "left disc dislocation",
+        "type": "wrong_value"
+      }
+    ]
+  },
+  "joint_arthritis_location": {
+    "F1": 0.8144,
+    "Precision": 0.8404,
+    "Recall": 0.79,
+    "TP": 79,
+    "FP": 15,
+    "FN": 21,
+    "presence": 87,
+    "total_samples": 100,
+    "error_types": {
+      "missing": 6,
+      "wrong_value": 11,
+      "hallucination": 4
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B215",
+        "expected": "right TMJ | left TMJ",
+        "predicted": "left TMJ | right TMJ",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B261",
+        "expected": "right TMJ | left TMJ",
+        "predicted": "left TMJ | right TMJ",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B248",
+        "expected": "right TMJ | left TMJ",
+        "predicted": "left TMJ | right TMJ",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B089",
+        "expected": "left TMJ | right TMJ",
+        "predicted": "MISSING",
+        "type": "missing"
+      }
+    ]
+  },
+  "jaw_function_score": {
+    "F1": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "TP": 100,
+    "FP": 0,
+    "FN": 0,
+    "presence": 85,
+    "total_samples": 100,
+    "error_types": {},
+    "sample_errors": []
+  },
+  "maximum_opening": {
+    "F1": 0.93,
+    "Precision": 0.93,
+    "Recall": 0.93,
+    "TP": 93,
+    "FP": 7,
+    "FN": 7,
+    "presence": 85,
+    "total_samples": 100,
+    "error_types": {
+      "wrong_value": 3,
+      "hallucination": 4
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B260",
+        "expected": "30mm",
+        "predicted": "43mm",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B108",
+        "expected": "unknown",
+        "predicted": "47mm",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B476",
+        "expected": "unknown",
+        "predicted": "55mm",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B453",
+        "expected": "35mm",
+        "predicted": "43mm",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B473",
+        "expected": "unknown",
+        "predicted": "46mm",
+        "type": "hallucination"
+      }
+    ]
+  },
+  "diet_score": {
+    "F1": 0.99,
+    "Precision": 0.99,
+    "Recall": 0.99,
+    "TP": 99,
+    "FP": 1,
+    "FN": 1,
+    "presence": 85,
+    "total_samples": 100,
+    "error_types": {
+      "wrong_value": 1
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B161",
+        "expected": "4",
+        "predicted": "1",
+        "type": "wrong_value"
+      }
+    ]
+  },
+  "disability_rating": {
+    "F1": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "TP": 100,
+    "FP": 0,
+    "FN": 0,
+    "presence": 84,
+    "total_samples": 100,
+    "error_types": {},
+    "sample_errors": []
+  },
+  "tinnitus_present": {
+    "F1": 0.99,
+    "Precision": 0.99,
+    "Recall": 0.99,
+    "TP": 99,
+    "FP": 1,
+    "FN": 1,
+    "presence": 84,
+    "total_samples": 100,
+    "error_types": {
+      "hallucination": 1
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B122",
+        "expected": "unknown",
+        "predicted": "false",
+        "type": "hallucination"
+      }
+    ]
+  },
+  "vertigo_present": {
+    "F1": 0.99,
+    "Precision": 0.99,
+    "Recall": 0.99,
+    "TP": 99,
+    "FP": 1,
+    "FN": 1,
+    "presence": 84,
+    "total_samples": 100,
+    "error_types": {
+      "hallucination": 1
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B122",
+        "expected": "unknown",
+        "predicted": "true",
+        "type": "hallucination"
+      }
+    ]
+  },
+  "joint_pain_areas": {
+    "F1": 0.4974,
+    "Precision": 0.5161,
+    "Recall": 0.48,
+    "TP": 48,
+    "FP": 45,
+    "FN": 52,
+    "presence": 83,
+    "total_samples": 100,
+    "error_types": {
+      "wrong_value": 30,
+      "hallucination": 9,
+      "missing": 7,
+      "missed_field": 6
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B064",
+        "expected": "left and right TMJ | shoulder",
+        "predicted": "left and right TMJ",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B038",
+        "expected": "unknown",
+        "predicted": "none",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B437",
+        "expected": "left and right TMJ",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B215",
+        "expected": "left and right TMJ",
+        "predicted": "left and right TMJ | wrists | neck",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B049",
+        "expected": "left and right TMJ | knees | neck",
+        "predicted": "left and right TMJ | knees",
+        "type": "wrong_value"
+      }
+    ]
+  },
+  "earache_present": {
+    "F1": 0.949,
+    "Precision": 0.9688,
+    "Recall": 0.93,
+    "TP": 93,
+    "FP": 3,
+    "FN": 7,
+    "presence": 84,
+    "total_samples": 100,
+    "error_types": {
+      "missing": 4,
+      "hallucination": 2,
+      "wrong_value": 1
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B437",
+        "expected": "false",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B122",
+        "expected": "unknown",
+        "predicted": "false",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B260",
+        "expected": "true",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B453",
+        "expected": "false",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B246",
+        "expected": "true",
+        "predicted": "false",
+        "type": "wrong_value"
+      }
+    ]
+  },
+  "pain_aggravating_factors": {
+    "F1": 0.6,
+    "Precision": 0.6,
+    "Recall": 0.6,
+    "TP": 60,
+    "FP": 40,
+    "FN": 40,
+    "presence": 66,
+    "total_samples": 100,
+    "error_types": {
+      "wrong_value": 23,
+      "hallucination": 16,
+      "missed_field": 1
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B082",
+        "expected": "clenching | posterior cross bite | anterior open bite",
+        "predicted": "anterior open bite | clenching",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B038",
+        "expected": "clenching",
+        "predicted": "clenching | bruxism",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B193",
+        "expected": "unknown",
+        "predicted": "clenching | bruxism",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B215",
+        "expected": "unknown",
+        "predicted": "anterior open bite",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B183",
+        "expected": "bruxism | clenching",
+        "predicted": "clenching | bruxism",
+        "type": "wrong_value"
+      }
+    ]
+  },
+  "average_daily_pain_intensity": {
+    "F1": 0.9184,
+    "Precision": 0.9375,
+    "Recall": 0.9,
+    "TP": 90,
+    "FP": 6,
+    "FN": 10,
+    "presence": 75,
+    "total_samples": 100,
+    "error_types": {
+      "missing": 4,
+      "hallucination": 2,
+      "wrong_value": 2,
+      "missed_field": 2
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B437",
+        "expected": "4",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B477",
+        "expected": "unknown",
+        "predicted": "8",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B089",
+        "expected": "7",
+        "predicted": "6",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B260",
+        "expected": "5",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B453",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      }
+    ]
+  },
+  "airway_obstruction_present": {
+    "F1": 0.6633,
+    "Precision": 0.6771,
+    "Recall": 0.65,
+    "TP": 65,
+    "FP": 31,
+    "FN": 35,
+    "presence": 70,
+    "total_samples": 100,
+    "error_types": {
+      "wrong_value": 10,
+      "missing": 4,
+      "hallucination": 14,
+      "missed_field": 7
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B082",
+        "expected": "true",
+        "predicted": "false",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B038",
+        "expected": "false",
+        "predicted": "true",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B437",
+        "expected": "true",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B049",
+        "expected": "unknown",
+        "predicted": "true",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B022",
+        "expected": "unknown",
+        "predicted": "true",
+        "type": "hallucination"
+      }
+    ]
+  },
+  "pain_onset_date": {
+    "F1": 0.8367,
+    "Precision": 0.8542,
+    "Recall": 0.82,
+    "TP": 82,
+    "FP": 14,
+    "FN": 18,
+    "presence": 67,
+    "total_samples": 100,
+    "error_types": {
+      "missed_field": 6,
+      "missing": 4,
+      "wrong_value": 7,
+      "hallucination": 1
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B038",
+        "expected": "30 years of age",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B161",
+        "expected": "5 years ago",
+        "predicted": "2 years ago",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B183",
+        "expected": "5 years ago",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B367",
+        "expected": "11 years of age",
+        "predicted": "17 years of age",
+        "type": "wrong_value"
+      }
+    ]
+  },
+  "appliance_history": {
+    "F1": 0.7629,
+    "Precision": 0.7872,
+    "Recall": 0.74,
+    "TP": 74,
+    "FP": 20,
+    "FN": 26,
+    "presence": 71,
+    "total_samples": 100,
+    "error_types": {
+      "wrong_value": 8,
+      "missing": 6,
+      "hallucination": 4,
+      "missed_field": 8
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B082",
+        "expected": "splint | orthodontics",
+        "predicted": "orthodontics",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B437",
+        "expected": "orthodontics",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B215",
+        "expected": "unknown",
+        "predicted": "splint",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B477",
+        "expected": "splint",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B089",
+        "expected": "orthodontics | splint",
+        "predicted": "MISSING",
+        "type": "missing"
+      }
+    ]
+  },
+  "current_medications": {
+    "F1": 0.6974,
+    "Precision": 0.7158,
+    "Recall": 0.68,
+    "TP": 68,
+    "FP": 27,
+    "FN": 32,
+    "presence": 81,
+    "total_samples": 100,
+    "error_types": {
+      "wrong_value": 20,
+      "missing": 5,
+      "hallucination": 6,
+      "missed_field": 1
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B064",
+        "expected": "motrim",
+        "predicted": "motrin",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B158",
+        "expected": "unknown",
+        "predicted": "methotrexate | folic acid | naproxen | pepcid",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B248",
+        "expected": "iron supplements",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B113",
+        "expected": "15 unidentified medications",
+        "predicted": "15 medications",
+        "type": "wrong_value"
+      }
+    ]
+  },
+  "headache_location": {
+    "F1": 0.9082,
+    "Precision": 0.9271,
+    "Recall": 0.89,
+    "TP": 89,
+    "FP": 7,
+    "FN": 11,
+    "presence": 59,
+    "total_samples": 100,
+    "error_types": {
+      "wrong_value": 5,
+      "missing": 4,
+      "hallucination": 2
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B193",
+        "expected": "frontal | temporal",
+        "predicted": "top of the head",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B437",
+        "expected": "frontal",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B113",
+        "expected": "frontal | temporal | behind eyes",
+        "predicted": "frontal | temporal",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B260",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B453",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      }
+    ]
+  },
+  "muscle_pain_location": {
+    "F1": 0.8205,
+    "Precision": 0.8421,
+    "Recall": 0.8,
+    "TP": 80,
+    "FP": 15,
+    "FN": 20,
+    "presence": 65,
+    "total_samples": 100,
+    "error_types": {
+      "wrong_value": 10,
+      "missed_field": 3,
+      "missing": 5,
+      "hallucination": 2
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B082",
+        "expected": "temporalis | masseter | styloid | scm",
+        "predicted": "neck | temporalis | masseter | styloid | scm",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B038",
+        "expected": "neck | shoulders",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B113",
+        "expected": "unknown",
+        "predicted": "temporalis | scm | neck | retromandibular",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B089",
+        "expected": "masseter",
+        "predicted": "masseter | retromandibular",
+        "type": "wrong_value"
+      }
+    ]
+  },
+  "muscle_symptoms_present": {
+    "F1": 0.6122,
+    "Precision": 0.625,
+    "Recall": 0.6,
+    "TP": 60,
+    "FP": 36,
+    "FN": 40,
+    "presence": 59,
+    "total_samples": 100,
+    "error_types": {
+      "missing": 4,
+      "hallucination": 19,
+      "missed_field": 14,
+      "wrong_value": 3
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B437",
+        "expected": "false",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B215",
+        "expected": "unknown",
+        "predicted": "true",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B022",
+        "expected": "true",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B379",
+        "expected": "unknown",
+        "predicted": "false",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B161",
+        "expected": "true",
+        "predicted": "unknown",
+        "type": "missed_field"
+      }
+    ]
+  },
+  "muscle_pain_score": {
+    "F1": 0.6429,
+    "Precision": 0.6562,
+    "Recall": 0.63,
+    "TP": 63,
+    "FP": 33,
+    "FN": 37,
+    "presence": 43,
+    "total_samples": 100,
+    "error_types": {
+      "wrong_value": 13,
+      "hallucination": 20,
+      "missing": 4
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B082",
+        "expected": "mild | moderate | severe",
+        "predicted": "severe",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B193",
+        "expected": "unknown",
+        "predicted": "mild",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B215",
+        "expected": "mild",
+        "predicted": "moderate",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B161",
+        "expected": "unknown",
+        "predicted": "mild",
+        "type": "hallucination"
+      }
+    ]
+  },
+  "hearing_loss_present": {
+    "F1": 0.98,
+    "Precision": 0.98,
+    "Recall": 0.98,
+    "TP": 98,
+    "FP": 2,
+    "FN": 2,
+    "presence": 56,
+    "total_samples": 100,
+    "error_types": {
+      "missed_field": 1,
+      "hallucination": 1
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B404",
+        "expected": "false",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B189",
+        "expected": "unknown",
+        "predicted": "false",
+        "type": "hallucination"
+      }
+    ]
+  },
+  "jaw_clicking": {
+    "F1": 0.8265,
+    "Precision": 0.8438,
+    "Recall": 0.81,
+    "TP": 81,
+    "FP": 15,
+    "FN": 19,
+    "presence": 50,
+    "total_samples": 100,
+    "error_types": {
+      "wrong_value": 7,
+      "missing": 4,
+      "hallucination": 6,
+      "missed_field": 2
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B193",
+        "expected": "left and right TMJ",
+        "predicted": "left TMJ",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B437",
+        "expected": "left and right TMJ",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B215",
+        "expected": "unknown",
+        "predicted": "right TMJ",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B260",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B203",
+        "expected": "left and right TMJ",
+        "predicted": "left TMJ",
+        "type": "wrong_value"
+      }
+    ]
+  },
+  "headache_frequency": {
+    "F1": 0.9286,
+    "Precision": 0.9479,
+    "Recall": 0.91,
+    "TP": 91,
+    "FP": 5,
+    "FN": 9,
+    "presence": 40,
+    "total_samples": 100,
+    "error_types": {
+      "wrong_value": 2,
+      "missing": 4,
+      "hallucination": 1,
+      "missed_field": 2
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B082",
+        "expected": "1 a week",
+        "predicted": "2 a week",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B379",
+        "expected": "unknown",
+        "predicted": "daily",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B260",
+        "expected": "1 a week",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B453",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      }
+    ]
+  },
+  "sleep_disorder_type": {
+    "F1": 0.7041,
+    "Precision": 0.7188,
+    "Recall": 0.69,
+    "TP": 69,
+    "FP": 27,
+    "FN": 31,
+    "presence": 47,
+    "total_samples": 100,
+    "error_types": {
+      "missing": 4,
+      "wrong_value": 24,
+      "hallucination": 3
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B158",
+        "expected": "sleep apnea | snoring | somnolence",
+        "predicted": "somnolence | snoring | sleep apnea",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B278",
+        "expected": "unknown",
+        "predicted": "somnolence",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B279",
+        "expected": "somnolence | snoring",
+        "predicted": "snoring | somnolence",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B417",
+        "expected": "somnolence | snoring",
+        "predicted": "somnolence",
+        "type": "wrong_value"
+      }
+    ]
+  },
+  "maximum_opening_without_pain": {
+    "F1": 0.97,
+    "Precision": 0.97,
+    "Recall": 0.97,
+    "TP": 97,
+    "FP": 3,
+    "FN": 3,
+    "presence": 51,
+    "total_samples": 100,
+    "error_types": {
+      "hallucination": 1,
+      "missed_field": 2
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B473",
+        "expected": "unknown",
+        "predicted": "18mm",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B459",
+        "expected": "38mm",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B403",
+        "expected": "30mm",
+        "predicted": "unknown",
+        "type": "missed_field"
+      }
+    ]
+  },
+  "neck_pain_present": {
+    "F1": 0.81,
+    "Precision": 0.81,
+    "Recall": 0.81,
+    "TP": 81,
+    "FP": 19,
+    "FN": 19,
+    "presence": 37,
+    "total_samples": 100,
+    "error_types": {
+      "hallucination": 9,
+      "missed_field": 10
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B215",
+        "expected": "unknown",
+        "predicted": "true",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B379",
+        "expected": "unknown",
+        "predicted": "false",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B477",
+        "expected": "unknown",
+        "predicted": "true",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B417",
+        "expected": "false",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B260",
+        "expected": "true",
+        "predicted": "unknown",
+        "type": "missed_field"
+      }
+    ]
+  },
+  "current_appliance": {
+    "F1": 0.7755,
+    "Precision": 0.7917,
+    "Recall": 0.76,
+    "TP": 76,
+    "FP": 20,
+    "FN": 24,
+    "presence": 36,
+    "total_samples": 100,
+    "error_types": {
+      "missed_field": 10,
+      "missing": 4,
+      "hallucination": 8,
+      "wrong_value": 2
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B038",
+        "expected": "orthodontics",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B437",
+        "expected": "retainer",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B215",
+        "expected": "splint",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B260",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B012",
+        "expected": "orthodontics",
+        "predicted": "unknown",
+        "type": "missed_field"
+      }
+    ]
+  },
+  "onset_triggers": {
+    "F1": 0.8571,
+    "Precision": 0.875,
+    "Recall": 0.84,
+    "TP": 84,
+    "FP": 12,
+    "FN": 16,
+    "presence": 25,
+    "total_samples": 100,
+    "error_types": {
+      "missing": 4,
+      "missed_field": 9,
+      "hallucination": 3
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B183",
+        "expected": "other",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B248",
+        "expected": "other",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B367",
+        "expected": "other",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B089",
+        "expected": "unknown",
+        "predicted": "motor vehicle accident",
+        "type": "hallucination"
+      }
+    ]
+  },
+  "physical_therapy_status": {
+    "F1": 0.9388,
+    "Precision": 0.9583,
+    "Recall": 0.92,
+    "TP": 92,
+    "FP": 4,
+    "FN": 8,
+    "presence": 27,
+    "total_samples": 100,
+    "error_types": {
+      "wrong_value": 1,
+      "missing": 4,
+      "hallucination": 2,
+      "missed_field": 1
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B082",
+        "expected": "chiropratic",
+        "predicted": "physical therapy | chiropratic",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B260",
+        "expected": "chiropratic",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B453",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B284",
+        "expected": "unknown",
+        "predicted": "physical therapy | chiropratic",
+        "type": "hallucination"
+      }
+    ]
+  },
+  "adverse_reactions": {
+    "F1": 0.9184,
+    "Precision": 0.9375,
+    "Recall": 0.9,
+    "TP": 90,
+    "FP": 6,
+    "FN": 10,
+    "presence": 23,
+    "total_samples": 100,
+    "error_types": {
+      "missing": 4,
+      "wrong_value": 1,
+      "missed_field": 4,
+      "hallucination": 1
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B417",
+        "expected": "pollen",
+        "predicted": "seasonal | pollen",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B260",
+        "expected": "penicillin",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B496",
+        "expected": "seasonal",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B453",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      }
+    ]
+  },
+  "jaw_crepitus": {
+    "F1": 0.8878,
+    "Precision": 0.9062,
+    "Recall": 0.87,
+    "TP": 87,
+    "FP": 9,
+    "FN": 13,
+    "presence": 32,
+    "total_samples": 100,
+    "error_types": {
+      "hallucination": 2,
+      "missing": 4,
+      "wrong_value": 5,
+      "missed_field": 2
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B193",
+        "expected": "unknown",
+        "predicted": "left and right TMJ",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B215",
+        "expected": "left and right TMJ",
+        "predicted": "right TMJ",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B248",
+        "expected": "left and right TMJ",
+        "predicted": "right TMJ",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B089",
+        "expected": "left TMJ",
+        "predicted": "left and right TMJ",
+        "type": "wrong_value"
+      }
+    ]
+  },
+  "jaw_locking": {
+    "F1": 0.898,
+    "Precision": 0.9167,
+    "Recall": 0.88,
+    "TP": 88,
+    "FP": 8,
+    "FN": 12,
+    "presence": 13,
+    "total_samples": 100,
+    "error_types": {
+      "missing": 4,
+      "hallucination": 6,
+      "missed_field": 2
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B161",
+        "expected": "unknown",
+        "predicted": "true",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B477",
+        "expected": "true",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B183",
+        "expected": "unknown",
+        "predicted": "true",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B279",
+        "expected": "true",
+        "predicted": "unknown",
+        "type": "missed_field"
+      }
+    ]
+  },
+  "pain_relieving_factors": {
+    "F1": 0.8241,
+    "Precision": 0.82,
+    "Recall": 0.8283,
+    "TP": 82,
+    "FP": 18,
+    "FN": 17,
+    "presence": 15,
+    "total_samples": 100,
+    "error_types": {
+      "hallucination": 6,
+      "wrong_value": 3,
+      "missed_field": 8,
+      "extra": 1
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B082",
+        "expected": "unknown",
+        "predicted": "splint",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B022",
+        "expected": "essex retainers",
+        "predicted": "wearing retainers",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B161",
+        "expected": "unknown",
+        "predicted": "steroids",
+        "type": "hallucination"
+      },
+      {
+        "patient_id": "B217",
+        "expected": "orthodontics",
+        "predicted": "injections | acupressure",
+        "type": "wrong_value"
+      },
+      {
+        "patient_id": "B213",
+        "expected": "unknown",
+        "predicted": "bite plate",
+        "type": "hallucination"
+      }
+    ]
+  },
+  "back_pain_present": {
+    "F1": 0.98,
+    "Precision": 0.98,
+    "Recall": 0.98,
+    "TP": 98,
+    "FP": 2,
+    "FN": 2,
+    "presence": 6,
+    "total_samples": 100,
+    "error_types": {
+      "missed_field": 1,
+      "hallucination": 1
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B038",
+        "expected": "true",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B203",
+        "expected": "unknown",
+        "predicted": "true",
+        "type": "hallucination"
+      }
+    ]
+  },
+  "sleep_apnea_diagnosed": {
+    "F1": 0.86,
+    "Precision": 0.86,
+    "Recall": 0.86,
+    "TP": 86,
+    "FP": 14,
+    "FN": 14,
+    "presence": 19,
+    "total_samples": 100,
+    "error_types": {
+      "missed_field": 8,
+      "hallucination": 5,
+      "wrong_value": 1
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B064",
+        "expected": "false",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B437",
+        "expected": "false",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B161",
+        "expected": "false",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B183",
+        "expected": "false",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B158",
+        "expected": "unknown",
+        "predicted": "true",
+        "type": "hallucination"
+      }
+    ]
+  },
+  "autoimmune_condition": {
+    "F1": 0.9796,
+    "Precision": 1.0,
+    "Recall": 0.96,
+    "TP": 96,
+    "FP": 0,
+    "FN": 4,
+    "presence": 3,
+    "total_samples": 100,
+    "error_types": {
+      "missing": 4
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B260",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B453",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B374",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      }
+    ]
+  },
+  "migraine_history": {
+    "F1": 0.9796,
+    "Precision": 1.0,
+    "Recall": 0.96,
+    "TP": 96,
+    "FP": 0,
+    "FN": 4,
+    "presence": 8,
+    "total_samples": 100,
+    "error_types": {
+      "missing": 4
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B260",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B453",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B374",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      }
+    ]
+  },
+  "previous_medications": {
+    "F1": 0.9184,
+    "Precision": 0.9375,
+    "Recall": 0.9,
+    "TP": 90,
+    "FP": 6,
+    "FN": 10,
+    "presence": 5,
+    "total_samples": 100,
+    "error_types": {
+      "missing": 4,
+      "missed_field": 3,
+      "hallucination": 2,
+      "wrong_value": 1
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B161",
+        "expected": "steroids",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B260",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B453",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B027",
+        "expected": "lodine | antibiotics",
+        "predicted": "unknown",
+        "type": "missed_field"
+      }
+    ]
+  },
+  "pain_frequency": {
+    "F1": 0.898,
+    "Precision": 0.9167,
+    "Recall": 0.88,
+    "TP": 88,
+    "FP": 8,
+    "FN": 12,
+    "presence": 6,
+    "total_samples": 100,
+    "error_types": {
+      "missed_field": 6,
+      "missing": 4,
+      "hallucination": 2
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B038",
+        "expected": "occasional",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B379",
+        "expected": "daily",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B260",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B453",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      }
+    ]
+  },
+  "depression_present": {
+    "F1": 0.9694,
+    "Precision": 0.9896,
+    "Recall": 0.95,
+    "TP": 95,
+    "FP": 1,
+    "FN": 5,
+    "presence": 3,
+    "total_samples": 100,
+    "error_types": {
+      "missing": 4,
+      "missed_field": 1
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B477",
+        "expected": "true",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B260",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B453",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B374",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      }
+    ]
+  },
+  "pain_duration": {
+    "F1": 0.97,
+    "Precision": 0.97,
+    "Recall": 0.97,
+    "TP": 97,
+    "FP": 3,
+    "FN": 3,
+    "presence": 3,
+    "total_samples": 100,
+    "error_types": {
+      "missed_field": 3
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B367",
+        "expected": "afternoons",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B337",
+        "expected": "morning",
+        "predicted": "unknown",
+        "type": "missed_field"
+      },
+      {
+        "patient_id": "B323",
+        "expected": "morning",
+        "predicted": "unknown",
+        "type": "missed_field"
+      }
+    ]
+  },
+  "fibromyalgia_present": {
+    "F1": 0.9796,
+    "Precision": 1.0,
+    "Recall": 0.96,
+    "TP": 96,
+    "FP": 0,
+    "FN": 4,
+    "presence": 5,
+    "total_samples": 100,
+    "error_types": {
+      "missing": 4
+    },
+    "sample_errors": [
+      {
+        "patient_id": "B437",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B260",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B453",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      },
+      {
+        "patient_id": "B374",
+        "expected": "unknown",
+        "predicted": "MISSING",
+        "type": "missing"
+      }
+    ]
+  }
+}

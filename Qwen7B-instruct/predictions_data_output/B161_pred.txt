@@ -1,0 +1,38 @@
+patient_id: B161
+patient_age: 13
+pain_onset_date: 1.5 years ago
+onset_triggers: unknown 
+jaw_clicking: left TMJ | right TMJ
+current_appliance: orthodontics since 13 months ago
+current_medications: growth hormone | Synthroid | steroids
+earache_present: True
+joint_pain_areas: right TMJ
+neck_pain_present: False
+headache_intensity: 0
+tmj_pain_rating: 4 but can escalate to 7
+average_daily_pain_intensity: 5
+jaw_function_score: 5
+diet_score: 1 on the left side and 6 on the right side
+disability_rating: 3
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B161
+muscle_tenderness_present: True
+muscle_pain_score: mild to moderate
+muscle_pain_location: right styloid
+joint_pain_areas: right TMJ
+maximum_opening: 40mm
+maximum_opening_without_pain: 32mm
+----------------------------------------------------------------------------------------------------
+patient_id: B161
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocation, nonreducing
+joint_pain_areas: TMJ
+earache_present: True
+patient_age: 13
+----------------------------------------------------------------------------------------------------
+patient_id: B161
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with early reduction | right disc dislocation without reduction

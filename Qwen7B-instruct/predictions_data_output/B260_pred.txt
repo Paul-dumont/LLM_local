@@ -1,0 +1,64 @@
+patient_id: B260
+patient_age: 39
+pain_onset_date: childhood
+onset_triggers: unknown
+headache_intensity: 6
+headache_frequency: daily
+current_medications: Klonopin | vitamins | motrin | advil
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+adverse_reactions: penicillin
+pain_aggravating_factors: clenching | bruxism
+joint_pain_areas: left TMJ | right TMJ
+muscle_pain_score: high moderate to low severe
+muscle_pain_location: styloid areas | posterior neck | temporalis | masseters | medial pterygoids | SCMs | shoulders
+neck_pain_present: True
+maximum_opening: 43mm
+maximum_opening_without_pain: 33mm
+----------------------------------------------------------------------------------------------------
+patient_id: B260
+airway_obstruction_present: False
+----------------------------------------------------------------------------------------------------
+patient_id: B260
+pain_aggravating_factors: clenching | bruxism
+jaw_crepitus: right TMJ
+maximum_opening: 43mm
+maximum_opening_without_pain: 33mm
+----------------------------------------------------------------------------------------------------
+patient_id: B260
+pain_aggravating_factors: clenching
+current_appliance: elastics
+----------------------------------------------------------------------------------------------------
+patient_id: B260
+pain_aggravating_factors: clenching
+current_appliance: splint
+----------------------------------------------------------------------------------------------------
+patient_id: B260
+pain_aggravating_factors: clenching
+current_appliance: splint
+----------------------------------------------------------------------------------------------------
+patient_id: B260
+pain_aggravating_factors: clenching
+current_appliance: splint
+----------------------------------------------------------------------------------------------------
+patient_id: B260
+pain_aggravating_factors: clenching
+current_appliance: splint
+----------------------------------------------------------------------------------------------------
+patient_id: B260
+pain_aggravating_factors: clenching
+current_appliance: splint
+----------------------------------------------------------------------------------------------------
+patient_id: B260
+pain_aggravating_factors: clenching
+current_appliance: splint
+----------------------------------------------------------------------------------------------------
+patient_id: B260
+pain_aggravating_factors: clenching
+current_appliance: splint
+----------------------------------------------------------------------------------------------------
+patient_id: B260
+pain_aggravating_factors: clenching
+current_appliance: splint
+------------------------------------------------------------------------------------------------

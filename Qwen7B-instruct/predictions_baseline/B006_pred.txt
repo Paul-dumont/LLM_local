@@ -1,0 +1,45 @@
+patient_id: B006 
+patient_age: 55 years old 
+maximum_opening: 32 mm 
+maximum_opening_without_pain: 17 mm 
+jaw_function_score: 4 
+average_daily_pain_intensity: 5 
+tmj_pain_rating: 5 
+headache_intensity: 3 
+pain_onset_date: 6 months ago 
+pain_duration: chronic 
+pain_frequency: frequent 
+pain_aggravating_factors: clenching, jaw movement 
+pain_relieving_factors: unknown 
+headache_location: frontal | temporal | posterior 
+muscle_pain_location: temporalis | masseters | retromandibular area | shoulders | medial pterygoids | SCM 
+muscle_pain_score: severe 
+muscle_symptoms_present: true 
+joint_pain_areas: left tmj | right tmj 
+joint_arthritis_location: left tmj | right tmj 
+disc_displacement: anterior beaking | left | slight anterior beaking | right 
+jaw_clicking: unknown 
+jaw_locking: unknown 
+jaw_crepitus: unknown 
+neck_pain_present: unknown 
+back_pain_present: unknown 
+earache_present: true 
+tinnitus_present: true 
+vertigo_present: false 
+hearing_loss_present: false 
+sleep_disorder_type: snoring | daytime tiredness 
+sleep_apnea_diagnosed: false 
+airway_obstruction_present: true 
+fibromyalgia_present: unknown 
+autoimmune_condition: unknown 
+depression_present: unknown 
+migraine_history: unknown 
+diet_score: 3 
+disability_rating: 6 
+current_medications: doxycycline | Advil 
+previous_medications: splint therapy | physical therapy | pain medications 
+adverse_reactions: unknown 
+current_appliance: unknown 
+appliance_history: splint 
+physical_therapy_status: unknown 
+onset_triggers: yawn

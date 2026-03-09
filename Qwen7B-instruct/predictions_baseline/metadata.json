@@ -1,0 +1,8 @@
+{
+  "model_id": "Qwen/Qwen2.5-7B-Instruct",
+  "model_type": "baseline_no_finetuning",
+  "max_seq_len": 4096,
+  "inference_date": "2026-01-06 14:26:35",
+  "prediction_dir": "/home/luciacev/Desktop/LLM_local/Qwen7B-instruct/predictions_baseline",
+  "gpu": "NVIDIA RTX 6000 Ada Generation"
+}

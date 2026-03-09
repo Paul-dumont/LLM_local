@@ -1,0 +1,18 @@
+patient_id: B027
+patient_age: 52
+pain_onset_date: 7 months ago
+onset_triggers: dental work done on the mandibular right second molar
+current_medications: Lodine 
+earache_present: True
+joint_pain_areas: right TMJ
+muscle_tenderness_present: False
+jaw_crepitus: right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B027
+joint_arthritis_location: right TMJ
+joint_pain_areas: right TMJ
+earache_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B027
+patient_age: 52
+joint_arthritis_location: right TMJ

@@ -1,0 +1,35 @@
+patient_id: B082
+patient_age: 41
+jaw_locking: True
+appliance_history: lower splint | upper splint | orthodontics
+pain_onset_date: two to three years ago
+onset_triggers: unknown 
+current_appliance: splint for over two years
+physical_therapy_status: Prolo injections from age 39 to 40 | physical therapy | chiropractic treatment about every two to three weeks
+earache_present: True
+tinnitus_present: True
+vertigo_present: True
+hearing_loss_present: True
+joint_pain_areas: back | fingers | TMJ
+back_pain_present: True
+pain_aggravating_factors: clenching
+headache_intensity: 9
+headache_location: frontal | posterior head | temple
+headache_frequency: two times per week
+tmj_pain_rating: 5
+average_daily_pain_intensity: 9
+jaw_function_score: 7
+diet_score: 0
+sleep_disorder_type: snoring
+muscle_pain_score: severe 
+muscle_pain_location: posterior neck | left temporalis | masseter | styloid | SCM | right shoulder
+neck_pain_present: True
+jaw_crepitus: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: False
+patient_id: B082
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction

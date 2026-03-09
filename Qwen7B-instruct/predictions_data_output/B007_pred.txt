@@ -1,0 +1,33 @@
+patient_id: B007
+patient_age: 23
+pain_onset_date: 14 years of age
+onset_triggers: unknown 
+appliance_history: orthodontics from 9 to 12 | splint 2 years ago
+current_appliance: splint
+jaw_locking: True
+muscle_pain_location: bilateral facial
+headache_intensity: 6
+headache_location: temporal | posterior head
+headache_frequency: 5 out of 7 days
+tmj_pain_rating: 0
+average_daily_pain_intensity: 5
+jaw_function_score: 3
+diet_score: 2
+disability_rating: 1
+earache_present: False
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: True
+joint_pain_areas: knees
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+patient_id: B007
+airway_obstruction_present: True
+muscle_pain_location: temporalis | masseter
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B007
+joint_arthritis_location: right TMJ
+disc_displacement: right disc dislocation with very late reduction | left disc dislocation 
+joint_pain_areas: left TMJ | right TMJ
+headache_intensity: present

@@ -1,0 +1,35 @@
+patient_id: B170
+patient_age: 48
+jaw_clicking: left TMJ | right TMJ
+pain_onset_date: 11 years ago
+onset_triggers: unknown
+appliance_history: splint therapy last year | orthodontics 8 months ago on lower jaw | orthodontics 5 months ago on upper jaw
+current_medications: Clarinex | Zyrtec | Singular | multivitamins | OsteoBiFlex Triple | Bromelain | L-lysine
+headache_intensity: 3
+headache_location: temple
+tmj_pain_rating: 3
+average_daily_pain_intensity: 4
+jaw_function_score: 6
+diet_score: 7
+disability_rating: 7
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+joint_pain_areas: right shoulder | right knee
+adverse_reactions: penicillin | aspirin | erythromycin | sulfa drugs | Tequin | cheap earrings
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+sleep_disorder_type: daytime somnolence | snoring 
+muscle_tenderness_present: True
+muscle_pain_score: mild
+muscle_pain_location: masseters | styloid areas
+joint_pain_areas: left TMJ | right TMJ
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B170
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement with reduction | right disc anterior displacement with reduction

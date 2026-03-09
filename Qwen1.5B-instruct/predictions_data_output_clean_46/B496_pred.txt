@@ -1,0 +1,16 @@
+patient_id: B496
+maximum_opening_without_pain: unknown
+patient_age: 13
+maximum_opening: 50mm
+pain_relieving_factors: unknown
+diet_score: 0
+pain_duration: unknown
+disability_rating: 0
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical maxillary hyperplasia | anterior vertical

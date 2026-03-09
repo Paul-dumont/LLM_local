@@ -1,0 +1,25 @@
+patient_id: B278
+patient_age: 19
+current_medications: Yasmin | Glucophage
+appliance_history: orthodontics x 3
+pain_onset_date: few months ago
+onset_triggers: unknown
+jaw_locking: False
+jaw_clicking: True
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B278
+muscle_pain_score: moderate 
+muscle_pain_location: masseter | styloid areas
+joint_pain_areas: TMJ
+sleep_disorder_type: daytime somnolence
+maximum_opening: 55mm
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+patient_id: B278
+disc_displacement: left disc dislocation | right disc dislocation
+joint_pain_areas: TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B278
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior dislocation with reduction

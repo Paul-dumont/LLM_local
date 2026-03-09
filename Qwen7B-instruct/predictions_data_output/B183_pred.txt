@@ -1,0 +1,27 @@
+patient_id: B183
+current_medications: Synthroid | Zocor | Singulair | Motrin | Ambien 
+headache_intensity: 8
+headache_location: frontal | temporal | posterior head
+tmj_pain_rating: 8
+average_daily_pain_intensity: 8
+jaw_function_score: 4
+diet_score: 8
+disability_rating: 8
+maximum_opening: 45mm
+muscle_pain_score: high moderate to low severe
+muscle_pain_location: temporalis | masseters | SCMs | posterior neck | shoulders
+neck_pain_present: True
+joint_pain_areas: TMJ
+pain_aggravating_factors: clenching | bruxism
+sleep_disorder_type: daytime somnolence
+----------------------------------------------------------------------------------------------------
+patient_id: B183
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation 
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B183
+patient_age: 57
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement | right disc posterior displacement

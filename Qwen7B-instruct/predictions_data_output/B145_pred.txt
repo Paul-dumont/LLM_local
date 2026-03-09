@@ -1,0 +1,14 @@
+patient_id: B145
+patient_age: 20
+current_medications: none
+sleep_disorder_type: daytime somnolence
+appliance_history: orthodontics from 13 to 16 | maxillary expansion at 7 years of age
+pain_onset_date: 10 or 11 years of age
+onset_triggers: motorcycle accident
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+patient_id: B145
+muscle_sensation_abnormal: lower lip and chin area that is close to having the feeling of being numb
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anteromedially displaced with reduction | right disc anteromedially displaced with reduction

@@ -1,0 +1,219 @@
+========================================================================================================================
+ANALYSIS OF F1 SCORE ERRORS - DETAILED BREAKDOWN
+========================================================================================================================
+
+
+1. CRITERIA WITH LOWEST F1 SCORES (Most Problematic)
+------------------------------------------------------------------------------------------------------------------------
+
+📌 JOINT_PAIN_AREAS
+   F1 Score: 0.4974 | Precision: 0.5161 | Recall: 0.4800
+   Data Availability: 83/100 (83.0%)
+   TP: 48, FP: 45, FN: 52
+   Error Breakdown:
+      - wrong_value: 30 cases (20.7%)
+      - hallucination: 9 cases (6.2%)
+      - missing: 7 cases (4.8%)
+      - missed_field: 6 cases (4.1%)
+   Sample Errors:
+      • Patient B064: Expected 'left and right TMJ | shoulder' → Got 'left and right TMJ' (wrong_value)
+      • Patient B038: Expected 'unknown' → Got 'none' (hallucination)
+      • Patient B437: Expected 'left and right TMJ' → Got 'MISSING' (missing)
+
+📌 PAIN_AGGRAVATING_FACTORS
+   F1 Score: 0.6000 | Precision: 0.6000 | Recall: 0.6000
+   Data Availability: 66/100 (66.0%)
+   TP: 60, FP: 40, FN: 40
+   Error Breakdown:
+      - wrong_value: 23 cases (16.4%)
+      - hallucination: 16 cases (11.4%)
+      - missed_field: 1 cases (0.7%)
+   Sample Errors:
+      • Patient B082: Expected 'clenching | posterior cross bite | anterior open bite' → Got 'anterior open bite | clenching' (wrong_value)
+      • Patient B038: Expected 'clenching' → Got 'clenching | bruxism' (wrong_value)
+      • Patient B193: Expected 'unknown' → Got 'clenching | bruxism' (hallucination)
+
+📌 MUSCLE_SYMPTOMS_PRESENT
+   F1 Score: 0.6122 | Precision: 0.6250 | Recall: 0.6000
+   Data Availability: 59/100 (59.0%)
+   TP: 60, FP: 36, FN: 40
+   Error Breakdown:
+      - hallucination: 19 cases (14.0%)
+      - missed_field: 14 cases (10.3%)
+      - missing: 4 cases (2.9%)
+      - wrong_value: 3 cases (2.2%)
+   Sample Errors:
+      • Patient B437: Expected 'false' → Got 'MISSING' (missing)
+      • Patient B215: Expected 'unknown' → Got 'true' (hallucination)
+      • Patient B022: Expected 'true' → Got 'unknown' (missed_field)
+
+📌 MUSCLE_PAIN_SCORE
+   F1 Score: 0.6429 | Precision: 0.6562 | Recall: 0.6300
+   Data Availability: 43/100 (43.0%)
+   TP: 63, FP: 33, FN: 37
+   Error Breakdown:
+      - hallucination: 20 cases (15.0%)
+      - wrong_value: 13 cases (9.8%)
+      - missing: 4 cases (3.0%)
+   Sample Errors:
+      • Patient B082: Expected 'mild | moderate | severe' → Got 'severe' (wrong_value)
+      • Patient B193: Expected 'unknown' → Got 'mild' (hallucination)
+      • Patient B437: Expected 'unknown' → Got 'MISSING' (missing)
+
+📌 AIRWAY_OBSTRUCTION_PRESENT
+   F1 Score: 0.6633 | Precision: 0.6771 | Recall: 0.6500
+   Data Availability: 70/100 (70.0%)
+   TP: 65, FP: 31, FN: 35
+   Error Breakdown:
+      - hallucination: 14 cases (10.7%)
+      - wrong_value: 10 cases (7.6%)
+      - missed_field: 7 cases (5.3%)
+      - missing: 4 cases (3.1%)
+   Sample Errors:
+      • Patient B082: Expected 'true' → Got 'false' (wrong_value)
+      • Patient B038: Expected 'false' → Got 'true' (wrong_value)
+      • Patient B437: Expected 'true' → Got 'MISSING' (missing)
+
+📌 CURRENT_MEDICATIONS
+   F1 Score: 0.6974 | Precision: 0.7158 | Recall: 0.6800
+   Data Availability: 81/100 (81.0%)
+   TP: 68, FP: 27, FN: 32
+   Error Breakdown:
+      - wrong_value: 20 cases (15.7%)
+      - hallucination: 6 cases (4.7%)
+      - missing: 5 cases (3.9%)
+      - missed_field: 1 cases (0.8%)
+   Sample Errors:
+      • Patient B064: Expected 'motrim' → Got 'motrin' (wrong_value)
+      • Patient B437: Expected 'unknown' → Got 'MISSING' (missing)
+      • Patient B158: Expected 'unknown' → Got 'methotrexate | folic acid | naproxen | pepcid' (hallucination)
+
+📌 SLEEP_DISORDER_TYPE
+   F1 Score: 0.7041 | Precision: 0.7188 | Recall: 0.6900
+   Data Availability: 47/100 (47.0%)
+   TP: 69, FP: 27, FN: 31
+   Error Breakdown:
+      - wrong_value: 24 cases (18.9%)
+      - missing: 4 cases (3.1%)
+      - hallucination: 3 cases (2.4%)
+   Sample Errors:
+      • Patient B437: Expected 'unknown' → Got 'MISSING' (missing)
+      • Patient B158: Expected 'sleep apnea | snoring | somnolence' → Got 'somnolence | snoring | sleep apnea' (wrong_value)
+      • Patient B278: Expected 'unknown' → Got 'somnolence' (hallucination)
+
+📌 DISC_DISPLACEMENT
+   F1 Score: 0.7282 | Precision: 0.7474 | Recall: 0.7100
+   Data Availability: 93/100 (93.0%)
+   TP: 71, FP: 24, FN: 29
+   Error Breakdown:
+      - wrong_value: 23 cases (18.5%)
+      - missing: 5 cases (4.0%)
+      - hallucination: 1 cases (0.8%)
+   Sample Errors:
+      • Patient B082: Expected 'without reduction' → Got 'left disc dislocation | right disc dislocation | without reduction' (wrong_value)
+      • Patient B437: Expected 'left disc dislocation | right disc dislocation | with reduction' → Got 'MISSING' (missing)
+      • Patient B022: Expected 'left disc dislocation | right disc dislocation | with reduction' → Got 'left disc dislocation | right disc dislocation' (wrong_value)
+
+📌 APPLIANCE_HISTORY
+   F1 Score: 0.7629 | Precision: 0.7872 | Recall: 0.7400
+   Data Availability: 71/100 (71.0%)
+   TP: 74, FP: 20, FN: 26
+   Error Breakdown:
+      - wrong_value: 8 cases (6.7%)
+      - missed_field: 8 cases (6.7%)
+      - missing: 6 cases (5.0%)
+      - hallucination: 4 cases (3.3%)
+   Sample Errors:
+      • Patient B082: Expected 'splint | orthodontics' → Got 'orthodontics' (wrong_value)
+      • Patient B437: Expected 'orthodontics' → Got 'MISSING' (missing)
+      • Patient B215: Expected 'unknown' → Got 'splint' (hallucination)
+
+📌 CURRENT_APPLIANCE
+   F1 Score: 0.7755 | Precision: 0.7917 | Recall: 0.7600
+   Data Availability: 36/100 (36.0%)
+   TP: 76, FP: 20, FN: 24
+   Error Breakdown:
+      - missed_field: 10 cases (8.3%)
+      - hallucination: 8 cases (6.7%)
+      - missing: 4 cases (3.3%)
+      - wrong_value: 2 cases (1.7%)
+   Sample Errors:
+      • Patient B038: Expected 'orthodontics' → Got 'unknown' (missed_field)
+      • Patient B437: Expected 'retainer' → Got 'MISSING' (missing)
+      • Patient B215: Expected 'splint' → Got 'unknown' (missed_field)
+
+
+2. CRITERIA WITH HIGHEST F1 SCORES (Well-Handled)
+------------------------------------------------------------------------------------------------------------------------
+
+✓ disability_rating
+   F1: 1.0000 | Precision: 1.0000 | Recall: 1.0000 | Availability: 84/100
+
+✓ jaw_function_score
+   F1: 1.0000 | Precision: 1.0000 | Recall: 1.0000 | Availability: 85/100
+
+✓ patient_id
+   F1: 1.0000 | Precision: 1.0000 | Recall: 1.0000 | Availability: 100/100
+
+✓ vertigo_present
+   F1: 0.9900 | Precision: 0.9900 | Recall: 0.9900 | Availability: 84/100
+
+✓ tinnitus_present
+   F1: 0.9900 | Precision: 0.9900 | Recall: 0.9900 | Availability: 84/100
+
+✓ diet_score
+   F1: 0.9900 | Precision: 0.9900 | Recall: 0.9900 | Availability: 85/100
+
+✓ back_pain_present
+   F1: 0.9800 | Precision: 0.9800 | Recall: 0.9800 | Availability: 6/100
+
+✓ hearing_loss_present
+   F1: 0.9800 | Precision: 0.9800 | Recall: 0.9800 | Availability: 56/100
+
+✓ fibromyalgia_present
+   F1: 0.9796 | Precision: 1.0000 | Recall: 0.9600 | Availability: 5/100
+
+✓ migraine_history
+   F1: 0.9796 | Precision: 1.0000 | Recall: 0.9600 | Availability: 8/100
+
+
+3. GLOBAL ERROR PATTERNS
+------------------------------------------------------------------------------------------------------------------------
+
+Error Type Distribution (across all criteria):
+   • hallucination: 175 (26.6%)
+   • missed_field: 125 (19.0%)
+   • wrong_value: 226 (34.4%)
+   • missing: 130 (19.8%)
+   • extra: 1 (0.2%)
+
+
+4. DATA SPARSITY ANALYSIS (Low Presence Criteria)
+------------------------------------------------------------------------------------------------------------------------
+
+Criteria with <30% presence in training data (14 criteria):
+   • depression_present: 3/100 (3.0%) - F1: 1.8802
+   • pain_duration: 3/100 (3.0%) - F1: 1.8818
+   • autoimmune_condition: 3/100 (3.0%) - F1: 1.9200
+   • previous_medications: 5/100 (5.0%) - F1: 1.6875
+   • fibromyalgia_present: 5/100 (5.0%) - F1: 1.9200
+   • pain_frequency: 6/100 (6.0%) - F1: 1.6133
+   • back_pain_present: 6/100 (6.0%) - F1: 1.9208
+   • migraine_history: 8/100 (8.0%) - F1: 1.9200
+   • jaw_locking: 13/100 (13.0%) - F1: 1.6133
+   • pain_relieving_factors: 15/100 (15.0%) - F1: 1.3584
+   • sleep_apnea_diagnosed: 19/100 (19.0%) - F1: 1.4792
+   • adverse_reactions: 23/100 (23.0%) - F1: 1.6875
+   • onset_triggers: 25/100 (25.0%) - F1: 1.4700
+   • physical_therapy_status: 27/100 (27.0%) - F1: 1.7633
+
+
+5. RECOMMENDATIONS FOR PAPER
+------------------------------------------------------------------------------------------------------------------------
+   1. Data Augmentation: Focus on sparse criteria (presence < 30%)
+   2. Prompt Engineering: Improve handling of complex fields (joint_pain_areas, pain_aggravating_factors)
+   3. Post-Processing: Implement consistency checks for multi-part fields
+   4. Fine-tuning Strategy: Weight loss towards low-F1 criteria
+   5. Validation: Add domain-specific validation rules
+
+========================================================================================================================

@@ -35,8 +35,8 @@ if torch.cuda.is_available():
 
 # Adapte à ton arborescence (ici: script dans <repo>/scripts/, data dans <repo>/Data_input)
 BASE_DIR    = Path(__file__).parent.parent
-DATA_INPUT  = BASE_DIR / "Data_input"
-DATA_OUTPUT = BASE_DIR / "Data_output_12"
+DATA_INPUT  = BASE_DIR / "data_training" / "data_input"
+DATA_OUTPUT = BASE_DIR / "data_training" / "data_output_clean_46"
 RUN_DIR     = Path(__file__).parent / "model" / f"{MODEL_SHORT}_{time.strftime('%Y%m%d_%H%M%S')}_{os.getenv('SLURM_JOB_ID', 'local')}"
 RUN_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -158,7 +158,7 @@ def sft_config():
         gradient_checkpointing=True,
         dataloader_pin_memory=True,
         dataloader_num_workers=0,
-        max_seq_length=MAX_SEQ_LEN,
+        max_length=MAX_SEQ_LEN,
         packing=False,
         dataset_text_field="text",
         report_to=report_to,
@@ -175,7 +175,6 @@ def train_and_eval(model, tok, dset, cfg):
         args=cfg,
         train_dataset=dset["train"],
         eval_dataset=dset["eval"],
-        tokenizer=tok,
     )
     tr = trainer.train()
     print("✅ Training finished")

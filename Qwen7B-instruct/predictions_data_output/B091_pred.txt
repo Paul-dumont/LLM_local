@@ -1,0 +1,34 @@
+patient_id: B091
+patient_age: 35
+jaw_clicking: left TMJ | right TMJ
+joint_pain_areas: left TMJ | right TMJ
+pain_onset_date: 15 years of age
+onset_triggers: struck chin on the head of another player
+appliance_history: orthodontics from 13 to 18 | retainers from 18 to 22
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+headache_intensity: 7
+headache_location: frontal | temporal | posterior head
+tmj_pain_rating: 8
+average_daily_pain_intensity: 2
+jaw_function_score: 5
+diet_score: 2
+disability_rating: 1
+----------------------------------------------------------------------------------------------------
+patient_id: B091
+airway_obstruction_present: True
+muscle_tenderness_present: False
+maximum_opening: 43mm
+----------------------------------------------------------------------------------------------------
+patient_id: B091
+disc_displacement: left disc dislocation | right disc dislocation 
+joint_arthritis_location: left TMJ | right TMJ
+sleep_apnea_diagnosed: True
+sleep_disorder_type: sleep apnea syndrome
+joint_pain_areas: TMJ
+headache_intensity: present
+----------------------------------------------------------------------------------------------------
+patient_id: B091
+patient_age: 35
+disc_displacement: left disc anterior displacement | right disc anterior displacement

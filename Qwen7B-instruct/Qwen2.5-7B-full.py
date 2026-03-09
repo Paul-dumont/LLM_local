@@ -39,7 +39,7 @@ if torch.cuda.is_available():
 BASE_DIR     = Path(__file__).parent.parent  # /home/luciacev/Desktop/LLM
 TRAINING_DIR = BASE_DIR / "data_training"
 DATA_INPUT   = TRAINING_DIR / "data_input"
-DATA_OUTPUT  = TRAINING_DIR / "data_output_clean_4"
+DATA_OUTPUT  = TRAINING_DIR / "data_output_clean_46"
 MODEL_DIR    = Path(__file__).parent / "model"  # Sauvegarde dans Qwen2.5-7B-instruct/model
 MODEL_DIR.mkdir(parents=True, exist_ok=True)
 RUN_DIR      = MODEL_DIR / f"{MODEL_SHORT}_{time.strftime('%Y%m%d_%H%M%S')}_{os.getenv('SLURM_JOB_ID', 'local')}"

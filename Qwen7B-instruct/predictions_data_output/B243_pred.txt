@@ -1,0 +1,42 @@
+patient_id: B243
+patient_age: 47
+pain_onset_date: 5 years ago
+onset_triggers: unknown
+appliance_history: orthodontics 2 years ago
+current_appliance: braces
+pain_aggravating_factors: clenching | bruxism
+current_medications: Paxil | Synthroid | Depo Estrogen | Xanax | Flexeril | hydrocodone
+adverse_reactions: penicillin | erythromycin | sulfa antibiotics
+headache_intensity: 7
+headache_location: frontal | behind the eyes | temple
+tmj_pain_rating: 9
+average_daily_pain_intensity: 5
+jaw_function_score: 5
+diet_score: 4
+disability_rating: 4
+earache_present: True
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: right shoulder | elbow | wrist | hand | finger
+----------------------------------------------------------------------------------------------------
+patient_id: B243
+muscle_pain_score: moderate
+muscle_pain_location: masseters | styloid areas | medial pterygoids | posterior neck | shoulder
+neck_pain_present: True
+maximum_opening: 37mm
+maximum_opening_without_pain: 20mm
+jaw_crepitus: left TMJ | right TMJ
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea
+sleep_apnea_diagnosed: True
+airway_obstruction_present: True
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+joint_pain_areas: TMJ
+headache_intensity: present
+sleep_apnea_diagnosed: True
+patient_id: B243
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction

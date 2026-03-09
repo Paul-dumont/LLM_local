@@ -1,0 +1,44 @@
+patient_id: B195
+patient_age: 42
+pain_onset_date: 3 years ago
+onset_triggers: getting out of her car and a handicapped van with no one in it popped into reverse with the engine running and ran into the back of her car, and her face hit the side of the steering wheel
+current_appliance: splint 
+appliance_history: splint 
+physical_therapy_status: rehab therapy on her neck
+jaw_locking: False
+earache_present: False
+tinnitus_present: True
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: neck | TMJ
+neck_pain_present: True
+back_pain_present: False
+pain_aggravating_factors: clenching | bruxism
+headache_intensity: 5 but can escalate to 10
+headache_location: frontal | temporal | posterior head
+headache_frequency: two times a month
+migraine_history: True
+tmj_pain_rating: 3 but can go up to 8
+average_daily_pain_intensity: 3
+jaw_function_score: 7
+diet_score: 8
+disability_rating: 6
+current_medications: testosterone | Imitrex | Loomocaine | Phenergan
+muscle_tenderness_present: True
+muscle_pain_score: moderate to high
+muscle_pain_location: temporalis | masseters | medial pteryoidgoids | styloids | SCMs
+joint_pain_areas: TMJ
+maximum_opening: 35mm
+maximum_opening_without_pain: 25mm
+jaw_crepitus: present
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+airway_obstruction_present: True
+joint_pain_areas: TMJ
+tmj_pain_rating: present
+headache_intensity: present
+tinnitus_present: True
+patient_id: B195
+----------------------------------------------------------------------------------------------------
+NoInfo

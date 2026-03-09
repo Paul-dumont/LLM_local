@@ -1,0 +1,36 @@
+patient_id: B242
+patient_age: 40
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterolaterally displaced with reduction | right disc anterolaterally displaced with reduction
+sleep_apnea_diagnosed: True
+headache_intensity: present
+jaw_clicking: left TMJ | right TMJ
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+pain_aggravating_factors: clenching | bruxism
+current_appliance: orthodontics since 32
+appliance_history: orthodontics from 32 to 33
+----------------------------------------------------------------------------------------------------
+patient_id: B242
+joint_pain_areas: TMJ
+headache_intensity: 6
+headache_frequency: once per week
+headache_location: temple | back of the head
+tmj_pain_rating: 3
+jaw_function_score: 1
+diet_score: 0
+disability_rating: 0
+airway_obstruction_present: True
+muscle_tenderness_present: False
+jaw_clicking: left TMJ | right TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B242
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation with early reduction | right disc dislocation with early reduction
+sleep_disorder_type: snoring | sleep apnea
+headache_intensity: present
+joint_pain_areas: TMJ
+----------------------------------------------------------------------------------------------------
+NoInfo

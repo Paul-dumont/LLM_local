@@ -1,0 +1,42 @@
+patient_id: B064
+patient_age: 22
+pain_onset_date: 13 or 14 years of age
+onset_triggers: wearing elastics for orthodontic reasons
+appliance_history: orthodontics from age 14 to 17 | orthodontics from age 19 to 20
+jaw_clicking: left TMJ | right TMJ
+current_appliance: lower retainer
+pain_relieving_factors: orthodontics from age 14 to 17 | orthodontics from age 19 to 20
+physical_therapy_status: chiropractic treatment | facial massage therapy | speech therapy
+current_medications: motrin 
+headache_intensity: 3
+headache_location: temporal | posterior head
+tmj_pain_rating: 8
+average_daily_pain_intensity: 4
+jaw_function_score: 5
+diet_score: 5
+disability_rating: 8
+earache_present: True
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+joint_pain_areas: right shoulder
+pain_aggravating_factors: clenching
+sleep_disorder_type: daytime somnolence
+----------------------------------------------------------------------------------------------------
+airway_obstruction_present: True
+muscle_pain_score: moderate
+muscle_pain_location: temporalis | posterior neck | shoulders
+neck_pain_present: True
+joint_crepitus: left TMJ | right TMJ
+maximum_opening: 51mm
+maximum_opening_without_pain: 32mm
+----------------------------------------------------------------------------------------------------
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc dislocation | right disc dislocation
+joint_pain_areas: TMJ
+headache_intensity: present
+patient_id: B064
+----------------------------------------------------------------------------------------------------
+patient_id: B064
+joint_arthritis_location: left TMJ | right TMJ
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction

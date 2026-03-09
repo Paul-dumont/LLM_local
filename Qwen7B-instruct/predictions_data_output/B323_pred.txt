@@ -1,0 +1,35 @@
+patient_id: B323
+patient_age: 13
+current_medications: Flonase | Allegra
+earache_present: False
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: True
+joint_pain_areas: left hip | knees | ankles
+pain_onset_date: 1-1/2 years ago
+onset_triggers: unknown 
+headache_intensity: 0
+tmj_pain_rating: 0
+average_daily_pain_intensity: 6
+jaw_function_score: 1
+diet_score: 0
+disability_rating: 1
+maximum_opening: 47mm
+muscle_pain_location: temporalis | right masseter | styloid areas | SCMs | posterior neck
+muscle_pain_score: mild to moderate
+muscle_tenderness_present: True
+neck_pain_present: True
+pain_aggravating_factors: clenching | bruxism
+----------------------------------------------------------------------------------------------------
+patient_id: B323
+pain_aggravating_factors: anterior end-on incisor relationship | crossbite on the left side involving the lateral incisor and cuspid
+airway_obstruction_present: False
+----------------------------------------------------------------------------------------------------
+patient_id: B323
+disc_displacement: right disc dislocation
+joint_pain_areas: TMJ
+----------------------------------------------------------------------------------------------------
+patient_id: B323
+patient_age: 13
+joint_pain_areas: left TMJ | right TMJ
+disc_displacement: left disc posterior displacement | right disc anterior displacement with reduction

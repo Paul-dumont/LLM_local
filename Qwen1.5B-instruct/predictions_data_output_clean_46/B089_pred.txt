@@ -1,0 +1,46 @@
+patient_id: B089
+maximum_opening_without_pain: unknown
+patient_age: 53
+maximum_opening: 70mm
+pain_relieving_factors: unknown
+diet_score: 0
+pain_duration: unknown
+disability_rating: 5
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: unknown
+physical_therapy_status: physical therapy from age 51 to 52
+earache_present: true
+onset_triggers: falls when she was age 6 down some stairs | falls off the bike at the age of 30 | falls from a horse at age 35 | falls from a golf cart that hit a moving car | falls down some stairs at age 49
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: frontal | temporal
+current_appliance: unknown
+average_daily_pain_intensity: 6
+headache_intensity: 4 | present
+autoimmune_condition: unknown
+pain_onset_date: age 6 | age 30 | age 35 | age 42 | age 49
+jaw_crepitus: left tmj
+tmj_pain_rating: 0
+sleep_disorder_type: unknown
+current_medications: unknown
+disc_displacement: left disc anterior displacement at the lateral aspect of the joint | right disc anterior displacement at the lateral aspect of the joint
+muscle_pain_location: masseters | medial pterygoids | retromandibular area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from age 14 to 15 | orthodontics at age 41 | orthodontics at age 43
+joint_pain_areas: shoulders | left hip | left knee | neck | left shoulder
