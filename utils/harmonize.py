@@ -26,10 +26,12 @@ with open(VALUE_JSON_PATH, 'r', encoding='utf-8') as f:
 # Use a variable `model` so the script can be reused for different models.
 # The convention used: model folder = f"{model}-instruct"
 # and prediction folders = f"predict_{model}_eval" / f"predict_{model}_eval_harmonized"
-model = 'Mistral7B'
+model = 'Qwen7B'
 model_folder = f"{model}-instruct"
-input_dir = str(REPO_ROOT / model_folder / f"predict_{model}_eval")
-output_dir = str(REPO_ROOT / model_folder / f"predict_{model}_eval_harmonized")
+input_dir = str(REPO_ROOT / model_folder / "save_data_before_reduce_features/predict_Qwen7B_all")
+output_dir = str(REPO_ROOT / model_folder / "save_data_before_reduce_features/predict_Qwen7B_all_harmo")
+# input_dir = str(REPO_ROOT / "data_training/data_output_clean_46")
+# output_dir = str(REPO_ROOT / "data_training/data_output_clean_46_harmo")
 # Alternative (legacy paths):
 # input_dir = '../Data_ouput_Bart'
 # output_dir = '../Data_ouput_Bart_harmonized'

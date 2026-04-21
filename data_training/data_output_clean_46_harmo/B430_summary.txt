@@ -1,0 +1,46 @@
+patient_id: B430
+maximum_opening_without_pain: 27mm
+patient_age: 29
+maximum_opening: 38mm
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: unknown
+physical_therapy_status: physical therapy
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: true
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: moderate | severe
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: unknown
+autoimmune_condition: unknown
+pain_onset_date: 4 years ago
+jaw_crepitus: left and right TMJ
+tmj_pain_rating: unknown
+sleep_disorder_type: unknown
+current_medications: zoloft | trazodone | ultracet | fiorinal | clomid | multivitamins | calcium
+disc_displacement: left disc dislocation | right disc dislocation | with reduction
+muscle_pain_location: temporalis | neck | masseter
+joint_arthritis_location: left TMJ | right TMJ
+appliance_history: splint
+joint_pain_areas: neck | back | hips | knees | left and right TMJ

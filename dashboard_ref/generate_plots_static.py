@@ -17,10 +17,10 @@ import seaborn as sns
 UNKNOWN_TOKENS = {"", "unknown", "unknow", "na", "n/a", "none", "missing"}
 
 # Global font sizes for plots
-FONT_TITLE = 16
-FONT_LABEL = 13
-FONT_ANNOT = 12
-FONT_TICKS = 11
+FONT_TITLE = 18
+FONT_LABEL = 15
+FONT_ANNOT = 14
+FONT_TICKS = 13
 
 
 def is_unknown(value) -> bool:
@@ -134,7 +134,7 @@ def setup_numeric_plot_axes(ax, bin_edges, title: str, mean_value: float,
                lw=1.2, label=f'mean {mean_value:.2f}')
     ax.set_xlabel('value', fontsize=FONT_LABEL)
     ax.set_ylabel('count', fontsize=FONT_LABEL)
-    ax.set_title(f"{title} — {present}/{total} patients", fontsize=FONT_TITLE)
+    ax.set_title(f"{title} — {present}/{total}", fontsize=FONT_TITLE)
     ax.legend(frameon=False, fontsize=FONT_ANNOT)
     ax.tick_params(axis='both', labelsize=FONT_TICKS)
 
@@ -161,7 +161,7 @@ def plot_numeric(series: pd.Series, out_path: Path, title: str):
     vmin, vmax = num.min(), num.max()
     use_fixed_0_10 = (vmin >= 0) and (vmax <= 10)
     use_fixed_0_5 = (vmin >= 0) and (vmax <= 5)
-    fig, ax = plt.subplots(figsize=(8, 6))
+    fig, ax = plt.subplots(figsize=(6, 4.5))
     
     # Special bins for patient_age: 5-year bins from 0 to 70
     if title.lower() == 'patient_age':
@@ -219,7 +219,7 @@ def plot_numeric(series: pd.Series, out_path: Path, title: str):
                lw=1.2, label=f'mean {mean:.2f}')
     ax.set_xlabel('value', fontsize=FONT_LABEL)
     ax.set_ylabel('count', fontsize=FONT_LABEL)
-    ax.set_title(f"{title} — {present}/{total} patients", fontsize=FONT_TITLE)
+    ax.set_title(f"{title} — {present}/{total}", fontsize=FONT_TITLE)
     ax.legend(frameon=False, fontsize=FONT_ANNOT)
     ax.tick_params(axis='both', labelsize=FONT_TICKS)
     fig.tight_layout()
@@ -229,10 +229,10 @@ def plot_numeric(series: pd.Series, out_path: Path, title: str):
 
 def _plot_empty_data(out_path: Path, title: str, total: int, message: str):
     """Create an empty plot with a message when no data is available."""
-    fig, ax = plt.subplots(figsize=(8, 6))
+    fig, ax = plt.subplots(figsize=(6, 4.5))
     ax.text(0.5, 0.5, message, ha='center', va='center', fontsize=FONT_ANNOT)
     ax.axis('off')
-    fig.suptitle(f"{title} — 0/{total} patients", fontsize=FONT_TITLE)
+    fig.suptitle(f"{title} — 0/{total}", fontsize=FONT_TITLE)
     fig.tight_layout()
     fig.savefig(out_path)
     plt.close(fig)
@@ -259,16 +259,25 @@ def plot_boolean(series: pd.Series, out_path: Path, title: str):
     counts_all = mapped.value_counts()
     counts = counts_all[~counts_all.index.str.lower().isin(UNKNOWN_TOKENS)]
     
-    fig, ax = plt.subplots(figsize=(8, 6))
+    fig, ax = plt.subplots(figsize=(6, 4.5))
     if counts.empty:
         _plot_empty_data(out_path, title, total, 'no boolean data')
         return
     
-    palette = sns.color_palette('viridis', n_colors=max(2, len(counts)))
-    palette = palette[::-1]  # Reverse palette so True gets warmer color
-    labels = [f"{lab} ({int(counts[lab])})" for lab in counts.index]
+    # Sort labels for consistent coloring: False before True
+    sorted_labels = sorted(counts.index)
+    sorted_counts = counts[sorted_labels]
+    
+    # Define colors: blue for False, green for True
+    color_map = {
+        'False': '#1f77b4',  # Blue
+        'True': '#2ca02c'    # Green
+    }
+    palette = [color_map.get(label, '#7f7f7f') for label in sorted_labels]
+    
+    labels = [f"{lab} ({int(sorted_counts[lab])})" for lab in sorted_labels]
     wedges, texts, autotexts = ax.pie(
-        counts.values,
+        sorted_counts.values,
         labels=labels,
         autopct='%1.1f%%',
         colors=palette,
@@ -283,7 +292,7 @@ def plot_boolean(series: pd.Series, out_path: Path, title: str):
         except Exception:
             pass
     ax.axis('equal')
-    ax.set_title(f"{title} — {present}/{total} patients", fontsize=FONT_TITLE)
+    ax.set_title(f"{title} — {present}/{total}", fontsize=FONT_TITLE)
     ax.tick_params(axis='both', labelsize=FONT_TICKS)
     fig.tight_layout()
     fig.savefig(out_path)
@@ -327,14 +336,14 @@ def plot_categorical(series: pd.Series, out_path: Path, title: str, top_n: int =
     counts_all = exploded.value_counts()
     counts = counts_all[~counts_all.index.str.lower().isin(UNKNOWN_TOKENS)].head(top_n)
     
-    fig, ax = plt.subplots(figsize=(8, 6))
+    fig, ax = plt.subplots(figsize=(6, 4.5))
     colors = sns.color_palette('viridis', n_colors=len(counts))
     
     # Plot in reversed order so most common category appears at top
     ax.barh(counts.index[::-1], counts.values[::-1], 
             color=colors[::-1], edgecolor='white')
     ax.set_xlabel('count', fontsize=FONT_LABEL)
-    ax.set_title(f"{title} — {present}/{total} patients", fontsize=FONT_TITLE)
+    ax.set_title(f"{title} — {present}/{total}", fontsize=FONT_TITLE)
     ax.tick_params(axis='both', labelsize=FONT_TICKS)
     
     # Annotate bars with counts
@@ -388,7 +397,7 @@ def extract_years_ago_from_onset(series: pd.Series, patient_age_series: pd.Serie
 def plot_time_histogram(data: list, out_path: Path, title: str, xlabel: str, 
                         present: int, bin_size: int, color, total: int = None):
     """Create a histogram plot for time-based data."""
-    fig, ax = plt.subplots(figsize=(8, 6))
+    fig, ax = plt.subplots(figsize=(6, 4.5))
     count = len(data)
     if total is None:
         total = present
@@ -403,11 +412,11 @@ def plot_time_histogram(data: list, out_path: Path, title: str, xlabel: str,
         ax.set_xticks(bins)
         ax.set_xlabel(xlabel)
         ax.set_ylabel('Count')
-        ax.set_title(f"{title} — {count}/{total} patients", fontsize=14)
+        ax.set_title(f"{title} — {count}/{total}", fontsize=14)
         ax.grid(axis='y', alpha=0.3)
     else:
         ax.text(0.5, 0.5, 'No data', ha='center', va='center', transform=ax.transAxes)
-        ax.set_title(f"{title} — 0/{total} patients", fontsize=14)
+        ax.set_title(f"{title} — 0/{total}", fontsize=14)
     
     fig.tight_layout()
     fig.savefig(out_path, bbox_inches='tight')
@@ -570,30 +579,61 @@ def load_patient_data(csv_path: Path) -> pd.DataFrame:
     return df
 
 
-def main():
-    """Main function to generate all plots from patient_data.csv."""
-    here = Path(__file__).resolve().parent
-    csv_path = here / 'patient_data.csv'
-    out_dir = here / 'static_plots'
+def generate_plots_for_csv(csv_path: Path, out_dir: Path, df: pd.DataFrame = None):
+    """Generate plots for a single CSV file or dataframe."""
     out_dir.mkdir(exist_ok=True)
-
-    try:
-        df = load_patient_data(csv_path)
-    except FileNotFoundError as e:
-        print(e)
-        return
+    
+    if df is None:
+        try:
+            df = load_patient_data(csv_path)
+        except FileNotFoundError as e:
+            print(e)
+            return
+    else:
+        print(f'Processing {len(df)} rows and {len(df.columns)} columns')
 
     for col in df.columns:
         if should_skip_column(col):
             continue
         
-        print(f'Processing {col}')
+        print(f'  Processing {col}')
         try:
             plot_column(df, col, out_dir)
         except Exception as e:
-            print(f'Error plotting {col}: {e}')
+            print(f'  Error plotting {col}: {e}')
 
-    print(f'All plots saved to {out_dir}')
+    print(f'✓ All plots saved to {out_dir}\n')
+
+
+def main():
+    """Main function to generate plots from a single CSV file."""
+    import sys
+    
+    here = Path(__file__).resolve().parent
+    
+    # Get CSV path from command line argument or use default
+    if len(sys.argv) > 1:
+        csv_path = Path(sys.argv[1])
+    else:
+        csv_path = here / 'patient_data_model_harmo.csv'
+    
+    if not csv_path.exists():
+        print(f'ERROR: {csv_path} not found!')
+        return
+    
+    # Generate output folder name based on CSV filename
+    csv_stem = csv_path.stem
+    out_dir = here / f'plots_{csv_stem}'
+    
+    print('=' * 70)
+    print(f'GENERATING PLOTS FOR: {csv_path.name}')
+    print('=' * 70)
+    
+    generate_plots_for_csv(csv_path, out_dir)
+    
+    print('=' * 70)
+    print('✓ PROCESSING COMPLETE!')
+    print('=' * 70)
 
 
 if __name__ == '__main__':

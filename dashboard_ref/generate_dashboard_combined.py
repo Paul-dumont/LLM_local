@@ -218,8 +218,8 @@ def make_combined_dashboard(csv_path: Path, out_dir: Path, out_name: str = 'comb
 
 
 if __name__ == '__main__':
-    out_dir = HERE / 'selected_dashboard'
-    csv_path = HERE / 'patient_data.csv'
+    out_dir = HERE / 'selected_dashboard_model'
+    csv_path = HERE / 'patient_data_model.csv'
     if not csv_path.exists():
         print(f'Error: {csv_path} not found')
         raise SystemExit(1)
