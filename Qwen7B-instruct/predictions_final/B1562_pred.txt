@@ -1,0 +1,24 @@
+patient_age: 18
+maximum_opening: 44mm
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: false
+earache_present: true
+airway_obstruction_present: true
+joint_pain_score: moderate
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head | top of the head
+average_daily_pain_intensity: 6
+headache_intensity: 4
+tmj_pain_rating: 5
+right_jaw_clicking: true
+left_jaw_clicking: true
+sleep_apnea_diagnosed: true
+snoring: true
+daytime_tiredness: true
+jaw_locking: true
+muscle_pain_location: right masseter | retromandibular | right shoulder
+joint_pain_location: right tmj | left tmj
+current_medications: asthma

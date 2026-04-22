@@ -1,0 +1,22 @@
+patient_age: 15
+maximum_opening: 45mm
+excursion_movement_to_right: 5mm
+excursion_movement_to_left: 4mm
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_location: frontal | temporal
+average_daily_pain_intensity: 0
+headache_intensity: 3
+pain_onset_date: 15 years old
+tmj_pain_rating: 0
+muscle_pain_score: mild
+muscle_symptoms_present: true
+joint_clicking_and_popping: true
+diet_score: 0
+disability_rating: 0
+splint: true
+current_medications: etodolac
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis: bilateral tmj arthritis
+muscle_pain_location: shoulder | neck | styloid area

@@ -1,0 +1,24 @@
+patient_age: 15
+maximum_opening: 32mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+joint_pain_score: moderate
+headache_location: temporal
+average_daily_pain_intensity: 2
+headache_intensity: 2
+pain_onset_date: 10 years ago
+tmj_pain_rating: 0
+current_medications: none
+sleep_disorder_type: mouth breather
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+muscle_pain_location: masseter
+joint_locking: true
+jaw_clicking_frequency: daily

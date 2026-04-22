@@ -1,0 +1,21 @@
+patient_age: 34
+diet_score: 9
+disability_rating: 8
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: severe
+headache_location: left temporal
+average_daily_pain_intensity: 6
+headache_intensity: 9
+tmj_pain_rating: 9
+current_medications: neurontin | fluoxetine | lortab | amitriptyline | valium
+maximum_opening: 14mm
+excursion_movement_horizontal_right: less than 1mm
+excursion_movement_horizontal_left: less than 1mm
+sleep_disorder_type: sleep apnea
+sleep_disorder_severity: moderate

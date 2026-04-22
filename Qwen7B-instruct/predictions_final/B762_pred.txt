@@ -1,0 +1,11 @@
+3.patient_age: 15
+4.maximum_opening: 29 mm
+6.diet_score: 3
+7.disability_rating: 3
+8.headache_frequency: 3
+10.muscle_symptoms_present: True
+11.jaw_clicking: Right TMJ | Left TMJ
+12.pain_onset_date: 2008-08
+13.headache_location: Temporal | Ear
+14.headache_intensity: 7
+15.current_medications: Mobic | Nexium | Flexeril | Coreg

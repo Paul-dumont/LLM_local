@@ -1,0 +1,27 @@
+patient_age: 64
+maximum_opening: 15-20mm
+diet_score: 0
+disability_rating: 0
+sleep_apnea_diagnosed: false
+muscle_symptoms_present: false
+jaw_clicking: false
+tmj_pain_rating: 0
+headache_intensity: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+clenching_present: false
+sleep_disorder_present: false
+muscle_pain_present: false
+jaw_locking: false
+joint_arthritis_present: true
+jaw_crepitus_present: false
+numbness_present: false
+diagnoses: |-
+    1. Palatal torus.
+    2. Ulceration on the posterior aspect of the palatal torus of 6 weeks' duration.
+    3. Hoarseness.
+    4. Mandibular tori.
+proposed_treatment: |-
+    1. Referral to dental school for removal of the palatal torus and ulcerated lesion.
+    2. Consultation with Dr. Larry Weprin to evaluate the chronic hoarseness.

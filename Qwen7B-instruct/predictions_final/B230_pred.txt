@@ -1,0 +1,25 @@
+patient_age: 13
+maximum_opening: 48mm
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_location: temporal
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+joint_pain_score: 7
+pain_aggravating_factors: seasonal allergies
+sleep_disorder_type: snoring
+disc_displacement: left disc dislocation | right disc displacement
+joint_arthritis: left tmj | right tmj
+muscle_pain_score: moderate
+tmj_pain_rating: 7
+appliance_history: braces
+current_medications: zyrtec
+joint_locking: true
+muscle_pain_location: styloid area
+joint_pain_areas: left tmj | right tmj

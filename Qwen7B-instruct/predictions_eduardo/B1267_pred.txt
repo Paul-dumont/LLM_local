@@ -1,0 +1,47 @@
+maximum_opening_without_pain: 18mm
+patient_age: 18
+maximum_opening: 46mm
+pain_relieving_factors: unknown
+diet_score: 5
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: true
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: 5 a day
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: 7
+migraine_history: unknown
+headache_location: temple
+current_appliance: unknown
+average_daily_pain_intensity: 6
+headache_intensity: 6
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: left tmj
+tmj_pain_rating: 7
+sleep_disorder_type: sleep apnea
+current_medications: unknown
+disc_displacement: unknown
+muscle_pain_location: left temporalis, left masseter, left medial pterygoid, left styloid, left SCM, left posterior neck, right medial pterygoid
+joint_arthritis_location: bilateral tmj
+appliance_history: braces from 11 to 13
+joint_pain_areas: left tmj
+joint_locking: unknown
+myofascial_pain_areas: left temporalis, left masseter, left medial pterygoid, left styloid, left SCM, left posterior neck, right medial pterygoid

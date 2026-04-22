@@ -1,0 +1,24 @@
+patient_age: 40
+diet_score: 2
+disability_rating: 3
+sleep_apnea_diagnosed: true
+sleep_disorder_type: sleep_apnea | snoring
+muscle_symptoms_present: false
+jaw_clicking: false
+jaw_pain: false
+tmj_pain_rating: 0
+headache_location: frontal | temporal | posterior | superior | inferior
+headache_intensity: 0
+headache_frequency: 0
+earache_present: false
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+shoulder_pain_present: false
+pain_onset_date: summer 2000
+current_medications: novolog insulin | effexor | concerta
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: jaw
+sleep_disorder_duration: 6 years
+sleep_disorder_treatment: cpap

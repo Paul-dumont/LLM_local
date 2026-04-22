@@ -1,0 +1,22 @@
+patient_age: 26
+maximum_opening: 60mm
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+sleep_apnea_diagnosed: true
+headache_frequency: daily
+muscle_pain_score: high
+headache_location: frontal | bilateral temporal | bilateral
+average_daily_pain_intensity: 5
+headache_intensity: 4
+tmj_pain_rating: 6
+current_medications: Lunesta | ibuprofen
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis: bilateral tmj arthritis
+muscle_pain_location: head | neck
+appliance_history: braces
+joint_pain_areas: hands | fingers | right hip | back

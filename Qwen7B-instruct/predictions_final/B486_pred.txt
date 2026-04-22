@@ -1,0 +1,37 @@
+patient_age: 37
+diet_score: 10
+disability_rating: 9
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+sleep_disorder_type: sleep_apnea | sleep_maintenance | sleep_disruption
+pain_aggravating_factors: stress
+pain_areas: jaw | ear | head | tmj
+pain_onset_date: 20 years ago
+pain_location: jaw | ear | head | tmj
+sleep_disorder_type: sleep_apnea | sleep_maintenance | sleep_disruption
+sleep_disorder_consequences: daytime_tiredness
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis: left tmj | right tmj
+joint_pain_score: 10
+headache_location: head | jaw | tmj
+current_headache_intensity: 8
+average_daily_pain_intensity: 8
+headache_frequency: daily
+tmj_pain_rating: 10
+allodynia_present: true
+muscle_pain_score: 10
+muscle_symptoms_present: true
+neck_pain_score: 0
+back_pain_score: 0
+jaw_crepitus: right tmj | left tmj
+jaw_opening_limitation: true
+maximum_opening: 30 mm
+excursion_movement_to_right: 3 mm
+excursion_movement_to_left: 2 mm
+current_medications: vicodin | lodine | flexeril | allegra-d | relpax | ambien | afrin
+previous_treatment: splint | arthrocentesis | orthodontics

@@ -1,0 +1,23 @@
+patient_age: 28
+maximum_opening: 47mm
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: demerol | morphine
+muscle_symptoms_present: true
+muscle_pain_score: 6
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 8
+tmj_pain_rating: 6
+current_medications: allegra | ortho-tri-cyclen | advil
+sleep_disorder_type: clenching
+pain_onset_date: 2 years ago
+joint_arthritis_location: right tmj
+joint_pain_areas: jaws
+previous_diagnoses: none
+previous_treatments: none

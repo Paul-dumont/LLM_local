@@ -1,0 +1,24 @@
+patient_age: 54
+maximum_opening: 40mm
+diet_score: 1
+disability_rating: 1
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+earache_present: false
+adverse_reactions: none
+airway_obstruction_present: true
+sleep_disorder_type: sleep_apnea
+muscle_symptoms_present: true
+muscle_pain_score: high
+headache_intensity: mild
+tmj_pain_rating: moderate
+joint_clicking: right tmj | left tmj
+joint_locking: right tmj
+disc_displacement: right disc dislocation | left disc dislocation
+arthritic_change_present: true
+joint_pain_areas: jaw
+pain_aggravating_factors: splint therapy
+current_medications: lipitor
+joint_pain_score: high

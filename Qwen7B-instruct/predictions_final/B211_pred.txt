@@ -1,0 +1,34 @@
+patient_age: 16
+maximum_opening: 52mm
+diet_score: 4
+disability_rating: 3
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_location: frontal | top of the head
+average_daily_pain_intensity: 0
+headache_intensity: 7
+tmj_pain_rating: 0
+muscle_pain_location: shoulder
+snoring: moderate | severe
+sleep_disorder_type: sleep apnea
+joint_clicking: left tmj | right tmj
+joint_popping: left tmj | right tmj
+appliance_history: braces
+current_appliance: braces
+crowding_present: true
+tooth_size_discrepancy: true
+joint_arthritis: left tmj | right tmj
+disc_displacement: left tmj | right tmj
+disc_reduced_opening: left tmj | right tmj
+airway_obstruction_location: oropharynx | nasal
+maximal_opening: 52mm
+excursion_movement_to_the_right: 7mm
+excursion_movement_to_the_left: 8mm
+occlusion_status: partial_bite | open_bite
+muscle_pain_score: moderate
+joint_pain_score: 0
+sleep_disorder_diagnosed: sleep apnea

@@ -1,0 +1,23 @@
+patient_age: 15
+maximum_opening: 45mm
+diet_score: 4
+disability_rating: 4
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adhd_present: true
+sleep_apnea_diagnosed: false
+muscle_pain_score: moderate
+headache_location: temple | top of the head
+average_daily_pain_intensity: 1
+headache_intensity: 1
+tmj_pain_rating: 0
+current_medications: Daytrana | Strattera
+joint_clicking_or_popping: left tmj | right tmj
+muscle_pain_location: masseter | temporalis
+joint_pain_areas: left tmj
+joint_locking: false
+jaw_clicking: left tmj | right tmj
+diagnoses: craniosynostosis | mandibular hypoplasia | maxillary transverse hyperplasia | class ii occlusion | left tmj articular disc dislocation | right tmj articular disc dislocation | bilateral buccal crossbite | multiple diastemas | maxillary incisor over angulation | hypertrophied tonsils | hypertrophied turbinates | nasal septal deviation | external nasal deformity | headaches

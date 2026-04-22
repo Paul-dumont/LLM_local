@@ -1,0 +1,21 @@
+patient_age: 47
+maximum_opening: 45mm
+diet_score: 2
+disability_rating: 4
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: false
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 6
+tmj_pain_rating: 6
+current_medications: ambien | lexapro
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+sleep_apnea_diagnosed: true
+snoring: severe

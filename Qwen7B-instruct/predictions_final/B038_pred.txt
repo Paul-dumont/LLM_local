@@ -1,0 +1,14 @@
+patient_age: 56
+diet_score: 2
+disability_rating: 3
+jaw_function_score: 2
+maximum_opening: 45mm
+temporal_arthritis_present: true
+muscle_symptoms_present: true
+joint_pain_areas: jaw | head
+sleep_disorder_type: sleep_apnea
+pain_aggravating_factors: clenching | stress
+disc_displacement: left disc dislocation | right disc dislocation
+joint_clicking: left tmj | right tmj
+muscle_pain_location: shoulders | neck
+joint_pain_areas: jaw | head

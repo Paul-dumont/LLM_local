@@ -1,0 +1,52 @@
+patient_age: 21
+diet_score: 2
+disability_rating: 2
+jaw_function_score: 2
+maximum_opening: 51mm
+excursion_movement_to_the_right: 8mm
+excursion_movement_to_the_left: 8mm
+diet_score: 2
+disability_rating: 2
+jaw_function_score: 2
+maximum_opening: 51mm
+pain_duration: 2years
+pain_location: temporalis | masseter | retromandibular | shoulders
+tmj_pain_rating: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+other_pain_areas: neck
+sleep_disorder_type: sleep apnea
+sleep_disorder_severity: moderate
+sleep_disorder_diagnosis: aviane
+sleep_disorder_diagnosed: true
+sleep_disorder_treatment: zoloft
+sleep_disorder_other: doxycycline
+muscle_symptoms_present: true
+joint_clicking: left | right
+joint_locking: false
+joint_gets_stuck: false
+joint_popping: left | right
+joint_clicking_side: left | right
+joint_popping_side: left | right
+joint_locking_side: none
+joint_gets_stuck_side: none
+joint_pain_onset: 2yearsago
+joint_arthritis_location: left | right
+muscle_pain_onset: 2yearsago
+muscle_pain_intensity: moderate
+muscle_pain_location: temporalis | masseter | retromandibular | shoulders
+muscle_symptoms_present: true
+muscle_pain_location: temporalis | masseter | retromandibular | shoulders
+muscle_pain_onset: 2yearsago
+muscle_pain_intensity: moderate
+muscle_pain_duration: 2years
+muscle_pain_type: myofascial
+muscle_pain_location: temporalis | masseter | retromandibular | shoulders
+muscle_pain_intensity: moderate
+muscle_pain_onset: 2yearsago
+muscle_pain_type: myofascial
+muscle_pain_location: temporalis | masseter | retromandibular | shoulders
+muscle_pain_intensity: moderate
+muscle_pain_onset: 2yearsago

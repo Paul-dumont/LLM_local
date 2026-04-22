@@ -1,0 +1,31 @@
+patient_age: 43
+maximum_opening: 37mm
+diet_score: 7
+disability_rating: 10
+jaw_function_score: 4
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+sleep_apnea_diagnosed: false
+snoring_level: moderate
+muscle_symptoms_present: true
+muscle_pain_score: high
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 10
+headache_intensity: 7
+tmj_pain_rating: 10
+current_medications: cymbalta | zanaflex | gabitril | spironolactone | indocin | klonopin | kadian | imitrex | benadryl | allegra d | vitamin c | laxatives
+joint_pain_areas: knees | neck | back | hip | shoulder
+pain_onset_date: motor vehicle accident
+current_arthritis_location: neck | back | shoulders | hips | knees | jaw
+previous_arthritis_location: jaw
+previous_treatment_type: splint | physical therapy | orthodontics | injections | surgeries
+current_arthritis_diagnosis: true
+current_headache_disorder: true
+current_muscle_pain: true
+current_cervical_spine_disorder: true
+current_arthritis: true
+current_pain_areas: ears | neck | shoulders | hips | knees | jaw
+current_muscle_pain_location: masseters | styloid | scms | medial pterygoids
+current_arthritis_location: jaw | neck | back | shoulders | hips | knees

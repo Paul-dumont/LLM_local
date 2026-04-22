@@ -1,0 +1,20 @@
+patient_age: 62
+diet_score: 6
+disability_rating: 6
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+sleep_apnea_diagnosed: false
+headache_frequency: daily
+muscle_pain_score: high
+headache_location: frontal | temporal
+average_daily_pain_intensity: 9
+headache_intensity: 5
+tmj_pain_rating: 9
+pain_onset_date: 62 years old
+current_medications: Zocor | Clonazepam | Amitriptyline | Benadryl
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+muscle_pain_location: shoulders | neck | scms | temporalis | masseter | throat

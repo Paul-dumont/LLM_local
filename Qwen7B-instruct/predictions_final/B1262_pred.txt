@@ -1,0 +1,46 @@
+patient_age: 37
+diet_score: 5
+disability_rating: 3
+maximum_opening: 45mm
+jaw_function_score: 3
+muscle_symptoms_present: true
+tmj_pain_rating: 0
+headache_intensity: 0
+pain_onset_date: 2005
+current_medications: breast work
+current_pain_location: lips | jaw
+joint_pain_areas: jaw
+sleep_disorder_type: sleep apnea
+sleep_disorder_severity: moderate
+sleep_apnea_diagnosed: true
+sleep_apnea_diagnosis_date: 2005
+sleep_apnea_diagnosis_method: polysomnography
+sleep_apnea_treatment: oral appliance
+sleep_apnea_treatment_date: 2005
+sleep_apnea_treatment_status: effective
+sleep_disorder_duration: 1 year
+sleep_disorder_onset_date: 2005
+sleep_disorder_onset_cause: jaw surgery
+sleep_disorder_onset_triggers: jaw surgery
+sleep_disorder_onset_symptoms: snoring | daytime somnolence | sleep apnea
+sleep_disorder_onset_diagnosis: sleep apnea
+sleep_disorder_onset_treatment: oral appliance
+sleep_disorder_onset_treatment_effectiveness: effective
+sleep_disorder_onset_treatment_date: 2005
+sleep_disorder_onset_treatment_status: ongoing
+sleep_disorder_onset_treatment_side_effects: none
+sleep_disorder_onset_treatment_adherence: as prescribed
+sleep_disorder_onset_treatment_changes: none
+sleep_disorder_onset_treatment_changes_date: none
+sleep_disorder_onset_treatment_changes_reason: none
+sleep_disorder_onset_treatment_changes_status: none
+sleep_disorder_onset_treatment_changes_status_date: none
+sleep_disorder_onset_treatment_changes_status_reason: none
+sleep_disorder_onset_treatment_changes_status_date: none
+sleep_disorder_onset_treatment_changes_status_reason: none
+sleep_disorder_onset_treatment_changes_status_date: none
+sleep_disorder_onset_treatment_changes_status_reason: none
+sleep_disorder_onset_treatment_changes_status_date: none
+sleep_disorder_onset_treatment_changes_status_reason: none
+sleep_disorder_onset_treatment_changes_status_date: none
+sleep_disorder_onset_treatment_changes

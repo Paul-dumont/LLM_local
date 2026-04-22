@@ -1,0 +1,46 @@
+patient_id: B1297
+maximum_opening_without_pain: unknown
+patient_age: 54
+maximum_opening: unknown
+pain_relieving_factors: unknown
+diet_score: 1
+pain_duration: unknown
+disability_rating: true
+sleep_apnea_diagnosed: false
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: unknown
+neck_pain_present: false
+pain_aggravating_factors: splint
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: 4
+headache_intensity: 0
+autoimmune_condition: unknown
+pain_onset_date: 6 years ago
+jaw_crepitus: unknown
+tmj_pain_rating: 7.5
+sleep_disorder_type: snoring
+current_medications: and | aspirin | baby | day | lipitor | per
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: 

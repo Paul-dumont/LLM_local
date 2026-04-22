@@ -1,0 +1,26 @@
+patient_age: 9
+maximum_opening: 32mm
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+neck_pain_present: true
+shoulder_pain_present: false
+knee_pain_present: true
+elbow_pain_present: true
+hip_pain_present: true
+headache_frequency: daily
+muscle_symptoms_present: true
+muscle_pain_score: high
+headache_location: temporal
+average_daily_pain_intensity: 3
+headache_intensity: 9
+tmj_pain_rating: 9
+current_medications: | 
+    Kadian 60 mg b.i.d.
+    MSIR 15 mg 1 to with tablets per day.
+    Trazodone 50 mg q.h.s.
+diagnoses: [severe_left_t_jaw_pain, left_myositis, left_headache, fibrosis, calcifications]

@@ -32,9 +32,8 @@ model = 'qwen'
 model_folder = 'Qwen7B-instruct'
 
 # Reference and prediction folders (repo-relative)
-# REF_FOLDER = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
-REF_FOLDER = str(REPO_ROOT / 'data_training' / 'data_output_clean_46')
-PRED_FOLDER = str(REPO_ROOT / model_folder / 'predictions_clean_46')
+REF_FOLDER = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
+PRED_FOLDER = str(REPO_ROOT / model_folder / 'predictions_eduardo')
 
 # manual_folder = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
 # # manual_folder = str(REPO_ROOT / 'data_training' / 'data_output_clean_46')
@@ -262,9 +261,8 @@ def main():
     if not SEMANTIC_AVAILABLE:
         print("⚠️  Semantic model not available - using exact match fallback")
     
-    # Use ONLY the harmonized data_output as the manual/reference folder
-    # manual_folder = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
-    manual_folder =  str(REPO_ROOT / 'data_training' / 'data_output_clean_46')
+    # Use the reference folder configured at the top
+    manual_folder = REF_FOLDER
 
     # llm_folder is derived from the top-level `model` and `model_folder` variables
     # Use PRED_FOLDER configured at the top

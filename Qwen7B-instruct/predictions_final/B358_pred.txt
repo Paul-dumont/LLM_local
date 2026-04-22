@@ -1,0 +1,24 @@
+patient_age: 14
+maximum_opening: 34mm
+diet_score: 2
+disability_rating: 2
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+earache_present: false
+airway_obstruction_present: true
+sleep_apnea_diagnosed: true
+snoring_present: true
+muscle_pain_score: mild
+headache_location: frontal | temporal
+average_daily_pain_intensity: 4
+headache_intensity: 3
+pain_onset_date: 4th grade
+disc_displacement: left disc dislocation | right disc dislocation
+joint_clicking: left joint | right joint
+joint_pain_areas: left jaw | right jaw
+current_medications: none
+earache_location: right ear
+discussed_causes: dog bite
+discussed_treatments: orthodontics | surgery

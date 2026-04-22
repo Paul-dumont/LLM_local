@@ -1,0 +1,18 @@
+patient_age: 42
+maximum_opening: 14mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+muscle_symptoms_present: true
+headache_frequency: daily
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+pain_onset_date: 23 years ago
+tmj_pain_rating: 0
+headache_intensity: moderate
+current_medications: Klonopin 1-mg tablets
+joint_arthritis_location: left tmj | right tmj
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: temporal | masseter | medial pterygoid
+joint_pain_areas: jaw | face
+sleep_disorder_type: daytime somnolence

@@ -1,0 +1,25 @@
+patient_age: 53
+diet_score: 3
+disability_rating: 6
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+onset_triggers: injury
+pain_aggravating_factors: stress | cold | hot
+sleep_disorder_type: snoring
+muscle_symptoms_present: true
+muscle_pain_score: moderate to severe
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 6
+headache_intensity: 7
+pain_onset_date: 14 years ago
+tmj_pain_rating: 8
+headache_frequency: continuous
+current_medications: aspirin | cymbalta | ambien | ativan | excedrin | lipitor
+sleep_disorder_history: true
+daytime_tiredness_present: true
+airway_obstruction_present: true
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: right jaw | right leg | right foot

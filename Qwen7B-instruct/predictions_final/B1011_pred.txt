@@ -1,0 +1,14 @@
+patient_age: 45
+maximum_opening: 33mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+adverse_reactions: none
+airway_obstruction_present: true
+headache_frequency: daily
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible | temporal | frontal | temporal | masseter | mandible

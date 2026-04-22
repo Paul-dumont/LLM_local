@@ -1,0 +1,30 @@
+patient_age: 67
+maximum_opening: 40mm
+diet_score: 5
+disability_rating: 0
+jaw_function_score: 4
+sleep_apnea_diagnosed: true
+tmj_pain_rating: 3
+headache_location: frontal | temporal | bilateral
+average_daily_pain_intensity: 5
+headache_intensity: 10
+pain_onset_date: 30
+current_medications: Topamax | Cymbalta | Lyrica | Crestor | Alprazolam | Celebrex | Polyethylene glycol | Propoxyphene | Zegerid | Flexeril
+sleep_disorder_type: snoring | daytime tiredness
+airway_obstruction_present: true
+vertigo_present: false
+vomiting_present: false
+hearing_loss_present: true
+earache_present: false
+tinnitus_present: false
+other_joints_affected: ankles
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: bilateral
+headache_frequency: daily
+tmj_aggravating_factors: clenching
+previous_treatment: tmj surgery x2
+current_arthritis_location: tmj | multiple_joints
+sleep_disorder_duration: 2-1/2 years
+sleep_disorder_treatment: none
+sleep_disorder_diagnosis: sleep apnea

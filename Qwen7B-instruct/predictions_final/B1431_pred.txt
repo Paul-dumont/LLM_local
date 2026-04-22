@@ -1,0 +1,39 @@
+patient_age: 12
+maximum_opening: 45mm
+diet_score: 0
+disability_rating: 0
+jaw_locking: false
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: none
+muscle_symptoms_present: false
+joint_pain_present: false
+headache_location: frontal | temporal | posterior | masseter | medial
+jaw_crepitus: none
+headache_intensity: 0
+headache_frequency: 0
+tmj_pain_rating: 0
+muscle_pain_location: masseter | temporalis | medial_pterygoid | styloid | shoulder | neck | back
+muscle_pain_intensity: 0
+sleep_disorder_type: snoring | daytime tiredness
+sleep_disorder_severity: mild
+sleep_apnea_diagnosed: true
+sleep_apnea_type: central | obstructive | mixed
+sleep_apnea_diagnosis_date: 2007-06-18
+sleep_apnea_diagnosis_method: polysomnography | home_sleep_test | clinical_diagnosis
+sleep_apnea_diagnosis_provider: Dr. Tom Pitts
+sleep_disorder_duration: 0
+sleep_disorder_onset_date: 2007-06-18
+muscle_pain_onset_date: 2007-06-18
+headache_onset_date: 2007-06-18
+tmj_pain_onset_date: 2007-06-18
+current_medications: none
+airway_obstruction_location: nose | throat | mouth
+airway_obstruction_type: hypertrophied_tonsils | hypertrophied_nasal_turbinate | deviated_nasal_septum | nasal_polyps | adenoid_tissue | enlarged_tonsils | other
+airway_obstruction_onset_date: 2007-06-18
+airway_obstruction_diagnosis_date: 2007-06-18
+airway_obstruction_diagnosis_method: clinical_diagnosis | imaging | sleep_study
+airway_obstruction_diagnosis_provider: Dr. Tom Pitts
+airway_obstruction_diagnosis_type: hypertrophied_tonsils | hypertrophied_nasal

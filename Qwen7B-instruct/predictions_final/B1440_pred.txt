@@ -1,0 +1,22 @@
+patient_age: 29
+diet_score: 7
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: right tmj | left tmj
+muscle_pain_score: mild
+headache_location: temporal | mastoid
+average_daily_pain_intensity: 4
+headache_intensity: 7
+tmj_pain_rating: 8
+nighttime_bruxism: true
+current_medications: multivitamins | tylenol | ibuprofen | maxalt 10 mg
+disc_displacement: right disc dislocation | left disc dislocation
+joint_arthritis_location: right tmj | left tmj
+appliance_history: equilibration | splint
+appliance_type: splint

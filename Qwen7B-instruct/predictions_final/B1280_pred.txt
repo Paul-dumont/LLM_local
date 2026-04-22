@@ -1,0 +1,22 @@
+patient_age: 44
+maximum_opening: 32mm
+diet_score: 5
+disability_rating: 7
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+sleep_apnea_diagnosed: true
+snoring_severity: severe
+daytime_tiredness_severity: moderate
+appliance_history: splint
+muscle_symptoms_present: true
+muscle_pain_score: high
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 7
+tmj_pain_rating: 8
+disorder_type: sleep apnea
+joint_arthritis_location: left tmj | right tmj
+muscle_pain_location: temporalis | masseter | scm | left posterior neck

@@ -1,0 +1,26 @@
+patient_age: 10
+maximum_opening: 43mm
+diet_score: 5
+disability_rating: 3
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 5
+headache_intensity: 7
+tmj_pain_rating: 5
+sleep_apnea_diagnosed: true
+disc_displacement: left tmj | right tmj
+appliance_history: headgear | expanders
+current_medications: sour drops
+joint_arthritis_location: left tmj | right tmj
+adverse_reactions: antibiotics
+airway_obstruction_location: nasal | oropharyngeal | laryngeal
+muscle_pain_location: shoulders | styloid
+joint_pain_areas: wrist | knee | ankle

@@ -1,0 +1,39 @@
+3.patient_age: 17
+4.maximum_opening: 52mm
+6.diet_score: 2
+7.disability_rating: 2
+8.jaw_function_score: 3
+9.vertigo_present: false
+10.tinnitus_present: false
+11.hearing_loss_present: false
+12.headache_intensity: 0
+13.muscle_pain_score: 5
+14.average_daily_pain_intensity: 4
+15.tmj_pain_rating: 5
+16.current_medications: Prozac | Minocycline | Yasmin
+17.disc_displacement: Left disc dislocation | Right disc dislocation
+18.joint_arthritis: Left TMJ arthritis | Right TMJ arthritis
+19.pain_onset_date: 12/05/2005
+20.appliance_history: Orthodontics
+21.airway_obstruction_present: True
+22.sleep_disorder_type: Snoring
+23.earache_present: False
+24.vertigo_present: False
+25.hearing_loss_present: False
+26.muscle_pain_location: Masseter | Styloid | Shoulder
+27.joint_pain_areas: Right TMJ
+28.orthotic_history: False
+30.current_appliance: None
+31.appliance_compliance: Good
+32.oral_hygiene: Fair
+33.diet_adherence: Good
+34.disc_reductions: True
+35.disc_reductions_date: 12/05/2005
+36.disc_reductions_provider: Dr. XXXX
+37.disc_reductions_type: Open reduction
+38.disc_reductions_notes: Bilateral TMJ articular disc repositioning and ligament repair with Mitek anchors
+39.disc_reductions_status: Discs repositioned
+40.disc_reductions_surgery_date: 12/05/2005
+41.disc_reductions_surgery_provider: Dr. XXXX
+42.disc_reductions_surgery_status: Discs repositioned
+43.disc_reductions_surgery_notes: Bilateral TMJ articular disc repositioning and ligament repair with Mitek anchors

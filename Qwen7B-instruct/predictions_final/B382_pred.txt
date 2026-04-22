@@ -1,0 +1,29 @@
+patient_age: 45
+diet_score: 6
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: toothpaste | klonopin
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: temporal | bilateral
+average_daily_pain_intensity: 5
+headache_intensity: 5
+pain_onset_date: 2 years ago
+headache_frequency: daily
+current_medications: klonopin
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis: left tmj arthritis | right tmj arthritis
+tmj_pain_score: 5
+muscle_pain_location: temporalis | masseter | medial pterygoid | lateral pterygoid
+joint_clicking: left joint | right joint
+joint_locking: true
+jaw_crepitus: left joint | right joint
+sleep_disorder_type: sleep apnea | sleep disorder
+sleep_disorder_diagnosis: true
+sleep_apnea_diagnosis: true
+sleep_disorder_treatment: klonopin

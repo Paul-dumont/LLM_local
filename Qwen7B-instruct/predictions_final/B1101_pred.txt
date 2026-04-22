@@ -1,0 +1,18 @@
+patient_age: 45
+maximum_opening: 5mm
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 0
+muscle_symptoms_present: true
+headache_frequency: daily
+jaw_clicking: left tmj | right tmj
+joint_pain_score: 0
+tmj_pain_rating: 0
+headache_location: frontal | temporal
+current_medications: none
+sleep_disorder_type: sleep apnea
+joint_pain_areas: jaw
+pain_aggravating_factors: diet
+pain_areas: jaw | head
+sleep_disorder_diagnosis: sleep apnea
+muscle_pain_location: masseter | temporalis

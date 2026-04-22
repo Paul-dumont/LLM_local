@@ -1,0 +1,23 @@
+patient_age: 42
+maximum_opening: 35mm
+diet_score: 8
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 3
+headache_intensity: 5
+headache_frequency: daily
+pain_onset_date: 3 years ago
+tmj_pain_rating: 3
+current_medications: testosterone | imitrex | loomocaine | phenergan
+joint_arthritis_location: left tmj | right tmj
+disc_displacement_location: left tmj | right tmj
+disc_displacement_with_reductions: left tmj | right tmj
+muscle_pain_location: temporalis | masseter | medial pterygoid | styloid | scm

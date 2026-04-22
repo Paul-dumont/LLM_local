@@ -1,0 +1,56 @@
+patient_age: 43
+maximum_opening: 28mm
+diet_score: 7
+disability_rating: 9
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+joint_pain_score: 8
+headache_location: temporal
+average_daily_pain_intensity: 3
+headache_intensity: 8
+tmj_pain_rating: 8
+pain_onset_date: 05/30/2008
+current_medications: |-
+    1. Lisinopril 5 mg q.d.
+    2. Zyrtec 10 mg q.d.
+    3. Tylenol p.r.n. 
+
+joint_arthritis_location: left tmj
+muscle_pain_score: |-
+    left masseter: high moderate to low severe
+    left medial pterygoid: moderate
+    left tmj: high moderate
+    right masseter: mild
+tmj_discomfort: left tmj pain
+sleep_apnea_diagnosed: true
+muscle_pain_location: |-
+    left masseter
+    left retromandibular
+    left temporalis
+    left medial pterygoid
+    left tmj
+adverse_reactions: environmental asthma
+jaw_clicking: left tmj
+joint_locking: left tmj
+muscle_pain_onset_date: 05/30/2008
+joint_locking_present: true
+headache_frequency: 3 a week
+tmj_pain_onset_date: 05/30/2008
+muscle_pain_areas: |-
+    left masseter
+    left retromandibular
+    left temporalis
+    left medial pterygoid
+    left tmj
+joint_pain_areas: left tmj
+current_appliance: none
+previous_appliance: none
+previous_treatment: |-
+    1. 7/29/2008, left arthrocentesis.
+    2. 9/15/2008, left intraoral vertical oblique osteotomy. 
+    3. 11/14/2008, left

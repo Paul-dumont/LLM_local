@@ -1,0 +1,28 @@
+patient_age: 57
+maximum_opening: 10mm
+diet_score: 7
+disability_rating: 5
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+jaw_clicking: right tmj | left tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 7
+tmj_pain_rating: 7
+sleep_apnea_diagnosed: false
+airway_obstruction_present: true
+snoring_present: false
+apnea: false
+daytime_tiredness_present: true
+current_medications: none
+joint_arthritis_location: right tmj
+disc_displacement: left tmj | right tmj
+joint_pain_areas: right temporalis | right masseter | right styloid | right scm
+previous_joint_replacement: left tmj | right tmj
+joint_replacement_type: vitek total joint prosthesis | concepts total joint prosthesis
+joint_replacement_side: left tmj | right tmj
+disc_repositioning_history: left tmj

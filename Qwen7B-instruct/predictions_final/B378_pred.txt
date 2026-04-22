@@ -1,0 +1,49 @@
+patient_age: 16
+maximum_opening: 44mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+muscle_symptoms_present: true
+joint_pain_present: true
+headache_frequency: 0
+tmj_pain_rating: 0
+headache_location: temporal | frontal | posterior head
+headache_intensity: 0
+medications: none
+sleep_disorder_type: snoring | daytime somnolence | sleep apnea
+sleep_disorder_status: active
+sleep_apnea_diagnosed: true
+sleep_apnea_diagnosis_date: 10 years ago
+sleep_apnea_diagnosis_method: clinical evaluation | polysomnography | home sleep test
+sleep_apnea_diagnosing_physician: dentist | physician | other
+sleep_apnea_diagnosing_doctor_name: Dr. XXXX
+sleep_apnea_diagnosing_doctor_specialty: dentist | physician | other
+sleep_apnea_diagnosing_doctor_other: dentist
+sleep_disorder_treatment: oral appliance | CPAP | other
+sleep_disorder_treatment_other: oral appliance
+sleep_disorder_treatment_status: active | completed | not started
+sleep_disorder_treatment_response: good | fair | poor
+sleep_disorder_treatment_side_effects: none
+sleep_disorder_treatment_adherence: good | fair | poor
+sleep_disorder_treatment_cost: covered | not covered
+sleep_disorder_treatment_notes: 
+current_medications: none
+allergies: none
+pain_onset_date: 10 years ago
+pain_onset_triggers: none
+pain_onset_circumstances: none
+pain_areas: jaw | neck | shoulder | back
+pain_onset_date: 10 years ago
+pain_onset_triggers: none
+pain_onset_circumstances: none
+pain_areas: jaw | neck | shoulder | back
+pain_onset_date: 10 years ago
+pain_onset_triggers: none
+pain_onset_circumstances: none
+pain_areas: jaw | neck | shoulder | back
+pain_onset_date: 10 years ago
+pain_onset_triggers: none
+pain_onset_circumstances: none
+pain_areas: jaw | neck | shoulder | back
+pain_onset_date: 10 years ago
+pain_onset_triggers

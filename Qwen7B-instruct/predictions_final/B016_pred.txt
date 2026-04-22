@@ -1,0 +1,33 @@
+patient_age: 38
+maximum_opening: 50mm
+diet_score: 7
+disability_rating: 4
+jaw_function_score: 5
+sleep_apnea_diagnosed: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+joint_pain_score: 7
+muscle_pain_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+snoring_present: true
+daytime_tiredness_present: true
+sleep_disorder_present: true
+apnea_hypopnea_present: true
+headache_location: frontal | temporal | posterior head
+headache_intensity: 7
+headache_frequency: daily
+pain_aggravating_factors: hot weather
+current_medications: ibuprofen
+pain_onset_date: 10 years ago
+pain_onset_triggers: hot weather
+previous_injuries: none
+previous_surgeries: none
+current_medications: ibuprofen
+joint_pain_areas: jaw | neck | back
+sleep_disorder_type: sleep apnea
+disc_displacement: left tmj | right tmj
+disc_reducing: left tmj | right tmj
+muscle_pain_areas: shoulders | neck | back

@@ -1,0 +1,20 @@
+patient_age: 24
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: bicillin
+muscle_pain_score: moderate
+headache_intensity: 0
+tmj_pain_rating: 0
+muscle_pain_location: styloid | posterior neck
+current_medications: toprol
+joint_arthritis_location: left tmj | right tmj
+disc_displacement: left disc dislocation | right disc dislocation
+joint_clicking: left tmj | right tmj
+muscle_pain_location: masseter | styloid | posterior neck
+appliance_history: braces
+previous_treatment: double jaw surgery | orthodontic appliances

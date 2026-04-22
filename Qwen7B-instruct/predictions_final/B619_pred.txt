@@ -1,0 +1,48 @@
+patient_age: 16
+maximum_opening: 40mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+muscle_symptoms_present: false
+tmj_pain_rating: 0
+headache_intensity: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+sleep_apnea_diagnosed: true
+clenching_present: false
+bruxism_present: false
+airway_obstruction_present: true
+joint_clicking: right tmj | left tmj
+joint_popping: right tmj | left tmj
+joint_locking: false
+joint_stiffness: false
+muscle_pain_location: masseter | temporalis | medial pterygoid | styloid | shoulder | neck
+muscle_symptoms_onset: 12 | 13
+muscle_pain_intensity: 0
+muscle_symptoms_rating: 0
+pain_aggravating_factors: none
+pain_modifying_factors: none
+current_medications: none
+joint_pain_areas: none
+sleep_disorder_type: snoring | daytime somnolence
+sleep_disorder_onset: 12 | 13
+sleep_disorder_duration: 16 years
+sleep_disorder_score: 0
+sleep_disorder_diagnosis: sleep apnea
+sleep_disorder_diagnosed: true
+sleep_disorder_treatment: none
+sleep_disorder_treatment_effectiveness: 0
+sleep_disorder_diagnosed_date: 06/19/2008
+sleep_disorder_diagnosed_doctor: Dr. XXXX
+sleep_disorder_diagnosed_specialty: ENT
+sleep_disorder_diagnosed_institution: XXXX Hospital
+sleep_disorder_diagnosed_test: sleep study
+sleep_disorder_diagnosed_test_date: 06/19/2008
+sleep_disorder_diagnosed_test_doctor: Dr. XXXX
+sleep_disorder_diagnosed_test_specialty: ENT
+sleep_disorder_diagnosed_test_institution: XXXX Hospital
+sleep_disorder_diagnosed_test_results: severe sleep apnea
+sleep_disorder_diagnosed_test_diagnosis: severe sleep apnea
+sleep_disorder_diagnosed_test_diagnosis_date: 06/1

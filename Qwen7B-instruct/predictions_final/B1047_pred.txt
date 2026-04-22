@@ -1,0 +1,40 @@
+patient_age: 40-50
+maximum_opening: 40mm
+diet_score: 7
+disability_rating: 5
+jaw_function_score: 5
+muscle_symptoms_present: true
+headache_frequency: daily
+tmj_pain_rating: 7
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 7
+pain_onset_date: 40
+current_medications: ibuprofen | naproxen | hydrocodone | oxycodone
+sleep_disorder_type: sleep apnea
+joint_pain_areas: jaw | neck
+pain_aggravating_factors: stress | clenching | grinding
+pain_areas: jaw | neck | shoulders | back
+current_medications: ibuprofen | naproxen | hydrocodone | oxycodone
+pain_onset_triggers: stress | clenching | grinding
+sleep_disorder_diagnoses: sleep apnea
+pain_areas_involvement: jaw | neck | shoulders | back
+muscle_symptoms_areas: jaw | neck | shoulders | back
+maximum_opening: 40mm
+diet_score: 7
+disability_rating: 5
+jaw_function_score: 5
+tmj_pain_rating: 7
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 7
+pain_areas: jaw | neck | shoulders | back
+current_medications: ibuprofen | naproxen | hydrocodone | oxycodone
+pain_onset_date: 40
+current_medications: ibuprofen | naproxen | hydrocodone | oxycodone
+pain_aggravating_factors: stress | clenching | grinding
+pain_areas: jaw | neck | shoulders | back
+sleep_disorder_diagnoses: sleep apnea
+muscle_symptoms_areas: jaw | neck | shoulders | back
+joint_pain_areas: jaw | neck
+joint_pain_areas: jaw | neck

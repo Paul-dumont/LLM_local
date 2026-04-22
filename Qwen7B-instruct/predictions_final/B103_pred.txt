@@ -1,0 +1,46 @@
+patient_age: 41
+maximum_opening: 47mm
+diet_score: 0
+disability_rating: 3
+jaw_function_score: 0
+sleep_disorder_type: sleep apnea
+muscle_symptoms_present: true
+joint_pain_present: true
+headache_location: frontal | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 7
+pain_onset_date: 20 years ago
+headache_frequency: daily
+current_medications: Lexapro | Advil
+joint_pain_location: jaw | temporalis | masseter | medial pterygoid | SCM
+disc_displacement: left disc dislocation | right disc dislocation
+tmj_pain_rating: 7
+muscle_pain_location: temporalis | masseter | medial pterygoid | SCM
+muscle_pain_intensity: 7
+pain_aggravating_factors: hot weather
+sleep_disorder_duration: 20 years
+sleep_disorder_onset_date: 20 years ago
+sleep_disorder_type: sleep apnea
+sleep_disorder_diagnosed: true
+sleep_disorder_diagnosed_date: 20 years ago
+sleep_disorder_diagnosed_source: self diagnosis
+sleep_disorder_diagnosed_type: sleep apnea
+sleep_disorder_diagnosed_date: 20 years ago
+sleep_disorder_diagnosed_source: self diagnosis
+sleep_disorder_diagnosed_type: sleep apnea
+sleep_disorder_diagnosed_date: 20 years ago
+sleep_disorder_diagnosed_source: self diagnosis
+sleep_disorder_diagnosed_type: sleep apnea
+sleep_disorder_diagnosed_date: 20 years ago
+sleep_disorder_diagnosed_source: self diagnosis
+sleep_disorder_diagnosed_type: sleep apnea
+sleep_disorder_diagnosed_date: 20 years ago
+sleep_disorder_diagnosed_source: self diagnosis
+sleep_disorder_diagnosed_type: sleep apnea
+sleep_disorder_diagnosed_date: 20 years ago
+sleep_disorder_diagnosed_source: self diagnosis
+sleep_disorder_diagnosed_type: sleep apnea
+sleep_disorder_diagnosed_date: 20 years ago
+sleep_disorder_diagnosed_source: self diagnosis
+sleep_disorder_diagnosed_type: sleep apnea
+sleep_disorder_diagnosed

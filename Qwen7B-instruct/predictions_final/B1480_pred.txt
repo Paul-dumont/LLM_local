@@ -1,0 +1,20 @@
+patient_age: 15
+maximum_opening: 47mm
+diet_score: 0
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+airway_obstruction_present: true
+headache_location: frontal | temporal
+muscle_pain_score: moderate
+headache_intensity: 8
+tmj_pain_rating: 8
+current_medications: Zoloft | salt pills
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: braces
+sleep_disorder_type: vasovagal response
+muscle_pain_location: temporalis | masseter | retromandibular | medial pterygoid | scm
+joint_pain_location: right tmj | left tmj

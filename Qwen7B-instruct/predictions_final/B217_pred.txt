@@ -1,0 +1,22 @@
+patient_age: 41
+diet_score: 5
+disability_rating: 4
+sleep_disorder_type: sleep apnea
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+joint_pain_score: 10
+muscle_pain_score: 10
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+neck_pain_present: true
+shoulder_pain_present: true
+pain_aggravating_factors: clenching and grinding of the teeth
+pain_areas: muscles | tmj
+sleep_disorder_type: sleep apnea
+sleep_disorder_severity: moderate
+sleep_disorder_diagnosed: true
+current_medications: celebrex | premarin | tricor | ambien
+sleep_disorder_treatment: none
+sleep_disorder_diagnosed_by: ENT

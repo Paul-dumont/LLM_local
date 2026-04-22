@@ -1,0 +1,26 @@
+patient_age: 15
+maximum_opening: 35mm
+diet_score: 0
+disability_rating: 7
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+sleep_apnea_diagnosed: false
+snoring_issues: moderate
+muscle_pain_score: moderate
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 8
+tmj_pain_rating: 6
+current_medications: birth control pills | ibuprofen
+sleep_disorder_type: chronic fatigue
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis: left tmj arthritis | right tmj arthritis
+muscle_pain_location: right shoulder | right neck | masseter | right styloid
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+jaw_locking: right tmj
+pain_onset_date: 1 year ago
+joint_pain_areas: right shoulder | right neck

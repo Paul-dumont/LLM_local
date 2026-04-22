@@ -1,0 +1,23 @@
+patient_age: 17
+maximum_opening: 57mm
+diet_score: 7
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: none
+airway_obstruction_present: true
+muscle_symptoms_present: true
+joint_pain_score: 5
+headache_location: frontal | temporal | whole head
+average_daily_pain_intensity: 5
+headache_intensity: 2
+headache_frequency: daily
+tmj_pain_rating: 5
+current_medications: Singulair | Albuterol | Zyrtec | Advil | Tylenol | Aleve
+sleep_disorder_type: thumb sucking
+pain_aggravating_factors: exercise
+sleep_disorder_severity: moderate
+sleep_disorder_diagnosis: hayfever | pollen | animal dander

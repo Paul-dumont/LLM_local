@@ -1,0 +1,33 @@
+patient_age: 32
+diet_score: 4
+disability_rating: 3
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+sleep_apnea_diagnosed: true
+adverse_reactions: allergy | food_allergy
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: temporal
+average_daily_pain_intensity: 6
+headache_intensity: 6
+tmj_pain_rating: 7
+sleep_disorder_type: snoring | sleep_apnea
+sleep_disorder_duration: long_term
+sleep_disorder_concerned: true
+sleep_disorder_diagnosed: true
+sleep_disorder_treatment: none
+current_medications: claritin | advil
+joint_clicking_and_popping: true
+joint_locking: true
+muscle_pain_location: temporalis | masseter | styloid | scm
+muscle_pain_onset: treatment
+joint_arthritis_location: left tmj | right tmj
+disc_displacement_location: left tmj | right tmj
+disc_displacement_pattern: anterior | lateral
+muscle_pain_onset: treatment
+joint_arthritis_diagnosis: left tmj | right tmj
+disc_displacement_diagnosis: left tmj | right tmj

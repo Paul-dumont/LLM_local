@@ -1,0 +1,43 @@
+3.patient_age: 26
+4.maximum_opening: 47mm
+5.jaw_function_score: 6
+6.diet_score: 2
+7.disability_rating: 1
+8.headache_frequency: 2 a week
+9.average_daily_pain_intensity: 7
+10.tmj_pain_rating: 5
+11.headache_location: right temple | back of the head | top of the head
+12.headache_intensity: 8
+13.headache_aggravating_factors: clenching
+14.tmj_aggravating_factors: clenching
+15.current_medications: Ortho-TriCyclen | Celexa 10 mg
+16.pain_onset_date: 2006-06-17
+17.muscle_symptoms_present: true
+18.muscle_pain_score: moderate
+19.muscle_pain_location: right temporalis | right masseter | right shoulder
+20.joint_clicking: left tmj | right tmj
+21.joint_pain_areas: right temporalis | right masseter | right shoulder
+22.joint_pain_score: moderate
+23.joint_locking: false
+24.appliance_history: orthodontics
+25.current_appliance: none
+26.airway_obstruction_present: true
+27.sleep_disorder_type: snoring | daytime somnolence
+28.tinnitus_present: true
+29.vertigo_present: false
+30.hearing_loss_present: false
+31.earache_present: false
+32.neck_pain_present: true
+33.back_pain_present: false
+34.earache_location: right
+35.tinnitus_location: right
+36.back_pain_location: entire back
+37.neck_pain_location: entire neck
+38.joint_locking: false
+39.joint_clicking: left tmj | right tmj
+40.joint_pain_areas: right temporalis | right masseter | right shoulder
+41.joint_pain_score: moderate
+42.tmj_pain_rating: 5
+43.headache_frequency: 2 a week
+44.headache_location: right temple | back of the head | top of the head
+45.headache_intensity

@@ -1,0 +1,20 @@
+patient_age: 39
+maximum_opening: 29mm
+diet_score: 3
+disability_rating: 2
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: right tmj | left tmj
+headache_location: frontal | temporal
+average_daily_pain_intensity: 4
+headache_intensity: 4
+tmj_pain_rating: 0
+joint_arthritis_location: left tmj | right tmj
+muscle_pain_location: right medial pterygoid | right masseter
+joint_pain_areas: none specified
+sleep_disorder_type: clenching | bruxism

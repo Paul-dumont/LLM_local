@@ -1,0 +1,23 @@
+patient_age: 52
+maximum_opening: 58mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+earache_present: false
+other_pain_relieving_factors: effexor | wellbutrin
+muscle_pain_score: 6
+headache_intensity: 0
+tmj_pain_rating: 0
+sleep_disorder_type: sleep_apnea
+muscle_pain_location: masseter | right tmj
+joint_pain_areas: fingers | toes | elbow
+current_medications: wellbutrin | effexor | estrogen patch | progesterone | red_rice_yeast | multivitamins
+sleep_apnea_diagnosed: true
+sleep_apnea_treatment: cpap
+sleep_apnea_device: cpap
+sleep_disorder_severity: mild
+muscle_pain_location: masseter | right tmj
+joint_pain_areas: fingers | toes | elbow

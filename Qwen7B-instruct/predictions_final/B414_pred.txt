@@ -1,0 +1,23 @@
+patient_age: 53
+maximum_opening: 36mm
+diet_score: 7
+disability_rating: 8
+jaw_function_score: 7
+sleep_apnea_diagnosed: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+joint_pain_score: 7
+muscle_pain_score: 7
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_location: frontal | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 7
+pain_onset_date: 12 years ago
+current_medications: xanax
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | temporalis
+joint_arthritis_location: left tmj | right tmj
+tmj_pain_rating: 7
+muscle_pain_areas: masseter | temporalis

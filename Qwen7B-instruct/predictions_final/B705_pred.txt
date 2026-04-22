@@ -1,0 +1,28 @@
+patient_age: 14
+maximum_opening: 44mm
+diet_score: 8
+disability_rating: 2
+sleep_disorder_type: snoring | sleep apnea
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+joint_pain_score: mild
+headache_intensity: mild
+jaw_locking: true
+jaw_clicking_side: left | right
+jaw_popping_side: left | right
+muscle_pain_location: masseter | temporalis | medial pterygoid | styloid | shoulder
+jaw_crepitus: left tmj | right tmj
+joint_pain_location: left tmj | right tmj
+airway_obstruction_location: nasal | oropharyngeal | laryngeal
+airway_obstruction_type: hypertrophied turbinates | deviated nasal septum | nasal polyps | enlarged tonsils | adenoid tissue
+muscle_pain_diagnosis: myofascial pain
+joint_displacement_diagnosis: articular disc dislocation
+tmj_pain_disability_index: 1
+pain_onset_date: 14 years old
+disc_displacement_location: left tmj | right tmj
+disc_displacement_type: anteriorly displaced disc without reduction | anteriorly displaced disc with reduction
+joint_pain_diagnosis: arthritis | articular disc dislocation
+muscle_pain_diagnosis: myositis | myofascial pain
+current_medications: none
+joint_pain_areas: left tmj | right tmj
+airway_obstruction_diagnosis: hypertrophied turbinates | deviated nasal septum | nasal polyps | enlarged tonsils | adenoid tissue

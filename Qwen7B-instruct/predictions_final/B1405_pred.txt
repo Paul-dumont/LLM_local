@@ -1,0 +1,55 @@
+patient_age: 48
+diet_score: 4
+disability_rating: 3
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+ear_pain_present: false
+neck_pain_present: true
+shoulder_pain_present: false
+arm_pain_present: false
+hand_pain_present: false
+back_pain_present: true
+knee_pain_present: true
+tmj_pain_rating: 4
+headache_location: temporal
+average_daily_pain_intensity: 3
+headache_intensity: 5
+pain_onset_date: 1984
+current_medications: |-
+  MS Contin 200 mg t.i.d.
+  MSIR 30 mg 1 to 2 tablets t.i.d. p.r.n. pain
+  Soma 350 mg q.i.d.
+  Paxil ER 25 mg q.d.
+  Dicloxacillin 800 mg q.i.d.
+
+joint_arthritis_location: tmj
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+tmj_diagnoses: |-
+  1. Bilateral TMJ severe arthritis with the presence of Silastic and
+  foreign body giant cell reaction
+  2. Recurrent infection by history of right TMJ probably associated with
+  the Silastic implant
+  3. Severe TMJ pain
+  4. Severe headaches
+  5. Severe myofascial pain
+  6. Severe masticatory dysfunction
+previous_treatment: |-
+  1. Steroid injections
+  2. Bilateral Proplast Teflon IPI implants
+  3. Silastic implants
+  4. Back surgeries
+  5. Four miscarriages
+  6. Six children
+  7. Multiple gynecological surgeries
+  8. Multiple surgeries on the back
+  9. Multiple surgeries on the knees
+  10. Multiple surgeries on the sinuses
+  11. Multiple surgeries on the ears
+  12. Multiple surgeries on the nose
+  13. Multiple surgeries on the neck
+  14. Multiple surgeries on the hands
+  15. Multiple surgeries on the feet
+  1

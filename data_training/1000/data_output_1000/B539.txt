@@ -1,0 +1,46 @@
+patient_id: B539
+maximum_opening_without_pain: Unknown
+patient_age:22
+maximum_opening: Unknown
+pain_relieving_factors: Unknown
+diet_score: 6
+pain_duration: Unknown
+disability_rating: 8
+sleep_apnea_diagnosed: Unknown
+jaw_function_score: 7
+tinnitus_present: False
+vertigo_present: True
+hearing_loss_present: Unknown
+back_pain_present: Unknown
+neck_pain_present: Unknown
+pain_aggravating_factors: Unknown
+physical_therapy_status: Unknown
+earache_present: False
+onset_triggers: Unknown
+adverse_reactions: Unknown
+fibromyalgia_present: Unknown
+jaw_locking: Unknown
+airway_obstruction_present: Unknown
+depression_present: Unknown
+headache_frequency: Constant
+pain_frequency: Unknown
+muscle_symptoms_present: True
+jaw_clicking: Left TMJ | Rigth TMJ
+previous_medications: Unknown
+muscle_pain_score: Moderate
+migraine_history: Unknown
+headache_location: Frontal | Temporal | Posterior
+current_appliance: Unknown
+average_daily_pain_intensity: 7
+headache_intensity: 9
+autoimmune_condition: Unknown
+pain_onset_date: 11 years
+jaw_crepitus: Unknown
+tmj_pain_rating: 7
+sleep_disorder_type: Somnolence
+current_medications: Levoxyl 0.01 mg. | Portia (BCP) | Excedrin 2 to 4 tablets per day
+disc_displacement: Left TMJ | Rigth TMJ
+muscle_pain_location: Masseter | Temporalis | Retromandibular
+joint_arthritis_location: Unknown
+appliance_history: Orthodontics | Splint
+joint_pain_areas: Left TMJ | Rigth TMJ

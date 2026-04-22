@@ -1,0 +1,49 @@
+patient_age: 33
+maximum_opening: 40mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+muscle_symptoms_present: false
+tmj_pain_frequency: 0
+headache_intensity: 0
+jaw_clicking: left tmj | right tmj
+joint_pain_areas: left tmj | right tmj
+muscle_pain_areas: shoulders | neck | back
+sleep_disorder_type: snoring
+sleep_disorder_severity: mild
+sleep_disorder_duration: 10 years
+sleep_disorder_consequences: daytime tiredness
+current_medications: allergy
+airway_obstruction_areas: soft palate | tongue
+muscle_pain_score: moderate
+joint_pain_score: mild
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: none
+muscle_symptoms_areas: shoulders | neck | back
+muscle_symptoms_onset: 10 years ago
+muscle_symptoms_duration: ongoing
+muscle_symptoms_intensity: moderate
+muscle_symptoms_triggers: stress
+muscle_symptoms_onset_date: 10 years ago
+muscle_symptoms_cause: stress
+muscle_symptoms_history: none
+muscle_symptoms_treatment: none
+muscle_symptoms_response: none
+muscle_symptoms_diagnosis: myofascial pain
+muscle_symptoms_diagnosed_date: 10 years ago
+muscle_symptoms_diagnosed_by: Dr. George Adams
+muscle_symptoms_diagnosed_location: Plano, TX
+muscle_symptoms_diagnosed_treatment: none
+muscle_symptoms_diagnosed_response: none
+muscle_symptoms_diagnosed_other: none
+muscle_symptoms_diagnosed_other_treatment: none
+muscle_symptoms_diagnosed_other_response: none
+muscle_symptoms_diagnosed_other_diagnosis: none
+muscle_symptoms_diagnosed_other_diagnosed_date: none
+muscle_symptoms_diagnosed_other_diagnosed_by: none
+muscle_symptoms_diagnosed_other_diagnosed_location: none
+muscle_symptoms_diagnosed_other_diagnosed_treatment: none
+muscle_symptoms_diagnosed_other_diagnosed_response: none

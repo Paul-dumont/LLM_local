@@ -1,0 +1,57 @@
+patient_age: 22
+diet_score: 0
+disability_rating: 4
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+shoulder_pain_present: true
+back_pain_present: false
+arm_pain_present: false
+hand_pain_present: false
+tmj_pain_rating: 0
+headache_intensity: 0
+sleep_disorder_type: mouth breather
+muscle_symptoms_present: false
+joint_clicking: left tmj | right tmj
+joint_popping: left tmj | right tmj
+disc_displacement: left tmj | right tmj
+joint_pain_areas: neck | shoulders
+airway_obstruction_present: true
+sleep_apnea_diagnosed: false
+snoring_severity: moderate
+jaw_opening_restriction: true
+maximum_open_jaw_posture: 50 mm
+maximum_opening_without_pain: 40 mm
+maximum_opening_without_discomfort: 40 mm
+current_arthritis_location: left tmj | right tmj
+current_dislocation_location: left tmj | right tmj
+previous_dislocation_location: left tmj | right tmj
+previous_arthritis_location: left tmj | right tmj
+muscle_pain_areas: neck | shoulders
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj
+pain_on_eating: true
+diet_score: 0
+disability_rating: 4
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+shoulder_pain_present: true
+back_pain_present: false
+arm_pain_present: false
+hand_pain_present: false
+tmj_pain_rating: 0
+airway_obstruction_present: true
+sleep_apnea_diagnosed: false
+snoring_severity: moderate
+jaw_opening_restriction: true
+maximum_open_jaw_posture: 50 mm
+maximum_opening_without_pain: 40 mm
+maximum_opening_without_discomfort: 40 mm
+current_arthritis_location: left tmj | right tmj
+current_dislocation_location: left tmj | right tmj
+previous_dislocation_location:

@@ -1,0 +1,26 @@
+patient_age: 50
+diet_score: 9
+disability_rating: 9
+jaw_function_score: 9
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: penicillin | fentanyl | versed
+muscle_pain_score: severe
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 9
+headache_intensity: 9
+tmj_pain_rating: 9
+pain_onset_date: 1987
+disc_displacement: right disc dislocation
+joint_arthritis_location: right tmj
+muscle_pain_location: right masseter | right medial pterygoid | right styloid | left styloid | left medial pterygoid
+airway_obstruction_present: true
+sleep_apnea_diagnosed: false
+current_medications: fioricet | forsteo | mobic | ambien | vicodin
+joint_clicking_or_popping: false
+maximal_opening: 28mm
+excursion_movement_to_right: 8mm
+excursion_movement_to_left: 2mm
+sleep_disorder_type: sleep apnea

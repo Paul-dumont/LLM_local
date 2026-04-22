@@ -1,0 +1,30 @@
+patient_age: 53
+diet_score: 3
+disability_rating: 2
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+earache_present: false
+snoring_present: true
+daytime_tiredness_present: true
+sleep_apnea_diagnosed: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+joint_pain_score: 6
+average_daily_pain_intensity: 3
+headache_intensity: 0
+tmj_pain_rating: 6
+airway_obstruction_location: nasal | oropharyngeal
+muscle_pain_location: temporalis | shoulder | styloid | masseter
+joint_clicking: left tmj | right tmj
+joint_locking: right tmj
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis: left tmj | right tmj
+muscle_pain_score: 1
+appliance_history: splint
+joint_location: left tmj | right tmj
+disc_repositioning: left tmj | right tmj
+osseous_work: mandibular ramus osteotomy | maxillary osteotomy
+airway_obstruction_type: nasal | oropharyngeal
+muscle_pain_type: myofascial | tmj

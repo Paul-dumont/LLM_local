@@ -1,0 +1,31 @@
+patient_age: 21
+maximum_opening: 45mm
+diet_score: 6
+disability_rating: 8
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+neck_pain_present: true
+shoulder_pain_present: true
+back_pain_present: true
+pain_aggravating_factors: clenching
+sleep_disorder_type: sleep_apnea
+sleep_disorder_severity: mild
+sleep_disorder_diagnosed: true
+sleep_disorder_treatment: none
+sleep_disorder_medications: none
+sleep_disorder_other: snoring
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 9
+headache_frequency: daily
+triggers_for_headaches: loud noises
+current_medications: levoxyl | portia | excedrin
+joint_arthritis_present: true
+disc_displacement: left disc dislocation | right disc dislocation
+airway_obstruction_present: true
+muscle_pain_location: masseter | tmj | temporalis | posterior neck | shoulders

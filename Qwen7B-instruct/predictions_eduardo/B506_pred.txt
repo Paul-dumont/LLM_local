@@ -1,0 +1,44 @@
+maximum_opening_without_pain: 32mm
+patient_age: 26
+maximum_opening: 51mm
+pain_relieving_factors: splint
+diet_score: 5
+pain_duration: unknown
+disability_rating: 7
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: penicillin
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: daily
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj
+previous_medications: unknown
+muscle_pain_score: high
+migraine_history: unknown
+headache_location: temporal | top_of_head | front_of_head
+current_appliance: unknown
+average_daily_pain_intensity: 7
+headache_intensity: 8
+autoimmune_condition: unknown
+pain_onset_date: 16 years ago
+jaw_crepitus: right tmj
+tmj_pain_rating: 9
+sleep_disorder_type: snoring
+current_medications: midrin | hydrocodone | splint
+disc_displacement: left tmj | right tmj
+muscle_pain_location: styloid | masseter | posterior_neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: bone plates | bone screws | cheek implants | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws | bone plates | bone screws

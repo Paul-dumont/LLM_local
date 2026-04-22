@@ -1,0 +1,20 @@
+patient_age: 65
+diet_score: 4
+disability_rating: 3
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+airway_obstruction_present: true
+earache_present: true
+jaw_clicking: right tmj | left tmj
+muscle_pain_score: moderate
+headache_location: posterior | temple
+average_daily_pain_intensity: 6
+headache_intensity: 7
+tmj_pain_rating: 0
+current_appliance: estrogen patch
+disc_displacement: right disc dislocation | left disc dislocation
+joint_arthritis_location: right tmj | left tmj
+sleep_disorder_type: snoring
+muscle_pain_location: masseter | right tmj

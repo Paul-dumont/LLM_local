@@ -1,0 +1,29 @@
+patient_age: 28
+maximum_opening: 46mm
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+snoring: false
+sleep_apnea_diagnosed: false
+headache_frequency: daily
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 5
+headache_intensity: 5
+tmj_pain_rating: 5
+disability_rating: 4
+jaw_function_score: 4
+diet_score: 5
+sleep_disorder_type: sleep apnea
+airway_obstruction_location: oropharynx
+tongue_space: decreased
+jaw_clicking: left tmj | right tmj
+joint_pain_areas: shoulders | neck | jaws | eyes | nasal | temple
+current_medications: none
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+airway_obstruction_type: nasal | oropharyngeal

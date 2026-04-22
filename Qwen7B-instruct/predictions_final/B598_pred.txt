@@ -1,0 +1,40 @@
+3.patient_age: 44
+5.diet_score: 4
+6.disability_rating: 0
+8.jaw_function_score: 0
+10.tinnitus_present: False
+11.headache_frequency: None
+12.muscle_pain_score: High
+13.headache_location: Temporal
+14.headache_intensity: 0
+15.tmj_pain_rating: 0
+16.tmj_pain_frequency: 0
+17.current_medications: None
+18.appliance_history: Orthodontics
+19.sleep_disorder_type: Mouth breather
+20.airway_obstruction_type: Nasal airway obstruction
+21.appliance_history_details: Previous orthodontics in high school
+22.appliance_history_other: None
+23.appliance_history_duration: 1 year
+24.appliance_history_age_started: 14
+25.appliance_history_age_ended: 15
+26.appliance_history_type: Braces
+27.appliance_history_doctor: Dr. William Hang
+28.appliance_history_clinical_name: Orthodontics
+29.appliance_history_date: 1980
+30.appliance_history_date_2: 1981
+31.appliance_history_date_3: 1982
+32.appliance_history_date_4: 1983
+33.appliance_history_date_5: 1984
+34.appliance_history_date_6: 1985
+35.appliance_history_date_7: 1986
+36.appliance_history_date_8: 1987
+37.appliance_history_date_9: 1988
+38.appliance_history_date_10: 1989
+39.appliance_history_date_11: 1990
+40.appliance_history_date_12: 1991
+41.appliance_history_date_13: 1992
+42.appliance_history_date_14: 1993
+43.appliance_history_date_15: 1994
+44.appliance_history_date_16: 1995
+45.appliance_history_date_17: 199

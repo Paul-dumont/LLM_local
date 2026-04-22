@@ -1,0 +1,26 @@
+patient_age: 54
+maximum_opening: 15mm
+diet_score: 8
+disability_rating: 2
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+sleep_apnea_diagnosed: true
+headache_frequency: daily
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 2
+headache_intensity: 5
+tmj_pain_rating: 3
+current_medications: Zestril | Allopurinol | K+ | Slow magnesium | HCTZ | Ativan | Elavil | Soma | Activella
+sleep_disorder_type: Sleep apnea
+pain_aggravating_factors: Splint wearing
+sleep_disorder_diagnosis: Snoring | Daytime somnolence
+joint_pain_areas: Shoulder | Jaw | Back
+previous_treatment: Splint therapy | Osteopathic treatment | Orthotic devices | Arch supports
+previous_surgery: First rib resection for thoracic outlet syndrome
+sleep_disorder_history: True
+muscle_symptoms_present: True
+muscle_pain_location: Masseter | SCM

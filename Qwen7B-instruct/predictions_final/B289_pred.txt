@@ -1,0 +1,29 @@
+patient_age: 13
+diet_score: 3
+disability_rating: 1
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+noises_in_ear_present: false
+sleep_apnea_diagnosed: true
+headache_frequency: 2 a month
+muscle_pain_score: moderate
+headache_location: frontal
+average_daily_pain_intensity: 1
+headache_intensity: 5
+pain_onset_date: birth
+tmj_pain_rating: 3
+current_medications: adderall
+airway_obstruction_present: true
+joint_arthritis_present: left tmj | right tmj
+muscle_pain_location: left jaw
+joint_locking_present: true
+jaw_clicking: left tmj
+joint_pain_areas: left jaw
+sleep_disorder_type: adhd
+joint_pain_score: mild
+jaw_crepitus: left tmj
+joint_pain_onset: birth
+joint_locking_frequency: daily

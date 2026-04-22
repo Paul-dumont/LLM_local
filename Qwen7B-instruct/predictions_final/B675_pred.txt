@@ -1,0 +1,28 @@
+patient_age: 28
+maximum_opening: 25mm
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+sleep_apnea_diagnosed: false
+snoring_severity: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 5
+tmj_pain_rating: 7
+clenching_present: true
+bruxism_present: true
+airway_obstruction_location: nasal
+muscle_pain_score: moderate
+jaw_clicking: right tmj | left tmj
+joint_arthritis_location: right tmj | left tmj
+disc_displacement: right tmj | left tmj
+muscle_pain_location: masseter | shoulders | neck | medial pterygoid
+joint_locking: true
+appliance_history: braces
+current_medications: klonopin
+sleep_disorder_type: sleep apnea | somnolence

@@ -1,0 +1,21 @@
+patient_age: 27
+diet_score: 0
+disability_rating: 2
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+headache_location: frontal | temporal | entire head
+muscle_pain_score: high
+headache_intensity: 6
+tmj_pain_rating: 6
+average_daily_pain_intensity: 6
+pain_onset_date: 20
+current_medications: Yasmin | Flonase
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis: left tmj | right tmj
+muscle_pain_location: shoulders | neck | temporalis | scms | masseters
+joint_locking: true
+clenching: true
+bruxism: true

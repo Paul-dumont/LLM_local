@@ -1,0 +1,21 @@
+patient_age: 16
+maximum_opening: 48mm
+diet_score: 2
+disability_rating: 4
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: temporal
+average_daily_pain_intensity: 6
+headache_intensity: 7
+pain_onset_date: 11 years ago
+sleep_disorder_type: snoring
+joint_clicking_and_popping: true
+joint_pain_score: none
+jaw_clicking: right tmj | left tmj
+muscle_pain_location: masseter | retromandibular | neck

@@ -1,0 +1,49 @@
+maximum_opening_without_pain: 27mm
+patient_age: 45
+maximum_opening: 36mm
+pain_relieving_factors: unknown
+diet_score: 6
+pain_duration: unknown
+disability_rating: 7
+sleep_apnea_diagnosed: true
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: true
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: 3 per week
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: left temporal, left frontal, top of the head
+current_appliance: 3x3 retainer in the lower arch and 2x2 retainer in the upper arch
+average_daily_pain_intensity: 4
+headache_intensity: 6
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: severe
+tmj_pain_rating: 6
+sleep_disorder_type: sleep apnea
+current_medications: unknown
+disc_displacement: unknown
+muscle_pain_location: right temporal, right styloid area, left TMJ, right masseter, left TMJ, right posterior neck
+joint_arthritis_location: left tmj, right tmj
+appliance_history: orthodontics in mexico from 1997 to 1998 or 1999, orthodontics by dr. pat brady from 09/1999 to 06/2001, orthognathic surgery in 12/2000 by dr. doug sinn that included a maxilla and a genioplasty
+joint_locking: unknown
+muscle_pain_present: true
+joint_grinding: unknown
+other_joint_problems: left shoulder, left knee, lower back
+jaw_opening_pain_intensity: 6

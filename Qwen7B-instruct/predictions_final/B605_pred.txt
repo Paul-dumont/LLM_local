@@ -1,0 +1,37 @@
+3.patient_age: 46
+5.diet_score: 4
+6.disability_rating: 6
+8.jaw_function_score: 3
+11.tinnitus_present: true
+12.vertigo_present: false
+13.hearing_loss_present: false
+14.earache_present: false
+15.muscle_symptoms_present: true
+16.neck_pain_present: true
+17.back_pain_present: false
+18.headache_location: frontal | temporal | posterior head
+19.headache_intensity: 9
+20.headache_frequency: chronic
+21.tmj_pain_rating: 9
+22.current_medications: demerol
+23.joint_clicking_or_snapping: left tmj | right tmj
+24.airway_obstruction_present: true
+25.sleep_disorder_type: sleep apnea
+26.joint_pain_areas: arms | hands | fingers | legs | feet
+27.joint_pain_score: 9
+28.joint_swelling: left tmj | right tmj
+29.joint_locking: left tmj | right tmj
+30.joint_crepitus: left tmj | right tmj
+31.joint_arthritis_location: left tmj | right tmj
+32.joint_arthritis_type: inflammatory arthritis | rheumatoid arthritis | psoriatic arthritis | reactive arthritis | ankylosing spondylitis | juvenile rheumatoid arthritis | other
+33.joint_arthritis_score: moderate
+34.joint_replacement_history: left tmj | right tmj
+35.joint_replacement_type: total joint prostheses
+36.joint_pain_onset_date: 1983
+37.joint_pain_triggers: injury
+38.joint_pain_factors: stress | cold | weather | fatigue | clenching | grinding
+39.joint_pain_areas: jaw | neck | shoulders | back | arms | hands | fingers | legs | feet
+40.joint_pain_onset_date: 1983
+41.joint_pain_factors: stress | cold | weather | fatigue | clenching | grinding
+42.joint_pain_areas: jaw | neck | shoulders | back | arms | hands | fingers | legs | feet
+43

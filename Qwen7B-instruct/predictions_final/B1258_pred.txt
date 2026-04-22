@@ -1,0 +1,23 @@
+patient_age: 12
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+joint_pain_score: 0
+headache_location: frontal | temporal | posterior | masseter | styloid
+headache_intensity: 0
+tmj_pain_rating: 0
+headache_frequency: 1 per week
+sleep_disorder_type: snoring | sleep apnea | restless leg syndrome
+muscle_pain_location: shoulder | neck | back | hip | thigh | knee | ankle
+current_medications: none
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj
+muscle_pain_areas: none
+sleep_disorder_type: snoring | sleep apnea | restless leg syndrome

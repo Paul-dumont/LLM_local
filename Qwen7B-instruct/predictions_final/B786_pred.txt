@@ -1,0 +1,33 @@
+patient_age: 50
+diet_score: 2
+disability_rating: 3
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+airway_obstruction_present: true
+sleep_apnea_diagnosed: true
+headache_frequency: 0
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj
+joint_pain_score: 0
+tmj_pain_rating: 0
+muscle_pain_location: left posterior neck
+pain_aggravating_factors: clenching | bruxism
+disc_displacement: left disc dislocation | right disc dislocation
+appliance_history: orthodontics
+current_medications: flonase
+joint_arthritis_location: left tmj | right tmj
+psoriasis_location: elbows | knees
+sleep_disorder_type: sleep apnea
+sleep_disorder_diagnosis_date: 2007-02-12
+muscle_pain_score: 0
+neck_pain_present: true
+neck_pain_score: 0
+maximum_opening: 42 mm
+excursion_movement_to_right: 8 mm
+excursion_movement_to_left: 8 mm
+curve_ofSpee_upper_arched: increased
+curve_ofSpee_lower_arched: increased
+occlusal_plane_angle: high
+tooth_size_discrepancy: 1 mm

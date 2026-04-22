@@ -1,0 +1,29 @@
+patient_age: 28
+maximum_opening: 45mm
+jaw_function_disorder: true
+muscle_pain_score: moderate
+joint_pain_score: high
+tmj_pain_rating: 7
+headache_intensity: 7
+sleep_disorder_severity: daytime somnolence
+airway_obstruction_present: true
+muscle_pain_location: shoulders | neck
+joint_arthritis_location: left tmj | right tmj
+diet_score: 0
+disability_rating: 5
+pain_onset_date: 19 years old
+current_medications: ibuprofen
+maximum_closing_without_pain: 23mm
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+joint_pain_score: high
+sleep_disorder_type: snoring
+muscle_pain_location: shoulders | neck
+joint_pain_location: left tmj | right tmj
+maximum_opening: 45mm
+excursion_movement_to_the_right: 5mm
+excursion_movement_to_the_left: 3mm
+diet_score: 0
+disability_rating: 5
+pain_onset_date: 19 years old
+current_medications: ibuprofen

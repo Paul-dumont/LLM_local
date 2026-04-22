@@ -1,0 +1,22 @@
+patient_age: 18
+maximum_opening: 46mm
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: temple
+average_daily_pain_intensity: 6
+headache_intensity: 6
+tmj_pain_rating: 7
+sleep_apnea_diagnosed: true
+airway_obstruction_present: true
+appliance_history: braces
+joint_arthritis_location: left tmj | right tmj
+muscle_pain_location: temporalis | masseter | left medial pterygoid | left styloid area | left SCM | left posterior neck | right medial pterygoid
+joint_pain_areas: elbow | hip

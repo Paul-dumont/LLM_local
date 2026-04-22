@@ -1,0 +1,23 @@
+patient_age: 35
+maximum_opening: 36mm
+diet_score: 5
+disability_rating: 8
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: severe
+headache_location: frontal | temporal | entire head
+average_daily_pain_intensity: 8
+headache_intensity: 8
+pain_onset_date: 20s
+tmj_pain_rating: 7
+current_medications: zoloft | xanax | fioricet
+sleep_disorder_type: sleep apnea
+muscle_pain_location: masseter | temporalis | medial pterygoid | lateral pterygoid | shoulders | neck
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: jaws

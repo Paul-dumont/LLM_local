@@ -1,0 +1,27 @@
+patient_age: 16
+maximum_opening: 60mm
+diet_score: 0
+disability_rating: 2
+jaw_function_score: 0
+muscle_symptoms_present: true
+joint_pain_present: true
+headache_location: frontal | temporal
+average_daily_pain_intensity: 0
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: Allegra D | Tylenol
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis: left tmj | right tmj
+muscle_pain_location: temporalis | masseter | styloid | posterior neck
+headache_frequency: daily
+sleep_disorder_type: sleep apnea
+joint_locking: true
+muscle_pain_score: 2
+tmj_pain_present: true
+headache_location: frontal | temporal
+average_daily_pain_intensity: 0
+headache_intensity: 0
+tmj_pain_rating: 0
+diet_score: 0
+disability_rating: 2
+jaw_function_score: 0

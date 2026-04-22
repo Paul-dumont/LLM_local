@@ -1,0 +1,33 @@
+patient_age: 20
+diet_score: 8
+disability_rating: 8
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: chocolate | coffee
+muscle_symptoms_present: true
+muscle_pain_score: high
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 8
+headache_intensity: 8
+tmj_pain_rating: 8
+pain_onset_date: 2003
+current_medications: synthroid | zocor | singulair | motrin | ambien
+sleep_disorder_type: sleep apnea
+sleep_disorder_severity: mild
+jaw_locking: true
+jaw_clicking: true
+muscle_spasms: true
+jaw_opening_limitation: true
+neck_pain_present: true
+neck_pain_score: high
+back_pain_present: true
+back_pain_score: high
+jaw_crepitus: true
+jaw_clicking: true
+muscle_pain_location: temporalis | masseter | neck | shoulders
+joint_pain_areas: chin | lower lip
+current_appliance: splint
+previous_appliance: retainer | orthodontic_braces

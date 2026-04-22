@@ -1,0 +1,19 @@
+patient_age: 60
+maximum_opening: 50mm
+diet_score: 9
+disability_rating: 5
+jaw_function_score: 5
+sleep_disorder_type: sleep apnea
+muscle_symptoms_present: true
+joint_pain_present: true
+headache_location: frontal | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 7
+pain_onset_date: 60 years old
+tmj_pain_rating: 7
+headache_frequency: daily
+current_medications: Tylenol | Advil | Ibuprofen
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis: left tmj arthritis | right tmj arthritis
+joint_pain_areas: jaw | neck
+muscle_pain_areas: temporalis | posterior neck

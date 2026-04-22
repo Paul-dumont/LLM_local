@@ -1,0 +1,18 @@
+patient_age: 16
+diet_score: 7
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+headache_frequency: weekly
+muscle_pain_score: mild
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 8
+tmj_pain_rating: 3
+sleep_disorder_type: insomnia
+current_medications: minocycline
+joint_arthritis_location: left tmj | right tmj
+adverse_reactions: sulfa
+muscle_symptoms_present: true
+muscle_pain_location: temporalis | masseter | styloid | medial pterygoid | scm | posterior neck | shoulders

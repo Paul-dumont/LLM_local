@@ -1,0 +1,32 @@
+patient_age: 18
+maximum_opening: 53mm
+excursion_movement_to_the_right: 9mm
+excursion_movement_to_the_left: 10mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+appliance_history: herbst | 3x3 retainer
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj
+joint_pain_score: 0
+headache_intensity: 0
+tmj_pain_rating: 0
+sleep_apnea_diagnosed: true
+sleep_apnea_diagnosis_date: 2008-01-02
+sleep_disorder_type: sleep apnea
+muscle_pain_location: none
+muscle_pain_score: 0
+headache_location: none
+headache_type: none
+headache_frequency: none
+current_medications: none
+sleep_disorder_concerns: snoring | daytime somnolence | severe sleep apnea
+sleep_disorder_onset: childhood
+sleep_disorder_triggers: none
+sleep_disorder_factors: none
+sleep_disorder_diagnosed: false
+sleep_disorder_diagnosis_date: 0000-00-00
+sleep_disorder_test_type: sleep study
+sleep_disorder_test_date: 2008-01-02
+sleep_disorder_treatment: cpap

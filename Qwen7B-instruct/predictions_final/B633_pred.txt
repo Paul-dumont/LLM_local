@@ -1,0 +1,27 @@
+patient_age: 50
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: betimol | xalatan | amour thyroid | zocor | prozac
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: temporal
+average_daily_pain_intensity: 4
+headache_intensity: 0
+tmj_pain_rating: 5
+current_medications: betimol | xalatan | amour thyroid | zocor | prozac
+joint_arthritis_location: left tmj | right tmj
+muscle_pain_location: neck | shoulders
+sleep_disorder_type: clenching | bruxism
+pain_aggravating_factors: chewing
+sleep_disorder_severity: moderate
+disc_displacement: left tmj | right tmj
+muscle_pain_diagnosis: myofascial pain
+joint_arthritis_diagnosis: bilateral tmj severe arthritis
+tmj_pain_diagnosis: bilateral tmj pain
+orthodontic_appliance_history: braces

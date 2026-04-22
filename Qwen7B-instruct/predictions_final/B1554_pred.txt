@@ -1,0 +1,22 @@
+patient_age: 16
+diet_score: 4
+disability_rating: 4
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 2
+headache_intensity: 5
+pain_onset_date: 16 years old
+tmj_pain_rating: 0
+disc_displacement: left | right
+joint_arthritis: condylar hyperplasia
+joint_pain_areas: neck | shoulders
+appliance_history: braces
+current_medications: klonopin
+sleep_disorder_type: sleep apnea
+muscle_pain_location: neck | shoulders

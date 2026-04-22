@@ -1,0 +1,22 @@
+patient_age: 30
+maximum_opening: 37mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+joint_pain_areas: temporalis | masseter | styloid | SCM
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 4
+headache_intensity: 6
+tmj_pain_rating: 4
+pain_onset_date: 20 years ago
+current_medications: Vioxx | liquid vitamins
+sleep_disorder_type: sleep apnea
+muscle_pain_areas: temporalis | masseter | styloid | SCM
+appliance_history: retainer
+joint_diagnosis: bilateral tmj rheumatoid arthritis
+muscle_diagnosis: myofascial pain

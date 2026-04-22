@@ -1,0 +1,20 @@
+patient_age: 13
+maximum_opening: 38mm
+diet_score: 3
+disability_rating: 1
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 1
+headache_intensity: 5
+tmj_pain_rating: 2
+current_medications: none
+airway_obstruction_present: true
+muscle_symptoms_present: false
+joint_clicking_on_opening: left tmj | right tmj
+joint_pain_areas: tmj
+sleep_disorder_type: sleep apnea
+sleep_disorder_severity: moderate
+sleep_disorder_diagnosis: sleep apnea
+sleep_disorder_duration: 9 years

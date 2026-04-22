@@ -1,0 +1,23 @@
+patient_age: 26
+maximum_opening: 42mm
+diet_score: 6
+disability_rating: 4
+jaw_function_score: 6
+vertigo_present: true
+earache_present: true
+hearing_loss_present: true
+tinnitus_present: true
+sleep_apnea_diagnosed: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal | top of the head
+average_daily_pain_intensity: 6
+headache_intensity: 5
+tmj_pain_rating: 4
+current_medications: hypothyroidism
+joint_pain_areas: shoulders
+sleep_disorder_type: sleep apnea
+sleep_disorder_duration: 1 year
+sleep_disorder_concerned: true
+appliance_history: splint
+joint_arthritis_location: left tmj | right tmj
+muscle_pain_areas: retromandibular | right shoulder | left shoulder

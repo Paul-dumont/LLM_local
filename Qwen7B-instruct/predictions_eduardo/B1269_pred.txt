@@ -1,0 +1,68 @@
+maximum_opening_without_pain: unknown
+patient_age: 24
+maximum_opening: unknown
+pain_relieving_factors: unknown
+diet_score: 4
+pain_duration: unknown
+disability_rating: false
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: unknown
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: left tmj
+tmj_pain_rating: 8
+sleep_disorder_type: unknown
+current_medications: birth control pills
+disc_displacement: left tmj
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj
+appliance_history: orthodontics x 18 months
+joint_pain_areas: left tmj
+joint_locking: left tmj
+joint_stiffness: unknown
+bone_on_bone_joint: unknown
+joint_swelling: unknown
+joint_grinding: left tmj
+joint_crepitus: left tmj
+joint_locking_frequency: unknown
+joint_clicking: left tmj
+joint_blow_out: unknown
+joint_popping: left tmj
+joint_increased_sensitivity: unknown
+joint_pain_score: unknown
+joint_swelling_frequency: unknown
+breathing_problems: unknown
+snoring: unknown
+daytime_tiredness: unknown
+clenching: unknown
+decreased_mouth_opening: unknown
+sleep_apnea_diagnosis: unknown
+airway_obstruction_location: unknown
+joint_locking_side: left tmj
+joint_clicking_side: left tmj
+joint_popping

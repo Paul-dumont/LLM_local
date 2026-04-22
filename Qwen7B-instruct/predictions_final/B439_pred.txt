@@ -1,0 +1,50 @@
+patient_age: 16
+maximum_opening: 42mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+sleep_disorder_type: snoring | sleep apnea
+muscle_symptoms_present: false
+jaw_clicking: tmj | left | right
+joint_pain_score: 0
+tmj_pain_rating: 0
+headache_location: none
+average_daily_pain_intensity: 0
+headache_intensity: 0
+tmj_pain_frequency: 0
+headache_frequency: 0
+current_medications: zyrtec | concerta
+airway_obstruction_location: nose | throat
+muscle_pain_location: none
+jaw_clicking: true
+jaw_locking: true
+earache_present: false
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+facial_nerve麻痹_present: false
+other_pain_areas: wrist
+sleep_apnea_diagnosed: true
+sleep_disorder_type: snoring | sleep apnea
+sleep_apnea_diagnosed_by: self
+sleep_apnea_diagnosed_test: none
+sleep_apnea_diagnosed_doctor: self
+sleep_apnea_diagnosed_date: n/a
+sleep_apnea_diagnosed_treatment: none
+sleep_apnea_diagnosed_treatment_type: none
+sleep_apnea_diagnosed_treatment_date: n/a
+sleep_apnea_diagnosed_treatment_provider: self
+sleep_apnea_diagnosed_treatment_status: none
+sleep_apnea_diagnosed_treatment_status_date: n/a
+sleep_apnea_diagnosed_treatment_status_provider: self
+sleep_apnea_diagnosed_treatment_status_type: none
+sleep_apnea_diagnosed_treatment_status_date: n/a
+sleep_apnea_diagnosed_treatment_status_provider: self
+sleep_apnea_diagnosed_treatment_status_type: none
+sleep_apnea_diagnosed_treatment_status_date: n/a
+sleep_apnea_diagnosed_treatment_status_provider: self
+sleep_apnea_diagnosed_treatment_status_type: none
+sleep_apnea_diagnosed_treatment_status_date: n/a
+sleep_apnea_diagnosed_treatment_status_provider: self
+sleep_apnea_diagnosed_treatment_status_type: none
+sleep_apnea_diagnosed_treatment_status_date: n

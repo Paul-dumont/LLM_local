@@ -1,0 +1,33 @@
+patient_age: 15
+diet_score: 3
+disability_rating: 2
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: true
+earache_present: false
+airway_obstruction_present: true
+snoring_present: true
+daytime_tiredness_present: true
+sleep_disorder_present: true
+apnea: false
+headache_frequency: 0
+muscle_symptoms_present: true
+joint_pain_score: 3
+tmj_pain_rating: 3
+headache_location: temporal
+average_daily_pain_intensity: 3
+tmj_pain_intensity: 3
+current_medications: Lexapro
+pain_onset_date: 12-13
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis: left tmj arthritis | right tmj arthritis
+muscle_pain_location: temporalis | masseter | styloid | shoulders
+joint_location: left tmj | right tmj
+joint_pain_areas: neck | shoulders
+tooth_size_discrepancy: true
+bilateral tmj_resorption: true
+adverse_reactions: none specified
+ankylosis_present: false
+joint_locking: false
+muscle_pain_score: 0

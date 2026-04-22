@@ -1,0 +1,37 @@
+3.patient_age: 16
+4.maximum_opening: 45 mm
+6.diet_score: 2
+8.disability_rating: 0
+10.jaw_function_score: 0
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False
+14.headache_location: Frontal | Temporal
+15.headache_frequency: 0
+16.muscle_pain_score: 0
+17.joint_pain_score: 0
+18.daily_pain_intensity: 0
+19.headache_intensity: 0
+20.tmj_pain_rating: 0
+21.current_medications: None
+22.appliance_history: Orthodontics
+23.appliance_start_date: 3 to 4 years
+24.appliance_type: Braces
+25.appliance_duration: 3 to 4 years
+26.appliance_removal_date: June 2005
+27.appliance_replacement_date: June 2005
+28.appliance_type_2: Braces
+29.appliance_history_2: First phase and second phase
+30.appliance_history_3: Full Class II occlusion on the right side and a super Class III occlusion on the left side
+31.appliance_history_4: AP maxillary deficiency
+32.appliance_history_5: Transverse maxillary excess
+33.appliance_history_6: Class II occlusion on the right side, super Class III occlusion on the left side
+34.appliance_history_7: Mandible deviated off to the right side 3 mm
+35.appliance_history_8: Mild crowding of lower anterior arch
+36.appliance_history_9: Over-angulated maxillary incisors
+37.appliance_history_10: Accentuated curve of Spee in the upper arch
+38.appliance_history_11: Hyper-eruption of mandibular left second bicuspid
+39.appliance_history_12: Presence of erupted malaligned third molars
+40.appliance_history_13: Anterior open bite
+41.appliance_history_14: Nasopharyngeal adenoid tissue
+42.appliance_history_15: Nasal airway obstruction

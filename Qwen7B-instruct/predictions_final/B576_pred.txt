@@ -1,0 +1,38 @@
+3.patient_age: 25
+4.maximum_opening: 27mm
+5.disability_rating: 3
+6.vertigo_present: False
+7.tinnitus_present: False
+8.hearing_loss_present: False
+10.jaw_function_score: 7
+11.diet_score: 0
+12.disability_rating: 3
+13.headache_intensity: 0
+14.tmj_pain_rating: 0
+15.muscle_pain_score: 0
+16.joint_clicking: False
+17.joint_locking: False
+18.airway_obstruction_present: True
+19.appliance_history: Orthodontics
+20.current_medications: Enbrel | Ortho-Cyclen | Prednisone 5 mg daily
+21.pain_onset_date: 4 years old
+22.joint_pain_areas: Neck | Fingers | Toes
+23.joint_pain_score: 0
+24.joint_swelling_score: 0
+25.joint_clicking: True
+26.joint_locking: False
+27.joint_pain_onset: 4 years old
+28.joint_pain_areas: TMJ
+29.joint_pain_diagnosis: Juvenile rheumatoid arthritis
+30.joint_pain_diagnosis: TMJ arthritis
+31.joint_pain_diagnosis: TMJ articular disc dislocation
+32.joint_pain_diagnosis: TMJ arthritis and articular disc dislocation
+33.joint_pain_diagnosis: TMJ arthritis and articular disc dislocation
+34.joint_pain_diagnosis: TMJ arthritis and articular disc dislocation
+35.joint_pain_diagnosis: TMJ arthritis and articular disc dislocation
+36.joint_pain_diagnosis: TMJ arthritis and articular disc dislocation
+37.joint_pain_diagnosis: TMJ arthritis and articular disc dislocation
+38.joint_pain_diagnosis: TMJ arthritis and articular disc dislocation
+39.joint_pain_diagnosis: TMJ arthritis and articular disc dislocation
+40.joint_pain_diagnosis: TMJ arthritis and articular disc dislocation
+41.joint_pain_diagnosis: TMJ arthritis and articular disc dislocation

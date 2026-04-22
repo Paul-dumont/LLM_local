@@ -1,0 +1,12 @@
+patient_age: 57
+maximum_opening: 26mm
+diet_score: 8
+disability_rating: 8
+jaw_function_score: 7
+sleep_apnea_diagnosed: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+joint_pain_score: 10
+pain_aggravating_factors: splint use
+pain_areas: left masseter | left shoulder | left tmj | right tmj | temporalis | retromandibular area
+current_medications: psoriasis medication | ibuprofen | blood pressure medication | aspirin | vitamin d | vitamin b | vitamin e | vitamin c | calcium | fish oil | glucosamine | chondroitin | multivitamins | progesterone | estrogen | testosterone | vitamin b12 | folic acid | iron | magnesium | potassium | vitamin k | vitamin a | vitamin p | vitamin q | vitamin u | vitamin w | vitamin x | vitamin y | vitamin z | vitamin b5 | vitamin b6 | vitamin b7 | vitamin b9 | vitamin b1 | vitamin b2 | vitamin b3 | vitamin b17 | vitamin b15 | vitamin b11 | vitamin b14 | vitamin b18 | vitamin b20 | vitamin b21 | vitamin b22 | vitamin b23 | vitamin b24 | vitamin b25 | vitamin b26 | vitamin b27 | vitamin b28 | vitamin b29 | vitamin b30 | vitamin b31 | vitamin b32 | vitamin b33 | vitamin b34 | vitamin b35 | vitamin b36 | vitamin b37 | vitamin b38 | vitamin b39 | vitamin b40 | vitamin b41 | vitamin b42 | vitamin b43 | vitamin b44 | vitamin b45 | vitamin b46 | vitamin b47 | vitamin b48 | vitamin b49 | vitamin b50 | vitamin b51 | vitamin b52 | vitamin b53 | vitamin b54 | vitamin b55 | vitamin b56 | vitamin b57 | vitamin b58 | vitamin b59 | vitamin b60 | vitamin b61 | vitamin b62 | vitamin b63 | vitamin b64 | vitamin b65 | vitamin b66

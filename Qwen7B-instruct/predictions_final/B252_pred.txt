@@ -1,0 +1,48 @@
+patient_age: 15
+maximum_opening: 38mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+facial_swelling_present: false
+trismus_present: false
+muscle_symptoms_present: false
+joint_pain_present: true
+headache_frequency: daily
+muscle_pain_score: 0
+headache_location: frontal | temporal | posterior | bilateral
+headache_intensity: 7
+average_daily_pain_intensity: 0
+headache_disabling_factor: none
+current_medications: fexofenadine | flonase | slow fe | folic acid
+sleep_disorder_type: sleep apnea
+sleep_disorder_severity: moderate
+sleep_disorder_diagnosed: true
+sleep_disorder_treatment: oral appliance
+sleep_disorder_treatment_effectiveness: ineffective
+sleep_disorder_diagnosed_date: 2010
+sleep_disorder_diagnosed_doctor: Dr. __
+sleep_disorder_diagnosed_institution: __
+sleep_disorder_diagnosed_test: polysomnography
+sleep_disorder_diagnosed_treatment: oral appliance
+sleep_disorder_diagnosed_treatment_effectiveness: ineffective
+sleep_disorder_diagnosed_date: 2010
+sleep_disorder_diagnosed_doctor: Dr. __
+sleep_disorder_diagnosed_institution: __
+sleep_disorder_diagnosed_test: polysomnography
+sleep_disorder_diagnosed_treatment: oral appliance
+sleep_disorder_diagnosed_treatment_effectiveness: ineffective
+sleep_disorder_diagnosed_date: 2010
+sleep_disorder_diagnosed_doctor: Dr. __
+sleep_disorder_diagnosed_institution: __
+sleep_disorder_diagnosed_test: polysomnography
+sleep_disorder_diagnosed_treatment: oral appliance
+sleep_disorder_diagnosed_treatment_effectiveness: ineffective
+sleep_disorder_diagnosed_date: 2010
+sleep_disorder_diagnosed_doctor: Dr. __
+sleep_disorder_diagnosed_institution: __
+sleep_disorder_diagnosed_test: polysomnography
+sleep_disorder_diagnosed_treatment: oral appliance

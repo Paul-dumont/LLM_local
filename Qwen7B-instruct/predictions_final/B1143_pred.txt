@@ -1,0 +1,33 @@
+patient_age: 50
+maximum_opening: 40mm
+diet_score: 5
+disability_rating: 7
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+onset_triggers: clenching and grinding of teeth
+sleep_disorder_type: sleep apnea
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: temple
+average_daily_pain_intensity: 8
+headache_intensity: 4
+tmj_pain_rating: 6
+sleep_disorder_severity: moderate to severe
+muscle_pain_location: masseter | medial pterygoid | styloid | temporalis | tmj
+current_medications: synthroid | gynodiol | lipitor
+sleep_disorder_type: sleep apnea
+sleep_disorder_concerns: unable to catch breath
+daytime_tiredness_present: true
+mouth_dryness_present: true
+airway_obstruction_present: true
+joint_arthritis_location: left tmj | right tmj
+adverse_reactions: codeine
+muscle_pain_areas: masseter | medial pterygoid | styloid | temporalis | tmj
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: chin | left lower lip | left lower jaw | tongue
+joint_pain_score: moderate to severe
+joint_arthritis_diagnosis: arthritis
+sleep_disorder_diagnosis: sleep apnea

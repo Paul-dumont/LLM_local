@@ -1,0 +1,29 @@
+patient_age: 22
+maximum_opening: 41mm
+diet_score: 1
+disability_rating: 6
+jaw_function_score: 4
+tinnitus_present: true
+earache_present: true
+airway_obstruction_present: true
+snoring_present: true
+headache_location: frontal | temporal | posterior
+average_daily_pain_intensity: 4
+headache_intensity: 3
+tmj_pain_rating: 6
+sleep_disorder_type: sleep_apnea
+current_medications: none
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis: left tmj arthritis | right tmj arthritis
+muscle_symptoms: masseter | temporalis
+jaw_clicking: left tmj | right tmj
+jaw_locking: left tmj | right tmj
+jaw_crepitus: left tmj | right tmj
+jaw_opening_limitation: true
+jaw_locking_history: true
+jaw_clicking_history: true
+jaw_pain_onset: trauma
+jaw_crepitus_history: true
+jaw_locking_onset: trauma
+jaw_opening_limitation_onset: trauma
+sleep_disorder_diagnosed: sleep_apnea

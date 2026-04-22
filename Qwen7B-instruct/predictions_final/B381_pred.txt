@@ -1,0 +1,10 @@
+patient_age: 29
+maximum_opening: 42mm
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+noises_in_joints: true | tmj_pain: true | headache_location: temporal | headache_frequency: 6 | headache_intensity: 8 | tmj_pain_intensity: 8 | average_daily_pain_intensity: 8 | jaw_crepitus: true | jaw_locking: true | jaw_clicking: true | teeth_clenching: true | teeth_grinding: true | jaw_opening_limitation: true | jaw_function_score: 8 | jaw_diet_score: 7 | jaw_disability_rating: 7 | sleep_apnea_diagnosed: false

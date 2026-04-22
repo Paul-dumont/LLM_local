@@ -1,0 +1,17 @@
+3.patient_age: 28
+4.maximum_opening: 29 mm
+5.diet_score: 5
+6.disability_rating: 5
+7.jaw_function_score: 7
+8.tinnitus_present: False
+9.vertigo_present: True
+10.hearing_loss_present: False
+11.earache_present: False
+12.muscle_pain_score: Severe
+13.headache_location: Temporal | Frontal
+14.average_daily_pain_intensity: 8
+15.headache_intensity: 4
+16.tmj_pain_rating: 9
+17.current_medications: None
+18.disability_status: True
+19.appliance_history: Orthodontics

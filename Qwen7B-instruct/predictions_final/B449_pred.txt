@@ -1,0 +1,22 @@
+patient_age: 20
+maximum_opening: 57mm
+diet_score: 2
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 7
+tmj_pain_rating: 0
+current_medications: alprazolam | temazepam | bextra | ortho-erva | fluvoxamine
+joint_arthritis_present: true
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | styloid | medial pterygoid
+joint_pain_areas: tmj
+sleep_disorder_type: clenching

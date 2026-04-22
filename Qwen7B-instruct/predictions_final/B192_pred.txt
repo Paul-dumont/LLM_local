@@ -1,0 +1,43 @@
+patient_age: 41
+diet_score: 2
+disability_rating: 3
+maximum_opening: 43mm
+jaw_function_score: 3
+muscle_symptoms_present: true
+tmj_pain_frequency: daily
+pain_aggravating_factors: none
+sleep_disorder_type: daytime somnolence
+joint_pain_areas: left tmj | right tmj
+current_medications: naproxen | Yaz | Excedrin | ibuprofen
+sleep_disorder_diagnosis: mild daytime somnolence
+headache_location: frontal | temporal
+headache_intensity: 5
+average_daily_pain_intensity: 5
+headache_frequency: daily
+pain_onset_date: 10 years ago
+pain_worsening_date: 8 months ago
+pain_spread_location: neck | shoulders | back
+current_pain_intensity: 5
+earache_present: false
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+snoring_severity: mild
+daytime_sleepiness: moderate
+sleep_apnea_diagnosis: false
+clenching_present: true
+muscle_pain_score: moderate
+joint_pain_score: moderate
+sleep_disorder_score: mild
+diet_score: 2
+disability_rating: 3
+muscle_pain_location: left temporalis | right temporalis | left posterior neck | right posterior neck
+jaw_crepitus: left tmj | right tmj
+joint_pain_location: left tmj | right tmj
+joint_locking: false
+muscle_pain_location: left temporalis | right temporalis | left posterior neck | right posterior neck
+other_joint_pain: none
+joint_clicking: left tmj | right tmj
+joint_pain_onset_date: 10 years ago
+joint_swelling: none
+current_medications: naproxen | Yaz | Excedrin | ibuprofen

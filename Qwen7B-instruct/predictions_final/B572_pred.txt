@@ -1,0 +1,29 @@
+patient_age: 21
+maximum_opening: 45mm
+diet_score: 4
+disability_rating: 5
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+joint_pain_score: 7
+headache_location: temporal | frontal
+average_daily_pain_intensity: 7
+headache_intensity: 6
+tmj_pain_rating: 7
+current_medications: Reclipsen | Fluoxetine
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+pain_aggravating_factors: jaw function
+sleep_apnea_diagnosed: false
+joint_locking: true
+muscle_pain_location: jaw
+jaw_clicking: true
+muscle_pain_score: mild
+headache_location: temporal | frontal
+muscle_pain_diagnosis: masseter myositis
+joint_pain_areas: jaw
+tmj_pain_score: 7
+muscle_pain_diagnoses: masseter myositis

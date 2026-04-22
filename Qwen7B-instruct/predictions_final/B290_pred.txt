@@ -1,0 +1,34 @@
+patient_age: 69
+maximum_opening: 41mm
+diet_score: 3
+disability_rating: 5
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+joint_pain_score: moderate
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 5
+headache_intensity: 5
+tmj_pain_rating: 5
+pain_onset_date: 69 years old
+current_medications: citalopram | toprol | zetia | ambien | estradiol | fosamax
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+muscle_pain_score: mild
+sleep_disorder_type: daytime somnolence
+joint_locking: true
+jaw_clicking: left tmj | right tmj
+jaw_locking: true
+neck_pain_present: true
+back_pain_present: true
+knee_pain_present: true
+shoulder_pain_present: true
+hips_pain_present: true
+feet_pain_present: true
+toes_pain_present: true
+fingers_pain_present: true
+clenching: nocturnal clenching

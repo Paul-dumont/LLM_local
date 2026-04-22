@@ -1,0 +1,21 @@
+patient_age: 47
+diet_score: 1
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: false
+joint_pain_present: false
+headache_intensity: 0
+tmj_pain_rating: 0
+appliance_history: true
+sleep_disorder_type: mouth_breathing
+muscle_pain_location: none
+joint_pain_areas: none
+current_medications: none
+joint_pain_score: 0
+pain_aggravating_factors: clenching
+sleep_disorder_onset: 10 years ago
+sleep_disorder_diagnosis: mouth breathing
+sleep_disorder_treatment: none

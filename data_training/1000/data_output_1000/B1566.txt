@@ -1,0 +1,46 @@
+patient_id: B1566
+maximum_opening_without_pain: unknown
+patient_age: 17
+maximum_opening: 41 mm
+pain_relieving_factors: unknown
+diet_score: 7
+pain_duration: unknown
+disability_rating: 3
+sleep_apnea_diagnosed: true
+jaw_function_score: 5
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: unknown
+onset_triggers: mva
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: 3 a week
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: temporal
+current_appliance: unknown
+average_daily_pain_intensity: 3
+headache_intensity: 8
+autoimmune_condition: unknown
+pain_onset_date: 
+jaw_crepitus: unknown
+tmj_pain_rating: 3
+sleep_disorder_type: snoring | somnolence
+current_medications: 
+disc_displacement: 
+muscle_pain_location: temporalis | scm 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: 

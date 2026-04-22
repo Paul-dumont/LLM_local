@@ -1,0 +1,58 @@
+patient_age: 41
+maximum_opening: 50mm
+diet_score: 7
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+hearing_loss_present: false
+other_pain_areas: none
+pain_aggravating_factors: none
+sleep_disorder_type: sleep apnea
+sleep_disorder_severity: moderate
+sleep_disorder_duration: 10 years
+sleep_disorder_history: snoring, daytime somnolence
+current_medications: Singulair, Advair, vitamins
+joint_pain_areas: left tmj | right tmj
+muscle_pain_areas: none
+pain_onset_date: 10 years ago
+pain_aggravating_factors: none
+pain_modifying_factors: none
+current_pain_level: 8
+average_daily_pain_intensity: 8
+pain_onset_date: 10 years ago
+pain_aggravating_factors: none
+pain_modifying_factors: none
+current_pain_location: left tmj | right tmj
+tmj_pain_rating: 8
+headache_location: none
+headache_intensity: none
+headache_frequency: none
+current_medications: Singulair | Advair | vitamins
+sleep_disorder_type: sleep apnea
+sleep_disorder_duration: 10 years
+sleep_disorder_history: snoring | daytime somnolence
+pain_aggravating_factors: none
+pain_onset_date: 10 years ago
+pain_aggravating_factors: none
+pain_modifying_factors: none
+current_pain_location: left tmj | right tmj
+tmj_pain_rating: 8
+headache_location: none
+headache_intensity: none
+headache_frequency: none
+maximum_opening: 50mm
+excursion_movement_to_right: 9mm
+excursion_movement_to_left: 10mm
+diet_score: 7
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+hearing_loss_present: false
+other_pain_areas: none
+current_medications: Singulair | Advair | vitamins
+previous_treatment: orthodontics x 2
+previous_surgeries: tonsillectomy | aden

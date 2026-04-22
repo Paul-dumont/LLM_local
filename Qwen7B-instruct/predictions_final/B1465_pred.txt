@@ -1,0 +1,53 @@
+patient_age: 14
+maximum_opening: 37mm
+diet_score: 1
+disability_rating: 1
+jaw_function_score: 2
+pain_aggravating_factors: none
+average_daily_pain_intensity: 0
+headache_location: left frontal | left temporal
+headache_intensity: 9
+tmj_pain_rating: 1
+sleep_disorder_type: sleep_apnea
+sleep_disorder_severity: moderate
+mouth_tremor_present: false
+muscle_pain_score: mild
+jaw_clicking: left tmj | right tmj
+joint_pain_areas: right retromandibular | right tmj
+muscle_pain_areas: right retromandibular
+current_medications: none
+sleep_disorder_location: mouth
+sleep_disorder_type: snoring
+sleep_disorder_severity: mild
+sleep_disorder_frequency: nightly
+sleep_disorder_onset_date: 0
+sleep_disorder_onset_age: 0
+sleep_disorder_diagnosis: none
+sleep_disorder_diagnosed_date: 0
+sleep_disorder_diagnosed_age: 0
+sleep_disorder_treatment: none
+sleep_disorder_treatment_date: 0
+sleep_disorder_treatment_age: 0
+sleep_disorder_status: active
+sleep_disorder_duration: ongoing
+sleep_disorder_cause: none
+sleep_disorder_triggers: none
+sleep_disorder_symptoms: none
+sleep_disorder_diagnosed: no
+sleep_disorder_diagnosed_by: none
+sleep_disorder_diagnosed_date: 0
+sleep_disorder_diagnosed_age: 0
+sleep_disorder_diagnosed_location: none
+sleep_disorder_diagnosed_doctor: none
+sleep_disorder_diagnosed_specialty: none
+sleep_disorder_diagnosed_test: none
+sleep_disorder_diagnosed_treatment: none
+sleep_disorder_diagnosed_treatment_date: 0
+sleep_disorder_diagnosed_treatment_age: 0
+sleep_disorder_diagnosed_status: active
+sleep_disorder_diagnosed_duration: ongoing
+sleep_disorder_diagnosed_cause: none
+sleep_disorder_diagnosed_triggers: none
+sleep_disorder_diagnosed_symptoms: none
+sleep_disorder_diagnosed_diagnosed: no
+sleep_disorder_diagnosed_diagnosed

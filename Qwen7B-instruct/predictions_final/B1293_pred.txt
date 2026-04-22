@@ -1,0 +1,26 @@
+patient_age: 54
+maximum_opening: 46mm
+diet_score: 2
+disability_rating: 5
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+sleep_disorder_type: sleep_apnea
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior_head
+average_daily_pain_intensity: 3
+headache_intensity: 3
+tmj_pain_rating: 3
+current_medications: tooth_guard
+joint_arthritis_location: left tmj | right tmj
+disc_displacement_location: left tmj | right tmj
+airway_obstruction_areas: nose | throat
+speech_impairment_present: true
+swallowing_difficulties_present: true
+earache_location: right_ear | left_ear
+hearing_loss_present: false
+jaw_clicking: left tmj | right tmj
+joint_pain_areas: hips | knees

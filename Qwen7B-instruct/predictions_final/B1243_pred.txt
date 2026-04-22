@@ -1,0 +1,25 @@
+patient_age: 24
+maximum_opening: 6mm
+diet_score: 9
+disability_rating: 6
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+jaw_clicking: right tmj | left tmj
+muscle_pain_score: mild
+headache_intensity: 0
+tmj_pain_rating: 0
+headache_location: temporal
+average_daily_pain_intensity: 9
+pain_onset_date: 8 days ago
+current_medications: gabapentin | hydrocodone
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+pain_aggravating_factors: eating
+sleep_disorder_type: sleep disorder
+sleep_disorder_diagnosis: sleep disorder
+sleep_disorder_diagnosed_date: 12/17/2010
+sleep_disorder_duration: 8 days

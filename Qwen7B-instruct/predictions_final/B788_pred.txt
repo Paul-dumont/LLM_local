@@ -1,0 +1,46 @@
+3.patient_age: 15
+4.maximum_opening: 43mm
+6.diet_score: 7
+7.disability_rating: 5
+8.jaw_function_score: 8
+10.tinnitus_present: true
+11.vertigo_present: false
+12.earache_present: false
+13.muscle_pain_score: moderate
+14.headache_location: frontal | temporal
+15.average_daily_pain_intensity: 7
+16.headache_intensity: 7
+17.pain_onset_date: 15 years old
+18.tmj_pain_rating: 7
+19.joint_clicking: right tmj | left tmj
+20.appliance_history: braces
+21.muscle_pain_location: right styloid | left temporal
+22.sleep_disorder_type: sleep apnea
+23.airway_obstruction_present: true
+24.apnea: true
+25.mouth_breathing: true
+26.current_medications: none
+27.disc_displacement: right disc dislocation | left disc dislocation
+28.disc_reductions: right disc reduction | left disc reduction
+29.joint_arthritis: right tmj | left tmj
+30.muscle_pain: right styloid | left temporal
+31.muscle_pain_onset_date: 15 years old
+32.muscle_pain_triggers: stress
+33.muscle_pain_factors: stress
+34.joint_pain_areas: right styloid | left temporal
+35.joint_pain_onset_date: 15 years old
+36.joint_pain_triggers: stress
+37.joint_pain_factors: stress
+38.joint_pain_factors: stress
+39.joint_pain_factors: stress
+40.joint_pain_factors: stress
+41.joint_pain_factors: stress
+42.joint_pain_factors: stress
+43.joint_pain_factors: stress
+44.joint_pain_factors: stress
+45.joint_pain_factors: stress
+46.joint_pain_factors: stress
+47.joint_pain_factors: stress
+48.joint_pain_factors: stress
+49.joint_pain_factors: stress
+50.joint_pain_factors

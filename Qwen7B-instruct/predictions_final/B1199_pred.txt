@@ -1,0 +1,22 @@
+patient_age: 57
+diet_score: 6
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+snoring_present: true
+muscle_symptoms_present: true
+jaw_clicking: right tmj | left tmj
+muscle_pain_score: moderate | high
+headache_location: head | neck
+average_daily_pain_intensity: 6
+headache_intensity: 9
+tmj_pain_rating: 5
+pain_onset_date: motorcycle accident
+current_medications: klonopin
+joint_arthritis_location: left tmj | right tmj
+sleep_disorder_type: sleep apnea | snoring
+muscle_pain_location: masseter | temporalis | styloid | shoulder

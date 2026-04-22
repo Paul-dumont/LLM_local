@@ -1,0 +1,48 @@
+patient_age: 41
+maximum_opening: 52mm
+diet_score: 8
+disability_rating: 5
+jaw_function_score: 5
+pain_aggravating_factors: none
+pain_relieving_factors: none
+sleep_disorder_type: snoring
+sleep_disorder_severity: mild
+sleep_disorder_frequency: daily
+sleep_disorder_onset_date: 20 years ago
+sleep_disorder_diagnosis: sleep apnea
+sleep_disorder_diagnosed_date: 2009
+sleep_disorder_treatment: CPAP
+sleep_disorder_treatment_effectiveness: ineffective
+sleep_disorder_medications: none
+sleep_disorder_other: mouth breather
+muscle_symptoms: myofascial pain | tmj pain
+joint_pain_areas: right jaw
+headache_location: frontal | temporal
+current_medications: lamictal | flexeril
+joint_pain_areas: right jaw
+joint_pain_score: 7
+headache_intensity: 7
+tmj_pain_rating: 7
+muscle_pain_rating: 7
+headache_frequency: daily
+muscle_symptoms_onset_date: 20 years ago
+joint_pain_onset_date: 20 years ago
+headache_onset_date: 20 years ago
+sleep_disorder_onset_date: 20 years ago
+sleep_apnea_diagnosed_date: 2009
+sleep_apnea_diagnosed_type: sleep apnea
+sleep_apnea_diagnosed_treatment: cpap
+sleep_apnea_diagnosed_treatment_effectiveness: ineffective
+sleep_apnea_diagnosed_medications: none
+sleep_apnea_diagnosed_other: mouth breather
+joint_clicking: right tmj | left tmj
+joint_popping: right tmj | left tmj
+joint_locking: right tmj | left tmj
+joint_grinding: right tmj | left tmj
+joint_swelling: right tmj | left tmj
+joint_pain_areas: right jaw | left jaw
+joint_pain_onset_date: 20 years ago
+joint_arthritis_location: right tmj | left tmj
+joint_arthritis_type: osteochondroma | arthritis
+joint_arthritis_onset_date: 20 years ago
+joint_arthritis_diagnosed_date: 201

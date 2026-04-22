@@ -1,0 +1,54 @@
+patient_age: 44
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 4
+tinnitus_present: true
+earache_present: true
+sleep_apnea_diagnosed: false
+headache_frequency: 1 a week
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 3
+tmj_pain_rating: 3
+current_medications: Wellbutrin | Yasmin | Ambien
+sleep_disorder_type: somnolence
+sleep_disorder_severity: moderate
+sleep_disorder_diagnosed: true
+sleep_disorder_duration: 7 years
+sleep_disorder_onset: 7 years ago
+daytime_somnolence_present: true
+snoring_present: false
+sleep_apnea_diagnosed: false
+nocturnal_bruxism: true
+diurnal_bruxism: true
+airway_obstruction_present: true
+airway_obstruction_location: nasal | oropharyngeal
+airway_obstruction_side: left | right
+airway_obstruction_type: constricture
+airway_obstruction_diagnosed: true
+airway_obstruction_onset: 7 years ago
+airway_obstruction_duration: 7 years
+airway_obstruction_treatment: nasal scope
+muscle_symptoms_present: true
+muscle_pain_location: jaw | neck
+muscle_symptoms_type: pain | fatigue
+muscle_symptoms_onset: 7 years ago
+muscle_symptoms_duration: 7 years
+muscle_symptoms_treatment: none
+joint_clicking: left tmj | right tmj
+joint_pain_areas: jaw
+joint_pain_onset: 7 years ago
+joint_pain_duration: 7 years
+joint_arthritis_location: left tmj | right tmj
+joint_arthritis_type: bilateral
+joint_arthritis_onset: 7 years ago
+joint_arthritis_duration: 7 years
+joint_arthritis_diagnosed: true
+joint_arthritis_treatment: none
+joint_locking: left tmj | right tmj
+joint_locking_onset: 7 years ago
+joint_locking_duration: 7 years
+joint_locking_diagnosed: true
+joint_locking_treatment: none
+joint_pain_score: moderate
+joint_clicking_type: left tmj | right

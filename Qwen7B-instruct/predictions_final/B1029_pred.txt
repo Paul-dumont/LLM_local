@@ -1,0 +1,55 @@
+patient_age: 14
+maximum_opening: 49mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+sleep_apnea_diagnosed: false
+muscle_pain_score: 0
+headache_intensity: 0
+tmj_pain_rating: 0
+headache_location: frontal | temporal
+average_daily_pain_intensity: 0
+headache_intensity: 0
+pain_onset_date: 1999
+current_medications: ProGraf
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: jaw
+muscle_symptoms_present: true
+muscle_pain_location: mentalis
+joint_locking: false
+jaw_clicking: left tmj | right tmj
+jaw_swelling: masseter | temporalis
+jaw_clicking_side: left | right
+muscle_pain_onset_date: 1999
+jaw_crepitus: left tmj | right tmj
+jaw_locking: false
+jaw_clicking_frequency: occasional
+muscle_pain_intensity: 0
+jaw_crepitus_side: left | right
+muscle_pain_duration: long_term
+muscle_pain_type: cramping
+muscle_pain_areas: mentalis
+muscle_pain_aggravating_factors: stress
+muscle_pain_relieving_factors: rest
+muscle_pain_triggers: none
+muscle_pain_location: mentalis
+jaw_crepitus_aggravating_factors: stress
+jaw_crepitus_relieving_factors: rest
+jaw_crepitus_triggers: none
+jaw_crepitus_type: popping
+jaw_crepitus_location: left tmj | right tmj
+muscle_pain_type: cramping
+muscle_pain_location: mentalis
+muscle_pain_aggravating_factors: stress
+muscle_pain_relieving_factors: rest
+muscle_pain_triggers: none
+muscle_pain_duration: long_term
+muscle_pain_intensity: 0
+jaw_crepitus_aggravating_factors: stress
+jaw_crepitus_relieving_factors: rest
+jaw_crepitus_tr

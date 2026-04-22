@@ -1,0 +1,23 @@
+patient_age: 16
+maximum_opening: 46mm
+diet_score: 7
+disability_rating: 5
+jaw_function_score: 5
+pain_aggravating_factors: none
+pain_relieving_factors: none
+sleep_disorder_type: sleep apnea
+muscle_symptoms_present: true
+joint_pain_areas: tmj | shoulders
+muscle_pain_areas: masseters | posterior neck | retromandibular
+headache_location: frontal | temporal
+current_medications: methotrexate
+disc_displacement: left disc dislocation | right disc dislocation
+joint_space_status: joint space loss
+muscle_pain_score: moderate
+headache_intensity: moderate
+tmj_pain_rating: moderate
+pain_onset_date: 2 years ago
+pain_worsening_date: 6 months ago
+sleep_disorder_diagnosis: sleep apnea
+muscle_pain_location: masseters | shoulders | posterior neck | retromandibular
+joint_pain_areas: tmj

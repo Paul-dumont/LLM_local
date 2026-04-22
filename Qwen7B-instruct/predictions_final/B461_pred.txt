@@ -1,0 +1,29 @@
+patient_age: 58
+maximum_opening: 55mm
+diet_score: 0
+disability_rating: 3
+jaw_function_score: 3
+sleep_disorder_type: snoring | sleep apnea
+muscle_symptoms_present: true
+jaw_clicking: right tmj | left tmj
+joint_pain_score: 10
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 10
+headache_intensity: 10
+pain_onset_date: 12 years ago
+current_medications: tricor | alphagan
+disc_displacement: right disc dislocation | left disc dislocation
+joint_arthritis: right tmj | left tmj
+muscle_pain_location: right masseter | left masseter
+tmj_pain_rating: 10
+muscle_pain_score: 10
+earache_side: right
+tinnitus_present: true
+vertigo_present: true
+airway_obstruction_present: true
+sleep_apnea_diagnosed: false
+clenching_and_grinding: true
+joint_locking: true
+muscle_pain_location: right masseter | left masseter
+muscle_symptoms_present: true
+jaw_clicking: right tmj | left tmj

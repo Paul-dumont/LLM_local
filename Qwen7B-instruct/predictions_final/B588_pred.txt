@@ -1,0 +1,57 @@
+patient_age: 12
+maximum_opening: 54mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+sleep_apnea_diagnosed: false
+muscle_symptoms_present: false
+joint_pain_present: false
+tinnitus_present: false
+earache_present: false
+hearing_loss_present: false
+tmj_right_clicking: false
+tmj_left_clicking: false
+occluding_teeth: right: 1|1; left: 1|1
+pain_aggravating_factors: 
+current_medications: 
+disc_displacement: right: dislocated; left: dislocated
+disc_malalignment_present: true
+muscle_pain_location: medial pterygoid
+joint_pain_areas: left medial pterygoid | right medial pterygoid
+joint_pain_onset_date: 
+joint_pain_intensity: mild
+joint_arthritis_location: right tmj | left tmj
+joint_clicking: right tmj | left tmj
+joint_swelling: 
+joint_locking: 
+joint_grinding: 
+joint_crepitus: 
+joint_pain_onset_date: 
+joint_pain_onset_triggers: 
+joint_pain_aggravating_factors: 
+joint_pain_relieving_factors: 
+joint_history: 
+joint_locking_frequency: 
+joint_clicking_frequency: 
+joint_pain_type: 
+joint_pain_location: left tmj | right tmj
+muscle_pain_type: 
+muscle_pain_location: left medial pterygoid | right medial pterygoid
+muscle_symptoms_present: true
+muscle_pain_onset_date: 
+muscle_pain_onset_triggers: 
+muscle_pain_aggravating_factors: 
+muscle_pain_relieving_factors: 
+muscle_pain_intensity: mild
+muscle_pain_location: left medial pterygoid | right medial pterygoid
+joint_pain_location: left tmj | right tmj
+joint_arthritis_location: right tmj | left tmj
+joint_locking_frequency: 
+joint_clicking_frequency: 
+joint_crepitus: 
+joint_pain_type: 
+joint_pain_intensity: mild
+joint_pain_onset_date: 
+joint_pain_onset_triggers: 
+joint_pain_aggravating_factors: 
+joint_pain_re

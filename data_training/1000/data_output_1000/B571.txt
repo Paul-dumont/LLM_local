@@ -1,0 +1,46 @@
+1.patient_id: B571
+2.maximum_opening_without_pain: Unknown
+3.patient_age: 13
+4.maximum_opening: 53 mm 
+5.pain_relieving_factors: Unknown
+6.diet_score: 2
+7.pain_duration: Unknown
+8.disability_rating: 0
+9.sleep_apnea_diagnosed:Unknown
+10.jaw_function_score: 1
+11.tinnitus_present: True
+12.vertigo_present: False
+13.hearing_loss_present: False
+14.back_pain_present: True
+15.neck_pain_present: True
+16.pain_aggravating_factors: Unknown 
+17.physical_therapy_status: Unknown
+18.earache_present: False
+19.onset_triggers: Unknown
+20.adverse_reactions: Unknown
+21.fibromyalgia_present: Unknown
+22.jaw_locking: Unknown
+23.airway_obstruction_present: True
+24.depression_present: Unknown
+25.headache_frequency: 4x a week
+26.pain_frequency: Unknown
+27.muscle_symptoms_present: True
+28.jaw_clicking: True
+29.previous_medications: Unknown
+30.muscle_pain_score: Minimal  
+31.migraine_history: Unknown
+32.headache_location: Temporal | Top of the head
+33.current_appliance: Orthodontics
+34.average_daily_pain_intensity: 3
+35.headache_intensity: 4
+36.autoimmune_condition: Unknown
+37.pain_onset_date: 10 years of age  
+38.jaw_crepitus: Unknown
+39.tmj_pain_rating: 0
+40.sleep_disorder_type: Unknown
+41.current_medications: Advil | Tylenol 
+42.disc_displacement: Unknown
+43.muscle_pain_location: Styloid | Neck
+44.joint_arthritis_location: 
+45.appliance_history: Orthodontics
+46.joint_pain_areas: Back | Knees | Ankles

@@ -1,0 +1,39 @@
+patient_age: 40
+maximum_opening: 45mm
+diet_score: 7
+disability_rating: 3
+sleep_apnea_diagnosed: true
+snoring_present: true
+daytime_tiredness_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_present: true
+joint_pain_present: true
+headache_location: frontal | temporal
+headache_intensity: 4
+headache_frequency: daily
+current_medications: none
+pain_onset_date: 10 years ago
+tmj_pain_rating: 4
+headache_rating: 4
+neck_pain_rating: 4
+shoulder_pain_rating: 4
+earache_present: false
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+other_pain_areas: neck | shoulders
+sleep_disorder_type: sleep apnea
+sleep_disorder_duration: 10 years
+sleep_disorder_diagnosed: true
+sleep_disorder_diagnosing_physician: Dr. Bill Schmohl
+sleep_disorder_diagnosing_date: 10/15/2003
+sleep_disorder_diagnosing_institution: 6 Loch Lomond Drive, San Rafael, CA 94901-2507
+sleep_disorder_diagnosing_referred_by: Dr. Bill Schmohl
+sleep_disorder_diagnosing_referred_date: 10/15/2003
+sleep_disorder_diagnosing_referred_institution: 6 Loch Lomond Drive, San Rafael, CA 94901-2507
+sleep_disorder_diagnosing_referred_to: Dr. Bill Schmohl
+sleep_disorder_diagnosing_referred_to_institution: 6 Loch Lomond Drive, San Rafael, CA 94901-2507
+sleep_disorder_diagnosing_referred_to_date: 10/15/2003
+sleep_disorder_diagnosing_referred_to_referred_date: 10/15/2003
+sleep_disorder_diagnosing_referred_to_referred_institution: 6 Loch Lomond Drive, San Rafael, CA 94901-2507
+sleep_disorder_di

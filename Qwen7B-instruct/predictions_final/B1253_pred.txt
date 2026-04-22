@@ -1,0 +1,21 @@
+patient_age: 65
+diet_score: 6
+disability_rating: 5
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: true
+earache_present: true
+muscle_symptoms_present: true
+jaw_clicking: right tmj | left tmj
+headache_location: frontal | temporal
+average_daily_pain_intensity: 10
+headache_intensity: 7
+tmj_pain_rating: 10
+current_medications: premarin | vicodin | keflex
+sleep_disorder_type: clenching
+sleep_disorder_severity: moderate
+joint_pain_areas: hip | knee
+allodynia_present: true
+diet_restriction_reason: tmj pain
+pain_aggravating_factors: stress
+previous_treatment_outcome: unsuccessful

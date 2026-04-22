@@ -1,0 +1,18 @@
+patient_age: 64
+diet_score: 4
+disability_rating: 3
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+headache_frequency: daily
+muscle_pain_score: moderate
+headache_location: left temporal | frontal
+average_daily_pain_intensity: 5
+headache_intensity: 10
+tmj_pain_rating: 5
+current_medications: Cymbalta | Actonel | Nexium | Senna | Fish oil | Calcium | Alprazolam | Myochrysine | Refresh Celluvisc
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_present: true
+joint_locking_present: true
+muscle_pain_location: temporalis | medial pterygoid

@@ -1,0 +1,26 @@
+patient_age: 22
+diet_score: 2
+disability_rating: 6
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: daily
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 2
+headache_intensity: 8
+tmj_pain_rating: 4
+current_medications: klonopin | doxycycline
+pain_aggravating_factors: singing
+sleep_disorder_type: sleep apnea
+disc_displacement: left tmj | right tmj
+muscle_pain_location: masseter | shoulders
+joint_arthritis_location: left tmj | right tmj
+sleep_disorder_diagnosis: sleep apnea
+headache_location: frontal | temporal | posterior head
+tmj_pain_location: left tmj | right tmj
+airway_obstruction_location: nasal | oropharyngeal

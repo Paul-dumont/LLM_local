@@ -1,0 +1,24 @@
+patient_age: 17
+maximum_opening: 50mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+noises_in_joints: false
+headache_location: frontal | temporal
+average_daily_pain_intensity: 5
+headache_intensity: 7
+sleep_disorder_type: sleep_apnea
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis: true
+muscle_symptoms_present: false
+tmj_pain_rating: 0
+muscle_pain_location: neck | shoulders
+appliance_history: braces
+joint_pain_areas: jaws
+pain_onset_date: 4-5 years ago
+current_medications: none
+sleep_disorder_diagnosis: sleep_apnea

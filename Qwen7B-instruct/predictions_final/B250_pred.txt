@@ -1,0 +1,23 @@
+patient_age: 12
+maximum_opening: 50mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+muscle_pain_score: moderate
+headache_location: tmj | left temporal | left masseter | right styloid | right SCM
+average_daily_pain_intensity: 0
+headache_intensity: 0
+headache_frequency: 0
+tmj_pain_rating: 0
+current_medications: singulair | allegra | nasacort
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis: left tmj | right tmj
+joint_clicking: left tmj | right tmj
+muscle_pain_location: left masseter | right styloid | right scm | left temporal | left shoulder
+sleep_disorder_type: nocturnal clenching | bruxism
+muscle_pain_areas: left masseter | right styloid | right scm | left temporal
+joint_pain_areas: left tmj | right tmj

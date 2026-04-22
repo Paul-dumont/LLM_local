@@ -1,0 +1,19 @@
+patient_age: 25
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: false
+earache_present: true
+headache_frequency: 2 a week
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 5
+tmj_pain_rating: 5
+current_medications: Cylert | Estrostep | Tylenol
+pain_aggravating_factors: tooth positioner
+sleep_disorder_type: daytime tiredness
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: retainers | tooth positioner

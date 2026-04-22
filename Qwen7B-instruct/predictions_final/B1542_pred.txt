@@ -1,0 +1,26 @@
+patient_age: 23
+maximum_opening: 33mm
+diet_score: 7
+disability_rating: 3
+pain_location: lower lip | tongue | chin
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+joint_pain_score: moderate
+sleep_disorder_type: snoring
+sleep_disorder_severity: mild
+sleep_apnea_diagnosed: true
+tmj_pain_rating: moderate
+headache_intensity: mild
+earache_present: false
+jaw_locking: true
+jaw_clicking: left tmj | right tmj
+jaw_swelling: left cheek | right cheek
+neck_pain_present: true
+neck_pain_intensity: mild
+shoulder_pain_present: true
+shoulder_pain_intensity: mild
+jaw_symptoms_onset: surgery
+jaw_surgery_date: 12/18/2007
+current_medications: ibuprofen
+joint_pain_areas: left tmj | right tmj
+muscle_pain_areas: masseter | temporalis | medial pterygoid | styloid | shoulder | neck

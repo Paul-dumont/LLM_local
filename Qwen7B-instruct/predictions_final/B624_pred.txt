@@ -1,0 +1,20 @@
+patient_age: 33
+maximum_opening: 38mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: high
+headache_location: frontal | temporal
+average_daily_pain_intensity: 6
+headache_intensity: 6
+tmj_pain_rating: 5
+current_medications: none
+sleep_disorder_type: sleep_apnea
+joint_arthritis_location: left tmj | right tmj
+muscle_pain_location: masseter | retromandibular | shoulders

@@ -1,0 +1,44 @@
+patient_age: 14
+maximum_opening: 47mm
+excursive_movement_in_each_direction: 9mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adhd_present: true
+airway_obstruction_present: true
+snoring_present: false
+daytime_sleepiness_present: false
+sleep_apnea_diagnosed: false
+muscle_pain_score: mild
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: Focalin 15mg
+sleep_disorder_type: sleep apnea
+crowding_present: true
+joint_clicking_or_popping: true
+muscle_pain_location: masseter 
+jaw_clicking: left tmj | right tmj
+joint_pain_areas: jaw
+joint_pain_score: 1
+jaw_locking: false
+diet_score: 0
+disability_rating: 0
+uvula_normal: true
+soft_palate_turbinate_relationship: normal
+tonsils_present: true
+tonsil_size: moderate
+adenoids_present: true
+adenoid_size: moderate
+nasal_airway_obstruction_present: true
+sinuses_clear: true
+anterior_retrusion_score: 1
+vertical_overbite: 1mm
+vertical_overjet: 0mm
+occlusal_plane_angle: high
+occlusal_relationship: end-on
+tooth_size_discrepancy: 1-2mm
+crossbite_present: true
+occlusal_balance: good
+muscle_symptoms_present: true
+muscle_pain_score: mild

@@ -1,0 +1,21 @@
+patient_age: 29
+diet_score: 5
+disability_rating: 2
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: temporal
+average_daily_pain_intensity: 3
+headache_intensity: 5
+tmj_pain_rating: 7
+pain_onset_date: 2002
+current_medications: celebrex | lutera | valtrex | multivitamin
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+airway_obstruction_location: oropharynx
+muscle_pain_location: masseter | temporalis | shoulders

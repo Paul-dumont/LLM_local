@@ -1,0 +1,33 @@
+patient_age: 31
+diet_score: 0
+disability_rating: 0
+maximum_opening: 45mm
+jaw_function_score: 0
+muscle_symptoms_present: false
+tmj_pain_rating: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+depression_diagnosed: true
+sleep_apnea_diagnosed: false
+snoring_present: false
+daytime_tiredness_present: false
+clenching_present: false
+bruxism_present: false
+joint_pain_areas: jaw
+muscle_pain_areas: shoulder | neck
+current_medications: birth control pills
+joint_pain_score: 0
+muscle_pain_score: 0
+headache_location: frontal | temporal | posterior head
+headache_intensity: 0
+headache_frequency: 0
+pain_onset_date: 03/06/2008
+pain_aggravating_factors: none
+current_pain_level: 0
+diagnosis: ap microgenia | ap mandibular deficiency | ap maxillary
+deficiency | mild occlusal plane angle | class ii end-on occlusion | 
+impacted maxillary third molars x2 | rule out tmj problems
+surgery_recommended: bilateral tmj surgery | multiple maxillary
+osteotomies | bilateral mandibular ramus osteotomies | augmentation
+genioplasty | surgical removal of impacted maxillary third molars x2

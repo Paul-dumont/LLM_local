@@ -1,0 +1,62 @@
+maximum_opening_without_pain: unknown
+patient_age: 16
+maximum_opening: unknown
+pain_relieving_factors: unknown
+diet_score: 4
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching | grinding
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: 2
+migraine_history: unknown
+headache_location: frontal | temporal | unspecified
+current_appliance: unknown
+average_daily_pain_intensity: 2
+headache_intensity: 5
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: 0
+sleep_disorder_type: unknown
+current_medications: klonopin
+disc_displacement: unknown
+muscle_pain_location: neck | shoulders
+joint_arthritis_location: unknown
+appliance_history: braces
+joint_pain_areas: jaw
+joint_swelling: unknown
+bone_growth_abnormality: condylar_hyperplasia
+other_joint_problems: unknown
+joint_clicking: unknown
+joint_locking: unknown
+joint_swelling_present: unknown
+muscle_pain: neck | shoulders
+joint_pain: jaw
+other_pain_relieving_factors: unknown
+diet_score_change: unknown
+pain_disabling_factor: jaw | muscle
+sleep_disorder_present: unknown
+headache_location_other: temporal | unspecified
+joint_crepitus: unknown
+muscle_symptoms: neck | shoulder
+joint_arthritis_type: condylar_hyperplasia
+joint_pain_frequency: unknown

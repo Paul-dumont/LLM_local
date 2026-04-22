@@ -1,0 +1,21 @@
+patient_age: 12
+maximum_opening: 48mm
+diet_score: 8
+disability_rating: 2
+sleep_disorder_type: snoring | mouth breathing
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+joint_arthritis_location: left tmj | right tmj
+muscle_pain_location: temporalis | masseter | styloid | SCM | shoulder | medial pterygoid
+joint_pain_areas: left tmj | right tmj
+joint_locking: true
+joint_pain_onset: idiopathic
+disc_displacement: left tmj | right tmj
+disc_displacement_status: left tmj | right tmj
+joint_pain_score: mild
+tmj_pain_rating: 2
+airway_obstruction_location: nose | oropharynx
+airway_obstruction_type: nasal airway obstruction | luminal valve constricture | adenoid tissue | hypertrophied turbinates
+muscle_pain_onset: idiopathic
+joint_arthritis_type: idiopathic condylar resorption
+muscle_pain_areas: mentalis | mental | masseter | temporalis | styloid | SCM | shoulder

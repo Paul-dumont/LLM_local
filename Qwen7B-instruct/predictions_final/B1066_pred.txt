@@ -1,0 +1,22 @@
+patient_age: 45
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 5
+sleep_apnea_diagnosed: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_frequency: daily
+headache_location: posterior | temporal
+average_daily_pain_intensity: 3
+headache_intensity: 3
+pain_onset_date: 20 years ago
+tmj_pain_rating: 4
+current_medications: ibuprofen | Mobic
+sleep_disorder_type: snoring | daytime somnolence
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+muscle_pain_location: right masseter | right styloid | right shoulder | left tmj | left neck | left shoulder | left medial pterygoid | right tmj | right neck | right temporalis | right styloid | right SCM
+joint_pain_location: wrists | elbows | shoulders | back | feet
+tmj_pain_present: true
+jaw_clicking: left tmj | right tmj
+joint_pain_onset: 20 years ago

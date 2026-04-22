@@ -1,0 +1,15 @@
+patient_age: 27
+maximum_opening: 52mm
+diet_score: 1
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: true
+headache_frequency: 1 a week
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 1
+tmj_pain_rating: 4
+pain_onset_date: 10 years ago
+current_medications: ibuprofen
+sleep_disorder_type: sleep apnea
+sleep_disorder_duration: 10 years

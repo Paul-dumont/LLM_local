@@ -1,0 +1,25 @@
+patient_age: 31
+maximum_opening: 3mm
+diet_score: 1
+disability_rating: 0
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+airway_obstruction_present: true
+snoring: true
+daytime_somnolence: true
+apnea: false
+headache_location: temple | behind the eyes
+average_daily_pain_intensity: 1
+headache_intensity: 3
+tmj_pain_rating: 3
+current_medications: Wellbutrin XL | Cipralex
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_score: moderate
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: jaw
+joint_clicking: left tmj | right tmj
+joint_locking: left tmj | right tmj
+sleep_apnea_diagnosed: true
+sleep_disorder_type: sleep apnea

@@ -1,0 +1,29 @@
+patient_age: 29
+diet_score: 4
+disability_rating: 3
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+joint_pain_score: mild
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 0
+headache_intensity: 2
+tmj_pain_rating: 2
+pain_onset_date: 15 years old
+current_medications: propecia | allegra | nasacort
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_score: left shoulder | right shoulder
+appliance_history: palatal expander
+sleep_apnea_diagnosed: false
+snoring_severity: moderate
+daytime_sleepiness_severity: mild
+clenching_present: false
+bruxism_present: false
+airway_obstruction_areas: nasal valve
+muscle_pain_location: shoulders
+joint_locking: left tmj | right tmj
+appliance_history: palatal expander

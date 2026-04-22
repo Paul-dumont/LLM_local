@@ -1,0 +1,57 @@
+patient_age: 16
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+snoring_present: false
+sleep_apnea_diagnosed: false
+daytime_tiredness_present: true
+headache_intensity: 0
+tmj_pain_rating: 0
+muscle_pain_score: 0
+jaw_clicking: left tmj | right tmj
+joint_pain_areas: jaw
+current_medications: SMZ/TMPDS 800/160
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+muscle_pain_location: none
+joint_pain_areas: jaw
+appliance_history: maxillary expander | headgear
+previous_surgery: none
+ankylosed_joints: none
+joint_locking: false
+jaw_clicking: left tmj | right tmj
+jaw_swelling: none
+jaw_clicking: left tmj | right tmj
+jaw_locking: none
+jaw_stiffness: none
+jaw_popping: left tmj | right tmj
+jaw_locking: none
+jaw_clicking: left tmj | right tmj
+jaw_crepitus: none
+jaw_locking: none
+jaw_popping: left tmj | right tmj
+jaw_crepitus: none
+jaw_swelling: none
+jaw_stiffness: none
+muscle_pain_areas: none
+pain_onset_date: none
+muscle_pain_score: 0
+muscle_pain_areas: none
+jaw_crepitus: left tmj | right tmj
+jaw_clicking: left tmj | right tmj
+jaw_locking: none
+jaw_popping: left tmj | right tmj
+muscle_pain_score: 0
+muscle_pain_areas: none
+jaw_crepitus: left tmj | right tmj
+jaw_clicking: left tmj | right tmj
+jaw_locking: none
+jaw_popping: left tmj | right tmj
+muscle_pain_areas: none
+muscle_pain_score: 0
+jaw_crepitus: left tmj | right

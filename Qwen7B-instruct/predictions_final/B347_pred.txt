@@ -1,0 +1,26 @@
+patient_age: 23
+diet_score: 3
+disability_rating: 0
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+joint_pain_score: 4
+headache_location: behind the eyes
+muscle_pain_location: jaw
+average_daily_pain_intensity: 2
+headache_intensity: 5
+pain_onset_date: 19 years old
+tmj_pain_rating: 4
+current_medications: LoEstrin | Concerta | Aleve | Multivitamins
+sleep_disorder_type: Sleep apnea
+disc_displacement: Left disc dislocation | Right disc dislocation
+joint_arthritis: Left TMJ | Right TMJ
+muscle_pain_location: Neck | Shoulder
+appliance_history: Retainer
+splint_history: Splint
+occlusal_appliance_history: Occlusal guard
+sleep_apnea_diagnosed: True

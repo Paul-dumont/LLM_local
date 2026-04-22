@@ -1,0 +1,24 @@
+patient_age: 20
+diet_score: 4
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+onset_triggers: motor vehicle accident
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 6
+headache_intensity: 6
+tmj_pain_rating: 8
+current_medications: ibuprofen | naproxen | robaxin
+sleep_disorder_type: snoring | daytime somnolence
+airway_obstruction_present: true
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+muscle_pain_location: left masseter | right styloid
+jaw_clicking_side: left tmj | right tmj
+appliance_history: braces

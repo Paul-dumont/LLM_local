@@ -1,0 +1,20 @@
+patient_age: 23
+maximum_opening: 28mm
+diet_score: 4
+disability_rating: 3
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: bilateral
+average_daily_pain_intensity: 5
+headache_intensity: 8
+pain_onset_date: 2 years ago
+tmj_pain_rating: 7
+current_medications: Wellbutrin | Concerta
+joint_arthritis_location: left tmj | right tmj
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | temporalis | medial pterygoid | right styloid | right SCM | right shoulder | right hip

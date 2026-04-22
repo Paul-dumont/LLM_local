@@ -1,0 +1,37 @@
+patient_age: 15
+maximum_opening: 40mm
+diet_score: 0
+disability_rating: 2
+jaw_function_score: 0
+muscle_symptoms_present: true
+joint_pain_present: true
+muscle_pain_score: 2
+jaw_clicking: left tmj | right tmj
+jaw_popping: left tmj | right tmj
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+sleep_apnea_diagnosed: false
+snoring_severity: mild
+sleep_disorder_type: sleep apnea
+daytime_tiredness_present: true
+adverse_aesthetic_effects: true
+adverse_functional_effects: true
+adverse psychological_effects: true
+current_medications: enbrel | motrin
+joint_arthritis_location: left tmj | right tmj
+muscle_pain_location: masseter | retromandibular
+joint_arthritis_type: juvenile rheumatoid arthritis
+joint_clicking: left tmj | right tmj
+joint_pain_areas: masseter | retromandibular
+joint_locking: left tmj | right tmj
+maximum_opening_without_discomfort: 32mm
+occlusal_relationship: class ii
+joint_pain_duration: 7 years
+joint_pain_onset: 7 years old
+joint_arthritis_onset: 7 years old
+current_joint_pain_intensity: 2
+average_daily_pain_intensity: 2
+average_daily_disability_rating: 2
+maximum_pain_intensity: 4

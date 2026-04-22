@@ -1,0 +1,23 @@
+patient_age: 44
+maximum_opening: 29mm
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+neck_pain_present: true
+shoulder_pain_present: true
+knee_pain_present: true
+back_pain_present: true
+tmj_pain_rating: 7
+headache_location: left
+average_daily_pain_intensity: 6
+headache_intensity: 3
+pain_onset_date: 3 weeks ago
+current_medications: aleve
+sleep_disorder_type: clenching | bruxism
+muscle_symptoms_present: true
+joint_symptoms_present: true
+muscle_pain_location: left shoulder | left knee | mid back

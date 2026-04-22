@@ -1,0 +1,43 @@
+patient_age: 34
+diet_score: 2
+disability_rating: 2
+sleep_apnea_diagnosed: false
+tmj_pain_rating: 0
+muscle_pain_score: 0
+headache_intensity: 0
+jaw_locking: false
+jaw_clicking: false
+earache_present: false
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+facial_swelling_present: true
+neck_pain_present: false
+shoulder_pain_present: false
+arm_pain_present: false
+hand_numbness_present: false
+other_pain_areas: tongue
+current_medications: none
+joint_pain_areas: right tongue
+pain_onset_date: 12/01/2006
+pain_aggravating_factors: talking
+pain_reducing_factors: none
+sleep_disorder_type: sleep apnea
+sleep_disorder_rating: 2
+sleep_disorder_duration: 1 year
+sleep_disorder_treatment: none
+sleep_disorder_diagnosed: false
+sleep_disorder_diagnosing_physician: dr. david kang
+sleep_disorder_diagnosing_date: 03/22/2007
+sleep_disorder_diagnosing_institution: 3200 s. lancaster rd., ste. 760, dallas, tx 75216
+sleep_disorder_diagnosing_specialty: oral surgeon
+sleep_disorder_diagnosing_notes: 
+sleep_disorder_diagnosing_diagnosis: sleep apnea
+sleep_disorder_diagnosing_diagnosis_notes: 
+sleep_disorder_diagnosing_diagnosis_date: 03/22/2007
+sleep_disorder_diagnosing_diagnosis_institution: 3200 s. lancaster rd., ste. 760, dallas, tx 75216
+sleep_disorder_diagnosing_diagnosis_specialty: oral surgeon
+sleep_disorder_diagnosing_diagnosis_treatment: none
+sleep_disorder_diagnosing_diagnosis_treatment_date: 03/22/2007
+sleep_disorder_diagnosing_diagnosis_treatment_institution: 3200 s. lancaster rd., ste. 760, dallas, tx 75216
+sleep

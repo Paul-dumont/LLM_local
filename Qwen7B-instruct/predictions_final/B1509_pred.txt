@@ -1,0 +1,22 @@
+patient_age: 15
+diet_score: 5
+disability_rating: 3
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+earache_present: false
+adverse_reactions: nitinol
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 6
+headache_intensity: 5
+tmj_pain_rating: 6
+maximum_muscle_pain_intensity: 9
+current_medications: allegra | inhaler | zithromax | tylenol | nitinol
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis: bilateral tmj arthritis
+muscle_pain_location: masseter | tmj
+pain_aggravating_factors: environmental allergies
+sleep_disorder_type: nocturnal clenching | bruxism

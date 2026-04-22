@@ -1,0 +1,23 @@
+patient_age: 14
+maximum_opening: 53mm
+diet_score: 1
+disability_rating: 3
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: 2 a week
+muscle_pain_score: 2
+headache_location: temple
+average_daily_pain_intensity: 2
+headache_intensity: 4
+tmj_pain_rating: 0
+sleep_disorder_type: snoring
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+muscle_pain_location: masseter | temporalis | medial pterygoid | lateral pterygoid
+joint_pain_areas: jaw
+jaw_clicking: left tmj | right tmj
+joint_pain_onset: 11 years ago

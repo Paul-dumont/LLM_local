@@ -1,0 +1,25 @@
+patient_age: 44
+maximum_opening: 58mm
+diet_score: 7
+disability_rating: 1
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+headache_frequency: daily
+muscle_pain_score: moderate
+headache_location: temporal
+average_daily_pain_intensity: 6
+headache_intensity: 6
+tmj_pain_rating: 6
+sleep_disorder_type: snoring
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis: left tmj | right tmj
+joint_pain_score: moderate
+muscle_pain_location: right temporalis | right masseter | left tmj
+appliance_history: braces
+current_medications: Advil
+joint_clicking_and_popping: left tmj | right tmj
+muscle_pain_location: right temporalis | right masseter

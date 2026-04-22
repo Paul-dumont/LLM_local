@@ -1,0 +1,37 @@
+patient_age: 14
+maximum_opening: 50mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+snoring_present: false
+sleep_apnea_diagnosed: false
+daytime_tiredness_present: true
+clenching_present: true
+muscle_symptoms_present: false
+joint_pain_score: 0
+headache_intensity: 0
+tmj_pain_rating: 0
+muscle_pain_location: none
+headache_location: none
+headache_frequency: none
+current_medications: none
+joint_arthritis_location: left tmj | right tmj
+muscle_pain_score: 0
+sleep_disorder_type: sleep apnea
+muscle_pain_location: none
+joint_pain_location: left tmj | right tmj
+other_joint_pain_areas: right knee
+sleep_disorder_diagnosis: mild daytime somnolence
+sleep_disorder_diagnosed: true
+sleep_apnea_diagnosed: false
+muscle_pain_diagnoses: none
+joint_pain_diagnoses: bilateral tmj juvenile rheumatoid arthritis
+headache_location: none
+headache_type: none
+headache_frequency: none
+current_medications: none

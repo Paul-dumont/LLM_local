@@ -1,0 +1,26 @@
+patient_age: 31
+maximum_opening: 51mm
+diet_score: 3
+disability_rating: 8
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: daily
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 8
+headache_intensity: 8
+tmj_pain_rating: 8
+pain_onset_date: 22 years old
+current_medications: Skelaxin | amitriptyline | Valium | Botox
+sleep_disorder_type: clenching
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis: left tmj | right tmj
+joint_pain_score: moderate
+muscle_pain_location: jaw | lip | cheek
+muscle_pain_score: moderate
+joint_locking: true
+jaw_clicking: left tmj | right tmj
+jaw_clicking_type: closing | opening

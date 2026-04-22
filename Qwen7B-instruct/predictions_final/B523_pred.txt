@@ -1,0 +1,22 @@
+patient_age: 31
+maximum_opening: 40mm
+diet_score: 6
+disability_rating: 10
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+knee_problems_present: true
+earache_present: true
+jaw_clicking: right tmj | left tmj
+muscle_pain_score: moderate
+headache_location: right frontal | right temporal
+average_daily_pain_intensity: 7
+headache_intensity: 7
+pain_onset_date: 1 year ago
+tmj_pain_rating: 9
+current_medications: doxycycline
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_present: true
+joint_pain_areas: right masseter | right retromandibular area | right tmj | left tmj
+appliance_history: braces

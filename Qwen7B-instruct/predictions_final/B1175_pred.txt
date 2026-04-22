@@ -1,0 +1,46 @@
+patient_age: 46
+maximum_opening: 27mm
+diet_score: 8
+disability_rating: 4
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+neck_pain_present: false
+shoulder_pain_present: false
+arm_pain_present: false
+hand_num_disorder_present: false
+jaw_clicking: right tmj | left tmj
+jaw_popping: right tmj | left tmj
+muscle_pain_score: moderate
+tmj_pain_rating: 6
+headache_intensity: 0
+average_daily_pain_intensity: 5
+current_medications: ibuprofen | skelaxin
+sleep_disorder_type: sleep apnea
+sleep_disorder_severity: moderate
+sleep_disorder_diagnosed: true
+sleep_disorder_treatment: uuppp
+sleep_disorder_duration: 3 years old
+sleep_disorder_history: true
+sleep_disorder_diagnosed_date: 3 years old
+sleep_disorder_diagnosed_doctor: oral surgeon
+sleep_disorder_diagnosed_how: clinical evaluation
+sleep_disorder_diagnosed_test: polysomnography
+sleep_disorder_diagnosed_test_date: 3 years old
+sleep_disorder_diagnosed_test_doctor: oral surgeon
+sleep_disorder_diagnosed_test_location: hospital
+sleep_disorder_diagnosed_test_type: polysomnography
+sleep_disorder_diagnosed_test_result: normal
+sleep_disorder_diagnosed_test_recommended_treatment: surgery
+sleep_disorder_diagnosed_test_recommended_treatment_date: 3 years old
+sleep_disorder_diagnosed_test_recommended_treatment_doctor: oral surgeon
+sleep_disorder_diagnosed_test_recommended_treatment_location: hospital
+sleep_disorder_diagnosed_test_recommended_treatment_type: surgery
+sleep_disorder_diagnosed_test_recommended_treatment_result: successful
+sleep_disorder_diagnosed_test_recommended_treatment_date: 3 years old
+sleep_disorder_diagnosed_test_recommended_treatment_doctor: oral surgeon
+sleep_disorder_diagnosed_test_recommended_treatment_location: hospital
+sleep_disorder_diagnosed_test_recommended_treatment_type: surgery
+sleep_disorder_diagnosed_test_recommended_treatment_result:

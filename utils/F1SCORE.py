@@ -12,7 +12,6 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 
 # Define the 46 criteria in the exact display order requested by the user
 CRITERIA = [
-    "patient_id",
     "patient_age",
     "headache_intensity",
     "tmj_pain_rating",
@@ -182,9 +181,8 @@ if __name__ == "__main__":
     # manual_folder = str(REPO_ROOT / 'data_training' / 'data_output_clean_46')
 
     # llm_folder is derived from the top-level `model` and `model_folder` variables
-    # Use the predictions_clean_46 folder for Qwen7B
-    llm_folder = str(REPO_ROOT / model_folder / "save_data_before_reduce_features" / "predict_Qwen7B_eval_harmonized")
-    llm_folder = str(REPO_ROOT / model_folder / "predictions_clean_46")
+    # Use the predictions_eduardo folder for Qwen7B
+    llm_folder = str(REPO_ROOT / model_folder / "predictions_eduardo")
     if not os.path.exists(manual_folder) or not os.path.exists(llm_folder):
         print("Error: Folders not found.")
     else:

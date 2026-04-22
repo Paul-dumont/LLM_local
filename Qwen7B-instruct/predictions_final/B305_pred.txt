@@ -1,0 +1,21 @@
+patient_age: 21
+diet_score: 5
+disability_rating: 1
+maximum_opening: 54mm
+excursion_movement_in_each_direction: 9mm
+joint_pain_present: true
+muscle_pain_present: true
+jaw_clicking: left tmj | right tmj
+earache_present: true
+vertigo_present: true
+tinnitus_present: false
+hearing_loss_present: false
+neck_pain_present: false
+shoulder_pain_present: true
+back_pain_present: false
+tmj_functioning_disorder: idiopathic condylar resorption | articular disc dislocation | articular disc dislocation with reduction | articular disc dislocation without reduction
+sleep_apnea_diagnosed: false
+snoring_present: false
+daytime_tiredness: false
+sleep_disorder_type: sleep apnea
+current_medications: Ortho-TriCyclen

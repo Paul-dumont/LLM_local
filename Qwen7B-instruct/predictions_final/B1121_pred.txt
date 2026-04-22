@@ -1,0 +1,26 @@
+patient_age: 45
+maximum_opening: 36mm
+diet_score: 6
+disability_rating: 7
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+sleep_apnea_diagnosed: true
+snoring_severity: severe
+daytime_tiredness_present: true
+sleep_disorder_present: true
+headache_frequency: 3 a week
+muscle_pain_score: moderate
+headache_location: temporal | frontal | top of the head
+average_daily_pain_intensity: 4
+headache_intensity: 6
+tmj_pain_rating: 6
+pain_onset_date: 1982
+current_medications: none
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: left tmj | right tmj | left masseter | right styloid | right temporalis | right shoulder | left knee
+muscle_pain_areas: left tmj | right tmj | right styloid | right temporalis | right shoulder | left knee

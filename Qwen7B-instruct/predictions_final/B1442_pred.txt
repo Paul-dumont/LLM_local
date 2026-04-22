@@ -1,0 +1,30 @@
+patient_age: 58
+maximum_opening: 5mm
+diet_score: 8
+disability_rating: 6
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+knee_pain_present: true
+ankle_pain_present: true
+neck_pain_present: true
+back_pain_present: true
+snoring_present: true
+daytime_somnolence_present: true
+sleep_apnea_diagnosed: true
+airway_obstruction_present: true
+headache_frequency: daily
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 5
+headache_intensity: 4
+tmj_pain_rating: 5
+sleep_disorder_type: sleep apnea
+current_medications: klonopin
+sleep_disorder_diagnosis: sleep apnea
+muscle_pain_location: jaw | neck | back
+joint_arthritis_location: tmj | mandible | maxilla
+pain_onset_date: 1990
+headache_location: frontal | temporal | posterior head
+muscle_pain_location: jaw | neck | back

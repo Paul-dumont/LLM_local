@@ -1,0 +1,30 @@
+patient_age: 43
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: none
+airway_obstruction_present: true
+muscle_symptoms_present: false
+neck_pain_present: false
+back_pain_present: true
+headache_location: none
+average_daily_pain_intensity: 4
+headache_intensity: 0
+tmj_pain_rating: 4
+sleep_disorder_type: snoring | sleep_apnea
+current_medications: none
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: jaw
+muscle_pain_areas: none
+other_pain_areas: none
+sleep_disorder_duration: long_term
+sleep_disorder_type: snoring | sleep_apnea
+sleep_disorder_diagnosis: none
+muscle_pain_diagnosis: none
+joint_pain_diagnosis: bilateral tmj arthritis | bilateral tmj articular disc dislocation 
+sleep_disorder_diagnosis: none

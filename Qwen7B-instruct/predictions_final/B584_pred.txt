@@ -1,0 +1,47 @@
+patient_age: 17
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: none
+muscle_symptoms_present: false
+muscle_pain_score: 0
+headache_intensity: 0
+tmj_pain_rating: 0
+airway_obstruction_present: true
+sleep_disorder_type: sleep_apnea
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: jaw
+current_medications: Advair
+joint_clicking: left tmj | right tmj
+joint_popping: left tmj | right tmj
+joint_locking: left tmj | right tmj
+joint_swelling: left tmj | right tmj
+joint_pain_onset: 10 years ago
+joint_pain_worsening: 3 years ago
+joint_pain_triggers: trauma
+joint_pain_areas: jaw
+joint_pain_diagnosis: mandibular condylar hyperplasia
+joint_arthritis_diagnosis: bilateral mandibular condylar hyperplasia
+joint_clicking: left tmj | right tmj
+joint_popping: left tmj | right tmj
+joint_locking: left tmj | right tmj
+joint_swelling: left tmj | right tmj
+joint_arthritis_location: left tmj | right tmj
+joint_arthritis_diagnosis: bilateral mandibular condylar hyperplasia
+airway_obstruction_location: nose
+airway_obstruction_diagnosis: bilateral nasal turbinate hyperplasia
+sleep_disorder_type: sleep_apnea
+sleep_disorder_diagnosis: sleep apnea
+muscle_pain_location: jaw
+muscle_symptoms_diagnosis: mandibular prognathism
+muscle_symptoms_diagnosis: maxillary AP and transverse hypoplasia
+muscle_symptoms_diagnosis: Class III occlusion
+muscle_symptoms_diagnosis: anterior and bilateral posterior cross bites
+muscle_symptoms_diagnosis: anterior open bite
+muscle_symptoms_diagnosis: over angulation of the maxillary incisors
+muscle_symptoms_diagnosis: decreased angulation of the lower incisors
+muscle_symptoms_diagnosis: missing maxillary left central inc

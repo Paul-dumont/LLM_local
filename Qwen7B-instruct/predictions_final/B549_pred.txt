@@ -1,0 +1,23 @@
+patient_age: 16
+maximum_opening: 38mm
+diet_score: 4
+disability_rating: 0
+jaw_function_score: 7
+tinnitus_present: false
+headache_intensity: 0
+earache_present: false
+hearing_loss_present: false
+tmj_pain_rating: 8
+muscle_pain_score: 8
+sleep_apnea_diagnosed: false
+snoring_severity: 0
+daytime_tiredness_rating: 0
+airway_obstruction_present: false
+joint_arthritis_location: tmj | hip | knee | ankle | elbow | wrist | fingers | toes | neck | shoulder | sacroiliac | spine
+current_medications: enbrel
+joint_pain_areas: tmj | hip | knee | ankle | elbow | wrist | fingers | toes | neck | shoulder | sacroiliac | spine
+sleep_disorder_type: sleep_apnea
+jaw_clicking: tmj
+joint_pain_areas: tmj
+appliance_history: braces
+muscle_pain_location: shoulders | neck

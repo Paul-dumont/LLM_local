@@ -1,0 +1,53 @@
+maximum_opening_without_pain: 19mm
+patient_age: 44
+maximum_opening: 32mm
+pain_relieving_factors: splint
+diet_score: 5
+pain_duration: unknown
+disability_rating: 7
+sleep_apnea_diagnosed: true
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: true
+knee_pain_present: true
+jaw_locking: false
+airway_obstruction_present: true
+depression_present: false
+headache_frequency: daily
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+previous_medications: unknown
+muscle_pain_score: high
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: 7
+headache_intensity: 7
+autoimmune_condition: unknown
+pain_aggravating_factors: clenching | bruxism
+jaw_crepitus: left tmj
+tmj_pain_rating: 8
+sleep_disorder_type: sleep_apnea | sleep_disorder
+current_medications: cpap machine
+disc_displacement: unknown
+muscle_pain_location: temporalis | masseter | left scm | left posterior neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint therapy
+joint_pain_areas: left jaw
+joint_locking: false
+myofascial_pain_areas: left jaw
+joint_grinding: left tmj
+joint_swelling: unknown
+jaw_biting: unknown
+other_joints_affected: left knee | left ankle | back
+joint_clicking: left tmj
+joint_stiffness: unknown
+muscle_weakness: unknown
+jaw_closing_pain: unknown
+jaw_closing_discomfort: unknown
+pain_on_moderate_use: unknown
+diet_score_without_pain: unknown
+disability_rating_without_pain: unknown

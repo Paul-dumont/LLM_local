@@ -1,0 +1,45 @@
+maximum_opening_without_pain: 32 mm
+patient_age: 58
+maximum_opening: 34 mm
+pain_relieving_factors: unknown
+diet_score: 9
+pain_duration: unknown
+disability_rating: 3
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: unknown
+physical_therapy_status: physical therapy
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: sulfa | lodine | macrodantin
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: 4 a week
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: 5
+headache_intensity: 6
+autoimmune_condition: unknown
+pain_onset_date: 3 years ago
+jaw_crepitus: unknown
+tmj_pain_rating: 7
+sleep_disorder_type: snoring
+current_medications: Vitamins | Amoxicillin
+disc_displacement: unknown
+muscle_pain_location: masseter | scm | shoulders | neck | styloid
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: knees | wrists | hips | shoulders | ankle | hands

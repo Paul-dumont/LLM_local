@@ -1,0 +1,28 @@
+patient_age: 67
+diet_score: 2
+disability_rating: 2
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+sleep_apnea_diagnosed: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+joint_pain_score: 4
+headache_location: frontal | temporal
+average_daily_pain_intensity: 2
+headache_intensity: 4
+tmj_pain_rating: 4
+pain_onset_date: birth
+current_medications: Armour thyroid | Estradiol | Medroxyprogesterone | Vitamin D3
+sleep_disorder_type: sleep apnea | sleep related epilepsy | sleep related PACs
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_score: moderate
+joint_clicking: left tmj | right tmj
+joint_popping: left tmj | right tmj
+appliance_history: splint
+sleep_disorder_history: sleep apnea
+previous_treatment: cranial osteopathy | full mouth reconstruction | oral reconstruction | turbinectomy | septoplasty | nasal polyp removal | rhinoplasty | myomonitor | viral treatment | colonoscopy | colon polyp removal | salivary gland removal | jaw reconstruction
+diet_restriction: gluten | dairy | eggs | sugar | soy
+allergy_type: penicillin | sulfa

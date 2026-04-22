@@ -1,0 +1,24 @@
+patient_age: 46
+maximum_opening: 55mm
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+neck_pain_present: true
+shoulder_pain_present: true
+back_pain_present: true
+headache_location: temporal | posterior head | top of the head
+average_daily_pain_intensity: 5
+headache_intensity: 4
+tmj_pain_rating: 3
+sleep_disorder_type: sleep apnea | snoring
+current_medications: Advil
+adverse_reactions: amoxicillin | erythromycin | clindamycin
+airway_obstruction_location: nasal | oropharyngeal
+muscle_symptoms_present: true
+muscle_pain_score: moderate | severe
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: neck | shoulders | back

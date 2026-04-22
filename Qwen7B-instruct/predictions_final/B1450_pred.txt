@@ -1,0 +1,22 @@
+patient_age: 44
+maximum_opening: 50mm
+diet_score: 0
+disability_rating: 3
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 8
+tmj_pain_rating: 7
+sleep_disorder_type: snoring | daytime tiredness
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+current_medications: norvasc | triamterene | zyrtec | acyclovir | multivitamins | calcium citrate | ibuprofen | excedrin migraine
+joint_pain_areas: neck | hips | fingers | feet
