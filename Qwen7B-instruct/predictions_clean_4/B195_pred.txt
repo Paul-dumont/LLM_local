@@ -1,4 +1,0 @@
-headache_frequency: two times a month
-migraine_history: true
-headache_location: frontal | temporal | posterior head
-headache_intensity: 5 but can escalate to 10 | present

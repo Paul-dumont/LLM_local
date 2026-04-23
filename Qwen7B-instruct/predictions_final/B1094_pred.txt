@@ -1,23 +1,50 @@
-patient_age: 29
+maximum_opening_without_pain: 30mm
+patient: Melissa Banks Pond
+maximum_opening: 37mm
+pain_relieving_factors: unknown
 diet_score: 6
-jaw_function_score: 5
+pain_duration: unknown
 disability_rating: 7
-pain_aggravating_factors: stress
-sleep_disorder_type: sleep_medications
-muscle_symptoms_present: true
-muscle_pain_score: moderate
-headache_location: temporal | frontal
-headache_intensity: 0
-average_daily_pain_intensity: 5
-tmj_pain_rating: 0
-current_medications: klonopin | vioxx | levoquin | synthroid | unisom | advil
-joint_pain_areas: shoulder | arm | knee | ankle
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
 tinnitus_present: true
 vertigo_present: true
 hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
 earache_present: false
-other_pain_areas: masseter | styloid | shoulder
-current_appliance: none
-diet_score: 6
-disability_rating: 7
-jaw_function_score: 5
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: true
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: 5
+headache_intensity: unknown
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: 0
+sleep_disorder_type: unknown
+current_medications: unknown
+disc_displacement: unknown
+muscle_pain_location: masseters | medial pterygoids | styloids
+joint_arthritis_location: left tmj
+joint_pain_areas: shoulders
+joint_medications: unknown
+joint_pain_score: moderate
+joint_diet_impact: unknown
+joint_function_score: 5
+joint_disability_rating: 7
+joint_sleep_disorder_impact: unknown

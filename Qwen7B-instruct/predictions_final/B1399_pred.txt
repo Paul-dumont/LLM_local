@@ -1,23 +1,45 @@
+maximum_opening_without_pain: unknown
 patient_age: 26
 maximum_opening: 42mm
+pain_relieving_factors: unknown
 diet_score: 6
+pain_duration: unknown
 disability_rating: 4
-jaw_function_score: 6
-vertigo_present: true
-earache_present: true
-hearing_loss_present: true
-tinnitus_present: true
 sleep_apnea_diagnosed: true
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: weekly
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
 muscle_pain_score: moderate
-headache_location: frontal | temporal | top of the head
+migraine_history: unknown
+headache_location: frontal | temporal | posterior | top_of_head
+current_appliance: unknown
 average_daily_pain_intensity: 6
 headache_intensity: 5
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
 tmj_pain_rating: 4
-current_medications: hypothyroidism
-joint_pain_areas: shoulders
-sleep_disorder_type: sleep apnea
-sleep_disorder_duration: 1 year
-sleep_disorder_concerned: true
-appliance_history: splint
-joint_arthritis_location: left tmj | right tmj
-muscle_pain_areas: retromandibular | right shoulder | left shoulder
+sleep_disorder_type: sleep_apnea | snoring | daytime_tiredness
+current_medications: unknown
+disc_displacement: unknown
+muscle_pain_location: shoulders | retromandibular
+joint_arthritis_location: both | left | right
+appliance_history: unknown
+joint_pain_areas: unknown

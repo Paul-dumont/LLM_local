@@ -1,22 +1,46 @@
+maximum_opening_without_pain: unknown
 patient_age: 53
+maximum_opening: 35mm
+pain_relieving_factors: splint
 diet_score: 9
+pain_duration: unknown
 disability_rating: 9
+sleep_apnea_diagnosed: unknown
 jaw_function_score: 9
 tinnitus_present: false
 vertigo_present: true
 hearing_loss_present: true
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
 earache_present: true
-onset_triggers: injury | sinus surgery
-airway_obstruction_present: true
-sleep_disorder_type: sleep disorder | snoring | daytime somnolence
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: true
+headache_frequency: daily
+pain_frequency: unknown
 muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
 muscle_pain_score: high
-headache_location: frontal | temporal | posterior head
+migraine_history: unknown
+headache_location: frontal | temporal | posterior
+current_appliance: splint
 average_daily_pain_intensity: 9
 headache_intensity: 7
+autoimmune_condition: unknown
+pain_onset_date: 1995
+jaw_crepitus: unknown
 tmj_pain_rating: 10
+sleep_disorder_type: sleep_disorder | snoring | daytime_tiredness | sleep_apnea
 current_medications: lotrel | zoloft | levothyroxine | crestor | carisoprodol
-disc_displacement: left disc dislocation | right disc dislocation
-joint_arthritis: left tmj | right tmj
-joint_pain_areas: jaw | ear | head
-pain_aggravating_factors: clenching | bruxism
+disc_displacement: left | right
+muscle_pain_location: temporalis | masseter | medial_pterygoid | styloid
+joint_arthritis_location: left | right
+appliance_history: splint
+joint_pain_areas: tmj
+joint_mechanics: smooth | catching | crepitus | locking

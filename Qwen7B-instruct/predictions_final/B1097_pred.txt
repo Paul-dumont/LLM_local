@@ -1,26 +1,45 @@
+maximum_opening_without_pain: unknown
 patient_age: 54
 maximum_opening: 15mm
+pain_relieving_factors: splint
 diet_score: 8
+pain_duration: unknown
 disability_rating: 2
+sleep_apnea_diagnosed: unknown
 jaw_function_score: 6
-tinnitus_present: false
-vertigo_present: false
-hearing_loss_present: false
-earache_present: false
-sleep_apnea_diagnosed: true
-headache_frequency: daily
-muscle_pain_score: moderate
-headache_location: frontal | temporal | posterior head
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching, bruxism
+physical_therapy_status: unknown
+earache_present: unknown
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: right frontal | right temporal | left frontal | left posterior head
+current_appliance: splint
 average_daily_pain_intensity: 2
 headache_intensity: 5
+autoimmune_condition: unknown
+pain_onset_date: 1986
+jaw_crepitus: unknown
 tmj_pain_rating: 3
-current_medications: Zestril | Allopurinol | K+ | Slow magnesium | HCTZ | Ativan | Elavil | Soma | Activella
-sleep_disorder_type: Sleep apnea
-pain_aggravating_factors: Splint wearing
-sleep_disorder_diagnosis: Snoring | Daytime somnolence
-joint_pain_areas: Shoulder | Jaw | Back
-previous_treatment: Splint therapy | Osteopathic treatment | Orthotic devices | Arch supports
-previous_surgery: First rib resection for thoracic outlet syndrome
-sleep_disorder_history: True
-muscle_symptoms_present: True
-muscle_pain_location: Masseter | SCM
+sleep_disorder_type: snoring | daytime tiredness
+current_medications: unknown
+disc_displacement: left tmj | right tmj
+muscle_pain_location: masseter | SCM | shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: unknown

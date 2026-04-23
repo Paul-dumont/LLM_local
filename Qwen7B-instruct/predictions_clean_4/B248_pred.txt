@@ -1,4 +1,0 @@
-headache_frequency: two to three times a week | couple of months
-migraine_history: unknown
-headache_location: frontal | temple | posterior head
-headache_intensity: 7 | severe headaches about every couple of months where she gets extremely nauseated and vomiting as well | 10

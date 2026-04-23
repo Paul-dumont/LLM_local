@@ -1,30 +1,45 @@
+maximum_opening_without_pain: unknown
 patient_age: 67
 maximum_opening: 40mm
+pain_relieving_factors: unknown
 diet_score: 5
+pain_duration: unknown
 disability_rating: 0
-jaw_function_score: 4
 sleep_apnea_diagnosed: true
-tmj_pain_rating: 3
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: daily
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: right tmj | left tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
 headache_location: frontal | temporal | bilateral
+current_appliance: unknown
 average_daily_pain_intensity: 5
 headache_intensity: 10
-pain_onset_date: 30
-current_medications: Topamax | Cymbalta | Lyrica | Crestor | Alprazolam | Celebrex | Polyethylene glycol | Propoxyphene | Zegerid | Flexeril
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: 3
 sleep_disorder_type: snoring | daytime tiredness
-airway_obstruction_present: true
-vertigo_present: false
-vomiting_present: false
-hearing_loss_present: true
-earache_present: false
-tinnitus_present: false
-other_joints_affected: ankles
-muscle_symptoms_present: true
-muscle_pain_score: mild
-headache_location: bilateral
-headache_frequency: daily
-tmj_aggravating_factors: clenching
-previous_treatment: tmj surgery x2
-current_arthritis_location: tmj | multiple_joints
-sleep_disorder_duration: 2-1/2 years
-sleep_disorder_treatment: none
-sleep_disorder_diagnosis: sleep apnea
+current_medications: Topamax | Cymbalta | Lyrica | Celebrex | alprazolam | propoxyphene | Zegerid | Flexeril
+disc_displacement: unknown
+muscle_pain_location: unknown
+joint_arthritis_location: right tmj | left tmj
+appliance_history: unknown
+joint_pain_areas: unknown

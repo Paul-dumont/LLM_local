@@ -1,57 +1,45 @@
+maximum_opening_without_pain: unknown
 patient_age: 12
 maximum_opening: 54mm
-diet_score: 0
-disability_rating: 0
-jaw_function_score: 0
-sleep_apnea_diagnosed: false
-muscle_symptoms_present: false
-joint_pain_present: false
-tinnitus_present: false
-earache_present: false
-hearing_loss_present: false
-tmj_right_clicking: false
-tmj_left_clicking: false
-occluding_teeth: right: 1|1; left: 1|1
-pain_aggravating_factors: 
-current_medications: 
-disc_displacement: right: dislocated; left: dislocated
-disc_malalignment_present: true
-muscle_pain_location: medial pterygoid
-joint_pain_areas: left medial pterygoid | right medial pterygoid
-joint_pain_onset_date: 
-joint_pain_intensity: mild
-joint_arthritis_location: right tmj | left tmj
-joint_clicking: right tmj | left tmj
-joint_swelling: 
-joint_locking: 
-joint_grinding: 
-joint_crepitus: 
-joint_pain_onset_date: 
-joint_pain_onset_triggers: 
-joint_pain_aggravating_factors: 
-joint_pain_relieving_factors: 
-joint_history: 
-joint_locking_frequency: 
-joint_clicking_frequency: 
-joint_pain_type: 
-joint_pain_location: left tmj | right tmj
-muscle_pain_type: 
-muscle_pain_location: left medial pterygoid | right medial pterygoid
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: unknown
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
 muscle_symptoms_present: true
-muscle_pain_onset_date: 
-muscle_pain_onset_triggers: 
-muscle_pain_aggravating_factors: 
-muscle_pain_relieving_factors: 
-muscle_pain_intensity: mild
-muscle_pain_location: left medial pterygoid | right medial pterygoid
-joint_pain_location: left tmj | right tmj
-joint_arthritis_location: right tmj | left tmj
-joint_locking_frequency: 
-joint_clicking_frequency: 
-joint_crepitus: 
-joint_pain_type: 
-joint_pain_intensity: mild
-joint_pain_onset_date: 
-joint_pain_onset_triggers: 
-joint_pain_aggravating_factors: 
-joint_pain_re
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: unknown
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: unknown
+sleep_disorder_type: unknown
+current_medications: unknown
+disc_displacement: unknown
+muscle_pain_location: unknown
+joint_arthritis_location: unknown
+appliance_history: unknown
+joint_pain_areas: unknown

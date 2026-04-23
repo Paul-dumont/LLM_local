@@ -1,43 +1,45 @@
-patient_age: 41
-diet_score: 2
-disability_rating: 3
-maximum_opening: 43mm
-jaw_function_score: 3
+maximum_opening_without_pain: unknown
+patient_age: unknown
+maximal_opening: 43mm
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: unknown
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
 muscle_symptoms_present: true
-tmj_pain_frequency: daily
-pain_aggravating_factors: none
-sleep_disorder_type: daytime somnolence
-joint_pain_areas: left tmj | right tmj
-current_medications: naproxen | Yaz | Excedrin | ibuprofen
-sleep_disorder_diagnosis: mild daytime somnolence
-headache_location: frontal | temporal
-headache_intensity: 5
-average_daily_pain_intensity: 5
-headache_frequency: daily
-pain_onset_date: 10 years ago
-pain_worsening_date: 8 months ago
-pain_spread_location: neck | shoulders | back
-current_pain_intensity: 5
-earache_present: false
-tinnitus_present: false
-vertigo_present: false
-hearing_loss_present: false
-snoring_severity: mild
-daytime_sleepiness: moderate
-sleep_apnea_diagnosis: false
-clenching_present: true
+jaw_clicking: unknown
+previous_medications: unknown
 muscle_pain_score: moderate
-joint_pain_score: moderate
-sleep_disorder_score: mild
-diet_score: 2
-disability_rating: 3
-muscle_pain_location: left temporalis | right temporalis | left posterior neck | right posterior neck
-jaw_crepitus: left tmj | right tmj
-joint_pain_location: left tmj | right tmj
-joint_locking: false
-muscle_pain_location: left temporalis | right temporalis | left posterior neck | right posterior neck
-other_joint_pain: none
-joint_clicking: left tmj | right tmj
-joint_pain_onset_date: 10 years ago
-joint_swelling: none
-current_medications: naproxen | Yaz | Excedrin | ibuprofen
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: unknown
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: unknown
+sleep_disorder_type: unknown
+current_medications: unknown
+disc_displacement: unknown
+muscle_pain_location: unknown
+joint_arthritis_location: unknown
+appliance_history: unknown
+joint_pain_areas: unknown

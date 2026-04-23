@@ -1,21 +1,45 @@
+maximum_opening_without_pain: unknown
 patient_age: 12
-maximum_opening: 48mm
-diet_score: 8
-disability_rating: 2
-sleep_disorder_type: snoring | mouth breathing
-jaw_clicking: left tmj | right tmj
-muscle_pain_score: moderate
-joint_arthritis_location: left tmj | right tmj
-muscle_pain_location: temporalis | masseter | styloid | SCM | shoulder | medial pterygoid
-joint_pain_areas: left tmj | right tmj
-joint_locking: true
-joint_pain_onset: idiopathic
-disc_displacement: left tmj | right tmj
-disc_displacement_status: left tmj | right tmj
-joint_pain_score: mild
-tmj_pain_rating: 2
-airway_obstruction_location: nose | oropharynx
-airway_obstruction_type: nasal airway obstruction | luminal valve constricture | adenoid tissue | hypertrophied turbinates
-muscle_pain_onset: idiopathic
-joint_arthritis_type: idiopathic condylar resorption
-muscle_pain_areas: mentalis | mental | masseter | temporalis | styloid | SCM | shoulder
+maximum_opening: unknown
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: unknown
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: unknown
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: unknown
+sleep_disorder_type: unknown
+current_medications: unknown
+disc_displacement: unknown
+muscle_pain_location: unknown
+joint_arthritis_location: unknown
+appliance_history: unknown
+joint_pain_areas: unknown

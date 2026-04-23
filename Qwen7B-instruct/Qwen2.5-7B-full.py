@@ -13,7 +13,7 @@ MODEL_SHORT = "qwen_full_7B"
 
 # Optimisé pour RTX 6000 Ada (48GB VRAM) - Qwen 7B
 MAX_SEQ_LEN  = int(os.getenv("MAX_SEQ_LEN", 4096))    # Gardé à 4096
-NUM_EPOCHS   = int(os.getenv("NUM_EPOCHS", 3))
+NUM_EPOCHS   = int(os.getenv("NUM_EPOCHS", 2))
 BATCH_SIZE   = int(os.getenv("BATCH_SIZE", 1))        # 1 per-device (économise VRAM)
 GRAD_ACCUM   = int(os.getenv("GRAD_ACCUM", 8))        # 8 (effective BS = 1*8 = 8)
 LR           = float(os.getenv("LR", "1e-5"))         # 1e-5 (7B modèle plus sensible)
@@ -37,7 +37,7 @@ if torch.cuda.is_available():
 # Structure: LLM/data_training/{data_input, data_output_clean}
 #            LLM/Qwen2.5-7B-instruct/model/...
 BASE_DIR     = Path(__file__).parent.parent  # /home/luciacev/Desktop/LLM
-TRAINING_DIR = BASE_DIR / "data_training"
+TRAINING_DIR = BASE_DIR / "data_training" / "500"
 DATA_INPUT   = TRAINING_DIR / "data_input"
 DATA_OUTPUT  = TRAINING_DIR / "data_output_clean_46"
 MODEL_DIR    = Path(__file__).parent / "model"  # Sauvegarde dans Qwen2.5-7B-instruct/model

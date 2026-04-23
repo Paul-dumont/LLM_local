@@ -1,24 +1,45 @@
+maximum_opening_without_pain: unknown
 patient_age: 54
-maximum_opening: 40mm
+maximum_opening: unknown
+pain_relieving_factors: unknown
 diet_score: 1
+pain_duration: unknown
 disability_rating: 1
+sleep_apnea_diagnosed: unknown
 jaw_function_score: 3
 tinnitus_present: false
 vertigo_present: false
-hearing_loss_present: true
+hearing_loss_present: false
+back_pain_present: true
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
 earache_present: false
-adverse_reactions: none
-airway_obstruction_present: true
-sleep_disorder_type: sleep_apnea
-muscle_symptoms_present: true
-muscle_pain_score: high
-headache_intensity: mild
-tmj_pain_rating: moderate
-joint_clicking: right tmj | left tmj
-joint_locking: right tmj
-disc_displacement: right disc dislocation | left disc dislocation
-arthritic_change_present: true
-joint_pain_areas: jaw
-pain_aggravating_factors: splint therapy
-current_medications: lipitor
-joint_pain_score: high
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: true
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: 4
+headache_intensity: unknown
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: true
+tmj_pain_rating: 7
+sleep_disorder_type: unknown
+current_medications: Lipitor 10 mg per day
+disc_displacement: true
+muscle_pain_location: unknown
+joint_arthritis_location: TMJ
+sleep_disorder_present: false
+joint_pain_areas: unknown

@@ -1,22 +1,45 @@
-patient_age: 41
-diet_score: 5
-disability_rating: 4
-sleep_disorder_type: sleep apnea
-muscle_symptoms_present: true
-jaw_clicking: left tmj | right tmj
-joint_pain_score: 10
-muscle_pain_score: 10
-tinnitus_present: false
-vertigo_present: false
-hearing_loss_present: false
-earache_present: false
-neck_pain_present: true
-shoulder_pain_present: true
-pain_aggravating_factors: clenching and grinding of the teeth
-pain_areas: muscles | tmj
-sleep_disorder_type: sleep apnea
-sleep_disorder_severity: moderate
-sleep_disorder_diagnosed: true
-current_medications: celebrex | premarin | tricor | ambien
-sleep_disorder_treatment: none
-sleep_disorder_diagnosed_by: ENT
+maximum_opening_without_pain: unknown
+patient_age: unknown
+maximum_opening: 42mm
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: unknown
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: unknown
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: unknown
+sleep_disorder_type: unknown
+current_medications: unknown
+disc_displacement: unknown
+muscle_pain_location: unknown
+joint_arthritis_location: unknown
+appliance_history: unknown
+joint_pain_areas: unknown

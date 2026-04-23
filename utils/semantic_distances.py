@@ -33,16 +33,13 @@ model_folder = 'Qwen7B-instruct'
 
 # Reference and prediction folders (repo-relative)
 REF_FOLDER = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
-PRED_FOLDER = str(REPO_ROOT / model_folder / 'predictions_eduardo')
+REF_FOLDER = str(REPO_ROOT / 'data_training' / '500' /  'data_output_clean_46')
+
+PRED_FOLDER = str(REPO_ROOT / model_folder / 'predictions_final')
 
 # manual_folder = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
-# # manual_folder = str(REPO_ROOT / 'data_training' / 'data_output_clean_46')
 
-# # llm_folder is derived from the top-level `model` and `model_folder` variables
-# # Use the predictions_clean_46 folder for Qwen7B
-# llm_folder = str(REPO_ROOT / model_folder / "save_data_before_reduce_features" / "predict_Qwen7B_eval_harmonized")
 
-# Will be dynamically extracted from data files
 CRITERIA = []
 
 # Preferred semantic order (highest → lowest representation)

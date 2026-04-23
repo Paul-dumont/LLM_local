@@ -1,4 +1,0 @@
-headache_frequency: unknown
-migraine_history: unknown
-headache_location: frontal | temporal | top of the head | posterior head
-headache_intensity: 9 | present

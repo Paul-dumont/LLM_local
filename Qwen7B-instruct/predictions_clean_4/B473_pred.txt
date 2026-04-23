@@ -1,4 +1,0 @@
-headache_frequency: unknown
-migraine_history: unknown
-headache_location: behind the left eye | back of the head
-headache_intensity: 5 | present

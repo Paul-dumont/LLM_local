@@ -1,22 +1,56 @@
+maximum_opening_without_pain: 19mm
 patient_age: 44
 maximum_opening: 32mm
+pain_relieving_factors: unknown
 diet_score: 5
+pain_duration: unknown
 disability_rating: 7
+sleep_apnea_diagnosed: true
 jaw_function_score: 6
 tinnitus_present: true
 vertigo_present: true
 hearing_loss_present: false
+back_pain_present: true
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
 earache_present: true
-sleep_apnea_diagnosed: true
-snoring_severity: severe
-daytime_tiredness_severity: moderate
-appliance_history: splint
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: daily
+pain_frequency: unknown
 muscle_symptoms_present: true
+jaw_clicking: left tmj
+previous_medications: unknown
 muscle_pain_score: high
+migraine_history: unknown
 headache_location: frontal | temporal | posterior head
+current_appliance: unknown
 average_daily_pain_intensity: 7
 headache_intensity: 7
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: left tmj
 tmj_pain_rating: 8
-disorder_type: sleep apnea
+sleep_disorder_type: sleep apnea | snoring | daytime tiredness | sleep disorder | sleep apnea | sleep disorder
+current_medications: cpap machine
+disc_displacement: unknown
+muscle_pain_location: temporalis | masseter | left scm | left posterior neck
 joint_arthritis_location: left tmj | right tmj
-muscle_pain_location: temporalis | masseter | scm | left posterior neck
+appliance_history: splint therapy | arthocentesis
+joint_pain_areas: left jaw | left neck
+headache_intensity_at_worse: 10
+tmj_pain_frequency: daily
+grinding_teeth_at_night: true
+current_appearance_concerns: chin | profile | fullness | smile | lips
+previous_medications: unknown
+joint_pain_score: high
+headache_location_other: none
+best_time_of_day: unknown
+joint_pain_onset: unknown
+other_joint_problems: left knee | left ankle | back
+pain_onset_triggers: unknown

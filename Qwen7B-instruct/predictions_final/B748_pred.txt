@@ -1,43 +1,49 @@
-3.patient_age: 26
-4.maximum_opening: 47mm
-5.jaw_function_score: 6
-6.diet_score: 2
-7.disability_rating: 1
-8.headache_frequency: 2 a week
-9.average_daily_pain_intensity: 7
-10.tmj_pain_rating: 5
-11.headache_location: right temple | back of the head | top of the head
-12.headache_intensity: 8
-13.headache_aggravating_factors: clenching
-14.tmj_aggravating_factors: clenching
-15.current_medications: Ortho-TriCyclen | Celexa 10 mg
-16.pain_onset_date: 2006-06-17
-17.muscle_symptoms_present: true
-18.muscle_pain_score: moderate
-19.muscle_pain_location: right temporalis | right masseter | right shoulder
-20.joint_clicking: left tmj | right tmj
-21.joint_pain_areas: right temporalis | right masseter | right shoulder
-22.joint_pain_score: moderate
-23.joint_locking: false
-24.appliance_history: orthodontics
-25.current_appliance: none
-26.airway_obstruction_present: true
-27.sleep_disorder_type: snoring | daytime somnolence
-28.tinnitus_present: true
-29.vertigo_present: false
-30.hearing_loss_present: false
-31.earache_present: false
-32.neck_pain_present: true
-33.back_pain_present: false
-34.earache_location: right
-35.tinnitus_location: right
-36.back_pain_location: entire back
-37.neck_pain_location: entire neck
-38.joint_locking: false
-39.joint_clicking: left tmj | right tmj
-40.joint_pain_areas: right temporalis | right masseter | right shoulder
-41.joint_pain_score: moderate
-42.tmj_pain_rating: 5
-43.headache_frequency: 2 a week
-44.headache_location: right temple | back of the head | top of the head
-45.headache_intensity
+maximum_opening_without_pain: unknown
+patient_age: 26
+maximum_opening: 47mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: true
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: true
+headache_frequency: weekly
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: right temple | top of head | back of head
+current_appliance: unknown
+average_daily_pain_intensity: 7
+headache_intensity: 8
+autoimmune_condition: unknown
+pain_onset_date: 2006-06-17
+jaw_crepitus: unknown
+tmj_pain_rating: 5
+sleep_disorder_type: snoring | daytime tiredness
+current_medications: ortho-tricyclen | celexa
+disc_displacement: unknown
+muscle_pain_location: right temporalis | right masseter | right shoulder
+joint_arthritis_location: right tmj | left tmj
+myofascial_pain_location: right temporalis | right masseter
+joint_pain_areas: right tmj
+joint_mechanics: left tmj | right tmj
+appliance_history: unknown
+joint_pain_rating: 6
+headache_location_specific: right temple | back of head | top of head

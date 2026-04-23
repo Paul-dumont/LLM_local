@@ -1,27 +1,45 @@
+maximum_opening_without_pain: unknown
 patient_age: 26
+maximum_opening: 51mm
+pain_relieving_factors: unknown
 diet_score: 0
+pain_duration: unknown
 disability_rating: 0
+sleep_apnea_diagnosed: unknown
 jaw_function_score: 0
 tinnitus_present: false
 vertigo_present: false
 hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
 earache_present: false
-adverse_reactions: adderall | zyrtec | flonase
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
 airway_obstruction_present: true
-muscle_symptoms_present: false
-joint_pain_score: 0
-headache_intensity: 0
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: true
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: unknown
+autoimmune_condition: unknown
+pain_onset_date: 2003
+jaw_crepitus: unknown
 tmj_pain_rating: 0
-muscle_pain_location: neck | shoulders
-sleep_disorder_type: snoring
-current_medications: adderall | zyrtec | flonase
-joint_clicking_and_popping: left tmj | right tmj
-muscle_pain_location: neck | shoulders
-appliance_history: orthodontics
-joint_arthritis_location: left tmj | right tmj
-muscle_pain_score: 0
-pain_aggravating_factors: none
-sleep_disorder_diagnosis: snoring
-muscle_pain_diagnosis: none
-joint_diagnosis: bilateral tmj arthritis and articular disc dislocation without reduction and severe deformation
-occlusal_disorder_type: crossbite | end-on incisor relationship | tooth-size discrepancy
+sleep_disorder_type: unknown
+current_medications: unknown
+disc_displacement: unknown
+muscle_pain_location: unknown
+joint_arthritis_location: unknown
+appliance_history: unknown
+joint_pain_areas: unknown

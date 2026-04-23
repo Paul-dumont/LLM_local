@@ -1,33 +1,54 @@
+maximum_opening_without_pain: unknown
 patient_age: 50
+maximum_opening: 42mm
+pain_relieving_factors: unknown
 diet_score: 2
+pain_duration: unknown
 disability_rating: 3
+sleep_apnea_diagnosed: true
 jaw_function_score: 4
 tinnitus_present: true
 vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
 earache_present: false
+onset_triggers: unknown
+adverse_reactions: erythromycin
+fibromyalgia_present: unknown
+jaw_locking: unknown
 airway_obstruction_present: true
-sleep_apnea_diagnosed: true
-headache_frequency: 0
-muscle_symptoms_present: false
-jaw_clicking: left tmj | right tmj
-joint_pain_score: 0
-tmj_pain_rating: 0
-muscle_pain_location: left posterior neck
-pain_aggravating_factors: clenching | bruxism
-disc_displacement: left disc dislocation | right disc dislocation
-appliance_history: orthodontics
-current_medications: flonase
-joint_arthritis_location: left tmj | right tmj
-psoriasis_location: elbows | knees
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: unknown
+autoimmune_condition: psoriasis
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: unknown
 sleep_disorder_type: sleep apnea
-sleep_disorder_diagnosis_date: 2007-02-12
-muscle_pain_score: 0
-neck_pain_present: true
-neck_pain_score: 0
-maximum_opening: 42 mm
-excursion_movement_to_right: 8 mm
-excursion_movement_to_left: 8 mm
-curve_ofSpee_upper_arched: increased
-curve_ofSpee_lower_arched: increased
-occlusal_plane_angle: high
-tooth_size_discrepancy: 1 mm
+current_medications: Flonase
+disc_displacement: unknown
+muscle_pain_location: unknown
+joint_arthritis_location: tmj
+joint_pain_areas: neck
+appliance_history: unknown
+joint_pain_rating: unknown
+other_present_jawsymptoms: unknown
+joint_pain_duration: unknown
+jaw_opening_limitation: unknown
+clicking_joints: unknown
+joint_pain_triggers: unknown
+other_present_healthconditions: hip, knee, finger
+joint_pain_aggravating_factors: unknown
+joint_pain_relieving_factors: unknown

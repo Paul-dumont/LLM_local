@@ -1,39 +1,45 @@
+maximum_opening_without_pain: unknown
 patient_age: 12
 maximum_opening: 45mm
-diet_score: 0
-disability_rating: 0
-jaw_locking: false
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
 tinnitus_present: false
 vertigo_present: false
-hearing_loss_present: false
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
 earache_present: false
-adverse_reactions: none
-muscle_symptoms_present: false
-joint_pain_present: false
-headache_location: frontal | temporal | posterior | masseter | medial
-jaw_crepitus: none
-headache_intensity: 0
-headache_frequency: 0
-tmj_pain_rating: 0
-muscle_pain_location: masseter | temporalis | medial_pterygoid | styloid | shoulder | neck | back
-muscle_pain_intensity: 0
-sleep_disorder_type: snoring | daytime tiredness
-sleep_disorder_severity: mild
-sleep_apnea_diagnosed: true
-sleep_apnea_type: central | obstructive | mixed
-sleep_apnea_diagnosis_date: 2007-06-18
-sleep_apnea_diagnosis_method: polysomnography | home_sleep_test | clinical_diagnosis
-sleep_apnea_diagnosis_provider: Dr. Tom Pitts
-sleep_disorder_duration: 0
-sleep_disorder_onset_date: 2007-06-18
-muscle_pain_onset_date: 2007-06-18
-headache_onset_date: 2007-06-18
-tmj_pain_onset_date: 2007-06-18
-current_medications: none
-airway_obstruction_location: nose | throat | mouth
-airway_obstruction_type: hypertrophied_tonsils | hypertrophied_nasal_turbinate | deviated_nasal_septum | nasal_polyps | adenoid_tissue | enlarged_tonsils | other
-airway_obstruction_onset_date: 2007-06-18
-airway_obstruction_diagnosis_date: 2007-06-18
-airway_obstruction_diagnosis_method: clinical_diagnosis | imaging | sleep_study
-airway_obstruction_diagnosis_provider: Dr. Tom Pitts
-airway_obstruction_diagnosis_type: hypertrophied_tonsils | hypertrophied_nasal
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: unknown
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: unknown
+sleep_disorder_type: unknown
+current_medications: unknown
+disc_displacement: unknown
+muscle_pain_location: unknown
+joint_arthritis_location: unknown
+appliance_history: unknown
+joint_pain_areas: unknown

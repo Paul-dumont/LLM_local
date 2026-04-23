@@ -1,4 +1,0 @@
-headache_frequency: continuous
-migraine_history: unknown
-headache_location: bilateral temporal | frontal
-headache_intensity: 5 | present

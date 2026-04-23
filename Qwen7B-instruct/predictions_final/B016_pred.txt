@@ -1,33 +1,43 @@
+maximum_opening_without_pain: unknown
 patient_age: 38
-maximum_opening: 50mm
-diet_score: 7
-disability_rating: 4
-jaw_function_score: 5
-sleep_apnea_diagnosed: true
-muscle_symptoms_present: true
-jaw_clicking: left tmj | right tmj
-joint_pain_score: 7
-muscle_pain_score: 7
-tinnitus_present: false
-vertigo_present: false
-hearing_loss_present: false
-earache_present: false
-snoring_present: true
-daytime_tiredness_present: true
-sleep_disorder_present: true
-apnea_hypopnea_present: true
-headache_location: frontal | temporal | posterior head
-headache_intensity: 7
-headache_frequency: daily
-pain_aggravating_factors: hot weather
-current_medications: ibuprofen
-pain_onset_date: 10 years ago
-pain_onset_triggers: hot weather
-previous_injuries: none
-previous_surgeries: none
-current_medications: ibuprofen
-joint_pain_areas: jaw | neck | back
-sleep_disorder_type: sleep apnea
+maximum_opening: unknown
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: unknown
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: unknown
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: unknown
+sleep_disorder_type: unknown
+current_medications: unknown
 disc_displacement: left tmj | right tmj
-disc_reducing: left tmj | right tmj
-muscle_pain_areas: shoulders | neck | back
+joint_arthritis_location: left tmj | right tmj
+myofascial_pain_areas: masseter | temporalis | styloid | neck | shoulder | back | jaw | ear | cheek | chin | throat | upper back | lower back | hip | leg | foot | arm | hand | finger | bite | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint | jaw joint |

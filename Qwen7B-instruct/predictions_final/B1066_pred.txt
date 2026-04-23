@@ -1,22 +1,53 @@
-patient_age: 45
+maximum_opening_without_pain: unknown
+patient_age: unknown
+maximum_opening: 52mm
+pain_relieving_factors: splint
 diet_score: 5
+pain_duration: unknown
 disability_rating: 5
+sleep_apnea_diagnosed: unknown
 jaw_function_score: 5
-sleep_apnea_diagnosed: true
-muscle_symptoms_present: true
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: unknown
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: unknown
 muscle_pain_score: moderate
-headache_frequency: daily
-headache_location: posterior | temporal
+migraine_history: unknown
+headache_location: posterior
+current_appliance: unknown
 average_daily_pain_intensity: 3
 headache_intensity: 3
-pain_onset_date: 20 years ago
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
 tmj_pain_rating: 4
-current_medications: ibuprofen | Mobic
 sleep_disorder_type: snoring | daytime somnolence
-disc_displacement: left disc dislocation | right disc dislocation
-joint_arthritis_location: left tmj | right tmj
-muscle_pain_location: right masseter | right styloid | right shoulder | left tmj | left neck | left shoulder | left medial pterygoid | right tmj | right neck | right temporalis | right styloid | right SCM
-joint_pain_location: wrists | elbows | shoulders | back | feet
-tmj_pain_present: true
-jaw_clicking: left tmj | right tmj
-joint_pain_onset: 20 years ago
+current_medications: ibuprofen | Mobic | splint
+disc_displacement: left | right
+muscle_pain_location: right masseter | right medial pterygoid | right styloid | right SCM | right shoulder | right temporalis | left TMJ | left SCM | left posterior neck
+joint_arthritis_location: right TMJ | left TMJ
+appliance_history: splint | anterior jig | occlusal splint
+joint_pain_areas: right TMJ | left TMJ
+current_appliance_type: NTI | occlusal splint
+joint_pain_score: moderate
+joint_clicking: right | left
+joint_gnashing: unknown
+joint_grinding: unknown
+joint_swelling: unknown
+joint_stiffness: unknown
+joint_locking: unknown

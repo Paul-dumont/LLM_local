@@ -1,4 +1,0 @@
-headache_frequency: three times a week
-migraine_history: true
-headache_location: right frontal | right temporal | right posterior head
-headache_intensity: 8 | severe

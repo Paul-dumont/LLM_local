@@ -1,4 +1,0 @@
-headache_frequency: every two weeks
-migraine_history: unknown
-headache_location: right frontal | right temporal
-headache_intensity: 4 on the right side, 3 on the left side | present

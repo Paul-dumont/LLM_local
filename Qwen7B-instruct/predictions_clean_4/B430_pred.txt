@@ -1,4 +1,0 @@
-headache_frequency: severe
-migraine_history: true
-headache_location: unknown
-headache_intensity: severe
