@@ -1,0 +1,45 @@
+maximum_opening_without_pain: 0mm
+patient_age: 17
+maximum_opening: 52mm
+pain_relieving_factors: unknown
+diet_score: 4
+pain_duration: unknown
+disability_rating: 8
+sleep_apnea_diagnosed: false
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: unknown
+neck_pain_present: false
+pain_aggravating_factors: unknown
+physical_therapy_status: physical therapy
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: false
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: temporal
+current_appliance: unknown
+average_daily_pain_intensity: 8
+headache_intensity: 4
+autoimmune_condition: unknown
+pain_onset_date: 3 years ago
+jaw_crepitus: unknown
+tmj_pain_rating: 8
+sleep_disorder_type: snoring | somnolence
+current_medications: Steroid injections | Prialt | Lexapro | Abilify | OxyContin | Oxycodone | Marinol | Mirtazapine
+disc_displacement: unknown
+muscle_pain_location: neck
+joint_arthritis_location: left TMJ
+appliance_history: orthodontics | splint
+joint_pain_areas: ankles

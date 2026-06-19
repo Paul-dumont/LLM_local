@@ -1,0 +1,174 @@
+<PERSON> 03-24-04
+
+Darren is 39 years old and referred by Dr. <PERSON>.
+
+Patient History
+
+<PERSON> does have some problems with major depression. <PERSON> otherwise
+is in good health except for severe sleep apnea problems.
+
+<PERSON> has no problems with earaches, tinnitus, vertigo, or hearing
+loss. No joints give him problems at all. He doesn’t clench or grind his
+teeth. No headaches, no TMJ pain, and no myofascial pain. He rates his
+jaw function and diet at 0. <PERSON> reports that he has been in hotels
+where he would be sound asleep and would be snoring so loudly that the
+front desk would call to make sure he wasn’t having a party or creating
+noise inappropriately.
+
+Orthodontics was performed by Dr. <PERSON>, but he is deceased.
+
+<PERSON> has problems with self-mutilation and has numerous significant
+scars on his face, around his ears and neck area.
+
+Current Medications
+
+1.  Dalmane 50 mg q.h.s.
+
+2.  Ambien 10 mg h.s.
+
+3.  Klonopin 3 mg <LOCATION>
+
+4.  Prozac 80 mg q.d.
+
+5.  Effexor 300 mg q.d.
+
+6.  Remeron 15 mg q.d.
+
+7.  <LOCATION> 10 mg used for mood modulation
+
+8.  Seroquel 400 mg used for mood modulation
+
+9.  Tegretol 1000 mg q.d. also for mood modulation
+
+10. Neurontin 2000 mg q.d. for mood modulation as well
+
+Patient Concerns
+
+1.  Severe sleep apnea problems
+
+2.  Predominantly mouth breather
+
+3.  Severe snoring
+
+4.  Extremely tired during the day
+
+5.  Snoring is so loud that his family can hear him throughout the
+    entire house
+
+6.  Extremely long episodes of apnea that can extend over 60 seconds
+
+Clinical Examination
+
+In frontal view, <PERSON> has fairly good left-to-right facial symmetry.
+Upper lip length is about 23 mm. Upper tooth-to-lip relationship is 0.
+Maxillary, mandibular, and chin midline are all pretty much aligned on
+the facial midline. <PERSON> appears to be about 6 to 8 mm AP deficient.
+<PERSON> is probably 10 to 15 mm AP deficient. Chin-neckline is short, and
+chin-neck angle is not well-defined.
+
+Intraorally, he has had lower first bicuspids extracted. The rest of the
+teeth appear very well aligned and leveled. Transverse width of the
+mandible appears narrow. In the upper arch, he likewise has had first
+bicuspids removed but has the rest of his teeth back through the second
+molars present. Has basically a Class I cuspid-molar relationship with a
+little bit of a tendency toward crossbite on the right side. Has about a
+millimeter of overbite and basically a Class I cuspid-molar
+relationship. <PERSON> is relatively clear. Uvula is of moderate size.
+Faucial pillars appear to be in appropriate position.
+
+Intranasally, turbinates are somewhat enlarged. There is also a little
+bit of redundant tissue on the floor of the nose. Does not appear to be
+much passable airway. Holding the nostrils open did increase his
+breathing abilities fairly significantly. Nasal septum is off toward the
+left side and makes the left nostril a little bit smaller and more
+constricted than the right side.
+
+<PERSON> doesn’t have any tenderness around the head and neck area to
+palpation. Joints seem to function smoothly. Incisal opening is about 43
+mm. Excursive movement to the left is 11 mm and to the right about 10
+mm.
+
+Radiographic Evaluation
+
+Darren is congenitally missing three of his wisdom teeth and only has
+his left maxillary third molar, and it is erupted in position. <PERSON>
+has crowns on most of his upper teeth extending from the left first
+molar all the way around to the right first molar. The lower teeth are
+all natural with just a couple of restorations there. Sinuses look
+clear. <PERSON> look relatively normal but difficult to tell on that
+x-ray.
+
+Left TMJ tomogram shows a condyle that appears a little bit larger with
+maybe some anterior beaking. May be a little bit of decreased posterior
+joint space. Articular eminence is a little bit toward the shallow side.
+
+Right TMJ tomogram shows a condyle with fairly good morphology and
+fairly well centered in the joint with good joint spaces.
+
+Open views show moderate translation of both condyles.
+
+Waters view shows that the sinuses are clear. He does have large
+turbinates and some deviation of the septum off toward the left side,
+although more posteriorly in the bony area it is centered. <LOCATION>
+are of fairly significant size and appear to block most of the
+functional airway.
+
+Cephalometric radiograph shows that the maxilla and mandible appear to
+be retruded. Oropharyngeal airway measures about 4 mm and At the base of
+the tongue measures about 5 or 6 mm, but there is a double shadow there,
+and in some areas in the double shadow the anterior part of that shadow
+there is probably less than a millimeter. Tongue seems to full a good
+portion of the oral cavity, although there is a little bit of space
+superiorly.
+
+Basic Diagnoses
+
+1.  AP maxillary deficiency
+
+2.  Posterior vertical maxillary deficiency
+
+3.  AP mandibular deficiency
+
+4.  Severely decreased oropharyngeal airway with a measurement of 2 mm
+    at the soft palate area (normal 11) and 5 mm at the base of the
+    tongue (normal 11 mm)
+
+5.  Severe snoring
+
+6.  Daytime somnolence
+
+7.  Severe apneic episodes of greater than 60 seconds
+
+8.  Missing all four first bicuspids and bilateral mandibular third
+    molars and maxillary right third molar (left maxillary third molar
+    retained)
+
+9.  Malaligned maxillary left third molar and a nonfunctioning tooth
+
+10. Hypertrophied turbinates
+
+11. Nasal septal deviation
+
+12. Nasal airway obstruction
+
+13. Hypertrophied soft palate and uvula
+
+Recommended Treatment
+
+  Surgery
+
+A.  Maxillary osteotomies to advance the maxilla forward 8 mm at the
+    incisal edge and downgraft it 4 mm posteriorly
+
+B.  Bilateral mandibular ramus osteotomies to advance the mandible in a
+    counterclockwise direction with the chin point coming forward 15 mm
+
+C.  Partial turbinectomies
+
+D.  Septoplasty
+
+E.  Application of maxillary and mandibular arch bars
+
+F.  Extract maxillary left third molar
+
+G.  UPPP procedure with lateral inversion flaps

@@ -1,0 +1,85 @@
+﻿MATTHEW JENKINS								11-11-02
+
+<PERSON> is 23 years old and referred by Dr. <PERSON>.
+
+Patient History
+
+<PERSON> is in good health with no major medical problems. He has some allergy problems and some sinus problems. 
+
+
+Patient Concerns
+
+
+    1. The lower jaw is going off toward the left side
+    2. Teeth don’t touch. Particularly on the right side, there is a big gap between the upper and lower teeth
+    3. Headaches
+    4. Soreness in the jaw area
+    5. Pain in the back of the neck and base of the skull, more so on the right side than the left side
+    6. Difficulties eating and chewing
+    7. Speech affected by the jaw problem
+
+Current Medications
+
+He uses Rhinocort for his allergies and does about one spray per day.
+
+Clinical Evaluation
+
+In frontal view, <PERSON> has fairly good facial symmetry in the middle and upper third face. He has some significant asymmetry in the lower third face. Upper lip length is 20 mm. Upper tooth to lip relationship is 0. Maxillary dental midline is shifted about 2 mm to the left, and mandibular dental midline is shifted 3 mm to the left. <PERSON> is shifted about 8 mm to the left.
+
+In profile view, <PERSON> has probably 4 to 6 mm of AP maxillary deficiency. <PERSON> appears to be about 8 to 10 mm AP deficient. Chin-neckline is short, although the chin-neck angle is reasonably well defined.
+
+Intraorally, <PERSON> has all of his lower teeth back through the second molars. He has good attached gingiva in the lower anterior arch. Fairly good symmetry anteroposteriorly from cuspid to cuspid. In the upper arch, <PERSON> has all of his teeth back through the second molars. <PERSON> has a slight Class III cuspid relationship on the left side by about 3 to 4 mm, and on the right side it is about 4 to 5 mm Class III. He has anterior and bilateral posterior crossbites. He has about a 
+0.5-mm open-bite anteriorly on the right side and has an open-bite involving the central incisor back through the first molar. As <PERSON> shifts his mandible to the dental midline to the right about 4 or 5 mm, it improves his facial symmetry fairly significantly. There is a transverse cant in the occlusal plane with the left side being about 2 mm higher than the right side.
+
+Intraorally, oropharynx appears clear. Uvula is a little bit hyperplastic but seems to sit forward. When he lies on his back to sleep, he opens his mouth and breathes mainly through his mouth.
+
+Intranasally, he has significant deviation of the nasal septum off towards the left side, and it seems to block most of the airway. <LOCATION> are not particularly large at all. If the septum were straightened up, the left airway would probably be pretty much normal. Right nasal airway is excessive right now because of the severe deviation of the septum. Straightening it up should balance the airways out equally on both sides.
+
+To palpation, he only has some moderate tenderness over the TMJs, being a little bit greater on the right side than the left side. Joints seem to function relatively smoothly. He is not aware of any clicking or popping of his jaw joints. Maximal incisal opening is about 48 mm, excursive movement to the right 5 mm and to the left 4 mm.
+
+Radiographic Evaluation
+
+Panorex shows the absence of all four third molars. Sinuses look clear. <LOCATION> look relatively small in size, and septum appears reasonably straightened in this view. Right condyle looks larger vertically and anteroposteriorly than the left condyle. Left condyle appears as though it is flattened on the head somewhat. Sinuses look clear. 
+
+Waters view shows that the sinuses are all clear. Has huge frontal sinuses. Nasal septum is deviated off towards the left side. Significant asymmetry in the mandible is noted with the left inferior border being elevated probably at least 10 mm higher than the right mandible angle.
+
+Left TMJ tomogram shows a condyle with fairly good morphology. Articular eminence is moderately steep and moderate in length. Joint space looks quite good. A little bit of flattening on the head of the condyle perhaps but not too significant.
+
+Right TMJ tomogram shows a condylar head and neck that appear elongated. <PERSON> appears to fill a good part of the fossa. Decreased superoposterior joint space. There is a recess at the base of the articular eminence where the posterior band of the disc is probably sitting. 
+
+On opening, there is good translation of both condyles with the right one actually translating a greater amount than the left side.
+
+Cephalometrically, there is vertical asymmetry noted with the inferior border on the right side of the mandible being 11 mm lower than the left side. Differences in occlusal plane angulation with the occlusal plane being about 5 mm lower on the right side as compared to the left side. Class III occlusal relationship is noted and probably slight Class III skeletal relationship.
+
+Tooth-size analysis revealed no significant difference between the upper and lower anterior teeth. Measuring the vertical height of the mandibular body in the first molar area on the tomograms, on the left side it measures 33 mm and on the right side 37 mm. This indicates a 
+4-mm vertical height discrepancy.
+
+Basic Diagnoses
+
+    1. Right TMJ osteochondroma versus condylar hyperplasia
+    2. AP mandibular deficiency and severe asymmetry
+    3. Maxillary AP deficiency and transverse asymmetry
+    4. Class III occlusion being worse on the right side as compared to the left side
+    5. Anterior bilateral posterior crossbite tendencies
+    6. Transverse cant in the occlusion with the left side being 2 mm higher than the right side 
+    7. Open-bite extending from right central incisor to right first molar and on the left side in the lateral incisor area
+    8. Severely deviated nasal septum
+    9. Nasal airway obstruction
+    10. Headaches 
+    11. TMJ pain
+
+Recommended Treatment
+
+    1. Presurgical orthodontics
+        A. Align and level maxillary arch. Consider including the second molars in the treatment 
+        B. Align and level mandibular arch. Consider stripping the lower anterior teeth, removing about 1 mm of tooth structure to help compensate for a tooth-size discrepancy created by the slight overangulation of the lower incisors. Consider stripping lower bicuspids removing no more than 0.5 mm off of each tooth, maximizing posterior anchorage and retracting
+
+    2. Surgery
+        A. Right TMJ condylectomy and articular disc repositioning and ligament repair with Mitek anchor
+        B. Multiple maxillary osteotomies to advance and level the transverse occlusal plane
+        <LOCATION> mandibular ramus osteotomies to advance the mandible and to correct the asymmetry
+        <PERSON> septoplasty
+        E. Genioplasty
+        F. Right mandibular inferior border ostectomy
+
+    3. Postsurgical orthodontics to refine occlusion

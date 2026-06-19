@@ -11,6 +11,8 @@ import json
 from pathlib import Path
 from collections import defaultdict
 import numpy as np
+from datetime import datetime
+import pandas as pd
 
 # Try to import semantic model
 try:
@@ -22,29 +24,20 @@ except Exception as e:
     print(f"⚠️  Semantic model not available: {e}")
     SEMANTIC_AVAILABLE = False
 
-# === Configuration (top-level) ===
-# Reference and prediction folders can be adjusted here. Use REPO_ROOT so paths are repo-relative.
+# === PATH ===
 REPO_ROOT = Path(__file__).resolve().parents[1]
 
-# Model configuration (short name used in prediction folder names)
-# Set `model` to the short model name (example: 'DeepSeek7B', 'Qwen1.5B', 'Mistral7B')
-model = 'qwen'
-model_folder = 'Qwen7B-instruct'
+input_dir = str(REPO_ROOT / "data_training/500_1600_raw_harmo/output_1600_harmo")
+output_dir = str(REPO_ROOT / "Qwen7B-instruct/pred_1600_harmo")
 
-# Reference and prediction folders (repo-relative)
-REF_FOLDER = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
-REF_FOLDER = str(REPO_ROOT / 'data_training' / '500' /  'data_output_clean_46')
-
-PRED_FOLDER = str(REPO_ROOT / model_folder / 'predictions_final')
-
-# manual_folder = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
-
+# Configure reference and prediction folders
+REF_FOLDER = input_dir
+PRED_FOLDER = output_dir
 
 CRITERIA = []
 
 # Preferred semantic order (highest → lowest representation)
 DEFINED_SEMANTIC_ORDER = [
-    "patient_id",
     "patient_age",
     "headache_intensity",
     "tmj_pain_rating",
@@ -107,13 +100,13 @@ def extract_all_criteria(pred_folder):
     pred_path = Path(pred_folder)
     
     # Scan prediction files only
-    for pred_file in pred_path.glob("*_pred.txt"):
+    for pred_file in pred_path.glob("B*.txt"):
         try:
             with open(pred_file, 'r', encoding='utf-8') as f:
                 for line in f:
                     if ':' in line:
                         key = line.split(':', 1)[0].strip()
-                        if key:
+                        if key and key != "patient_id":
                             criteria_set.add(key)
         except Exception as e:
             print(f"⚠️  Error reading {pred_file}: {e}")
@@ -189,7 +182,7 @@ def extract_criterion_from_file(filepath, criteria_list=None):
                 key = key.strip()
                 value = value.strip()
                 # Store any key found in the file
-                if key:
+                if key and key != "patient_id":
                     values[key] = value
     except Exception as e:
         print(f"Error reading {filepath}: {e}")
@@ -207,14 +200,16 @@ def compare_folders(ref_folder, pred_folder, filter_unknown=False):
     pred_path = Path(pred_folder)
     
     # Get all prediction files
-    pred_files = sorted(pred_path.glob("B*_pred.txt"))
-    ref_files = sorted(ref_path.glob("B*_summary.txt"))
+    pred_files = sorted(pred_path.glob("B*.txt"))
+    ref_files = sorted(ref_path.glob("B*.txt"))
     
     print(f"📊 Evaluating {len(pred_files)} patients...\n")
     
     for pred_file in pred_files:
-        patient_id = pred_file.name.replace("_pred.txt", "")
-        ref_file = ref_path / f"{patient_id}_summary.txt"
+        # Handle both naming schemes: B001.txt and B001_pred.txt
+        filename = pred_file.name.replace(".txt", "")
+        patient_id = filename.replace("_pred", "")  # Remove _pred suffix if present
+        ref_file = ref_path / f"{patient_id}.txt"
         
         if not ref_file.exists():
             continue
@@ -268,6 +263,10 @@ def main():
     # Keep backward-compatible names used later in the script
     ref_folder = manual_folder
     pred_folder = llm_folder
+
+    # Cache prediction files count for reporting/output exports
+    pred_files = sorted(Path(pred_folder).glob("B*.txt"))
+    total_patients_evaluated = len(pred_files)
 
     
     if not os.path.exists(ref_folder):
@@ -381,6 +380,63 @@ def main():
     for criterion in SEMANTIC_ORDER:
         stats = criterion_diffs.get(criterion, {'normal': 0.0, 'filtered': 0.0})
         print(f"{criterion:<40} {stats['normal']:.4f}          {stats['filtered']:.4f}")
+    
+    # ===== SAVE RESULTS =====
+    # Create result folder
+    result_dir = REPO_ROOT / "result"
+    result_dir.mkdir(exist_ok=True)
+    
+    # Use a simple output filename derived from the prediction folder
+    pred_folder_name = Path(pred_folder).name
+    output_filename = f"semantic_{pred_folder_name}.xlsx"
+    output_path = result_dir / output_filename
+    
+    # Create Excel writer
+    with pd.ExcelWriter(output_path, engine='openpyxl') as writer:
+        # Sheet 1: Compact summary table requested by the user
+        df_summary = pd.DataFrame(
+            {
+                'With unknow': [
+                    overall_mean_normal,
+                    len(all_scores_normal),
+                    ref_folder,
+                    pred_folder,
+                ],
+                'Without unknow': [
+                    overall_mean_filtered,
+                    len(all_scores_filtered),
+                    ref_folder,
+                    pred_folder,
+                ],
+            },
+            index=['Mean', 'nb', 'Ref folder', 'Pred folder']
+        )
+        df_summary.to_excel(writer, sheet_name='Summary')
+
+        summary_ws = writer.sheets['Summary']
+        summary_ws['B2'].number_format = '0.0000'
+        summary_ws['C2'].number_format = '0.0000'
+        summary_ws['B3'].number_format = '0'
+        summary_ws['C3'].number_format = '0'
+        
+        # Sheet 2: Per-Criterion Statistics
+        criteria_data = {
+            'Criterion': [],
+            'With unknow': [],
+            'Without unknow': [],
+            'Count': []
+        }
+        
+        for criterion in CRITERIA:
+            criteria_data['Criterion'].append(criterion)
+            criteria_data['With unknow'].append(criterion_stats_normal[criterion]['mean'])
+            criteria_data['Without unknow'].append(criterion_stats_filtered[criterion]['mean'])
+            criteria_data['Count'].append(criterion_stats_filtered[criterion]['count'])
+        
+        df_criteria = pd.DataFrame(criteria_data)
+        df_criteria.to_excel(writer, sheet_name='Per-Criterion', index=False)
+    
+    print(f"\n✅ Results saved to: {output_path}")
     
 
 

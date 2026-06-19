@@ -1,0 +1,45 @@
+maximum_opening_without_pain: 22mm
+patient_age: 53
+maximum_opening: 35mm
+pain_relieving_factors: unknown
+diet_score: 9
+pain_duration: unknown
+disability_rating: 9
+sleep_apnea_diagnosed: true
+jaw_function_score: 9
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: physical therapy
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: true
+headache_frequency: continuous
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: high | moderate | mild
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: 9
+headache_intensity: 7
+autoimmune_condition: unknown
+pain_onset_date: 14 years of age
+jaw_crepitus: unknown
+tmj_pain_rating: 10
+sleep_disorder_type: snoring | somnolence
+current_medications: Lotrel | Zoloft | Levothyroxine | Crestor | Carisoprodol
+disc_displacement: left disc dislocation | with reduction
+muscle_pain_location: temporalis | masseter | shoulders | styloid
+joint_arthritis_location: left TMJ | right TMJ
+appliance_history: splint
+joint_pain_areas: left and right TMJ | knees

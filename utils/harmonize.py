@@ -22,20 +22,14 @@ with open(VALUE_JSON_PATH, 'r', encoding='utf-8') as f:
     value_data = json.load(f)
     indicators = {feature['name']: feature['possible_output'] for feature in value_data['features']}
 
-# Répertoires (paths relative to repository root)
-# Use a variable `model` so the script can be reused for different models.
-# The convention used: model folder = f"{model}-instruct"
-# and prediction folders = f"predict_{model}_eval" / f"predict_{model}_eval_harmonized"
-model = 'Qwen7B'
-model_folder = f"{model}-instruct"
-input_dir = str(REPO_ROOT / model_folder / "save_data_before_reduce_features/predict_Qwen7B_all")
-output_dir = str(REPO_ROOT / model_folder / "save_data_before_reduce_features/predict_Qwen7B_all_harmo")
-# input_dir = str(REPO_ROOT / "data_training/data_output_clean_46")
-# output_dir = str(REPO_ROOT / "data_training/data_output_clean_46_harmo")
-# Alternative (legacy paths):
-# input_dir = '../Data_ouput_Bart'
-# output_dir = '../Data_ouput_Bart_harmonized'
+input_dir = str(REPO_ROOT / "Qwen7B-instruct/pred_1600_raw")
+output_dir = str(REPO_ROOT / "Qwen7B-instruct/pred_1600_harmo")
+# input_dir = str(REPO_ROOT / "data_training/500_1600_raw_harmo/output_1600_raw")
+# output_dir = str(REPO_ROOT / "data_training/500_1600_raw_harmo/output_1600_harmo")
 os.makedirs(output_dir, exist_ok=True)
+
+# Variable pour contrôler le pattern de fichiers à traiter
+FILE_PATTERN = '*.txt'  # Peut être '_pred.txt' ou '*.txt'
 
 # Dictionnaire de synonymes pour améliorer la correspondance
 SYNONYMES = {
@@ -830,7 +824,11 @@ def traiter_fichiers(limite: int = None, aleatoire: bool = False):
     """
     import random
     
-    fichiers = sorted([f for f in os.listdir(input_dir) if f.endswith('_pred.txt')])
+    # Chercher les fichiers selon le pattern défini (*.txt ou _pred.txt)
+    if FILE_PATTERN == '*.txt':
+        fichiers = sorted([f for f in os.listdir(input_dir) if f.endswith('.txt')])
+    else:
+        fichiers = sorted([f for f in os.listdir(input_dir) if f.endswith('_pred.txt')])
     
     if limite:
         if aleatoire:

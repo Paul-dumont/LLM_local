@@ -126,12 +126,22 @@ def evaluate_folders(manual_folder, llm_folder, exclude_unknown=False):
 
     for llm_file in llm_files:
         patient_id = llm_file.replace('_pred.txt', '')
-        manual_file = f"{patient_id}_summary.txt"
-        
-        manual_path = os.path.join(manual_folder, manual_file)
+        # Support multiple reference naming conventions (e.g. B001_summary.txt or B001.txt)
+        manual_candidates = [
+            f"{patient_id}_summary.txt",
+            f"{patient_id}.txt",
+        ]
+
+        manual_path = None
+        for candidate in manual_candidates:
+            candidate_path = os.path.join(manual_folder, candidate)
+            if os.path.exists(candidate_path):
+                manual_path = candidate_path
+                break
+
         llm_path = os.path.join(llm_folder, llm_file)
         
-        if os.path.exists(manual_path):
+        if manual_path is not None:
             manual_data = parse_summary_file(manual_path)
             llm_data = parse_summary_file(llm_path)
             
@@ -176,13 +186,13 @@ def evaluate_folders(manual_folder, llm_folder, exclude_unknown=False):
     return avg_results
 
 if __name__ == "__main__":
-    # Use ONLY the harmonized data_output as the manual/reference folder
-    manual_folder = str(REPO_ROOT / 'data_predicition' / 'data_output_harmonized')
-    # manual_folder = str(REPO_ROOT / 'data_training' / 'data_output_clean_46')
+    # Input/output folders to evaluate
+    input_dir = str(REPO_ROOT / "data_training/500_1600_raw_harmo/output_1600_harmo")
+    output_dir = str(REPO_ROOT / "Qwen7B-instruct/pred_1600_harmo")
 
-    # llm_folder is derived from the top-level `model` and `model_folder` variables
-    # Use the predictions_eduardo folder for Qwen7B
-    llm_folder = str(REPO_ROOT / model_folder / "predictions_eduardo")
+    manual_folder = input_dir
+    llm_folder = output_dir
+
     if not os.path.exists(manual_folder) or not os.path.exists(llm_folder):
         print("Error: Folders not found.")
     else:

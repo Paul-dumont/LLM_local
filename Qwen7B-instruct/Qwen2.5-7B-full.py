@@ -5,7 +5,7 @@ import os, re, time, json, random
 import torch
 from datasets import Dataset, DatasetDict
 from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments
-from trl import SFTTrainer
+from trl import SFTTrainer, SFTConfig
 
 # ==================== PARAMS ====================
 MODEL_ID    = "Qwen/Qwen2.5-7B-Instruct"
@@ -37,9 +37,9 @@ if torch.cuda.is_available():
 # Structure: LLM/data_training/{data_input, data_output_clean}
 #            LLM/Qwen2.5-7B-instruct/model/...
 BASE_DIR     = Path(__file__).parent.parent  # /home/luciacev/Desktop/LLM
-TRAINING_DIR = BASE_DIR / "data_training" / "500"
-DATA_INPUT   = TRAINING_DIR / "data_input"
-DATA_OUTPUT  = TRAINING_DIR / "data_output_clean_46"
+TRAINING_DIR = BASE_DIR / "data_training" / "500_1600_raw_harmo"
+DATA_INPUT   = TRAINING_DIR / "input_1600"
+DATA_OUTPUT  = TRAINING_DIR / "output_1600_harmo"
 MODEL_DIR    = Path(__file__).parent / "model"  # Sauvegarde dans Qwen2.5-7B-instruct/model
 MODEL_DIR.mkdir(parents=True, exist_ok=True)
 RUN_DIR      = MODEL_DIR / f"{MODEL_SHORT}_{time.strftime('%Y%m%d_%H%M%S')}_{os.getenv('SLURM_JOB_ID', 'local')}"
@@ -144,7 +144,7 @@ def load_model(tok):
 
 def sft_config():
     report_to = ["wandb"] if USE_WANDB else []
-    return TrainingArguments(
+    return SFTConfig(
         output_dir=str(RUN_DIR),
         logging_dir=str(RUN_DIR / "logs"),
         num_train_epochs=NUM_EPOCHS,
@@ -172,6 +172,10 @@ def sft_config():
         report_to=report_to,
         run_name=f"{MODEL_SHORT}_{int(time.time())}" if USE_WANDB else None,
         optim="adafactor",
+
+        max_seq_length=MAX_SEQ_LEN,
+        packing=False,
+        dataset_text_field="text",
     )
 
 def train_and_eval(model, tok, dset, cfg):
@@ -181,10 +185,8 @@ def train_and_eval(model, tok, dset, cfg):
         args=cfg,
         train_dataset=dset["train"],
         eval_dataset=dset["eval"],
-        tokenizer=tok,
-        max_seq_length=MAX_SEQ_LEN,
-        packing=False,
-        dataset_text_field="text",
+        processing_class=tok,
+
     )
     tr = trainer.train()
     print("✅ Training finished")
