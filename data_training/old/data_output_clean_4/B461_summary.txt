@@ -1,4 +1,0 @@
-headache_frequency: constant
-migraine_history: unknown
-headache_location: right frontal | temple | posterior head
-headache_intensity: 5 | present

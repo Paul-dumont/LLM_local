@@ -1,4 +1,0 @@
-headache_frequency: constant
-migraine_history: unknown
-headache_location: left temporal | right temporal
-headache_intensity: 7 | present

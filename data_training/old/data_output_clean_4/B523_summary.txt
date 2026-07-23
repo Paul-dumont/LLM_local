@@ -1,4 +1,0 @@
-headache_frequency: unknown
-migraine_history: unknown
-headache_location: right frontotemporal area | right side
-headache_intensity: 7 | present

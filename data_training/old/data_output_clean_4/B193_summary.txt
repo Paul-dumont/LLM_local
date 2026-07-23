@@ -1,4 +1,0 @@
-headache_frequency: 2 per week
-migraine_history: unknown
-headache_location: center | frontal | temporal
-headache_intensity: 6 | present

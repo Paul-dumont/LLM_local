@@ -1,4 +1,0 @@
-headache_frequency: 2 times per month
-migraine_history: unknown
-headache_location: frontal | top of the head
-headache_intensity: 7

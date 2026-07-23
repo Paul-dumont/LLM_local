@@ -1,4 +1,0 @@
-headache_frequency: once or twice a month
-migraine_history: unknown
-headache_location: unknown
-headache_intensity: 4

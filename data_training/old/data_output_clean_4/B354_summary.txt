@@ -1,4 +1,0 @@
-headache_frequency: at least 2 to 3 times per week | once a month
-migraine_history: true
-headache_location: throughout the head are
-headache_intensity: 6 | present

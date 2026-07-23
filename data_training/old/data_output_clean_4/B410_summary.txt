@@ -1,4 +1,0 @@
-headache_frequency: daily | had one last 2 years ago | few others at home | one while driving
-migraine_history: true
-headache_location: band form | frontal | temporal | posterior head area
-headache_intensity: 9 | severe

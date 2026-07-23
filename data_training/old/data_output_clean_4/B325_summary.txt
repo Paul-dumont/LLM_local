@@ -1,4 +1,0 @@
-headache_frequency: constant | in the morning
-migraine_history: unknown
-headache_location: temporal | posterior head
-headache_intensity: 2 but can escalate to 10 | 8 in the last couple weeks | present

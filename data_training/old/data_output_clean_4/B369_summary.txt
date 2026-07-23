@@ -1,4 +1,0 @@
-headache_frequency: several times per week
-migraine_history: unknown
-headache_location: most of the head
-headache_intensity: 7 | severe

@@ -1,4 +1,0 @@
-headache_frequency: 2 days a week
-migraine_history: true
-headache_location: frontal | temporal | behind eyes
-headache_intensity: 8

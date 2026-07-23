@@ -1,4 +1,0 @@
-headache_frequency: 5 times per week
-migraine_history: unknown
-headache_location: forehead area
-headache_intensity: 0 | 7 | moderate to severe | present

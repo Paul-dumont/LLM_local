@@ -1,4 +1,0 @@
-headache_frequency: unknown
-migraine_history: unknown
-headache_location: frontal | temporal | posterior head | behind her eyes
-headache_intensity: 6 | present

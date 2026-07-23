@@ -1,3 +1,4 @@
+import argparse
 import os
 import json
 from collections import defaultdict
@@ -183,15 +184,19 @@ def evaluate_folders(manual_folder, llm_folder, exclude_unknown=False):
             'F1': round(F1, 4)
         }
     
-    return avg_results
+    return avg_results, all_results
 
 if __name__ == "__main__":
-    # Input/output folders to evaluate
-    input_dir = str(REPO_ROOT / "data_training/500_1600_raw_harmo/output_1600_harmo")
-    output_dir = str(REPO_ROOT / "Qwen7B-instruct/pred_1600_harmo")
+    parser = argparse.ArgumentParser(description="Compute per-criterion and global F1 between a ground-truth folder and a predictions folder.")
+    parser.add_argument("--manual", type=str, default=None, help="Ground-truth folder (defaults to output_500_raw)")
+    parser.add_argument("--llm", type=str, default=None, help="Predictions folder (defaults to Qwen7B-instruct/pred_500_raw)")
+    parser.add_argument("--label", type=str, default=model, help="Label used in the printed header / json output")
+    parser.add_argument("--json-out", type=str, default=None, help="Optional path to dump the global macro/micro metrics as JSON")
+    args = parser.parse_args()
 
-    manual_folder = input_dir
-    llm_folder = output_dir
+    # Input/output folders to evaluate
+    manual_folder = args.manual or str(REPO_ROOT / "data_training/500_1600_raw_harmo/output_500_raw")
+    llm_folder = args.llm or str(REPO_ROOT / "Qwen7B-instruct/pred_500_raw")
 
     if not os.path.exists(manual_folder) or not os.path.exists(llm_folder):
         print("Error: Folders not found.")
@@ -199,11 +204,11 @@ if __name__ == "__main__":
         # Calculate both versions
         print("Computing F1 scores...")
         # Version 1: WITH unknown (original)
-        avg_metrics = evaluate_folders(manual_folder, llm_folder, exclude_unknown=False)
-        
+        avg_metrics, _ = evaluate_folders(manual_folder, llm_folder, exclude_unknown=False)
+
         # Version 2: WITHOUT unknown (real data only)
 
-        avg_metrics_no_unknown = evaluate_folders(manual_folder, llm_folder, exclude_unknown=True)
+        avg_metrics_no_unknown, raw_metrics_no_unknown = evaluate_folders(manual_folder, llm_folder, exclude_unknown=True)
         
         # Note: per user request we do NOT save metrics to disk anymore.
         # The metrics are computed and printed below but not written to files.
@@ -237,6 +242,17 @@ if __name__ == "__main__":
         precision_scores_no_unk = [v['Precision'] for v in filtered_metrics_no_unk.values()]
         recall_scores = [v['Recall'] for v in filtered_metrics.values()]
         recall_scores_no_unk = [v['Recall'] for v in filtered_metrics_no_unk.values()]
+
+        # Micro F1 (excluding unknown): pool TP/FP/FN across all filtered criteria, then compute one P/R/F1
+        TP_micro = sum(raw_metrics_no_unknown[c]['TP'] for c in filtered_metrics_no_unk)
+        FP_micro = sum(raw_metrics_no_unknown[c]['FP'] for c in filtered_metrics_no_unk)
+        FN_micro = sum(raw_metrics_no_unknown[c]['FN'] for c in filtered_metrics_no_unk)
+        precision_micro_no_unk = TP_micro / (TP_micro + FP_micro) if (TP_micro + FP_micro) > 0 else 0
+        recall_micro_no_unk = TP_micro / (TP_micro + FN_micro) if (TP_micro + FN_micro) > 0 else 0
+        f1_micro_no_unk = (
+            2 * precision_micro_no_unk * recall_micro_no_unk / (precision_micro_no_unk + recall_micro_no_unk)
+            if (precision_micro_no_unk + recall_micro_no_unk) > 0 else 0
+        )
         
         if f1_scores and f1_scores_no_unk:
             avg_f1 = sum(f1_scores) / len(f1_scores)
@@ -259,7 +275,13 @@ if __name__ == "__main__":
             print(f"{'Average Recall':<25} {avg_recall:<20.4f} {avg_recall_no_unk:<20.4f}")
             print(f"{'Average F1 (filtered)':<25} {avg_f1:<20.4f} {avg_f1_no_unk:<20.4f}")
             print(f"{'Criteria count':<25} {len(f1_scores):<20} {len(f1_scores_no_unk):<20}")
-            
+
+            print(f"\n{'--- F1 excluding unknown (macro vs micro) ---'}")
+            print(f"{'Macro F1 (avg per criterion)':<32} {avg_f1_no_unk:<10.4f}")
+            print(f"{'Micro F1 (pooled TP/FP/FN)':<32} {f1_micro_no_unk:<10.4f}")
+            print(f"{'Micro Precision':<32} {precision_micro_no_unk:<10.4f}")
+            print(f"{'Micro Recall':<32} {recall_micro_no_unk:<10.4f}")
+
             # Detailed per-criterion comparison (only for criteria with presence > 0)
             print(f"\n{'Criterion':<40} {'Presence':<12} {'WITH unknown':<18} {'WITHOUT unknown':<18}")
             print("-" * 100)
@@ -274,5 +296,25 @@ if __name__ == "__main__":
                     print(f"{criterion:<40} {presence:<12} {f1_with:<18.4f} {f1_without:<18.4f}")
             
             print("=" * 100 + "\n")
+
+            if args.json_out:
+                summary = {
+                    "label": args.label,
+                    "manual_folder": manual_folder,
+                    "llm_folder": llm_folder,
+                    "n_criteria": len(f1_scores_no_unk),
+                    "macro_f1_no_unknown": round(avg_f1_no_unk, 4),
+                    "macro_precision_no_unknown": round(avg_precision_no_unk, 4),
+                    "macro_recall_no_unknown": round(avg_recall_no_unk, 4),
+                    "micro_f1_no_unknown": round(f1_micro_no_unk, 4),
+                    "micro_precision_no_unknown": round(precision_micro_no_unk, 4),
+                    "micro_recall_no_unknown": round(recall_micro_no_unk, 4),
+                    "macro_f1_with_unknown": round(avg_f1, 4),
+                    "per_criterion_f1_no_unknown": {c: v["F1"] for c, v in filtered_metrics_no_unk.items()},
+                    "per_criterion_presence": {c: v["Presence"] for c, v in filtered_metrics.items()},
+                }
+                Path(args.json_out).parent.mkdir(parents=True, exist_ok=True)
+                Path(args.json_out).write_text(json.dumps(summary, indent=2))
+                print(f"Saved summary metrics -> {args.json_out}")
         else:
             print("No F1 scores to analyze.")

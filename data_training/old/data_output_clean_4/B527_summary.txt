@@ -1,4 +1,0 @@
-headache_frequency: twice a week
-migraine_history: unknown
-headache_location: temporal
-headache_intensity: 2 | present

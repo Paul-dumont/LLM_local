@@ -1,4 +1,0 @@
-headache_frequency: unknown
-migraine_history: true
-headache_location: right frontal | temporal
-headache_intensity: 7 | present

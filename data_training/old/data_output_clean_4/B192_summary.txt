@@ -1,4 +1,0 @@
-headache_frequency: 3 to 5 times a week
-migraine_history: unknown
-headache_location: left temple area | right temple area
-headache_intensity: 8 | present

@@ -1,4 +1,0 @@
-headache_frequency: present
-migraine_history: unknown
-headache_location: temporal | masseter
-headache_intensity: 5

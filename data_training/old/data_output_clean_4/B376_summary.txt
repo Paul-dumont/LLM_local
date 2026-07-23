@@ -1,4 +1,0 @@
-headache_frequency: continuous
-migraine_history: unknown
-headache_location: temporal | posterior head
-headache_intensity: 7 | present

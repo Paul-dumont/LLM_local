@@ -1,4 +1,0 @@
-headache_frequency: wake up fairly consistently with headaches in the morning
-migraine_history: unknown
-headache_location: right temporal | posterior head
-headache_intensity: 7 | present

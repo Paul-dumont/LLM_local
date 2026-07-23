@@ -1,4 +1,0 @@
-headache_frequency: 3 times a week
-migraine_history: unknown
-headache_location: frontal | temple
-headache_intensity: 9 | severe

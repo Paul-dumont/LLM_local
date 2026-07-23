@@ -1,4 +1,0 @@
-headache_frequency: once every two weeks
-migraine_history: unknown
-headache_location: behind the eyes
-headache_intensity: 5

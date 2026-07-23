@@ -1,4 +1,0 @@
-headache_frequency: constant
-migraine_history: unknown
-headache_location: frontal | temporal | posterior
-headache_intensity: 7 but almost always hit a level of 9 during the day | present

@@ -1,4 +1,0 @@
-headache_frequency: occasional | once every two weeks
-migraine_history: unknown
-headache_location: temporal area
-headache_intensity: 3

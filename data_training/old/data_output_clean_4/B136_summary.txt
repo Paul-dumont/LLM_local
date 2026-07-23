@@ -1,4 +1,0 @@
-headache_frequency: frequently | 5-6 times a week
-migraine_history: true
-headache_location: left temporal | posterior head
-headache_intensity: 5, but when having a migraine, 8 to 9

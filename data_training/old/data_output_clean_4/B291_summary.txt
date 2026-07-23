@@ -1,4 +1,0 @@
-headache_frequency: unknown | when under stress occasionally
-migraine_history: true
-headache_location: forehead | temporal | frontal | temporal
-headache_intensity: 6 to 7 | 7 | present

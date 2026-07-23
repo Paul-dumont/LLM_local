@@ -1,4 +1,0 @@
-headache_frequency: once or twice a week
-migraine_history: unknown
-headache_location: frontal | temple areas | behind her eyes
-headache_intensity: 4 but can escalate to 6 | present

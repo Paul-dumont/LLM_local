@@ -1,4 +1,0 @@
-headache_frequency: twice a week | continuous
-migraine_history: unknown
-headache_location: frontal | temporal | posterior head area
-headache_intensity: 7 | continuous at 3 | can escalate to 9 | severe

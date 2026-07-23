@@ -1,4 +1,0 @@
-headache_frequency: 2
-migraine_history: unknown
-headache_location: frontal | temporal
-headache_intensity: 2 | present

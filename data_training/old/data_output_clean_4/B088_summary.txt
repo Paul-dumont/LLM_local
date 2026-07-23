@@ -1,4 +1,0 @@
-headache_frequency: over the past 2 years
-migraine_history: unknown
-headache_location: unknown
-headache_intensity: present | significant

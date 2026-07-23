@@ -9,14 +9,18 @@ from trl import SFTTrainer, SFTConfig
 
 # ==================== PARAMS ====================
 MODEL_ID    = "Qwen/Qwen2.5-7B-Instruct"
-MODEL_SHORT = "qwen_full_7B"
 
-# Optimisé pour RTX 6000 Ada (48GB VRAM) - Qwen 7B
-MAX_SEQ_LEN  = int(os.getenv("MAX_SEQ_LEN", 4096))    # Gardé à 4096
+# CDE_LABEL identifies which CDE-count config this run trains (e.g. "46", "35", "26", "15", "4head").
+# Used to keep the model/prediction folders of a CDE sweep from colliding with each other.
+CDE_LABEL   = os.getenv("CDE_LABEL", "")
+MODEL_SHORT = "qwen_full_7B" + (f"_cde{CDE_LABEL}" if CDE_LABEL else "")
+
+# Tuned for RTX 6000 Ada (48GB VRAM) - Qwen 7B
+MAX_SEQ_LEN  = int(os.getenv("MAX_SEQ_LEN", 4096))    # kept at 4096
 NUM_EPOCHS   = int(os.getenv("NUM_EPOCHS", 2))
-BATCH_SIZE   = int(os.getenv("BATCH_SIZE", 1))        # 1 per-device (économise VRAM)
+BATCH_SIZE   = int(os.getenv("BATCH_SIZE", 1))        # 1 per-device (saves VRAM)
 GRAD_ACCUM   = int(os.getenv("GRAD_ACCUM", 8))        # 8 (effective BS = 1*8 = 8)
-LR           = float(os.getenv("LR", "1e-5"))         # 1e-5 (7B modèle plus sensible)
+LR           = float(os.getenv("LR", "1e-5"))         # 1e-5 (7B model is more sensitive)
 WEIGHT_DECAY = float(os.getenv("WEIGHT_DECAY", "0.01"))
 WARMUP_RATIO = float(os.getenv("WARMUP_RATIO", "0.10"))
 SAVE_STEPS   = int(os.getenv("SAVE_STEPS", 200))
@@ -33,14 +37,14 @@ torch.manual_seed(SEED)
 if torch.cuda.is_available():
     torch.cuda.manual_seed_all(SEED)
 
-# Adapte à ton arborescence - lancé depuis /home/luciacev/Desktop/LLM
+# Adjust to your directory layout - run from /home/luciacev/Desktop/LLM
 # Structure: LLM/data_training/{data_input, data_output_clean}
 #            LLM/Qwen2.5-7B-instruct/model/...
 BASE_DIR     = Path(__file__).parent.parent  # /home/luciacev/Desktop/LLM
 TRAINING_DIR = BASE_DIR / "data_training" / "500_1600_raw_harmo"
-DATA_INPUT   = TRAINING_DIR / "input_1600"
-DATA_OUTPUT  = TRAINING_DIR / "output_1600_harmo"
-MODEL_DIR    = Path(__file__).parent / "model"  # Sauvegarde dans Qwen2.5-7B-instruct/model
+DATA_INPUT   = TRAINING_DIR / os.getenv("CDE_INPUT_NAME", "input_1600")
+DATA_OUTPUT  = TRAINING_DIR / os.getenv("CDE_OUTPUT_NAME", "output_1600_harmo")
+MODEL_DIR    = Path(__file__).parent / "model"  # Saved under Qwen2.5-7B-instruct/model
 MODEL_DIR.mkdir(parents=True, exist_ok=True)
 RUN_DIR      = MODEL_DIR / f"{MODEL_SHORT}_{time.strftime('%Y%m%d_%H%M%S')}_{os.getenv('SLURM_JOB_ID', 'local')}"
 RUN_DIR.mkdir(parents=True, exist_ok=True)
@@ -130,7 +134,7 @@ def load_model(tok):
         MODEL_ID,
         torch_dtype=torch.bfloat16,
         trust_remote_code=True,
-        attn_implementation="sdpa",   # OK sans FA2; FA2 si installé
+        attn_implementation="sdpa",   # works without FlashAttention2; swap to FA2 if installed
     )
     model.config.pad_token_id = tok.pad_token_id
     model.config.eos_token_id = tok.eos_token_id
@@ -160,9 +164,10 @@ def sft_config():
         eval_steps=EVAL_STEPS,
         logging_strategy="steps",
         logging_steps=LOG_STEPS,
-        save_strategy="steps",
-        save_steps=SAVE_STEPS,
-        save_total_limit=1,
+        # save_final() already persists the trained weights to RUN_DIR/final_model;
+        # skip the Trainer's own periodic checkpointing to avoid a second full-size
+        # copy of the model on disk (each copy is ~15GB for the 7B model).
+        save_strategy="no",
         load_best_model_at_end=False,
         fp16=False,
         bf16=True,
@@ -219,9 +224,13 @@ def predict_samples(trainer, tok, eval_pairs, render):
         return
     
     from transformers import pipeline
-    # Détermine le nom du dossier de prédictions basé sur DATA_OUTPUT
-    data_source = DATA_OUTPUT.name  # "data_output_clean", "data_output_harmonized", etc.
-    pred_dir = Path(__file__).parent / f"predictions_{data_source.replace('data_output_', '').lower()}"
+    # Predictions folder name: CDE_LABEL if provided, otherwise derived from DATA_OUTPUT
+    if CDE_LABEL:
+        pred_dir_name = f"pred_cde_{CDE_LABEL}"
+    else:
+        data_source = DATA_OUTPUT.name  # "data_output_clean", "data_output_harmonized", etc.
+        pred_dir_name = f"predictions_{data_source.replace('data_output_', '').lower()}"
+    pred_dir = Path(__file__).parent / pred_dir_name
     pred_dir.mkdir(parents=True, exist_ok=True)
     for f in pred_dir.glob("*.txt"):
         f.unlink()
@@ -267,6 +276,9 @@ def main():
         json.dumps(
             {
                 "model_id": MODEL_ID,
+                "cde_label": CDE_LABEL,
+                "data_input": str(DATA_INPUT),
+                "data_output": str(DATA_OUTPUT),
                 "max_seq_len": MAX_SEQ_LEN,
                 "epochs": NUM_EPOCHS,
                 "batch_size": BATCH_SIZE,

@@ -1,4 +1,0 @@
-headache_frequency: almost constant
-migraine_history: unknown
-headache_location: left side
-headache_intensity: 10 | severe

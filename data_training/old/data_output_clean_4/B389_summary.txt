@@ -1,4 +1,0 @@
-headache_frequency: daily | intensity of 9 every 1 to 2 weeks
-migraine_history: unknown
-headache_location: temple areas | on the top of the head in the middle
-headache_intensity: 7 and can escalate to 9 | present

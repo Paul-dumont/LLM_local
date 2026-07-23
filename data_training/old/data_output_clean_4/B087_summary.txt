@@ -1,4 +1,0 @@
-headache_frequency: once per month
-migraine_history: unknown
-headache_location: behind the eye | frontal | temporal
-headache_intensity: 5 | present

@@ -1,4 +1,0 @@
-headache_frequency: almost daily | frequent
-migraine_history: true
-headache_location: frontal | posterior head | top of the head area
-headache_intensity: 8 | present

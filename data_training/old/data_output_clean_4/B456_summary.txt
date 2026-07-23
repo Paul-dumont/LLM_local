@@ -1,4 +1,0 @@
-headache_frequency: two to three times per week
-migraine_history: true
-headache_location: right temporal | frontal | posterior head area
-headache_intensity: 8 but can easily escalate to a 10 | severe

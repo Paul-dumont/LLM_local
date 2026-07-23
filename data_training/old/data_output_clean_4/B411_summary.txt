@@ -1,4 +1,0 @@
-headache_frequency: two times per month during the summer | more common during the school year
-migraine_history: unknown
-headache_location: frontal | temporal
-headache_intensity: 6

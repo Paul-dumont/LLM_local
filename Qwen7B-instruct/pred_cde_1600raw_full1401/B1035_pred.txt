@@ -1,0 +1,45 @@
+maximum_opening_without_pain: 15mm
+patient_age: 15
+maximum_opening: 23mm
+pain_relieving_factors: unknown
+diet_score: 9
+pain_duration: unknown
+disability_rating: 6
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: physical therapy
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: avacado | banana | pecans
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: daily
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: high
+migraine_history: unknown
+headache_location: frontal | temporal
+current_appliance: unknown
+average_daily_pain_intensity: 6
+headache_intensity: 4
+autoimmune_condition: unknown
+pain_onset_date: 15 years old
+jaw_crepitus: unknown
+tmj_pain_rating: 6.5
+sleep_disorder_type: unknown
+current_medications: Zyrtec | Advair | Singulair | Albuterol | Tylenol
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: styloid | neck | scm | masseter
+joint_arthritis_location: unknown
+appliance_history: splint
+joint_pain_areas: ankle

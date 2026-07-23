@@ -1,4 +1,0 @@
-headache_frequency: frequent
-migraine_history: unknown
-headache_location: frontal | temporal | posterior head
-headache_intensity: 6, occasionally 9 | present

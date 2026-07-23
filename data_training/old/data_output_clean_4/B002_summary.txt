@@ -1,4 +1,0 @@
-headache_frequency: unknown
-migraine_history: unknown
-headache_location: posterior head | temporal
-headache_intensity: 7 but can escalate to a 9 | present

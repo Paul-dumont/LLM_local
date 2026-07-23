@@ -1,4 +1,0 @@
-headache_frequency: once every two weeks | used to be two times a week
-migraine_history: unknown
-headache_location: frontal
-headache_intensity: 8

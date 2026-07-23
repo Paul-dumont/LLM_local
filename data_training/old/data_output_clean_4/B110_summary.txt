@@ -1,4 +1,0 @@
-headache_frequency: every 1 to 2 weeks
-migraine_history: unknown
-headache_location: temporal | posterior head
-headache_intensity: 6 | present

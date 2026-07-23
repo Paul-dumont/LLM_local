@@ -1,4 +1,0 @@
-headache_frequency: once every 2 weeks
-migraine_history: unknown
-headache_location: right side in the temporal area | up towards the top of the head
-headache_intensity: 3 | present

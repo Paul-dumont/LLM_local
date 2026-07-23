@@ -1,4 +1,0 @@
-headache_frequency: almost daily
-migraine_history: unknown
-headache_location: unknown
-headache_intensity: present

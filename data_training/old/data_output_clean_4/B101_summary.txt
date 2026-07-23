@@ -1,4 +1,0 @@
-headache_frequency: couple times a week
-migraine_history: true
-headache_location: right side
-headache_intensity: 10 | severe

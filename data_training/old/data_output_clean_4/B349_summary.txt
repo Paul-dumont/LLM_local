@@ -1,4 +1,0 @@
-headache_frequency: in the morning
-migraine_history: unknown
-headache_location: frontal | temporal
-headache_intensity: 4 | present

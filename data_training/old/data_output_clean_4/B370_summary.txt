@@ -1,4 +1,0 @@
-headache_frequency: two times per week, but there are times when they occur daily
-migraine_history: true
-headache_location: begin in the temple area but can cover the entire head and neck area
-headache_intensity: 8 | severe

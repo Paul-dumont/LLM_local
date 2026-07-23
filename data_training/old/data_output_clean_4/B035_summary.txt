@@ -1,4 +1,0 @@
-headache_frequency: unknown
-migraine_history: unknown
-headache_location: forehead | temple | behind the eyes
-headache_intensity: 3

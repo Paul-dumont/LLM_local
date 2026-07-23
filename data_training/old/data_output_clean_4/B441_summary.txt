@@ -1,4 +1,0 @@
-headache_frequency: unknown
-migraine_history: true
-headache_location: frontotemporal | posterior
-headache_intensity: 6 | present

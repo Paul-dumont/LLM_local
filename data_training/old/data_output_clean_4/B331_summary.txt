@@ -1,4 +1,0 @@
-headache_frequency: occasional
-migraine_history: unknown
-headache_location: posterior aspect of head
-headache_intensity: 2

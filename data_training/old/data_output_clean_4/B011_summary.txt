@@ -1,4 +1,0 @@
-headache_frequency: one time a week
-migraine_history: true
-headache_location: frontal | temporal | posterior | top of the head
-headache_intensity: 6 but can escalate to 8 | present

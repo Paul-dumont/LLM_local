@@ -1,4 +1,0 @@
-headache_frequency: 3 times per week
-migraine_history: unknown
-headache_location: back of the head
-headache_intensity: 7 | present

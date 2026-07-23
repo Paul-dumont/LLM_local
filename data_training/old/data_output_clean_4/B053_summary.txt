@@ -1,4 +1,0 @@
-headache_frequency: unknown
-migraine_history: unknown
-headache_location: frontal | top of her head | temple
-headache_intensity: 4

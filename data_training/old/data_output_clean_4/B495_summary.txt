@@ -1,4 +1,0 @@
-headache_frequency: at least every other day
-migraine_history: unknown
-headache_location: right temporal | posterior head
-headache_intensity: 7 | present

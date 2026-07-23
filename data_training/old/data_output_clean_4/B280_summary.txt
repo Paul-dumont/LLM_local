@@ -1,4 +1,0 @@
-headache_frequency: unknown
-migraine_history: unknown
-headache_location: left forehead | top of the head | behind the left eye
-headache_intensity: 10 | severe

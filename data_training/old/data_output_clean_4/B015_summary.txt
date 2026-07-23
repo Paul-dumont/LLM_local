@@ -1,4 +1,0 @@
-headache_frequency: severe every 2 weeks
-migraine_history: unknown
-headache_location: frontal | temporal | posterior head
-headache_intensity: 4 but can escalate to 8

@@ -1,4 +1,0 @@
-headache_frequency: continuous
-migraine_history: unknown
-headache_location: frontal | temporal
-headache_intensity: 8 | present

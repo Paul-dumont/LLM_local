@@ -1,4 +1,0 @@
-headache_frequency: 2 to 3 times per week
-migraine_history: unknown
-headache_location: all over the head
-headache_intensity: 3 | present

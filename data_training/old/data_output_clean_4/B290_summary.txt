@@ -1,4 +1,0 @@
-headache_frequency: daily basis
-migraine_history: unknown
-headache_location: temple | posterior head
-headache_intensity: 5 but can escalate to 8 | present
